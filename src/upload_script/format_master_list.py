@@ -21,7 +21,8 @@ def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
     return_array = []
 
     # Iterate through xlsx file
-    for row in ws.iter_rows(min_row, min_col, max_col,):
+    selection_str = min_col + min_row + ':' + max_col + max_row
+    for row in ws.iter_rows(selection_str):
         temp_array = []
         for cell in row:
             temp_array.append(cell.value)
@@ -35,13 +36,12 @@ def translate_format(master_array, input_wb, input_ws):
     wb = load_workbook(filename = str(input_wb))
     ws = wb[str(input_ws)]
 
-    # translate master list rows to template format
+    # Translate master list rows to template format
+    print("Translating master list to XLSX format...")
     columns = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P',
             'Q','R','S','T','U','V','W','X','Y','Z']
-
     for row in master_array:
         result_array = []
-        print(row)
         for col in columns:
             if(col == 'A'): # Title
                 result_array.append('')
@@ -79,6 +79,8 @@ def translate_format(master_array, input_wb, input_ws):
                     result_array.append('Tree')
                 elif('v' in str(row[5]).lower()):
                     result_array.append('Vine')
+                else:
+                    result_array.append('manual entry')
             elif(col == 'N'): # Oregon native plant
                 if 'pnw' in str(row[25]).lower():
                     result_array.append('yes')
@@ -128,45 +130,45 @@ def translate_format(master_array, input_wb, input_ws):
                 result_array.append('manual entry')
             elif(col == 'R'): # Flower color
                 temp = ''; count = 0
-                if 'bu' in str(row[18]).lower():
+                if 'bu' in str(row[19]).lower():
                     temp += 'Blue'
                     count += 1
-                if 'gr' in str(row[18]).lower():
+                if 'gr' in str(row[19]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Green'
                     count += 1
-                if 'lv' in str(row[18]).lower():
+                if 'lv' in str(row[19]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Lavender'
                     count += 1
-                if 'or' in str(row[18]).lower():
+                if 'or' in str(row[19]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Orange'
                     count += 1
-                if 'pk' in str(row[18]).lower():
+                if 'pk' in str(row[19]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Pink'
                     count += 1
-                if 'pp' in str(row[18]).lower():
+                if 'pp' in str(row[19]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Purple'
                     count += 1
-                if 'rd' in str(row[18]).lower():
+                if 'rd' in str(row[19]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Red'
                     count += 1
-                if 'wh' in str(row[18]).lower():
+                if 'wh' in str(row[19]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'White'
                     count += 1
-                if 'yl' in str(row[18]).lower():
+                if 'yl' in str(row[19]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Yellow'
@@ -174,65 +176,68 @@ def translate_format(master_array, input_wb, input_ws):
                 result_array.append(temp)
             elif(col == 'S'): # Bloom Season
                 temp = ''; count = 0
-                if 'early win' in str(row[17]).lower():
+                if 'early win' in str(row[18]).lower():
                     temp += 'Early Winter'
                     count += 1
-                if 'mid win' in str(row[17]).lower():
+                if 'mid win' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Mid Winter'
                     count += 1
-                if 'late win' in str(row[17]).lower():
+                if 'late win' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Late Winter'
                     count += 1
-                if 'early spr' in str(row[17]).lower():
+                if 'early spr' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Early Spring'
                     count += 1
-                if 'mid spr' in str(row[17]).lower():
+                if 'mid spr' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Mid Spring'
                     count += 1
-                if 'late spr' in str(row[17]).lower():
+                if 'late spr' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Late Spring'
                     count += 1
-                if 'early sum' in str(row[17]).lower():
+                if 'early sum' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Early Summer'
                     count += 1
-                if 'mid sum' in str(row[17]).lower():
+                if 'mid sum' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Mid Summer'
                     count += 1
-                if 'late sum' in str(row[17]).lower():
+                if 'late sum' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Late Summer'
                     count += 1
-                if 'early fall' in str(row[17]).lower():
+                if 'early fall' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Early Fall'
                     count += 1
-                if 'mid fall' in str(row[17]).lower():
+                if 'mid fall' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Mid Fall'
                     count += 1
-                if 'late fall' in str(row[17]).lower():
+                if 'late fall' in str(row[18]).lower():
                     if count > 0:
                         temp += ", "
                     temp += 'Late Fall'
                     count += 1
-                result_array.append(temp)
+                if temp == '':
+                    result_array.append('manual entry')
+                else:
+                    result_array.append(temp)
             elif(col == 'T'): # Attracts pollinators
                 temp = 'no'
                 if( '' not in str(row[26]).lower()       or '' not in str(row[27]).lower()
@@ -314,9 +319,14 @@ def translate_format(master_array, input_wb, input_ws):
                     count += 1
                 result_array.append(temp)
             elif(col == 'Z'): # Grow Info
-                result_array.append('manual entry')
+                result_array.append('<p><strong>Notes</strong></p><p>This is sample text for the notes area.</p>')
+        # Append to xlsx file
+        print(result_array)
         ws.append(result_array)
+
+    print("Appending results to input file...", end=" ")
     wb.save(input_wb)
+    print("saved.")
 
 def main():
     # Init master vars
@@ -326,7 +336,6 @@ def main():
     max_col = 'AK'; max_row = '282'
     # Extract values from master table
     master_res = read_xlsx(master_wb, master_ws, min_col, min_row, max_col, max_row)
-    print(master_res)
 
     # Init template vars
     template_wb = 'data/plants_sample_data.xlsx'
