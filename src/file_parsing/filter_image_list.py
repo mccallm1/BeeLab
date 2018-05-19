@@ -80,7 +80,7 @@ def translate_format(master_array, input_wb, input_ws):
                 elif('v' in str(row[5]).lower()):
                     result_array.append('Vine')
                 else:
-                    result_array.append('manual entry')
+                    result_array.append('')
             elif(col == 'N'): # Oregon native plant
                 if 'pnw' in str(row[25]).lower():
                     result_array.append('yes')
@@ -89,7 +89,7 @@ def translate_format(master_array, input_wb, input_ws):
                 else:
                     result_array.append('no')
             elif(col == 'O'): # Edible
-                result_array.append('manual entry')
+                result_array.append('')
             elif(col == 'P'): # Pollinators and Wildlife
                 temp = ''; count = 0
                 if 'x' in str(row[26]).lower():
@@ -127,7 +127,7 @@ def translate_format(master_array, input_wb, input_ws):
                     count += 1
                 result_array.append(temp)
             elif(col == 'Q'): # Susceptible to pests
-                result_array.append('manual entry')
+                result_array.append('')
             elif(col == 'R'): # Flower color
                 temp = ''; count = 0
                 if 'bu' in str(row[19]).lower():
@@ -235,7 +235,7 @@ def translate_format(master_array, input_wb, input_ws):
                     temp += 'Late Fall'
                     count += 1
                 if temp == '':
-                    result_array.append('manual entry')
+                    result_array.append('')
                 else:
                     result_array.append(temp)
             elif(col == 'T'): # Attracts pollinators
@@ -247,7 +247,7 @@ def translate_format(master_array, input_wb, input_ws):
                     temp = 'yes'
                 result_array.append(temp)
             elif(col == 'U'): # Problem plant for pol.
-                result_array.append('manual entry')
+                result_array.append('')
             elif(col == 'V'): # Food resources
                 temp = ''; count = 0
                 if 'n' in str(row[24]).lower():
