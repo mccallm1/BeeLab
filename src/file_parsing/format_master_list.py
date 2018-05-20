@@ -11,7 +11,6 @@ import os
 import sys
 from openpyxl import Workbook
 from openpyxl.reader.excel import load_workbook
-# Local Imports
 
 #Functions
 def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
