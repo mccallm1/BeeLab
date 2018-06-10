@@ -11,6 +11,7 @@ import os
 import sys
 from openpyxl import Workbook
 from openpyxl.reader.excel import load_workbook
+import argparse
 
 #Functions
 def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
@@ -30,7 +31,7 @@ def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
     # Return array selection
     return return_array
 
-def translate_format(master_array, input_wb, input_ws):
+def translate_format(master_array, input_wb, input_ws, num_rows=None):
     # Load XLSX file
     wb = load_workbook(filename = str(input_wb))
     ws = wb[str(input_ws)]
@@ -323,24 +324,30 @@ def translate_format(master_array, input_wb, input_ws):
         print(result_array)
         ws.append(result_array)
 
-    print("Appending results to input file...", end=" ")
+    print("Appending results to input file...", end="")
     wb.save(input_wb)
     print("saved.")
 
 def main():
+    # Command Line Args
+    parser = argparse.ArgumentParser(description='Web Template Formatter')
+    parser.add_argument('--num_rows', dest='num_rows', type=int,
+                       help='add this arg to set a max number of rows')
+    args = parser.parse_args()
+    print(str(args.num_rows))
+
     # Init master vars
     master_wb = 'data/master_list.xlsx'
     master_ws = 'Master table'
     min_col = 'A';  min_row = '3'
     max_col = 'AK'; max_row = '282'
     # Extract values from master table
-    master_res = read_xlsx(master_wb, master_ws, min_col, min_row, max_col, max_row)
+    #master_res = read_xlsx(master_wb, master_ws, min_col, min_row, max_col, max_row)
 
     # Init template vars
     template_wb = 'data/plants_sample_data.xlsx'
     template_ws = 'Sample spreadsheet for the plan'
-
-    translate_format(master_res, template_wb, template_ws)
+    #translate_format(master_res, template_wb, template_ws)
 
 if __name__ == '__main__':
     main()
