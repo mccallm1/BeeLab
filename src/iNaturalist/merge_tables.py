@@ -31,18 +31,7 @@ def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
     # Return array selection
     return return_array
 
-'''def load_collector_name(input_array):
-    wb = load_workbook(filename = str(input_wb))
-    ws = wb[str(input_ws)]
-
-    for row in master_array:
-        result_array = []
-        for col in columns:
-
-    return collector_array
-'''
-
-def merge_tables(master_array, collector_arrayinput_wb, input_ws, num_rows=None):
+def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=None):
     # Load XLSX file
     wb = load_workbook(filename = str(input_wb))
     ws = wb[str(input_ws)]
@@ -61,13 +50,15 @@ def merge_tables(master_array, collector_arrayinput_wb, input_ws, num_rows=None)
                     'Collection method',
                     'Associated plant'
                 ]
+    ws.append(header_row)
+
 
     columns = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N']
 
     month = ['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii']
 
     # Translate master list rows to template format
-    print("Translating master list to XLSX format...")
+    print("Translating iNaturalist list...")
 
     for row in master_array:
         sample_num_flag = 0
@@ -77,26 +68,34 @@ def merge_tables(master_array, collector_arrayinput_wb, input_ws, num_rows=None)
                 result_array.append(str(row[0]))
 
             elif(col == 'B'): # Collection Day 1
-                date = str(row[2]).split("/")
-                result_array.append(date[0]) # Day
-                result_array.append(month(date[1]+1)) # Month
-                result_array.append(str("20" + date[2])) # Year
+                temp_date = str(row[1]).split(" ")
+                temp_date = temp_date[0].split("-")
+                result_array.append(str(temp_date[2])) # Day
+                result_array.append(str(month[int(temp_date[1])])) # Month
+                result_array.append(str(temp_date[0])) # Year
 
             elif(col == 'C'): # Collector Name
+                match_flag = 0
                 for c_row in collector_array:
                     if c_row[0].lower() == str(row[2]).lower():
+                        match_flag = 1
                         result_array.append(str(c_row[1] + " " + c_row[2]))
                         break
+                if match_flag == 0:
+                    result_array.append("-")
 
             elif(col == 'D'): # Collection No
                 result_array.append(str(row[3]))
 
             elif(col == 'E'): # Sample No
-                if int(row[4]) > 1:
-                    sample_num_flag = 1
-                    result_array.append("1")
+                if row[4] != None:
+                    if int(row[4]) > 1:
+                        sample_num_flag = 1
+                        result_array.append(1)
+                    else:
+                        result_array.append(row[4])
                 else:
-                    result_array.append(str(row[4]))
+                    result_array.append(-1)
 
             elif(col == 'F'): # State
                 result_array.append(str(row[6]))
@@ -118,16 +117,17 @@ def merge_tables(master_array, collector_arrayinput_wb, input_ws, num_rows=None)
 
         # Append to xlsx file
         if sample_num_flag == 1:
-            range = result_array[6]
-            for x in range(0, range):
-                print(result_array)
-                ws.append(result_array)
-                result_array[6] += 1
+            if row[4] != None:
+                temp_range = row[4]
+                for x in range(0, int(temp_range), 1):
+                    print(result_array)
+                    ws.append(result_array)
+                    result_array[6] = int(result_array[6]) + 1
         else:
             print(result_array)
             ws.append(result_array)
 
-    print("Appending results to input file...", end="")
+    print("Appending results to input file...")
     wb.save(input_wb)
     print("saved.")
 
@@ -135,7 +135,7 @@ def main():
     # Command Line Args
     parser = argparse.ArgumentParser(description='Web Template Formatter')
     parser.add_argument('--num_rows', dest='num_rows', type=int,
-                       help='add this arg to set a max number of rows')
+        help='add this arg to set a max number of rows')
     args = parser.parse_args()
     print(str(args.num_rows))
 
@@ -154,7 +154,7 @@ def main():
 
     # Init template vars
     template_wb = 'data/Oregon_Bee_Atlas_Auto.xlsx'
-    template_ws = 'Master'
+    template_ws = 'Results'
     merge_tables(master_res, collector_res, template_wb, template_ws)
 
 if __name__ == '__main__':
