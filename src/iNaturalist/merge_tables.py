@@ -34,12 +34,16 @@ def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
 def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=None):
     # Load XLSX file
     wb = load_workbook(filename = str(input_wb))
-    ws = wb[str(input_ws)]
+    ws = wb.create_sheet(str(input_ws))
+    #ws = wb[str(input_ws)]
 
     header_row = [  'iNaturalist ID',
                     'Collection Day 1',
                     'Month 1',
                     'Year 1',
+                    'Collection Day 2',
+                    'Month 2',
+                    'Year 2',
                     'Collector Name',
                     'Collection No',
                     'Sample No',
@@ -53,7 +57,7 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
     ws.append(header_row)
 
 
-    columns = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N']
+    columns = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R']
 
     month = ['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii']
 
@@ -73,6 +77,23 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
                 result_array.append(str(temp_date[2])) # Day
                 result_array.append(str(month[int(temp_date[1])])) # Month
                 result_array.append(str(temp_date[0])) # Year
+
+            elif(col == 'R'): # Collection Day 2
+                if row[17] == None:
+                    result_array.append("-")
+                    result_array.append("-")
+                    result_array.append("-")
+                elif len(str(row[17])) == 25:
+                    temp_date = str(row[17])[:10]
+                    temp_date = temp_date.split("-")
+                    result_array.append(str(temp_date[2])) # Day
+                    result_array.append(str(month[int(temp_date[1])])) # Month
+                    result_array.append(str(temp_date[0])) # Year
+                else:
+                    result_array.append("manual fill")
+                    result_array.append("manual fill")
+                    result_array.append("manual fill")
+                #elif "/" in str(row[17])
 
             elif(col == 'C'): # Collector Name
                 match_flag = 0
@@ -112,7 +133,7 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
             elif(col == 'J'): # Collection Method
                 result_array.append(str(row[11]))
 
-            elif(col == 'K'): # Associated Plant
+            elif(col == 'N'): # Associated Plant
                 result_array.append(str(row[12]))
 
         # Append to xlsx file
@@ -145,7 +166,7 @@ def main():
 
     # Extract values from tables
     min_col = 'A';  min_row = '2'
-    max_col = 'P'; max_row = '252'
+    max_col = 'R'; max_row = '252'
     master_res = read_xlsx(master_wb, master_ws[0], min_col, min_row, max_col, max_row)
 
     min_col = 'A';  min_row = '2'
