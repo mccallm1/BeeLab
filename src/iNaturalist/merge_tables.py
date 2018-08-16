@@ -56,9 +56,6 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
                 ]
     ws.append(header_row)
 
-
-    columns = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R']
-
     month = ['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii']
 
     # Translate master list rows to template format
@@ -67,74 +64,73 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
     for row in master_array:
         sample_num_flag = 0
         result_array = []
-        for col in columns:
-            if(col == 'A'): # iNaturalist ID
-                result_array.append(str(row[0]))
+        
+        # iNaturalist ID
+        result_array.append(str(row[0]))
 
-            elif(col == 'B'): # Collection Day 1
-                temp_date = str(row[1]).split(" ")
-                temp_date = temp_date[0].split("-")
-                result_array.append(str(temp_date[2])) # Day
-                result_array.append(str(month[int(temp_date[1])])) # Month
-                result_array.append(str(temp_date[0])) # Year
+        # Collection Day 1
+        temp_date = str(row[1]).split(" ")
+        temp_date = temp_date[0].split("-")
+        result_array.append(str(temp_date[2])) # Day
+        result_array.append(str(month[int(temp_date[1])])) # Month
+        result_array.append(str(temp_date[0])) # Year
 
-            elif(col == 'R'): # Collection Day 2
-                if row[17] == None:
-                    result_array.append("-")
-                    result_array.append("-")
-                    result_array.append("-")
-                elif len(str(row[17])) == 25:
-                    temp_date = str(row[17])[:10]
-                    temp_date = temp_date.split("-")
-                    result_array.append(str(temp_date[2])) # Day
-                    result_array.append(str(month[int(temp_date[1])])) # Month
-                    result_array.append(str(temp_date[0])) # Year
-                else:
-                    result_array.append("manual fill")
-                    result_array.append("manual fill")
-                    result_array.append("manual fill")
-                #elif "/" in str(row[17])
+        # Collection Day 2
+        if row[17] == None:
+            result_array.append("-")
+            result_array.append("-")
+            result_array.append("-")
+        elif len(str(row[17])) == 25:
+            temp_date = str(row[17])[:10]
+            temp_date = temp_date.split("-")
+            result_array.append(str(temp_date[2])) # Day
+            result_array.append(str(month[int(temp_date[1])])) # Month
+            result_array.append(str(temp_date[0])) # Year
+        else:
+            result_array.append("manual fill")
+            result_array.append("manual fill")
+            result_array.append("manual fill")
 
-            elif(col == 'C'): # Collector Name
-                match_flag = 0
-                for c_row in collector_array:
-                    if c_row[0].lower() == str(row[2]).lower():
-                        match_flag = 1
-                        result_array.append(str(c_row[1] + " " + c_row[2]))
-                        break
-                if match_flag == 0:
-                    result_array.append("-")
+        # Collector Name
+        match_flag = 0
+        for c_row in collector_array:
+            if c_row[0].lower() == str(row[2]).lower():
+                match_flag = 1
+                result_array.append(str(c_row[1] + " " + c_row[2]))
+                break
+        if match_flag == 0:
+            result_array.append("-")
 
-            elif(col == 'D'): # Collection No
-                result_array.append(str(row[3]))
+        # Collection No
+        result_array.append(str(row[3]))
 
-            elif(col == 'E'): # Sample No
-                if row[4] != None:
-                    if int(row[4]) > 1:
-                        sample_num_flag = 1
-                        result_array.append(1)
-                    else:
-                        result_array.append(row[4])
-                else:
-                    result_array.append(-1)
+        # Sample No
+        if row[4] != None:
+            if int(row[4]) > 1:
+                sample_num_flag = 1
+                result_array.append(1)
+            else:
+                result_array.append(row[4])
+        else:
+            result_array.append(-1)
 
-            elif(col == 'F'): # State
-                result_array.append(str(row[6]))
+        # State
+        result_array.append(str(row[6]))
 
-            elif(col == 'G'): # County
-                result_array.append(str(row[7]))
+        # County
+        result_array.append(str(row[7]))
 
-            elif(col == 'H'): # Lat
-                result_array.append(str(round(row[9],4)))
+        # Lat
+        result_array.append(str(round(row[9],4)))
 
-            elif(col == 'I'): # Long
-                result_array.append(str(round(row[10],4)))
+        # Long
+        result_array.append(str(round(row[10],4)))
 
-            elif(col == 'J'): # Collection Method
-                result_array.append(str(row[11]))
+        # Collection Method
+        result_array.append(str(row[11]))
 
-            elif(col == 'N'): # Associated Plant
-                result_array.append(str(row[12]))
+        # Associated Plant
+        result_array.append(str(row[12]))
 
         # Append to xlsx file
         if sample_num_flag == 1:
