@@ -64,7 +64,7 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
     for row in master_array:
         sample_num_flag = 0
         result_array = []
-        
+
         # iNaturalist ID
         result_array.append(str(row[0]))
 
@@ -92,6 +92,7 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
             result_array.append("manual fill")
 
         # Collector Name
+            # Convert the collector code to a matching Name from table
         match_flag = 0
         for c_row in collector_array:
             if c_row[0].lower() == str(row[2]).lower():
@@ -107,11 +108,14 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
         # Sample No
         if row[4] != None:
             if int(row[4]) > 1:
+                # We want to create a row for each sample collected
+                # So we set the flag now to reference later
                 sample_num_flag = 1
                 result_array.append(1)
             else:
                 result_array.append(row[4])
         else:
+            # -1 represents an error or empty value
             result_array.append(-1)
 
         # State
@@ -130,7 +134,7 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
         result_array.append(str(row[11]))
 
         # Associated Plant
-        result_array.append(str(row[12]))
+        result_array.append(str(row[13]))
 
         # Append to xlsx file
         if sample_num_flag == 1:
@@ -139,7 +143,7 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
                 for x in range(0, int(temp_range), 1):
                     print(result_array)
                     ws.append(result_array)
-                    result_array[6] = int(result_array[6]) + 1
+                    result_array[9] = int(result_array[9]) + 1
         else:
             print(result_array)
             ws.append(result_array)
