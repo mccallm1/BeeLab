@@ -37,6 +37,25 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
     ws = wb.create_sheet(str(input_ws))
     #ws = wb[str(input_ws)]
 
+    # iNaturalist header
+        # iNaturalist ID
+        # Collection Date 1
+        # Collection ID collector name
+        # Collection ID collection id
+        # field:number of bees collected
+        # iNaturalist user ID
+        # STATE
+        # COUNTY
+        # place_guess
+        # latitude
+        # longitude
+        # Collection method
+        # Associated plant
+        # scientific_name
+        # field:flower bee is visiting
+        # field:location name
+        # field:trap installed
+        # field:trap removed
     header_row = [  'iNaturalist ID',
                     'Collection Day 1',
                     'Month 1',
@@ -49,6 +68,8 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
                     'Sample No',
                     'State',
                     'County',
+                    'City',
+                    'Location',
                     'Lat',
                     'Long',
                     'Collection method',
@@ -123,6 +144,15 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
 
         # County
         result_array.append(str(row[7]))
+
+        # City
+        if row[15] == None:
+            result_array.append("-")
+        else:
+            result_array.append(str(row[15]))
+
+        # Location
+        result_array.append(str(row[8]))
 
         # Lat
         result_array.append(str(round(row[9],4)))
