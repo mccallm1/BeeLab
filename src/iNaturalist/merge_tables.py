@@ -56,6 +56,7 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
         # field:location name
         # field:trap installed
         # field:trap removed
+        
     header_row = [  'iNaturalist ID',
                     'Collection Day 1',
                     'Month 1',
