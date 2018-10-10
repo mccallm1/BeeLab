@@ -9,9 +9,11 @@ Description: Parse the "Pollinator Plant Master List" maintained by Signe and
 # External Imports
 import os
 import sys
+import string
 from openpyxl import Workbook
 from openpyxl.reader.excel import load_workbook
-import argparse
+from openpyxl.compat import range
+from openpyxl.utils import get_column_letter
 
 #Functions
 def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
@@ -27,36 +29,36 @@ def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
         for cell in row:
             temp_array.append(cell.value)
         return_array.append(temp_array)
+        #print(return_array)
 
     # Return array selection
     return return_array
 
-def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=None):
-    # Load XLSX file
-    wb = load_workbook(filename = str(input_wb))
-    ws = wb.create_sheet(str(input_ws))
-    #ws = wb[str(input_ws)]
+def count_rows(workbook, worksheet):
+    wb = load_workbook(filename = str(workbook))
+    ws = wb[str(worksheet)]
+    row_count = ws.max_row
+    print("count rows:",row_count)
+    return row_count
 
-    # iNaturalist header
-        # iNaturalist ID
-        # Collection Date 1
-        # Collection ID collector name
-        # Collection ID collection id
-        # field:number of bees collected
-        # iNaturalist user ID
-        # STATE
-        # COUNTY
-        # place_guess
-        # latitude
-        # longitude
-        # Collection method
-        # Associated plant
-        # scientific_name
-        # field:flower bee is visiting
-        # field:location name
-        # field:trap installed
-        # field:trap removed
-        
+def count_cols(workbook, worksheet):
+    wb = load_workbook(filename = str(workbook))
+    ws = wb[str(worksheet)]
+    col_count = ws.max_column
+    print("count cols:",col_count)
+    return col_count
+
+def merge_tables(observation_array, collector_array, input_wb, input_ws, num_rows=None):
+    # Load XLSX file
+    wb = Workbook()
+    ws = wb.active
+    ws.title = input_ws
+    #wb = load_workbook(filename = str(input_wb))
+    #ws = wb.create_sheet(str(input_ws))
+
+    # Initialize values
+    month = ['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii']
+
     header_row = [  'iNaturalist ID',
                     'Collection Day 1',
                     'Month 1',
@@ -78,12 +80,12 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
                 ]
     ws.append(header_row)
 
-    month = ['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii']
-
-    # Translate master list rows to template format
+    # Translate observation list rows to template format
     print("Translating iNaturalist list...")
 
-    for row in master_array:
+    for row in observation_array:
+        print(row)
+        # Initialize values
         sample_num_flag = 0
         result_array = []
 
@@ -156,16 +158,22 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
         result_array.append(str(row[8]))
 
         # Lat
-        result_array.append(str(round(row[9],4)))
+        if row[9] == None:
+            result_array.append("-")
+        else:
+            result_array.append(str(round(row[9],4)))
 
         # Long
-        result_array.append(str(round(row[10],4)))
+        if row[10] == None:
+            result_array.append("-")
+        else:
+            result_array.append(str(round(row[10],4)))
 
         # Collection Method
-        result_array.append(str(row[11]))
+        result_array.append(str(row[14]))
 
         # Associated Plant
-        result_array.append(str(row[13]))
+        result_array.append(str(row[12]))
 
         # Append to xlsx file
         if sample_num_flag == 1:
@@ -180,34 +188,53 @@ def merge_tables(master_array, collector_array, input_wb, input_ws, num_rows=Non
             ws.append(result_array)
 
     print("Appending results to input file...")
-    wb.save(input_wb)
-    print("saved.")
+    wb.save(filename = input_wb)
+    print("Saved.")
 
 def main():
-    # Command Line Args
-    parser = argparse.ArgumentParser(description='Web Template Formatter')
-    parser.add_argument('--num_rows', dest='num_rows', type=int,
-        help='add this arg to set a max number of rows')
-    args = parser.parse_args()
-    print(str(args.num_rows))
+    # Initiate / Default values
+    input_folder = 'default'
+    output_folder = 'default'
+    min_col = 'A'
+    min_row = '2'
 
-    # Init master vars
-    master_wb = 'data/2018_iNaturalist.xlsx'
-    master_ws = ['observations-34528', 'Oregon Bee Atlas']
+    # Command line args
+    print("cmd arguments: " , str(sys.argv))
+    i = 0
+    for arg in sys.argv:
+        if arg == "--output":
+            output_folder = sys.argv[i+1]
+        elif arg == "--input":
+            input_folder = sys.argv[i+1]
+        i += 1
+
+    # Default path settings
+    observation_wb = 'data/' + input_folder + '/2018_iNaturalist.xlsx'
+    observation_ws = ['observations-34528', 'Oregon Bee Atlas']
+
+    if output_folder != 'default':
+        output_wb = 'results/' + output_folder + '/Oregon_Bee_Atlas.xlsx'
+    elif input_folder != 'default':
+        output_wb = 'results/' + input_folder + '/Oregon_Bee_Atlas.xlsx'
+    else:
+        output_wb = 'results/default/Oregon_Bee_Atlas.xlsx'
+    output_ws = 'Results'
 
     # Extract values from tables
-    min_col = 'A';  min_row = '2'
-    max_col = 'R'; max_row = '252'
-    master_res = read_xlsx(master_wb, master_ws[0], min_col, min_row, max_col, max_row)
+    max_col = count_cols(observation_wb,observation_ws[0])
+    max_row = string.ascii_lowercase[count_rows(observation_wb,observation_ws[0])]
+    print(min_col + " | " + min_row + " | " + max_col + " | " + max_row)
+    observation_result = read_xlsx(observation_wb, observation_ws[0], min_col, min_row, max_col, max_row)
+    #print("observations: " + str(observation_result))
 
-    min_col = 'A';  min_row = '2'
-    max_col = 'C'; max_row = '163'
-    collector_res = read_xlsx(master_wb, master_ws[1], min_col, min_row, max_col, max_row)
+    max_col = count_cols(observation_wb,observation_ws[1])
+    max_row = string.ascii_lowercase[count_rows(observation_wb,observation_ws[1])]
+    print(min_col + " | " + min_row + " | " + max_col + " | " + max_row)
+    collector_result = read_xlsx(observation_wb, observation_ws[1], min_col, min_row, max_col, max_row)
+    #print("collectors: " + str(collector_result))
 
-    # Init template vars
-    template_wb = 'data/Oregon_Bee_Atlas_Auto.xlsx'
-    template_ws = 'Results'
-    merge_tables(master_res, collector_res, template_wb, template_ws)
+    # Generate Output Sheet
+    #merge_tables(observation_result, collector_result, output_wb, output_ws)
 
 if __name__ == '__main__':
     main()
