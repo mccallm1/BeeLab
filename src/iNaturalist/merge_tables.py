@@ -10,6 +10,7 @@ Description: Parse the "Pollinator Plant Master List" maintained by Signe and
 import os
 import sys
 import string
+import errno
 from openpyxl import Workbook
 from openpyxl.reader.excel import load_workbook
 from openpyxl.compat import range
@@ -24,27 +25,56 @@ def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
 
     # Iterate through xlsx file
     selection_str = min_col + min_row + ':' + max_col + max_row
-    for row in ws.iter_rows(selection_str):
+    for row in ws[selection_str]:
         temp_array = []
         for cell in row:
             temp_array.append(cell.value)
-        return_array.append(temp_array)
-        #print(return_array)
+        if temp_array != [None]:
+            return_array.append(temp_array)
 
     # Return array selection
+    print(return_array)
     return return_array
+
+def letter_to_index(letter):
+    """Converts a column letter, e.g. "A", "B", "AA", "BC" etc. to a zero based
+    column index.
+
+    A becomes 0, B becomes 1, Z becomes 25, AA becomes 26 etc.
+
+    Args:
+        letter (str): The column index letter.
+    Returns:
+        The column index as an integer.
+    """
+    letter = letter.upper()
+    result = 0
+
+    for index, char in enumerate(reversed(letter)):
+        # Get the ASCII number of the letter and subtract 64 so that A
+        # corresponds to 1.
+        num = ord(char) - 64
+
+        # Multiply the number with 26 to the power of `index` to get the correct
+        # value of the letter based on it's index in the string.
+        final_num = (26 ** index) * num
+
+        result += final_num
+
+    # Subtract 1 from the result to make it zero-based before returning.
+    return result - 1
 
 def count_rows(workbook, worksheet):
     wb = load_workbook(filename = str(workbook))
     ws = wb[str(worksheet)]
-    row_count = ws.max_row
+    row_count = str(ws.max_row)
     print("count rows:",row_count)
     return row_count
 
 def count_cols(workbook, worksheet):
     wb = load_workbook(filename = str(workbook))
     ws = wb[str(worksheet)]
-    col_count = ws.max_column
+    col_count = str(ws.max_column)
     print("count cols:",col_count)
     return col_count
 
@@ -53,8 +83,8 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
     wb = Workbook()
     ws = wb.active
     ws.title = input_ws
-    #wb = load_workbook(filename = str(input_wb))
-    #ws = wb.create_sheet(str(input_ws))
+        #wb = load_workbook(filename = str(input_wb))
+        #ws = wb.create_sheet(str(input_ws))
 
     # Initialize values
     month = ['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii']
@@ -220,21 +250,26 @@ def main():
         output_wb = 'results/default/Oregon_Bee_Atlas.xlsx'
     output_ws = 'Results'
 
-    # Extract values from tables
-    max_col = count_cols(observation_wb,observation_ws[0])
-    max_row = string.ascii_lowercase[count_rows(observation_wb,observation_ws[0])]
-    print(min_col + " | " + min_row + " | " + max_col + " | " + max_row)
-    observation_result = read_xlsx(observation_wb, observation_ws[0], min_col, min_row, max_col, max_row)
-    #print("observations: " + str(observation_result))
+    # Create directories
+    if not os.path.exists(os.path.dirname(output_wb)):
+        try:
+            os.makedirs(os.path.dirname(output_wb))
+        except OSError as exc: # Guard against race condition
+            if exc.errno != errno.EEXIST:
+                raise
 
-    max_col = count_cols(observation_wb,observation_ws[1])
-    max_row = string.ascii_lowercase[count_rows(observation_wb,observation_ws[1])]
-    print(min_col + " | " + min_row + " | " + max_col + " | " + max_row)
+
+    # Extract values from tables
+    max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[0])) - 1 ].upper()
+    max_row = count_rows(observation_wb,observation_ws[0])
+    observation_result = read_xlsx(observation_wb, observation_ws[0], min_col, min_row, max_col, max_row)
+
+    max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[1])) - 1 ].upper()
+    max_row = count_rows(observation_wb,observation_ws[1])
     collector_result = read_xlsx(observation_wb, observation_ws[1], min_col, min_row, max_col, max_row)
-    #print("collectors: " + str(collector_result))
 
     # Generate Output Sheet
-    #merge_tables(observation_result, collector_result, output_wb, output_ws)
+    merge_tables(observation_result, collector_result, output_wb, output_ws)
 
 if __name__ == '__main__':
     main()
