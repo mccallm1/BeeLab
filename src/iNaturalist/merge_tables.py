@@ -78,13 +78,82 @@ def count_cols(workbook, worksheet):
     print("count cols:",col_count)
     return col_count
 
+
+def eval_iNaturalistID(result_array, id_string):
+    result_array.append(str(id_string))
+    return result_array
+
+def eval_collDay1(result_array, month, date_string):
+    temp_date = str(date_string).split(" ")
+    temp_date = temp_date[0].split("-")
+
+    result_array.append(str(temp_date[2])) # Day
+    result_array.append(str(month[int(temp_date[1])])) # Month
+    result_array.append(str(temp_date[0])) # Year
+
+    return result_array
+
+def eval_collDay2(result_array, month, date_string):
+    if date_string == None:
+        result_array.append("-")
+        result_array.append("-")
+        result_array.append("-")
+
+    elif len(str(date_string)) == 25:
+        temp_date = str(date_string)[:10]
+        temp_date = temp_date.split("-")
+
+        result_array.append(str(temp_date[2])) # Day
+        result_array.append(str(month[int(temp_date[1])])) # Month
+        result_array.append(str(temp_date[0])) # Year
+
+    else:
+        result_array.append("manual fill")
+        result_array.append("manual fill")
+        result_array.append("manual fill")
+
+    return result_array
+
+def eval_collName(result_array, collector_array, code_string):
+    # Convert the collector code to a matching Name from table
+    match_flag = 0
+    for c_row in collector_array:
+        if c_row[0].lower() == str(code_string).lower():
+            match_flag = 1
+            result_array.append(str(c_row[1] + " " + c_row[2]))
+            break
+
+    if match_flag == 0:
+        result_array.append("-")
+
+    return result_array
+
+def eval_collNum(result_array, num_string):
+    result_array.append(str(num_string))
+    return result_array
+
+def eval_sampleNum(result_array, sample_num_flag, sample_num):
+    if sample_num != None:
+        if int(sample_num) > 1:
+            # We want to create a row for each sample collected,
+            # so we set the flag now to reference later
+            sample_num_flag = 1
+        result_array.append(1)
+    else:
+        # -1 represents an error or empty value
+        result_array.append(-1)
+
+    return result_array, sample_num_flag
+
+def eval_state(result_array, num_string):
+    result_array.append(str(num_string))
+    return result_array
+
 def merge_tables(observation_array, collector_array, input_wb, input_ws, num_rows=None):
     # Load XLSX file
     wb = Workbook()
     ws = wb.active
     ws.title = input_ws
-        #wb = load_workbook(filename = str(input_wb))
-        #ws = wb.create_sheet(str(input_ws))
 
     # Initialize values
     month = ['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii']
@@ -112,68 +181,41 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
 
     # Translate observation list rows to template format
     print("Translating iNaturalist list...")
-
     for row in observation_array:
         print(row)
         # Initialize values
         sample_num_flag = 0
         result_array = []
 
+        # Begin constructing row to append to spreadsheet, saved in result_array
+
+        # Col 1
         # iNaturalist ID
-        result_array.append(str(row[0]))
+        result_array = eval_iNaturalistID(result_array, row[0])
 
+        # Col 2, 3, 4
         # Collection Day 1
-        temp_date = str(row[1]).split(" ")
-        temp_date = temp_date[0].split("-")
-        result_array.append(str(temp_date[2])) # Day
-        result_array.append(str(month[int(temp_date[1])])) # Month
-        result_array.append(str(temp_date[0])) # Year
+        result_array = eval_collDay1(result_array, month, row[1])
 
+        # Col 5, 6, 7
         # Collection Day 2
-        if row[17] == None:
-            result_array.append("-")
-            result_array.append("-")
-            result_array.append("-")
-        elif len(str(row[17])) == 25:
-            temp_date = str(row[17])[:10]
-            temp_date = temp_date.split("-")
-            result_array.append(str(temp_date[2])) # Day
-            result_array.append(str(month[int(temp_date[1])])) # Month
-            result_array.append(str(temp_date[0])) # Year
-        else:
-            result_array.append("manual fill")
-            result_array.append("manual fill")
-            result_array.append("manual fill")
+        result_array = eval_collDay2(result_array, month, row[17])
 
+        # Col 8
         # Collector Name
-            # Convert the collector code to a matching Name from table
-        match_flag = 0
-        for c_row in collector_array:
-            if c_row[0].lower() == str(row[2]).lower():
-                match_flag = 1
-                result_array.append(str(c_row[1] + " " + c_row[2]))
-                break
-        if match_flag == 0:
-            result_array.append("-")
+        result_array = eval_collName(result_array, collector_array, row[2])
 
+        # Col 9
         # Collection No
-        result_array.append(str(row[3]))
+        result_array = eval_collNum(result_array, row[3])
 
+        # Col 10
         # Sample No
-        if row[4] != None:
-            if int(row[4]) > 1:
-                # We want to create a row for each sample collected
-                # So we set the flag now to reference later
-                sample_num_flag = 1
-                result_array.append(1)
-            else:
-                result_array.append(row[4])
-        else:
-            # -1 represents an error or empty value
-            result_array.append(-1)
+        result_array, sample_num_flag = eval_sampleNum(result_array, sample_num_flag, row[4])
 
+        # Col 11
         # State
-        result_array.append(str(row[6]))
+        result_array = eval_state(result_array, row[6])
 
         # County
         result_array.append(str(row[7]))
