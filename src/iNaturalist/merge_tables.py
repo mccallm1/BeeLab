@@ -78,6 +78,16 @@ def count_cols(workbook, worksheet):
     print("count cols:",col_count)
     return col_count
 
+# 'Eval' functions are called from the merge_tables function to evaluate the
+# contents of each column for the output spreadsheet. For each row in the
+# original table, each eval function is called sequentially to construct the
+# desired output row.
+
+# I chose to encapsulate each column value in its own eval function to make
+# the interpretation of input data as modular as possible. Each eval function
+# uses potentially different logic to generate properly formatted output values,
+# and each function can be modified independently.
+
 def eval_iNaturalistID(result_array, id_string):
     result_array.append(str(id_string))
     return result_array
@@ -193,7 +203,6 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
 
     # Initialize values
     month = ['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii']
-
     header_row = [  'iNaturalist ID',
                     'Collection Day 1',
                     'Month 1',
@@ -273,6 +282,7 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
         # Collection Method
         result_array = eval_colMethod(result_array, row[14])
 
+        # Col 18
         # Associated Plant
         result_array = eval_assocPlant(result_array, row[12])
 
@@ -288,7 +298,7 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
             print(result_array)
             ws.append(result_array)
 
-    print("Appending results to input file...")
+    print("Appending results to file...")
     wb.save(filename = input_wb)
     print("Saved.")
 
@@ -333,7 +343,7 @@ def main():
     # Extract values from tables
     max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[0])) - 1 ].upper()
     max_row = count_rows(observation_wb,observation_ws[0])
-    #observation_result = read_xlsx(observation_wb, observation_ws[0], min_col, min_row, max_col, max_row)
+    observation_result = read_xlsx(observation_wb, observation_ws[0], min_col, min_row, max_col, max_row)
 
     max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[1])) - 1 ].upper()
     max_row = count_rows(observation_wb,observation_ws[1])
