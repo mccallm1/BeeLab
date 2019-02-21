@@ -339,7 +339,6 @@ def main():
             if exc.errno != errno.EEXIST:
                 raise
 
-
     # Extract values from tables
     max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[0])) - 1 ].upper()
     max_row = count_rows(observation_wb,observation_ws[0])
