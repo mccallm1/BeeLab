@@ -333,14 +333,14 @@ def main():
     # Extract values from tables
     max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[0])) - 1 ].upper()
     max_row = count_rows(observation_wb,observation_ws[0])
-    observation_result = read_xlsx(observation_wb, observation_ws[0], min_col, min_row, max_col, max_row)
+    #observation_result = read_xlsx(observation_wb, observation_ws[0], min_col, min_row, max_col, max_row)
 
     max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[1])) - 1 ].upper()
     max_row = count_rows(observation_wb,observation_ws[1])
     collector_result = read_xlsx(observation_wb, observation_ws[1], min_col, min_row, max_col, max_row)
 
     # Generate Output Sheet
-    # merge_tables(observation_result, collector_result, output_wb, output_ws)
+    merge_tables(observation_result, collector_result, output_wb, output_ws)
 
 if __name__ == '__main__':
     main()
