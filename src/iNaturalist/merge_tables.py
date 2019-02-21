@@ -78,7 +78,6 @@ def count_cols(workbook, worksheet):
     print("count cols:",col_count)
     return col_count
 
-
 def eval_iNaturalistID(result_array, id_string):
     result_array.append(str(id_string))
     return result_array
@@ -149,6 +148,43 @@ def eval_state(result_array, num_string):
     result_array.append(str(num_string))
     return result_array
 
+def eval_county(result_array, county_string):
+    result_array.append(str(county_string))
+    return result_array
+
+def eval_city(result_array, city_string):
+    if city_string == None:
+        result_array.append("-")
+    else:
+        result_array.append(str(city_string))
+    return result_array
+
+def eval_location(result_array, loc_string):
+    result_array.append(str(loc_string))
+    return result_array
+
+def eval_latLong(result_array, lat, long):
+    # Lat
+    if lat == None:
+        result_array.append("-")
+    else:
+        result_array.append(str(round(lat,4)))
+    # Long
+    if long == None:
+        result_array.append("-")
+    else:
+        result_array.append(str(round(long,4)))
+
+    return result_array
+
+def eval_colMethod(result_array, method_string):
+    result_array.append(str(method_string))
+    return result_array
+
+def eval_assocPlant(result_array, plant_string):
+    result_array.append(str(plant_string))
+    return result_array
+
 def merge_tables(observation_array, collector_array, input_wb, input_ws, num_rows=None):
     # Load XLSX file
     wb = Workbook()
@@ -217,35 +253,28 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
         # State
         result_array = eval_state(result_array, row[6])
 
+        # Col 12
         # County
-        result_array.append(str(row[7]))
+        result_array = eval_county(result_array, row[7])
 
+        # Col 13
         # City
-        if row[15] == None:
-            result_array.append("-")
-        else:
-            result_array.append(str(row[15]))
+        result_array = eval_city(result_array, row[15])
 
+        # Col 14
         # Location
-        result_array.append(str(row[8]))
+        result_array = eval_location(result_array, row[8])
 
-        # Lat
-        if row[9] == None:
-            result_array.append("-")
-        else:
-            result_array.append(str(round(row[9],4)))
+        # Col 15, 16
+        # Lat & Long
+        result_array = eval_latLong(result_array, row[9], row[10])
 
-        # Long
-        if row[10] == None:
-            result_array.append("-")
-        else:
-            result_array.append(str(round(row[10],4)))
-
+        # Col 17
         # Collection Method
-        result_array.append(str(row[14]))
+        result_array = eval_colMethod(result_array, row[14])
 
         # Associated Plant
-        result_array.append(str(row[12]))
+        result_array = eval_assocPlant(result_array, row[12])
 
         # Append to xlsx file
         if sample_num_flag == 1:
@@ -311,7 +340,7 @@ def main():
     collector_result = read_xlsx(observation_wb, observation_ws[1], min_col, min_row, max_col, max_row)
 
     # Generate Output Sheet
-    merge_tables(observation_result, collector_result, output_wb, output_ws)
+    # merge_tables(observation_result, collector_result, output_wb, output_ws)
 
 if __name__ == '__main__':
     main()
