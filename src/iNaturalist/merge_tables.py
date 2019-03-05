@@ -323,6 +323,7 @@ def main():
     observation_wb = 'data/' + input_folder + '/2018_iNaturalist.xlsx'
     observation_ws = ['observations-34528', 'Oregon Bee Atlas']
 
+    # If output/input is set in cmd line, set the output folder to mirror that
     if output_folder != 'default':
         output_wb = 'results/' + output_folder + '/Oregon_Bee_Atlas.xlsx'
     elif input_folder != 'default':
