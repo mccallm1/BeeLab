@@ -11,10 +11,11 @@ import os
 import sys
 import string
 import errno
-from openpyxl import Workbook
-from openpyxl.reader.excel import load_workbook
-from openpyxl.compat import range
-from openpyxl.utils import get_column_letter
+import openpyxl
+#from openpyxl import Workbook
+#from openpyxl.reader.excel import load_workbook
+#from openpyxl.compat import range
+#from openpyxl.utils import get_column_letter
 
 #Functions
 def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
