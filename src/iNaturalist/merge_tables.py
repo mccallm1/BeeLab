@@ -12,10 +12,10 @@ import sys
 import string
 import errno
 import openpyxl
-#from openpyxl import Workbook
-#from openpyxl.reader.excel import load_workbook
-#from openpyxl.compat import range
-#from openpyxl.utils import get_column_letter
+    #from openpyxl import Workbook
+    #from openpyxl.reader.excel import load_workbook
+    #from openpyxl.compat import range
+    #from openpyxl.utils import get_column_letter
 
 #Functions
 def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
@@ -194,6 +194,32 @@ def eval_colMethod(result_array, method_string):
 
 def eval_assocPlant(result_array, plant_string):
     result_array.append(str(plant_string))
+    return result_array
+
+def eval_elevation(result_array, row[9], row[10]):
+    # Use lat and long to look up elevation data
+    elevation = 0;
+    result_array.append(str(elevation))
+    return result_array
+
+def eval_positional_acc(result_array, accuracy_string):
+    result_array.append(str(accuracy_string))
+    return result_array
+
+def eval_specimenID(result_array, id_string):
+    result_array.append(str(id_string))
+    return result_array
+
+def eval_sampleID(result_array, id_string):
+    result_array.append(str(id_string))
+    return result_array
+
+def eval_collectorID(result_array, id_string):
+    result_array.append(str(id_string))
+    return result_array
+
+def eval_specimenURL(result_array, url_string):
+    result_array.append(str(url_string))
     return result_array
 
 def merge_tables(observation_array, collector_array, input_wb, input_ws, num_rows=None):
