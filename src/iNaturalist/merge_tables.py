@@ -12,6 +12,8 @@ import sys
 import string
 import errno
 import openpyxl
+from openpyxl import load_workbook
+from openpyxl import Workbook
     #from openpyxl import Workbook
     #from openpyxl.reader.excel import load_workbook
     #from openpyxl.compat import range
