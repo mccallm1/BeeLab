@@ -22,7 +22,7 @@ from openpyxl import Workbook
 #Functions
 def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
     # Initialize openpyxl vars
-    wb = load_workbook(filename = str(wb_name))
+    wb = load_workbook(str(wb_name))
     ws = wb[str(ws_name)]
     return_array = []
 
@@ -31,7 +31,7 @@ def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
     for row in ws[selection_str]:
         temp_array = []
         for cell in row:
-            temp_array.append(cell.value)
+            temp_array.append(str(cell.value).encode("utf8"))
         if temp_array != [None]:
             return_array.append(temp_array)
 
@@ -366,7 +366,7 @@ def main():
 
     # Default path settings
     observation_wb = 'data/' + input_folder + '/2018_iNaturalist.xlsx'
-    observation_ws = ['observations-34528', 'Oregon Bee Atlas']
+    observation_ws = ['observations-49204', 'Oregon Bee Atlas']
 
     # If output/input is set in cmd line, set the output folder to mirror that
     if output_folder != 'default':
