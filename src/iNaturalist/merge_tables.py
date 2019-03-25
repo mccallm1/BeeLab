@@ -263,6 +263,10 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
 
         # Begin constructing row to append to spreadsheet, saved in result_array
 
+    # Col 1
+    # Specimen ID
+    # result_array = eval_specimenID(result_array, row[X])
+
         # Col 1
         # iNaturalist ID
         result_array = eval_iNaturalistID(result_array, row[0])
@@ -274,6 +278,10 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
         # Col 5, 6, 7
         # Collection Day 2
         result_array = eval_collDay2(result_array, month, row[17])
+
+    # Col 1
+    # Sample ID
+    # result_array = eval_sampleID(result_array, row[X])
 
         # Col 8
         # Collector Name
@@ -306,6 +314,14 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
         # Col 15, 16
         # Lat & Long
         result_array = eval_latLong(result_array, row[9], row[10])
+
+    # Col X
+    # Positional accuracy
+    # result_array = eval_positional_acc(result_array, row[X])
+
+    # Col X
+    # Elevation
+    # result_array = eval_positional_acc(result_array, row[X])
 
         # Col 17
         # Collection Method
