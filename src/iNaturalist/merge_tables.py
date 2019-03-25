@@ -66,14 +66,14 @@ def letter_to_index(letter):
     return result - 1
 
 def count_rows(workbook, worksheet):
-    wb = load_workbook(filename = str(workbook))
+    wb = load_workbook(str(workbook))
     ws = wb[str(worksheet)]
     row_count = str(ws.max_row)
     print("count rows:",row_count)
     return row_count
 
 def count_cols(workbook, worksheet):
-    wb = load_workbook(filename = str(workbook))
+    wb = load_workbook(str(workbook))
     ws = wb[str(worksheet)]
     col_count = str(ws.max_column)
     print("count cols:",col_count)
