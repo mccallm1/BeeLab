@@ -196,7 +196,7 @@ def eval_assocPlant(result_array, plant_string):
     result_array.append(str(plant_string))
     return result_array
 
-def eval_elevation(result_array, row[9], row[10]):
+def eval_elevation(result_array, lat_string, long_string):
     # Use lat and long to look up elevation data
     elevation = 0;
     result_array.append(str(elevation))
