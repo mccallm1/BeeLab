@@ -224,6 +224,68 @@ def eval_specimenURL(result_array, url_string):
     result_array.append(str(url_string))
     return result_array
 
+def eval_dateLabelPrinted(result_array, date_string):
+    result_array.append(str(date_string))
+    return result_array
+
+def eval_dateLabelSent(result_array, date_string):
+    result_array.append(str(date_string))
+    return result_array
+
+def assignInputsToOutputs(result_array):
+    # Dictionary associating output column to an input column number
+    # 'Output Column Name' : 'Input Column #'
+    assignDict = {
+        'Date Label Printed' : ,
+        'Date Label Sent' : ,
+        'Observation No.' : ,
+        'Voucher No.' : ,
+        'iNaturalist ID' : , 
+        'iNaturalist login' : ,
+        'Collector - First Name' : ,
+        'Collector - Last Name' : ,
+        'Collection Day 1' : ,
+        'Month 1' : ,
+        'Year 1' : ,
+        'Time 1' : ,
+        'Collection Day 2' : ,
+        'Month 2' : ,
+        'Year 2' : ,
+        'Time 2' : ,
+        'Collection Day 2 Merge' : ,
+        'Sample ID' : ,
+        'Specimen ID' : ,
+        'Country' : ,
+        'State' : ,
+        'County' : ,
+        'Location' : ,
+        'Abbreviated Location' : ,
+        'Projects' : ,
+        'Dec. Lat.' : ,
+        'Dec. Long.' : ,
+        'Lat/Long Accuracy' : ,
+        'Elevation' : ,
+        'Collection method' : ,
+        'Associated plant' : ,
+        'Inaturalist URL' : ,
+        'Specimen Sex/Caste' : ,
+        'Sociality' : ,
+        'Specimen Family' : ,
+        'Specimen SubFamily' : ,
+        'Specimen Tribe' : ,
+        'Specimen Genus' : ,
+        'Specimen SubGenus' : ,
+        'Bee Species' : ,
+        'Morphology' : ,
+        'Determined By' : ,
+        'Date Determined' : ,
+        'Verified By' : ,
+        'Other Determiner(s)' : ,
+        'Other Dets. Sci. Name(s)' : ,
+        'Additional Notes' :
+    }
+
+
 def merge_tables(observation_array, collector_array, input_wb, input_ws, num_rows=None):
     # Load XLSX file
     wb = Workbook()
@@ -251,7 +313,24 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
                     'Collection method',
                     'Associated plant'
                 ]
-    ws.append(header_row)
+    updated_header_row = [ 'Date Label Printed',
+        'Date Label Sent', 'Observation No.', 'Voucher No.',
+        'iNaturalist ID', 'iNaturalist login',
+        'Collector - First Name', 'Collector - Last Name',
+        'Collection Day 1',	'Month 1', 'Year 1', 'Time 1',
+        'Collection Day 2',	'Month 2', 'Year 2', 'Time 2', 'Collection Day 2 Merge',
+        'Sample ID', 'Specimen ID',
+        'Country', 'State', 'County', 'Location', 'Abbreviated Location',
+        'Projects', 'Dec. Lat.', 'Dec. Long.', 'Lat/Long Accuracy', 'Elevation',
+        'Collection method', 'Associated plant', 'Inaturalist URL',
+        'Specimen Sex/Caste', 'Sociality', 'Specimen Family', 'Specimen SubFamily',
+        'Specimen Tribe', 'Specimen Genus', 'Specimen SubGenus',
+        'Bee Species', 'Morphology', 'Determined By', 'Date Determined', 'Verified By',
+        'Other Determiner(s)', 'Other Dets. Sci. Name(s)', 'Additional Notes'
+    ]
+
+    # Write header to first row in sheet
+    ws.append(updated_header_row)
 
     # Translate observation list rows to template format
     print("Translating iNaturalist list...")
@@ -263,9 +342,13 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
 
         # Begin constructing row to append to spreadsheet, saved in result_array
 
-    # Col 1
-    # Specimen ID
-    # result_array = eval_specimenID(result_array, row[X])
+        # Col 0
+        # Date label printed
+        result_array = eval_dateLabelPrinted(result_array, row[0])
+
+        # Col 1
+        # Specimen ID
+        result_array = eval_dateLabelSent(result_array, row[1])
 
         # Col 1
         # iNaturalist ID
