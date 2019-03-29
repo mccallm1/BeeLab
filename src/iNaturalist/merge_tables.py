@@ -81,6 +81,26 @@ def count_cols(workbook, worksheet):
     print("count cols:",col_count)
     return col_count
 
+def genColDict(workbook, worksheet):
+    # Dictionary associating output column to an input column number
+    # 'Output Column Name' : 'Input Column #'
+    wb = load_workbook(str(workbook))
+    ws = wb[str(worksheet)]
+    max_col = int(count_cols(workbook, worksheet))
+
+    print("In column dictionary...")
+    print("# of cols:\t",max_col)
+
+    # Save header in list
+    first_row = list(ws.rows)[0]
+    print(first_row)
+
+    #observation_result = read_xlsx(wb, ws[1],'A','1', max_col, '1')
+    #print(observation_result)
+
+
+
+
 # 'Eval' functions are called from the merge_tables function to evaluate the
 # contents of each column for the output spreadsheet. For each row in the
 # original table, each eval function is called sequentially to construct the
@@ -231,60 +251,6 @@ def eval_dateLabelPrinted(result_array, date_string):
 def eval_dateLabelSent(result_array, date_string):
     result_array.append(str(date_string))
     return result_array
-
-def assignInputsToOutputs(result_array):
-    # Dictionary associating output column to an input column number
-    # 'Output Column Name' : 'Input Column #'
-    assignDict = {
-        'Date Label Printed' : ,
-        'Date Label Sent' : ,
-        'Observation No.' : ,
-        'Voucher No.' : ,
-        'iNaturalist ID' : , 
-        'iNaturalist login' : ,
-        'Collector - First Name' : ,
-        'Collector - Last Name' : ,
-        'Collection Day 1' : ,
-        'Month 1' : ,
-        'Year 1' : ,
-        'Time 1' : ,
-        'Collection Day 2' : ,
-        'Month 2' : ,
-        'Year 2' : ,
-        'Time 2' : ,
-        'Collection Day 2 Merge' : ,
-        'Sample ID' : ,
-        'Specimen ID' : ,
-        'Country' : ,
-        'State' : ,
-        'County' : ,
-        'Location' : ,
-        'Abbreviated Location' : ,
-        'Projects' : ,
-        'Dec. Lat.' : ,
-        'Dec. Long.' : ,
-        'Lat/Long Accuracy' : ,
-        'Elevation' : ,
-        'Collection method' : ,
-        'Associated plant' : ,
-        'Inaturalist URL' : ,
-        'Specimen Sex/Caste' : ,
-        'Sociality' : ,
-        'Specimen Family' : ,
-        'Specimen SubFamily' : ,
-        'Specimen Tribe' : ,
-        'Specimen Genus' : ,
-        'Specimen SubGenus' : ,
-        'Bee Species' : ,
-        'Morphology' : ,
-        'Determined By' : ,
-        'Date Determined' : ,
-        'Verified By' : ,
-        'Other Determiner(s)' : ,
-        'Other Dets. Sci. Name(s)' : ,
-        'Additional Notes' :
-    }
-
 
 def merge_tables(observation_array, collector_array, input_wb, input_ws, num_rows=None):
     # Load XLSX file
@@ -445,6 +411,8 @@ def main():
             output_folder = sys.argv[i+1]
         elif arg == "--input":
             input_folder = sys.argv[i+1]
+        elif arg == "--CSV":
+            csv_flag == 1
         i += 1
 
     # Default path settings
@@ -468,13 +436,21 @@ def main():
             if exc.errno != errno.EEXIST:
                 raise
 
-    # Extract values from tables
+    # Init variables to pass into read_xlsx
     max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[0])) - 1 ].upper()
     max_row = count_rows(observation_wb,observation_ws[0])
+
+    # Generate dictionary connecting column names to column number
+    genColDict(observation_wb, observation_ws[0])
+
+    # Extract values from observations table
     observation_result = read_xlsx(observation_wb, observation_ws[0], min_col, min_row, max_col, max_row)
 
+    # Init variables to pass into read_xlsx
     max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[1])) - 1 ].upper()
     max_row = count_rows(observation_wb,observation_ws[1])
+
+    # Extract values from collector ID table
     collector_result = read_xlsx(observation_wb, observation_ws[1], min_col, min_row, max_col, max_row)
 
     # Generate Output Sheet
