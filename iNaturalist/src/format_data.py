@@ -21,6 +21,7 @@ from openpyxl import Workbook
 
 # Local files
 import col_functions
+import file_functions
 
 #Functions
 def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
@@ -241,6 +242,9 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
     print("Appending results to file...")
     wb.save(filename = input_wb)
     print("Saved.")
+
+
+
 
 def main():
     # Initiate / Default values
