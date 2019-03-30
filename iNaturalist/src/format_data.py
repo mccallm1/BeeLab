@@ -6,7 +6,7 @@ Description: Parse the "Pollinator Plant Master List" maintained by Signe and
             generate a formatted version for uploading to the website.
 '''
 
-# External Imports
+# External imports
 import os
 import sys
 import string
@@ -19,9 +19,10 @@ from openpyxl import Workbook
     #from openpyxl.compat import range
     #from openpyxl.utils import get_column_letter
 
-# Local files
+# Local imports
 import col_functions
 import file_functions
+from file_functions import test_import
 
 #Functions
 def read_xlsx(wb_name, ws_name, min_col, min_row, max_col, max_row):
@@ -243,27 +244,42 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
     wb.save(filename = input_wb)
     print("Saved.")
 
+def parse_cmd_line():
+    print("cmd line parser function")
+    print("cmd arguments: " , str(sys.argv))
 
+    # Iterate through cmd line and assign strings to input and output paths
+    i = 0; in = ''; out = ''
+    for arg in sys.argv:
+        if arg == "--input":
+            in = sys.argv[i+1]
+        elif arg == "--output":
+            out = sys.argv[i+1]
+        i += 1
 
+    # By now we should have a valid input path at minimum
+    if in == '':
+        print("\'--input\' argument must be provided. Exitting.")
+        sys.exit()
+
+    if out == '':
+        print(in.split('/'))
+        #out =
+
+def create_file(file_string):
+    print("create file function")
 
 def main():
+    # Variables to keep track of
+    input_file = ""
+    output_file = ""
+    input_file_type = ""
+
     # Initiate / Default values
     input_folder = 'default'
     output_folder = 'default'
     min_col = 'A'
     min_row = '2'
-
-    # Command line args
-    print("cmd arguments: " , str(sys.argv))
-    i = 0
-    for arg in sys.argv:
-        if arg == "--output":
-            output_folder = sys.argv[i+1]
-        elif arg == "--input":
-            input_folder = sys.argv[i+1]
-        elif arg == "--CSV":
-            csv_flag == 1
-        i += 1
 
     # Default path settings
     observation_wb = 'data/' + input_folder + '/2018_iNaturalist.xlsx'
@@ -285,6 +301,11 @@ def main():
         except OSError as exc: # Guard against race condition
             if exc.errno != errno.EEXIST:
                 raise
+
+    file_functions.test_import()
+    test_import()
+
+    parse_cmd_line()
 
     # Init variables to pass into read_xlsx
         #max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[0])) - 1 ].upper()
