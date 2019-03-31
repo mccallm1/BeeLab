@@ -249,21 +249,56 @@ def parse_cmd_line():
     print("cmd arguments: " , str(sys.argv))
 
     # Iterate through cmd line and assign strings to input and output paths
-    i = 0; in = ''; out = ''
+    i = 0
+    in_file = ''
+    out_file = ''
     for arg in sys.argv:
         if arg == "--input":
-            in = sys.argv[i+1]
+            in_file = sys.argv[i+1]
         elif arg == "--output":
-            out = sys.argv[i+1]
+            out_file = sys.argv[i+1]
         i += 1
 
-    # By now we should have a valid input path at minimum
-    if in == '':
+    # Input path:
+        # data/folder_name/file_name
+    # Output path:
+        # results/folder_name/file_name
+
+    # Input file is required
+    if in_file == '':
         print("\'--input\' argument must be provided. Exitting.")
         sys.exit()
 
-    if out == '':
-        print(in.split('/'))
+    # The input file must be kept in data dir
+    print("input first folder: ",in_file.split('/')[0])
+    if in_file.split('/')[0] != "data":
+        print("\'--input\' file must be saved inside the data directory. Exitting.")
+        sys.exit()
+
+    # If output was not specified, use the input folder name
+    if out_file == '':
+        # init the output with the results folder
+        out_file = "results"
+
+        # We will use the split file path components
+        split_in_file = in_file.split('/')
+        print("split in file: ",split_in_file)
+
+
+        out_file += "/" + split_in_file[1] + "/" + "results.csv"
+        print("output file: " + out_file)
+
+    # Create output file
+    if not os.path.exists(os.path.dirname(out_file)):
+        try:
+            os.makedirs(os.path.dirname(out_file))
+        except OSError as exc: # Guard against race condition
+            if exc.errno != errno.EEXIST:
+                raise
+    f = open(out_file, "w")
+    
+        #for word in split_in_file:
+            #print(word)
         #out =
 
 def create_file(file_string):
