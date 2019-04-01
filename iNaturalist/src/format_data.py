@@ -244,14 +244,18 @@ def merge_tables(observation_array, collector_array, input_wb, input_ws, num_row
     wb.save(filename = input_wb)
     print("Saved.")
 
+# Parse the command line arguments:
+    # Determine an input path, output path, and input file type
 def parse_cmd_line():
-    print("cmd line parser function")
-    print("cmd arguments: " , str(sys.argv))
+    print("Parsing command line arguments...")
 
-    # Iterate through cmd line and assign strings to input and output paths
+    # Init vars
     i = 0
     in_file = ''
     out_file = ''
+    in_type = ''
+
+    # Iterate through cmd line and assign strings to input and output paths
     for arg in sys.argv:
         if arg == "--input":
             in_file = sys.argv[i+1]
@@ -261,8 +265,6 @@ def parse_cmd_line():
 
     # Input path:
         # data/folder_name/file_name
-    # Output path:
-        # results/folder_name/file_name
 
     # Input file is required
     if in_file == '':
@@ -270,77 +272,75 @@ def parse_cmd_line():
         sys.exit()
 
     # The input file must be kept in data dir
-    print("input first folder: ",in_file.split('/')[0])
     if in_file.split('/')[0] != "data":
         print("\'--input\' file must be saved inside the data directory. Exitting.")
         sys.exit()
 
+    # Check input file type
+    in_type = in_file.split('/')[len(in_file.split('/')) - 1]
+    in_type = in_type.split(".")[len(in_type.split('.')) - 1]
+
+    # Output path:
+        # results/folder_name/file_name
+
+    # If the output file does exist it must be kept in the results dir
+    if out_file != '' and out_file.split('/')[0] != "results":
+        print("\'--output\' file must be saved inside the results directory. Exitting.")
+        sys.exit()
+
     # If output was not specified, use the input folder name
     if out_file == '':
-        # init the output with the results folder
-        out_file = "results"
-
         # We will use the split file path components
-        split_in_file = in_file.split('/')
-        print("split in file: ",split_in_file)
+        out_file += "results/" + in_file.split('/')[1] + "/results.csv"
 
+    out_folder = "results/" + in_file.split('/')[1]
 
-        out_file += "/" + split_in_file[1] + "/" + "results.csv"
-        print("output file: " + out_file)
-
-    # Create output file
-    if not os.path.exists(os.path.dirname(out_file)):
+    # Create output folder
+    if not os.path.exists(os.path.dirname(out_folder)):
         try:
-            os.makedirs(os.path.dirname(out_file))
+            os.makedirs(os.path.dirname(out_folder))
         except OSError as exc: # Guard against race condition
             if exc.errno != errno.EEXIST:
                 raise
-    f = open(out_file, "w")
-    
-        #for word in split_in_file:
-            #print(word)
-        #out =
 
-def create_file(file_string):
-    print("create file function")
+    # Create output file
+    f = open(out_file, "w")
+
+    # Return vars
+    return in_file, out_file, in_type.lower()
+
+def read_csv(file_string):
+    print("Reading from CSV...")
+def read_xlsx(file_string):
+    print("Reading from Excel spreadsheet...")
+
+def read_data(file_string, file_type):
+    if file_type == "csv":
+    elif file_type == "xlsx":
+    else:
+        print("Invalid input file type. Exitting.")
+        sys.exit()
 
 def main():
+    # Intro
+    print("iNaturalist Pipeline -----------------------")
+
     # Variables to keep track of
     input_file = ""
     output_file = ""
     input_file_type = ""
 
-    # Initiate / Default values
-    input_folder = 'default'
-    output_folder = 'default'
-    min_col = 'A'
-    min_row = '2'
+    # Parse command line arguments
+    input_file, output_file, input_file_type = parse_cmd_line()
 
-    # Default path settings
-    observation_wb = 'data/' + input_folder + '/2018_iNaturalist.xlsx'
-    observation_ws = ['observations-49204', 'Oregon Bee Atlas']
+    # Pipeline Description
+    print("\tInput path:\t",input_file)
+    print("\tOutput path:\t",output_file)
+    print("\tInput type:\t",input_file_type)
 
-    # If output/input is set in cmd line, set the output folder to mirror that
-    if output_folder != 'default':
-        output_wb = 'results/' + output_folder + '/Oregon_Bee_Atlas.xlsx'
-    elif input_folder != 'default':
-        output_wb = 'results/' + input_folder + '/Oregon_Bee_Atlas.xlsx'
-    else:
-        output_wb = 'results/default/Oregon_Bee_Atlas.xlsx'
-    output_ws = 'Results'
-
-    # Create directories
-    if not os.path.exists(os.path.dirname(output_wb)):
-        try:
-            os.makedirs(os.path.dirname(output_wb))
-        except OSError as exc: # Guard against race condition
-            if exc.errno != errno.EEXIST:
-                raise
-
-    file_functions.test_import()
-    test_import()
-
-    parse_cmd_line()
+    # Choose which file reading function to call
+    print("Deciding which input function to use...")
+    read_data(input_file, input_file_type)
 
     # Init variables to pass into read_xlsx
         #max_col = list(string.ascii_lowercase)[ int(count_cols(observation_wb,observation_ws[0])) - 1 ].upper()

@@ -1,3 +1,6 @@
+def test_import():
+    print("col_functions.py test")
+
 # 'Eval' functions are called from the merge_tables function to evaluate the
 # contents of each column for the output spreadsheet. For each row in the
 # original table, each eval function is called sequentially to construct the
