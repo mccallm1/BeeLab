@@ -26,24 +26,6 @@ import file_functions
 from file_functions import test_import
 
 #Functions
-def read_xlsx_orig(wb_name, ws_name, min_col, min_row, max_col, max_row):
-    # Initialize openpyxl vars
-    wb = load_workbook(str(wb_name))
-    ws = wb[str(ws_name)]
-    return_array = []
-
-    # Iterate through xlsx file
-    selection_str = min_col + min_row + ':' + max_col + max_row
-    for row in ws[selection_str]:
-        temp_array = []
-        for cell in row:
-            temp_array.append(str(cell.value).encode("utf8"))
-        if temp_array != [None]:
-            return_array.append(temp_array)
-
-    # Return array selection
-    print(return_array)
-    return return_array
 
 def letter_to_index(letter):
     """Converts a column letter, e.g. "A", "B", "AA", "BC" etc. to a zero based
@@ -86,154 +68,6 @@ def count_cols(workbook, worksheet):
     col_count = str(ws.max_column)
     print("count cols:",col_count)
     return col_count
-
-def merge_tables(observation_array, collector_array, input_wb, input_ws, num_rows=None):
-    # Load XLSX file
-    wb = Workbook()
-    ws = wb.active
-    ws.title = input_ws
-
-    # Initialize values
-    month = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XIII']
-    header_row = [  'iNaturalist ID',
-                    'Collection Day 1',
-                    'Month 1',
-                    'Year 1',
-                    'Collection Day 2',
-                    'Month 2',
-                    'Year 2',
-                    'Collector Name',
-                    'Collection No',
-                    'Sample No',
-                    'State',
-                    'County',
-                    'City',
-                    'Location',
-                    'Lat',
-                    'Long',
-                    'Collection method',
-                    'Associated plant'
-                ]
-    updated_header_row = [ 'Date Label Printed',
-        'Date Label Sent', 'Observation No.', 'Voucher No.',
-        'iNaturalist ID', 'iNaturalist login',
-        'Collector - First Name', 'Collector - Last Name',
-        'Collection Day 1',	'Month 1', 'Year 1', 'Time 1',
-        'Collection Day 2',	'Month 2', 'Year 2', 'Time 2', 'Collection Day 2 Merge',
-        'Sample ID', 'Specimen ID',
-        'Country', 'State', 'County', 'Location', 'Abbreviated Location',
-        'Projects', 'Dec. Lat.', 'Dec. Long.', 'Lat/Long Accuracy', 'Elevation',
-        'Collection method', 'Associated plant', 'Inaturalist URL',
-        'Specimen Sex/Caste', 'Sociality', 'Specimen Family', 'Specimen SubFamily',
-        'Specimen Tribe', 'Specimen Genus', 'Specimen SubGenus',
-        'Bee Species', 'Morphology', 'Determined By', 'Date Determined', 'Verified By',
-        'Other Determiner(s)', 'Other Dets. Sci. Name(s)', 'Additional Notes'
-    ]
-
-    # Write header to first row in sheet
-    ws.append(updated_header_row)
-
-    # Translate observation list rows to template format
-    print("Translating iNaturalist list...")
-    for row in observation_array:
-        print(row)
-        # Initialize values
-        sample_num_flag = 0
-        result_array = []
-
-        # Begin constructing row to append to spreadsheet, saved in result_array
-
-        # Col 0
-        # Date label printed
-        result_array = eval_dateLabelPrinted(result_array, row[0])
-
-        # Col 1
-        # Specimen ID
-        result_array = eval_dateLabelSent(result_array, row[1])
-
-        # Col 1
-        # iNaturalist ID
-        result_array = eval_iNaturalistID(result_array, row[0])
-
-        # Col 2, 3, 4
-        # Collection Day 1
-        result_array = eval_collDay1(result_array, month, row[1])
-
-        # Col 5, 6, 7
-        # Collection Day 2
-        result_array = eval_collDay2(result_array, month, row[17])
-
-    # Col 1
-    # Sample ID
-    # result_array = eval_sampleID(result_array, row[X])
-
-        # Col 8
-        # Collector Name
-        result_array = eval_collName(result_array, collector_array, row[2])
-
-        # Col 9
-        # Collection No
-        result_array = eval_collNum(result_array, row[3])
-
-        # Col 10
-        # Sample No
-        result_array, sample_num_flag = eval_sampleNum(result_array, sample_num_flag, row[4])
-
-        # Col 11
-        # State
-        result_array = eval_state(result_array, row[6])
-
-        # Col 12
-        # County
-        result_array = eval_county(result_array, row[7])
-
-        # Col 13
-        # City
-        result_array = eval_city(result_array, row[15])
-
-        # Col 14
-        # Location
-        result_array = eval_location(result_array, row[8])
-
-        # Col 15, 16
-        # Lat & Long
-        result_array = eval_latLong(result_array, row[9], row[10])
-
-    # Col X
-    # Positional accuracy
-    # result_array = eval_positional_acc(result_array, row[X])
-
-    # Col X
-    # Elevation
-    # result_array = eval_positional_acc(result_array, row[X])
-
-        # Col 17
-        # Collection Method
-        result_array = eval_colMethod(result_array, row[14])
-
-        # Col 18
-        # Associated Plant
-        result_array = eval_assocPlant(result_array, row[12])
-
-        # Append to xlsx file
-        if sample_num_flag == 1:
-            if row[4] != None:
-                temp_range = row[4]
-                for x in range(0, int(temp_range), 1):
-                    print(result_array)
-                    ws.append(result_array)
-                    result_array[9] = int(result_array[9]) + 1
-        else:
-            print(result_array)
-            ws.append(result_array)
-
-    print("Appending results to file...")
-    wb.save(filename = input_wb)
-    print("Saved.")
-
-#####################################
-
-
 
 
 def parse_cmd_line():
@@ -307,7 +141,7 @@ def parse_cmd_line():
 
 def read_csv_header(file_string):
     file = open(file_string, "r") # Open CSV file
-    return file.readline() # Return only the first line of the CSV
+    return file.readline()
 
 def read_xlsx_header(wb_name, ws_name):
     wb = load_workbook(wb_name)
@@ -320,7 +154,6 @@ def read_xlsx_header(wb_name, ws_name):
     selection_str = "A1:" + max_col + "1"
     return ws[selection_str].ecnode("utf8")
 
-# Two functions defined: One for reading CSV and one for Xlsx
 def read_csv(file_string):
     print("\tReading from CSV...")
 
@@ -362,12 +195,12 @@ def read_data(file_string, file_type):
 
 def search_header(header, search_str):
     # Locate the index of a string in the header row
-    print("\tLocating \'",search_str,"\'... ",end="")
+    #print("\tLocating \'",search_str,"\'... ",end="")
     for index, col in enumerate(header):
         if col == search_str:
-            print("found at [",index,"].")
+            #print("found at [",index,"].")
             return index
-    print("no match found.")
+    #print("no match found.")
 
 def print_out_header(line_to_print, csv_file):
     with open(csv_file,'w') as file:
@@ -469,7 +302,7 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(sampleid)
 
         # 18 Specimen ID
-        specimenid = in_row[search_header(in_header,"field:number of bees collected")]
+        specimenid = col_functions.specimen_id(in_row[search_header(in_header,"field:number of bees collected")])
         out_row.append(specimenid)
 
         # 19 Country
@@ -526,7 +359,7 @@ def gen_output(out_header, out_file, in_header, in_data):
 
         # Append generated row to output file
         # If the row has multiple bees collected, expand by that many
-        if specimenid.isdigit() and int(specimenid) > 1:
+        if specimenid != "NOT INT" and int(specimenid) > 1:
             print("multiple bees, print multiple times...",specimenid)
             for i in range(1, int(specimenid)):
                 print("i:",i)
@@ -573,8 +406,8 @@ def main():
     print("writing to",output_file)
     # Test elevation
     ###################################
-    import requests
-    import pandas as pd
+    #import requests
+    #import pandas as pd
 
     # script for returning elevation from lat, long, based on open elevation data
     # which in turn is based on SRTM
