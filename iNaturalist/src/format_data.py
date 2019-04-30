@@ -195,12 +195,9 @@ def read_data(file_string, file_type):
 
 def search_header(header, search_str):
     # Locate the index of a string in the header row
-    #print("\tLocating \'",search_str,"\'... ",end="")
     for index, col in enumerate(header):
         if col == search_str:
-            #print("found at [",index,"].")
             return index
-    #print("no match found.")
 
 def print_out_header(line_to_print, csv_file):
     with open(csv_file,'w') as file:
@@ -216,11 +213,15 @@ def print_out_header(line_to_print, csv_file):
         # Append newline as the last step to start the next row
         file.write("\n")
 
-
 def print_out_row(line_to_print, csv_file):
-    with open(csv_file,'a') as file:
+    print(repr(line_to_print))
+    with open(csv_file, 'a') as f:
+        writer = csv.writer(f)
+        writer.writerow(line_to_print)
+    '''
+    with open(csv_file,'a',newline='') as file:
         # Append generated row to output file
-        print(line_to_print)
+        print(repr(line_to_print))
         for index, col in enumerate(line_to_print):
             # If the current col has a value, print it
             if col != '':
@@ -231,7 +232,21 @@ def print_out_row(line_to_print, csv_file):
             if index < len(line_to_print):
                 file.write(',')
         # Append newline as the last step to start the next row
-        file.write("\n")
+        #file.write("\n")
+    '''
+
+def remove_blank_rows(out_file):
+    header, rows = read_csv(out_file)
+    print_out_header(header,out_file)
+    for line in rows:
+        a = repr(str(line))
+        #print("line:",a,"\n\t")
+        if line == "\n":
+            print("blank row removed")
+        else:
+            #print("keeping line")
+            print_out_row(line,out_file)
+
 
 def gen_output(out_header, out_file, in_header, in_data):
     # Create rows of formatted data and append to output csv
@@ -244,7 +259,7 @@ def gen_output(out_header, out_file, in_header, in_data):
     i = 0
     for in_row in csv.reader(in_data, skipinitialspace=True):
         i += 1
-        print("\n\t",i)
+        print("\nrow:",i)
 
         # Init the output row
         out_row = []
@@ -354,23 +369,18 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(family)
         out_row.append(species)
         out_row.append(url)
-
         # End of appending to output row
 
         # Append generated row to output file
         # If the row has multiple bees collected, expand by that many
-        if specimenid != "NOT INT" and int(specimenid) > 1:
-            print("multiple bees, print multiple times...",specimenid)
-            for i in range(1, int(specimenid)):
-                print("i:",i)
+        if specimenid is not None and specimenid != "NOT INT" and int(specimenid) > 1:
+            print("multiple bees, printing",specimenid,"times...")
+            for i in range(1, int(specimenid)+1):
                 out_row[search_header(out_header,"Specimen ID")] = i
                 print_out_row(out_row,out_file)
-                #out_row[search_header(out_header,"Specimen ID")] = int(out_row[search_header(out_header,"Specimen ID")]) + 1
         else:
             print_out_row(out_row,out_file)
 
-        # Break for only 1 loop
-        #break
 
 
 def main():
@@ -403,27 +413,16 @@ def main():
 
     # Create output data
     gen_output(output_header, output_file, input_header, input_rows)
-    print("writing to",output_file)
+    print("Writing to",output_file)
+
     # Test elevation
     ###################################
-    #import requests
-    #import pandas as pd
 
-    # script for returning elevation from lat, long, based on open elevation data
-    # which in turn is based on SRTM
-    def get_elevation(lat, long):
-        query = ('https://api.open-elevation.com/api/v1/lookup'f'?locations={lat},{long}')
-        r = requests.get(query).json()  # json object, various ways you can extract value
-        # one approach is to use pandas json functionality:
-        elevation = pd.io.json.json_normalize(r, 'results')['elevation'].values[0]
-        return elevation
-    #get_elevation(44.5993, -123.3157)
+    #col_functions.elevation_from_coords(1,2)
 
-        #col_functions.elevation_from_coords(1,2)
-
-        #import geocoder
-        #g = geocoder.elevation([44.5993, -123.3157])
-        #print ("elevation meters:",g.meters)
+    #import geocoder
+    #g = geocoder.elevation([44.5993, -123.3157])
+    #print ("elevation meters:",g.meters)
 
     ###################################
 
