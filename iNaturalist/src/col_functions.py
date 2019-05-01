@@ -1,6 +1,9 @@
+from __future__ import print_function
 import os
 import sys
 import elevation
+import json
+import requests
 
 def test_import():
     print("col_functions.py test")
@@ -146,15 +149,33 @@ def round_coord(coord):
         temp = float(str(temp) + "0")
         print("fixed(?):",temp)
         sys.exit()
-
     return temp
+
+
+def
+
+def elevation(lat, long):
+    apikey = "AIzaSyBoc369wPHoc2R3fKHBSiIh4iwIY4qk7P4"
+    url = "https://maps.googleapis.com/maps/api/elevation/json"
+    request = requests.get(url+"?locations="+str(lat)+","+str(long)+"&key="+apikey)
+    try:
+        results = json.loads(request.text).get('results')
+        if 0 < len(results):
+            elevation = results[0].get('elevation')
+            #resolution = results[0].get('resolution') # for RESOLUTION
+            # ELEVATION
+            return elevation
+        else:
+            print('HTTP GET Request failed.')
+    except ValueError as e:
+        print('JSON decode failed: '+str(request) + str(e))
 
 def elevation_from_coords(lat,long):
     # Bottom Left: 41 N 124 W
     # Bottom Right: 41 N 116 W
     # Top Left: 46 N 124 W
     # Top Right: 46 N 116 W
-    
+
     print("Calculating elevation...")
     # clip the SRTM1 30m DEM of Rome and save it to Rome-DEM.tif
     elevation.clip(bounds=(41, 116, 42, 117), output='./Oregon-DEM.tif')

@@ -259,7 +259,7 @@ def gen_output(out_header, out_file, in_header, in_data):
     i = 0
     for in_row in csv.reader(in_data, skipinitialspace=True):
         i += 1
-        print("\nrow:",i)
+        #print("\nrow:",i)
 
         # Init the output row
         out_row = []
@@ -353,7 +353,7 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(pos_acc)
 
         # 27 Elevation
-        elevation = ""
+        elevation = col_functions.elevation2(lat,long)
         out_row.append(elevation)
 
         # 28 Collection method
@@ -374,12 +374,14 @@ def gen_output(out_header, out_file, in_header, in_data):
         # Append generated row to output file
         # If the row has multiple bees collected, expand by that many
         if specimenid is not None and specimenid != "NOT INT" and int(specimenid) > 1:
-            print("multiple bees, printing",specimenid,"times...")
+            #print("multiple bees, printing",specimenid,"times...")
             for i in range(1, int(specimenid)+1):
                 out_row[search_header(out_header,"Specimen ID")] = i
                 print_out_row(out_row,out_file)
         else:
             print_out_row(out_row,out_file)
+        print()
+        break;
 
 
 
