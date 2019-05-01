@@ -2,6 +2,7 @@ from __future__ import print_function
 import os
 import sys
 import elevation
+import csv
 import json
 import requests
 
@@ -141,7 +142,6 @@ def specimen_id(specimen_id_str):
         else:
             return specimen_id_str
 
-
 def round_coord(coord):
     temp = '%.4f'%(float(coord))
     if len(temp.split('.')[1]) < 4:
@@ -151,24 +151,56 @@ def round_coord(coord):
         sys.exit()
     return temp
 
+def write_elevation_res(elevation_file, lat, long, elevation):
+    lat_rounded = '%.2f'%(float(lat))
+    long_rounded = '%.2f'%(float(long))
+    line_to_print = str(lat_rounded),str(long_rounded),str(elevation)
+    #print("writing:",line_to_print)
 
-def
+    with open(elevation_file, 'a') as f:
+        writer = csv.writer(f)
+        writer.writerow(line_to_print)
+
+def read_elevation_csv(elevation_file, lat, long):
+    # Create more matches by simplifying coordinates
+    lat_rounded = '%.2f'%(float(lat))
+    long_rounded = '%.2f'%(float(long))
+
+    with open(elevation_file) as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        for row in csv_reader:
+            #print(row)
+            if str(row[0]) == lat_rounded and str(row[1]) == long_rounded:
+                #print("found a match")
+                return row[2]
+    return ''
 
 def elevation(lat, long):
-    apikey = "AIzaSyBoc369wPHoc2R3fKHBSiIh4iwIY4qk7P4"
-    url = "https://maps.googleapis.com/maps/api/elevation/json"
-    request = requests.get(url+"?locations="+str(lat)+","+str(long)+"&key="+apikey)
-    try:
-        results = json.loads(request.text).get('results')
-        if 0 < len(results):
-            elevation = results[0].get('elevation')
-            #resolution = results[0].get('resolution') # for RESOLUTION
-            # ELEVATION
-            return elevation
-        else:
-            print('HTTP GET Request failed.')
-    except ValueError as e:
-        print('JSON decode failed: '+str(request) + str(e))
+    #check if the current lat and long have already been calculated
+    csv_result = read_elevation_csv("data/elevations.csv", lat, long)
+    if csv_result != '':
+        # A matching set of coordinates was found in results
+        return csv_result
+    else:
+        #print("now call API...")
+
+        apikey = "AIzaSyBoc369wPHoc2R3fKHBSiIh4iwIY4qk7P4"
+        url = "https://maps.googleapis.com/maps/api/elevation/json"
+        request = requests.get(url+"?locations="+str(lat)+","+str(long)+"&key="+apikey)
+        try:
+            results = json.loads(request.text).get('results')
+            if 0 < len(results):
+                elev = results[0].get('elevation')
+                #resolution = results[0].get('resolution') # for RESOLUTION
+                # ELEVATION
+                write_elevation_res("data/elevations.csv", lat, long, elev)
+                return elev
+            else:
+                print('HTTP GET Request failed.')
+        except ValueError as e:
+            print('JSON decode failed: '+str(request) + str(e))
+
+        return 0
 
 def elevation_from_coords(lat,long):
     # Bottom Left: 41 N 124 W
