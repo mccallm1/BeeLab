@@ -19,7 +19,6 @@ from openpyxl import Workbook
     #from openpyxl.reader.excel import load_workbook
     #from openpyxl.compat import range
     #from openpyxl.utils import get_column_letter
-import elevation
 # Local imports
 import col_functions
 import file_functions

@@ -1,7 +1,6 @@
 from __future__ import print_function
 import os
 import sys
-import elevation
 import csv
 import json
 import requests
@@ -205,16 +204,3 @@ def elevation(lat, long):
             print('JSON decode failed: '+str(request) + str(e))
 
         return 0
-
-def elevation_from_coords(lat,long):
-    # Bottom Left: 41 N 124 W
-    # Bottom Right: 41 N 116 W
-    # Top Left: 46 N 124 W
-    # Top Right: 46 N 116 W
-
-    print("Calculating elevation...")
-    # clip the SRTM1 30m DEM of Rome and save it to Rome-DEM.tif
-    elevation.clip(bounds=(41, 116, 42, 117), output='./Oregon-DEM.tif')
-    # clean up stale temporary files and fix the cache in the event of a server error
-    #elevation.clean()
-    print("saved test in file")
