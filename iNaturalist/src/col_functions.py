@@ -72,6 +72,7 @@ def date_2(in_date):
     month_numeral = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XIII']
 
     in_date = in_date.split('T')
+    print(in_date)
     # There are several input formats for this col
     # If the format can be split with T continue:
     if len(in_date) == 2:
@@ -89,13 +90,15 @@ def date_2(in_date):
         #print("Splitting without T...")
         in_date = in_date[0].split(' ')
         in_date = in_date[0].split('/')
-        # Parse values from full date string
-        day = in_date[0]
-        # Reference numeral array
-        month = month_numeral[int(in_date[1]) - 1]
-        # Year is straight forward
+
+        #Check if month is in first or second location
+        if int(in_date[1]) > 12:
+            day = in_date[1]
+            month = month_numeral[int(in_date[0]) - 1]
+        else:
+            day = in_date[0]
+            month = month_numeral[int(in_date[1]) - 1]
         year = in_date[2]
-        # Calculate merge string
         merge = "-" + day + month
 
     return day, month, year, merge
@@ -148,7 +151,6 @@ def round_coord(coord):
         print("coordinate didn't have 4 digits:",temp)
         temp = float(str(temp) + "0")
         print("fixed(?):",temp)
-        sys.exit()
     return temp
 
 def write_elevation_res(elevation_file, lat, long, elevation):
@@ -163,6 +165,7 @@ def write_elevation_res(elevation_file, lat, long, elevation):
 
 def read_elevation_csv(elevation_file, lat, long):
     # Create more matches by simplifying coordinates
+    print(lat,long)
     lat_rounded = '%.2f'%(float(lat))
     long_rounded = '%.2f'%(float(long))
 
@@ -178,9 +181,10 @@ def read_elevation_csv(elevation_file, lat, long):
 def elevation(lat, long):
     #check if the current lat and long have already been calculated
     csv_result = read_elevation_csv("data/elevations.csv", lat, long)
+    print(csv_result)
     if csv_result != '':
         # A matching set of coordinates was found in results
-        return csv_result
+        return int(float(csv_result))
     else:
         #print("now call API...")
 
@@ -193,8 +197,8 @@ def elevation(lat, long):
                 elev = results[0].get('elevation')
                 #resolution = results[0].get('resolution') # for RESOLUTION
                 # ELEVATION
-                write_elevation_res("data/elevations.csv", lat, long, elev)
-                return elev
+                write_elevation_res("data/elevations.csv", lat, long, int(float(elev)))
+                return int(float(elev))
             else:
                 print('HTTP GET Request failed.')
         except ValueError as e:

@@ -247,6 +247,13 @@ def remove_blank_rows(out_file):
             #print("keeping line")
             print_out_row(line,out_file)
 
+def check_for_cols(in_header, in_row, query_string):
+    search_res = search_header(in_header,query_string)
+    print(search_res)
+    if search_res is None:
+        return ''
+    else:
+        return in_row[search_res]
 
 def gen_output(out_header, out_file, in_header, in_data):
     # Create rows of formatted data and append to output csv
@@ -261,7 +268,7 @@ def gen_output(out_header, out_file, in_header, in_data):
         i += 1
         #if i == 20:
             #break
-        #print("\nrow:",i)
+        print("\nrow:",in_row)
 
         # Init the output row
         out_row = []
@@ -315,11 +322,24 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(time2)
 
         # 17 Sample ID
-        sampleid = in_row[search_header(in_header,"field:sample id")]
+            #sampleid_res = search_header(in_header,"field:sample id")
+            #print(sampleid_res)
+            #if sampleid_res is None:
+            #    sampleid = ''
+            #else:
+            #    sampleid = in_row[sampleid_res]
+        sampleid = check_for_cols(in_header, in_row, "field:sample id")
         out_row.append(sampleid)
 
         # 18 Specimen ID
-        specimenid = col_functions.specimen_id(in_row[search_header(in_header,"field:number of bees collected")])
+        #specimenid = col_functions.specimen_id(in_row[search_header(in_header,"field:number of bees collected")])
+        #specimenid_res = search_header(in_header,"field:number of bees collected")
+        #print(specimenid_res)
+        #if specimenid_res is None:
+        #    specimenid = ''
+        #else:
+        #    specimenid = in_row[specimenid_res]
+        specimenid = check_for_cols(in_header, in_row, "field:number of bees collected")
         out_row.append(specimenid)
 
         # 19 Country
@@ -338,25 +358,39 @@ def gen_output(out_header, out_file, in_header, in_data):
 
         # 22 Location
         # 23 Abbreviated Location
-        location = col_functions.location_guess(in_row[search_header(in_header,"place_guess")],"data/OR_cities.csv")
+        place_guess = check_for_cols(in_header, in_row, "place_guess")
+        location = col_functions.location_guess(place_guess,"data/OR_cities.csv")
         abbreviated_location = ''
         out_row.append(location)
         out_row.append(abbreviated_location)
 
         # 24 Dec. Lat.
         # 25 Dec. Long.
-        lat = col_functions.round_coord(in_row[search_header(in_header,"latitude")])
-        long = col_functions.round_coord(in_row[search_header(in_header,"longitude")])
-        out_row.append(lat)
-        out_row.append(long)
+        lat = check_for_cols(in_header, in_row, "latitude")
+        long = check_for_cols(in_header, in_row, "longitude")
+        if lat == '' or long == '':
+            out_row.append('')
+            out_row.append('')
+        else:
+            lat = col_functions.round_coord(lat)
+            long = col_functions.round_coord(long)
+            if lat is None or long is None:
+                out_row.append('')
+                out_row.append('')
+            else:
+                out_row.append(lat)
+                out_row.append(long)
 
         # 26 Pos Accuracy
-        pos_acc = in_row[search_header(in_header,"positional_accuracy")]
+        pos_acc = check_for_cols(in_header, in_row, "positional_accuracy")
         out_row.append(pos_acc)
 
         # 27 Elevation
-        elevation = col_functions.elevation(lat,long)
-        out_row.append(elevation)
+        if lat is None or long is None or lat == '' or long == '':
+            out_row.append('')
+        else:
+            elevation = col_functions.elevation(lat,long)
+            out_row.append(elevation)
 
         # 28 Collection method
         collection_method = in_row[search_header(in_header,"field:oba collection method")]
@@ -365,9 +399,12 @@ def gen_output(out_header, out_file, in_header, in_data):
         # 29 Associated plant - family
         # 30 Associated plant - species
         # 31 Associated plant - iNaturalist url
-        family = in_row[search_header(in_header,"taxon_family_name")]
-        species = in_row[search_header(in_header,"scientific_name")]
-        url = in_row[search_header(in_header,"url")]
+        family = check_for_cols(in_header, in_row, "taxon_family_name")
+            #family = in_row[search_header(in_header,"taxon_family_name")]
+        species = check_for_cols(in_header, in_row, "scientific_name")
+            #species = in_row[search_header(in_header,"scientific_name")]
+        url = check_for_cols(in_header, in_row, "url")
+            #url = in_row[search_header(in_header,"url")]
         out_row.append(family)
         out_row.append(species)
         out_row.append(url)
@@ -375,7 +412,7 @@ def gen_output(out_header, out_file, in_header, in_data):
 
         # Append generated row to output file
         # If the row has multiple bees collected, expand by that many
-        if specimenid is not None and specimenid != "NOT INT" and int(specimenid) > 1:
+        if specimenid is not None and specimenid != '' and specimenid != "NOT INT" and int(specimenid) > 1:
             #print("multiple bees, printing",specimenid,"times...")
             for i in range(1, int(specimenid)+1):
                 out_row[search_header(out_header,"Specimen ID")] = i
