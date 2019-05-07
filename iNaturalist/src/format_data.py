@@ -455,20 +455,7 @@ def main():
     # Create output data
     gen_output(output_header, output_file, input_header, input_rows)
     print("Writing to",output_file)
-
-    # Test elevation
-    ###################################
-
-    #col_functions.elevation_from_coords(1,2)
-
-    #import geocoder
-    #g = geocoder.elevation([44.5993, -123.3157])
-    #print ("elevation meters:",g.meters)
-
-    ###################################
-
     print()
-
 
 if __name__ == '__main__':
     main()
