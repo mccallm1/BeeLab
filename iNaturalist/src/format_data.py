@@ -15,10 +15,6 @@ import csv
 import openpyxl
 from openpyxl import load_workbook
 from openpyxl import Workbook
-    #from openpyxl import Workbook
-    #from openpyxl.reader.excel import load_workbook
-    #from openpyxl.compat import range
-    #from openpyxl.utils import get_column_letter
 # Local imports
 import col_functions
 import file_functions
@@ -214,7 +210,7 @@ def print_out_header(line_to_print, csv_file):
 
 def print_out_row(line_to_print, csv_file):
     print(repr(line_to_print))
-    with open(csv_file, 'a') as f:
+    with open(csv_file, 'a', newline = '') as f:
         writer = csv.writer(f)
         writer.writerow(line_to_print)
     '''

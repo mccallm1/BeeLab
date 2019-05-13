@@ -71,7 +71,7 @@ def date_2(in_date):
     month_numeral = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XIII']
 
     in_date = in_date.split('T')
-    print(in_date)
+    #print(in_date)
     # There are several input formats for this col
     # If the format can be split with T continue:
     if len(in_date) == 2:
@@ -164,7 +164,7 @@ def write_elevation_res(elevation_file, lat, long, elevation):
 
 def read_elevation_csv(elevation_file, lat, long):
     # Create more matches by simplifying coordinates
-    print(lat,long)
+    #print(lat,long)
     lat_rounded = '%.2f'%(float(lat))
     long_rounded = '%.2f'%(float(long))
 
@@ -180,7 +180,7 @@ def read_elevation_csv(elevation_file, lat, long):
 def elevation(lat, long):
     #check if the current lat and long have already been calculated
     csv_result = read_elevation_csv("data/elevations.csv", lat, long)
-    print(csv_result)
+    #print(csv_result)
     if csv_result != '':
         # A matching set of coordinates was found in results
         return int(float(csv_result))
