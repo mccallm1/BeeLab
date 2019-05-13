@@ -35,7 +35,7 @@ def collector_name(in_file, user_name):
                 last_name = row[0].split(' ')[1]
                 #Done
                 return first_name, first_initial, last_name
-    return "","",""    
+    return "","",""
 
 def date_1(in_date):
     # Check input
@@ -59,6 +59,8 @@ def time_1(in_time):
     in_time = in_time.split(' ')
     # Split time word by : to separate hours, mins, secs
     return_time = in_time[1].split(':')
+    # Convert from UTC to PST by -7
+    return_time[0] = str(int(return_time[0]) - 7)
     # Reattach the hours and minutes, leaving out seconds
     return_time = return_time[0] + ":" + return_time[1]
     return return_time
