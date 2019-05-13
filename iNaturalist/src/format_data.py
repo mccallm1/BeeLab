@@ -209,7 +209,7 @@ def print_out_header(line_to_print, csv_file):
         file.write("\n")
 
 def print_out_row(line_to_print, csv_file):
-    print(repr(line_to_print))
+    #print(repr(line_to_print))
     with open(csv_file, 'a', newline = '') as f:
         writer = csv.writer(f)
         writer.writerow(line_to_print)
@@ -278,23 +278,27 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(" ")
 
         # 4 iNaturalist ID
-        id = in_row[search_header(in_header,"user_id")]
+        id = check_for_cols(in_header, in_row, "user_id")
         out_row.append(id)
 
-        # 5 Collector - First Name
-        # 6 Collector - First Initial
-        # 7 Collector - Last Name
-        u_name = in_row[search_header(in_header,"user_login")]
+        # 5 iNaturalist Alias
+        iNat_alias = check_for_cols(in_header, in_row, "user_login")
+        out_row.append(iNat_alias)
+
+        # 6 Collector - First Name
+        # 7 Collector - First Initial
+        # 8 Collector - Last Name
+        u_name = check_for_cols(in_header, in_row, "user_login")
         f_name, f_initial, l_name = col_functions.collector_name("data/usernames.csv",u_name)
         out_row.append(f_name)
         out_row.append(f_initial)
         out_row.append(l_name)
 
-        # 8 Collection Day 1
-        # 9 Month 1
-        # 10 Year 1
-        # 11 Time 1
-        date1 = in_row[search_header(in_header,"observed_on")]
+        # 9 Collection Day 1
+        # 10 Month 1
+        # 11 Year 1
+        # 12 Time 1
+        date1 = check_for_cols(in_header, in_row, "observed_on")
         day1, month1, year1 = col_functions.date_1(date1)
         time1 = col_functions.time_1(in_row[search_header(in_header,"time_observed_at")])
         out_row.append(day1)
@@ -302,12 +306,12 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(year1)
         out_row.append(time1)
 
-        # 12 Collection Day 2
-        # 13 Moth 2
-        # 14 Year 2
-        # 15 Day 2 merge
-        # 16 Time 2
-        date2 = in_row[search_header(in_header,"field:trap removed")]
+        # 13 Collection Day 2
+        # 14 Moth 2
+        # 15 Year 2
+        # 16 Day 2 merge
+        # 17 Time 2
+        date2 = check_for_cols(in_header, in_row, "field:trap removed")
         day2, month2, year2, merge2 = col_functions.date_2(date2)
         time2 = col_functions.time_2(in_row[search_header(in_header,"field:trap removed")])
         out_row.append(day2)
@@ -316,7 +320,7 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(merge2)
         out_row.append(time2)
 
-        # 17 Sample ID
+        # 18 Sample ID
             #sampleid_res = search_header(in_header,"field:sample id")
             #print(sampleid_res)
             #if sampleid_res is None:
@@ -326,7 +330,7 @@ def gen_output(out_header, out_file, in_header, in_data):
         sampleid = check_for_cols(in_header, in_row, "field:sample id")
         out_row.append(sampleid)
 
-        # 18 Specimen ID
+        # 19 Specimen ID
         #specimenid = col_functions.specimen_id(in_row[search_header(in_header,"field:number of bees collected")])
         #specimenid_res = search_header(in_header,"field:number of bees collected")
         #print(specimenid_res)
@@ -337,30 +341,30 @@ def gen_output(out_header, out_file, in_header, in_data):
         specimenid = check_for_cols(in_header, in_row, "field:number of bees collected")
         out_row.append(specimenid)
 
-        # 19 Country
+        # 20 Country
         country = "USA"
         out_row.append(country)
 
-        # 20 State
+        # 21 State
         state = "OR"
         if in_row[search_header(in_header,"place_state_name")] != "Oregon":
             state = in_row[search_header(in_header,"place_state_name")]
         out_row.append(state)
 
-        # 21 County
+        # 22 County
         county = in_row[search_header(in_header,"place_county_name")]
         out_row.append(county)
 
-        # 22 Location
-        # 23 Abbreviated Location
+        # 23 Location
+        # 24 Abbreviated Location
         place_guess = check_for_cols(in_header, in_row, "place_guess")
         location = col_functions.location_guess(place_guess,"data/OR_cities.csv")
         abbreviated_location = ''
         out_row.append(location)
         out_row.append(abbreviated_location)
 
-        # 24 Dec. Lat.
-        # 25 Dec. Long.
+        # 25 Dec. Lat.
+        # 26 Dec. Long.
         lat = check_for_cols(in_header, in_row, "latitude")
         long = check_for_cols(in_header, in_row, "longitude")
         if lat == '' or long == '':
@@ -376,24 +380,24 @@ def gen_output(out_header, out_file, in_header, in_data):
                 out_row.append(lat)
                 out_row.append(long)
 
-        # 26 Pos Accuracy
+        # 27 Pos Accuracy
         pos_acc = check_for_cols(in_header, in_row, "positional_accuracy")
         out_row.append(pos_acc)
 
-        # 27 Elevation
+        # 28 Elevation
         if lat is None or long is None or lat == '' or long == '':
             out_row.append('')
         else:
             elevation = col_functions.elevation(lat,long)
             out_row.append(elevation)
 
-        # 28 Collection method
-        collection_method = in_row[search_header(in_header,"field:oba collection method")]
+        # 29 Collection method
+        collection_method = check_for_cols(in_header, in_row, "field:oba collection method")
         out_row.append(collection_method)
 
-        # 29 Associated plant - family
-        # 30 Associated plant - species
-        # 31 Associated plant - iNaturalist url
+        # 30 Associated plant - family
+        # 31 Associated plant - species
+        # 32 Associated plant - iNaturalist url
         family = check_for_cols(in_header, in_row, "taxon_family_name")
             #family = in_row[search_header(in_header,"taxon_family_name")]
         species = check_for_cols(in_header, in_row, "scientific_name")
@@ -407,13 +411,28 @@ def gen_output(out_header, out_file, in_header, in_data):
 
         # Append generated row to output file
         # If the row has multiple bees collected, expand by that many
-        if specimenid is not None and specimenid != '' and specimenid != "NOT INT" and int(specimenid) > 1:
-            #print("multiple bees, printing",specimenid,"times...")
-            for i in range(1, int(specimenid)+1):
-                out_row[search_header(out_header,"Specimen ID")] = i
-                print_out_row(out_row,out_file)
-        else:
-            print_out_row(out_row,out_file)
+        if specimenid is not None:
+            try:
+                specimenid = int(specimenid)
+                if int(specimenid) > 1:
+                    print("multiple bees, printing",specimenid,"times...")
+                    for i in range(1, int(specimenid)+1):
+                        out_row[search_header(out_header,"Specimen ID")] = i
+                        print_out_row(out_row,out_file)
+            except ValueError:
+                pass  # it was a string, not an int.
+                print("specimen ID is a string, not int")
+        print_out_row(out_row,out_file)
+
+        #if specimenid is not None and specimenid != '' and specimenid != "NOT INT":
+        #    if int(specimenid) > 1:
+        #        print("multiple bees, printing",specimenid,"times...")
+        #        for i in range(1, int(specimenid)+1):
+        #            out_row[search_header(out_header,"Specimen ID")] = i
+        #            print_out_row(out_row,out_file)
+        #else:
+        #    print_out_row(out_row,out_file)
+
         print()
         #break;
 
@@ -442,7 +461,7 @@ def main():
     print()
 
     # Sort columns before writing output
-    output_header = "Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Sample ID,Specimen ID,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL".split(",")
+    output_header = "Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Sample ID,Specimen ID,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL".split(",")
         # Revisit
         #output_header2 = read_xlsx_header("data/4_16_19/Output_from_Script.xlsx","Sheet1")
         #print(output_header2)

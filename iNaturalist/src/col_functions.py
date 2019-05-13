@@ -35,7 +35,7 @@ def collector_name(in_file, user_name):
                 last_name = row[0].split(' ')[1]
                 #Done
                 return first_name, first_initial, last_name
-    return "","",""
+    return "","",""    
 
 def date_1(in_date):
     # Check input
