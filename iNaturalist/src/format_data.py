@@ -112,7 +112,8 @@ def parse_cmd_line():
     # If output was not specified, use the input folder name
     if out_file == '':
         # We will use the split file path components
-        out_file += "results/" + in_file.split('/')[1] + "/results.csv"
+        out_file = "results/" + in_file.split('/')[1] + "/results.csv"
+        out_file_windows = "results/" + in_file.split('/')[1] + "/results_windows.csv"
 
     # Its necessary to append a '/' to the output folder so its treated as a dir
     out_folder = "results/" + in_file.split('/')[1] + "/"
@@ -132,7 +133,7 @@ def parse_cmd_line():
     f = open(out_file, "w")
 
     # Return vars
-    return in_file, out_file, in_type.lower()
+    return in_file, in_type.lower(), out_file, out_file_windows
 
 def read_csv_header(file_string):
     file = open(file_string, "r") # Open CSV file
@@ -195,7 +196,8 @@ def search_header(header, search_str):
             return index
 
 def print_out_header(line_to_print, csv_file):
-    with open(csv_file,'w') as file:
+    print(line_to_print)
+    with open(csv_file, 'w', newline = '') as file:
         for index, col in enumerate(line_to_print):
             # If the current col has a value, print it
             if col != '':
@@ -206,13 +208,14 @@ def print_out_header(line_to_print, csv_file):
             if index < len(line_to_print):
                 file.write(',')
         # Append newline as the last step to start the next row
-        file.write("\n")
+        #file.write("\n")
 
 def print_out_row(line_to_print, csv_file):
-    #print(repr(line_to_print))
+    #print(line_to_print)
     with open(csv_file, 'a', newline = '') as f:
         writer = csv.writer(f)
         writer.writerow(line_to_print)
+
     '''
     with open(csv_file,'a',newline='') as file:
         # Append generated row to output file
@@ -261,8 +264,6 @@ def gen_output(out_header, out_file, in_header, in_data):
     i = 0
     for in_row in csv.reader(in_data, skipinitialspace=True):
         i += 1
-        #if i == 20:
-            #break
         print("\nrow:",in_row)
 
         # Init the output row
@@ -321,23 +322,10 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(time2)
 
         # 18 Sample ID
-            #sampleid_res = search_header(in_header,"field:sample id")
-            #print(sampleid_res)
-            #if sampleid_res is None:
-            #    sampleid = ''
-            #else:
-            #    sampleid = in_row[sampleid_res]
         sampleid = check_for_cols(in_header, in_row, "field:sample id")
         out_row.append(sampleid)
 
         # 19 Specimen ID
-        #specimenid = col_functions.specimen_id(in_row[search_header(in_header,"field:number of bees collected")])
-        #specimenid_res = search_header(in_header,"field:number of bees collected")
-        #print(specimenid_res)
-        #if specimenid_res is None:
-        #    specimenid = ''
-        #else:
-        #    specimenid = in_row[specimenid_res]
         specimenid = check_for_cols(in_header, in_row, "field:number of bees collected")
         out_row.append(specimenid)
 
@@ -399,14 +387,12 @@ def gen_output(out_header, out_file, in_header, in_data):
         # 31 Associated plant - species
         # 32 Associated plant - iNaturalist url
         family = check_for_cols(in_header, in_row, "taxon_family_name")
-            #family = in_row[search_header(in_header,"taxon_family_name")]
         species = check_for_cols(in_header, in_row, "scientific_name")
-            #species = in_row[search_header(in_header,"scientific_name")]
         url = check_for_cols(in_header, in_row, "url")
-            #url = in_row[search_header(in_header,"url")]
         out_row.append(family)
         out_row.append(species)
         out_row.append(url)
+        print(out_row)
         # End of appending to output row
 
         # Append generated row to output file
@@ -421,22 +407,23 @@ def gen_output(out_header, out_file, in_header, in_data):
                         print_out_row(out_row,out_file)
             except ValueError:
                 pass  # it was a string, not an int.
-                print("specimen ID is a string, not int")
-        print_out_row(out_row,out_file)
-
-        #if specimenid is not None and specimenid != '' and specimenid != "NOT INT":
-        #    if int(specimenid) > 1:
-        #        print("multiple bees, printing",specimenid,"times...")
-        #        for i in range(1, int(specimenid)+1):
-        #            out_row[search_header(out_header,"Specimen ID")] = i
-        #            print_out_row(out_row,out_file)
-        #else:
-        #    print_out_row(out_row,out_file)
-
+                print_out_row(out_row,out_file)
+        else:
+            print_out_row(out_row,out_file)
         print()
-        #break;
 
 
+def create_csv_windows(out_file, out_file_windows):
+    #with open('/pythonwork/thefile_subset11.csv', 'w', newline='') as outfile:
+    #writer = csv.writer(outfile)
+    header, rows = read_csv(out_file)
+    print_out_header(header,out_file_windows)
+    for line in rows:
+        temp = repr(str(line))
+        #print(temp)
+        temp = temp[:-3]
+        #print(temp)
+        print_out_row(temp,out_file_windows)
 
 def main():
     # Intro
@@ -448,12 +435,13 @@ def main():
     input_file_type = ""
 
     # Parse command line arguments
-    input_file, output_file, input_file_type = parse_cmd_line()
+    input_file, input_file_type, output_file, output_file_windows = parse_cmd_line()
 
     # Pipeline Description
     print("\tInput path:\t",input_file)
-    print("\tOutput path:\t",output_file)
     print("\tInput type:\t",input_file_type)
+    print("\tOutput path:\t",output_file)
+    print("\tOutput path:\t",output_file_windows)
     print()
 
     # Choose which file reading function to call
@@ -462,13 +450,13 @@ def main():
 
     # Sort columns before writing output
     output_header = "Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Sample ID,Specimen ID,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL".split(",")
-        # Revisit
-        #output_header2 = read_xlsx_header("data/4_16_19/Output_from_Script.xlsx","Sheet1")
-        #print(output_header2)
+    # Revisit
+    #output_header2 = read_xlsx_header("data/4_16_19/Output_from_Script.xlsx","Sheet1")
+    #print(output_header2)
 
     # Create output data
     gen_output(output_header, output_file, input_header, input_rows)
-    print("Writing to",output_file)
+    #create_csv_windows(output_file, output_file_windows)
     print()
 
 if __name__ == '__main__':

@@ -173,9 +173,7 @@ def read_elevation_csv(elevation_file, lat, long):
     with open(elevation_file) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
-            #print(row)
             if str(row[0]) == lat_rounded and str(row[1]) == long_rounded:
-                #print("found a match")
                 return row[2]
     return ''
 
@@ -188,7 +186,6 @@ def elevation(lat, long):
         return int(float(csv_result))
     else:
         #print("now call API...")
-
         apikey = "AIzaSyBoc369wPHoc2R3fKHBSiIh4iwIY4qk7P4"
         url = "https://maps.googleapis.com/maps/api/elevation/json"
         request = requests.get(url+"?locations="+str(lat)+","+str(long)+"&key="+apikey)
