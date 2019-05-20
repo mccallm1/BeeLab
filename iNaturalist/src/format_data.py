@@ -15,10 +15,6 @@ import csv
 import openpyxl
 from openpyxl import load_workbook
 from openpyxl import Workbook
-    #from openpyxl import Workbook
-    #from openpyxl.reader.excel import load_workbook
-    #from openpyxl.compat import range
-    #from openpyxl.utils import get_column_letter
 # Local imports
 import col_functions
 import file_functions
@@ -116,7 +112,8 @@ def parse_cmd_line():
     # If output was not specified, use the input folder name
     if out_file == '':
         # We will use the split file path components
-        out_file += "results/" + in_file.split('/')[1] + "/results.csv"
+        out_file = "results/" + in_file.split('/')[1] + "/results.csv"
+        out_file_windows = "results/" + in_file.split('/')[1] + "/results_windows.csv"
 
     # Its necessary to append a '/' to the output folder so its treated as a dir
     out_folder = "results/" + in_file.split('/')[1] + "/"
@@ -136,7 +133,7 @@ def parse_cmd_line():
     f = open(out_file, "w")
 
     # Return vars
-    return in_file, out_file, in_type.lower()
+    return in_file, in_type.lower(), out_file, out_file_windows
 
 def read_csv_header(file_string):
     file = open(file_string, "r") # Open CSV file
@@ -199,7 +196,8 @@ def search_header(header, search_str):
             return index
 
 def print_out_header(line_to_print, csv_file):
-    with open(csv_file,'w') as file:
+    print(line_to_print)
+    with open(csv_file, 'w', newline = '') as file:
         for index, col in enumerate(line_to_print):
             # If the current col has a value, print it
             if col != '':
@@ -210,13 +208,14 @@ def print_out_header(line_to_print, csv_file):
             if index < len(line_to_print):
                 file.write(',')
         # Append newline as the last step to start the next row
-        file.write("\n")
+        #file.write("\n")
 
 def print_out_row(line_to_print, csv_file):
-    print(repr(line_to_print))
-    with open(csv_file, 'a') as f:
+    #print(line_to_print)
+    with open(csv_file, 'a', newline = '') as f:
         writer = csv.writer(f)
         writer.writerow(line_to_print)
+
     '''
     with open(csv_file,'a',newline='') as file:
         # Append generated row to output file
@@ -265,40 +264,51 @@ def gen_output(out_header, out_file, in_header, in_data):
     i = 0
     for in_row in csv.reader(in_data, skipinitialspace=True):
         i += 1
-        #if i == 20:
-            #break
         print("\nrow:",in_row)
 
         # Init the output row
         out_row = []
 
-        # 0 Date Label Printed
-        # 1 Date Label Sent
-        # 2 Observation No.
-        # 3 Voucher No.
+        # Date Label Printed
+        # Date Label Sent
+        # Observation No.
+        # Voucher No.
         out_row.append(" ")
         out_row.append(" ")
         out_row.append(" ")
         out_row.append(" ")
 
-        # 4 iNaturalist ID
-        id = in_row[search_header(in_header,"user_id")]
+        # iNaturalist ID
+        id = check_for_cols(in_header, in_row, "user_id")
         out_row.append(id)
 
-        # 5 Collector - First Name
-        # 6 Collector - First Initial
-        # 7 Collector - Last Name
-        u_name = in_row[search_header(in_header,"user_login")]
+        # iNaturalist Alias
+        iNat_alias = check_for_cols(in_header, in_row, "user_login")
+        out_row.append(iNat_alias)
+
+        # Collector - First Name
+        # Collector - First Initial
+        # Collector - Last Name
+        u_name = check_for_cols(in_header, in_row, "user_login")
         f_name, f_initial, l_name = col_functions.collector_name("data/usernames.csv",u_name)
         out_row.append(f_name)
         out_row.append(f_initial)
         out_row.append(l_name)
 
-        # 8 Collection Day 1
-        # 9 Month 1
-        # 10 Year 1
-        # 11 Time 1
-        date1 = in_row[search_header(in_header,"observed_on")]
+        # Sample ID
+        sampleid = check_for_cols(in_header, in_row, "field:sample id")
+        out_row.append(sampleid)
+
+        # Specimen ID
+        specimenid = check_for_cols(in_header, in_row, "field:number of bees collected")
+        out_row.append(specimenid)
+
+
+        # Collection Day 1
+        # Month 1
+        # Year 1
+        # Time 1
+        date1 = check_for_cols(in_header, in_row, "observed_on")
         day1, month1, year1 = col_functions.date_1(date1)
         time1 = col_functions.time_1(in_row[search_header(in_header,"time_observed_at")])
         out_row.append(day1)
@@ -306,12 +316,12 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(year1)
         out_row.append(time1)
 
-        # 12 Collection Day 2
-        # 13 Moth 2
-        # 14 Year 2
-        # 15 Day 2 merge
-        # 16 Time 2
-        date2 = in_row[search_header(in_header,"field:trap removed")]
+        # Collection Day 2
+        # Moth 2
+        # Year 2
+        # Day 2 merge
+        # Time 2
+        date2 = check_for_cols(in_header, in_row, "field:trap removed")
         day2, month2, year2, merge2 = col_functions.date_2(date2)
         time2 = col_functions.time_2(in_row[search_header(in_header,"field:trap removed")])
         out_row.append(day2)
@@ -320,51 +330,30 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(merge2)
         out_row.append(time2)
 
-        # 17 Sample ID
-            #sampleid_res = search_header(in_header,"field:sample id")
-            #print(sampleid_res)
-            #if sampleid_res is None:
-            #    sampleid = ''
-            #else:
-            #    sampleid = in_row[sampleid_res]
-        sampleid = check_for_cols(in_header, in_row, "field:sample id")
-        out_row.append(sampleid)
-
-        # 18 Specimen ID
-        #specimenid = col_functions.specimen_id(in_row[search_header(in_header,"field:number of bees collected")])
-        #specimenid_res = search_header(in_header,"field:number of bees collected")
-        #print(specimenid_res)
-        #if specimenid_res is None:
-        #    specimenid = ''
-        #else:
-        #    specimenid = in_row[specimenid_res]
-        specimenid = check_for_cols(in_header, in_row, "field:number of bees collected")
-        out_row.append(specimenid)
-
-        # 19 Country
+        # Country
         country = "USA"
         out_row.append(country)
 
-        # 20 State
+        # State
         state = "OR"
         if in_row[search_header(in_header,"place_state_name")] != "Oregon":
             state = in_row[search_header(in_header,"place_state_name")]
         out_row.append(state)
 
-        # 21 County
+        # County
         county = in_row[search_header(in_header,"place_county_name")]
         out_row.append(county)
 
-        # 22 Location
-        # 23 Abbreviated Location
+        # Location
+        # Abbreviated Location
         place_guess = check_for_cols(in_header, in_row, "place_guess")
         location = col_functions.location_guess(place_guess,"data/OR_cities.csv")
         abbreviated_location = ''
         out_row.append(location)
         out_row.append(abbreviated_location)
 
-        # 24 Dec. Lat.
-        # 25 Dec. Long.
+        # Dec. Lat.
+        # Dec. Long.
         lat = check_for_cols(in_header, in_row, "latitude")
         long = check_for_cols(in_header, in_row, "longitude")
         if lat == '' or long == '':
@@ -380,48 +369,62 @@ def gen_output(out_header, out_file, in_header, in_data):
                 out_row.append(lat)
                 out_row.append(long)
 
-        # 26 Pos Accuracy
+        # Pos Accuracy
         pos_acc = check_for_cols(in_header, in_row, "positional_accuracy")
         out_row.append(pos_acc)
 
-        # 27 Elevation
+        # Elevation
         if lat is None or long is None or lat == '' or long == '':
             out_row.append('')
         else:
             elevation = col_functions.elevation(lat,long)
             out_row.append(elevation)
 
-        # 28 Collection method
-        collection_method = in_row[search_header(in_header,"field:oba collection method")]
+        # Collection method
+        collection_method = check_for_cols(in_header, in_row, "field:oba collection method")
         out_row.append(collection_method)
 
-        # 29 Associated plant - family
-        # 30 Associated plant - species
-        # 31 Associated plant - iNaturalist url
+        # Associated plant - family
+        # Associated plant - species
+        # Associated plant - iNaturalist url
         family = check_for_cols(in_header, in_row, "taxon_family_name")
-            #family = in_row[search_header(in_header,"taxon_family_name")]
         species = check_for_cols(in_header, in_row, "scientific_name")
-            #species = in_row[search_header(in_header,"scientific_name")]
         url = check_for_cols(in_header, in_row, "url")
-            #url = in_row[search_header(in_header,"url")]
         out_row.append(family)
         out_row.append(species)
         out_row.append(url)
+        print(out_row)
         # End of appending to output row
 
         # Append generated row to output file
         # If the row has multiple bees collected, expand by that many
-        if specimenid is not None and specimenid != '' and specimenid != "NOT INT" and int(specimenid) > 1:
-            #print("multiple bees, printing",specimenid,"times...")
-            for i in range(1, int(specimenid)+1):
-                out_row[search_header(out_header,"Specimen ID")] = i
+        if specimenid is not None:
+            try:
+                specimenid = int(specimenid)
+                if int(specimenid) > 1:
+                    print("multiple bees, printing",specimenid,"times...")
+                    for i in range(1, int(specimenid)+1):
+                        out_row[search_header(out_header,"Specimen ID")] = i
+                        print_out_row(out_row,out_file)
+            except ValueError:
+                pass  # it was a string, not an int.
                 print_out_row(out_row,out_file)
         else:
             print_out_row(out_row,out_file)
         print()
-        #break;
 
 
+def create_csv_windows(out_file, out_file_windows):
+    #with open('/pythonwork/thefile_subset11.csv', 'w', newline='') as outfile:
+    #writer = csv.writer(outfile)
+    header, rows = read_csv(out_file)
+    print_out_header(header,out_file_windows)
+    for line in rows:
+        temp = repr(str(line))
+        #print(temp)
+        temp = temp[:-3]
+        #print(temp)
+        print_out_row(temp,out_file_windows)
 
 def main():
     # Intro
@@ -433,12 +436,13 @@ def main():
     input_file_type = ""
 
     # Parse command line arguments
-    input_file, output_file, input_file_type = parse_cmd_line()
+    input_file, input_file_type, output_file, output_file_windows = parse_cmd_line()
 
     # Pipeline Description
     print("\tInput path:\t",input_file)
-    print("\tOutput path:\t",output_file)
     print("\tInput type:\t",input_file_type)
+    print("\tOutput path:\t",output_file)
+    print("\tOutput path:\t",output_file_windows)
     print()
 
     # Choose which file reading function to call
@@ -446,14 +450,14 @@ def main():
     print()
 
     # Sort columns before writing output
-    output_header = "Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Sample ID,Specimen ID,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL".split(",")
-        # Revisit
-        #output_header2 = read_xlsx_header("data/4_16_19/Output_from_Script.xlsx","Sheet1")
-        #print(output_header2)
+    output_header = "Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Sample ID,Specimen ID,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL".split(",")
+    # Revisit
+    #output_header2 = read_xlsx_header("data/4_16_19/Output_from_Script.xlsx","Sheet1")
+    #print(output_header2)
 
     # Create output data
     gen_output(output_header, output_file, input_header, input_rows)
-    print("Writing to",output_file)
+    #create_csv_windows(output_file, output_file_windows)
     print()
 
 if __name__ == '__main__':

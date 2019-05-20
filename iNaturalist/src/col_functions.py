@@ -59,6 +59,8 @@ def time_1(in_time):
     in_time = in_time.split(' ')
     # Split time word by : to separate hours, mins, secs
     return_time = in_time[1].split(':')
+    # Convert from UTC to PST by -7
+    return_time[0] = str(int(return_time[0]) - 7)
     # Reattach the hours and minutes, leaving out seconds
     return_time = return_time[0] + ":" + return_time[1]
     return return_time
@@ -71,7 +73,7 @@ def date_2(in_date):
     month_numeral = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XIII']
 
     in_date = in_date.split('T')
-    print(in_date)
+    #print(in_date)
     # There are several input formats for this col
     # If the format can be split with T continue:
     if len(in_date) == 2:
@@ -164,29 +166,26 @@ def write_elevation_res(elevation_file, lat, long, elevation):
 
 def read_elevation_csv(elevation_file, lat, long):
     # Create more matches by simplifying coordinates
-    print(lat,long)
+    #print(lat,long)
     lat_rounded = '%.2f'%(float(lat))
     long_rounded = '%.2f'%(float(long))
 
     with open(elevation_file) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
-            #print(row)
             if str(row[0]) == lat_rounded and str(row[1]) == long_rounded:
-                #print("found a match")
                 return row[2]
     return ''
 
 def elevation(lat, long):
     #check if the current lat and long have already been calculated
     csv_result = read_elevation_csv("data/elevations.csv", lat, long)
-    print(csv_result)
+    #print(csv_result)
     if csv_result != '':
         # A matching set of coordinates was found in results
         return int(float(csv_result))
     else:
         #print("now call API...")
-
         apikey = "AIzaSyBoc369wPHoc2R3fKHBSiIh4iwIY4qk7P4"
         url = "https://maps.googleapis.com/maps/api/elevation/json"
         request = requests.get(url+"?locations="+str(lat)+","+str(long)+"&key="+apikey)
