@@ -269,36 +269,45 @@ def gen_output(out_header, out_file, in_header, in_data):
         # Init the output row
         out_row = []
 
-        # 0 Date Label Printed
-        # 1 Date Label Sent
-        # 2 Observation No.
-        # 3 Voucher No.
+        # Date Label Printed
+        # Date Label Sent
+        # Observation No.
+        # Voucher No.
         out_row.append(" ")
         out_row.append(" ")
         out_row.append(" ")
         out_row.append(" ")
 
-        # 4 iNaturalist ID
+        # iNaturalist ID
         id = check_for_cols(in_header, in_row, "user_id")
         out_row.append(id)
 
-        # 5 iNaturalist Alias
+        # iNaturalist Alias
         iNat_alias = check_for_cols(in_header, in_row, "user_login")
         out_row.append(iNat_alias)
 
-        # 6 Collector - First Name
-        # 7 Collector - First Initial
-        # 8 Collector - Last Name
+        # Collector - First Name
+        # Collector - First Initial
+        # Collector - Last Name
         u_name = check_for_cols(in_header, in_row, "user_login")
         f_name, f_initial, l_name = col_functions.collector_name("data/usernames.csv",u_name)
         out_row.append(f_name)
         out_row.append(f_initial)
         out_row.append(l_name)
 
-        # 9 Collection Day 1
-        # 10 Month 1
-        # 11 Year 1
-        # 12 Time 1
+        # Sample ID
+        sampleid = check_for_cols(in_header, in_row, "field:sample id")
+        out_row.append(sampleid)
+
+        # Specimen ID
+        specimenid = check_for_cols(in_header, in_row, "field:number of bees collected")
+        out_row.append(specimenid)
+
+
+        # Collection Day 1
+        # Month 1
+        # Year 1
+        # Time 1
         date1 = check_for_cols(in_header, in_row, "observed_on")
         day1, month1, year1 = col_functions.date_1(date1)
         time1 = col_functions.time_1(in_row[search_header(in_header,"time_observed_at")])
@@ -307,11 +316,11 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(year1)
         out_row.append(time1)
 
-        # 13 Collection Day 2
-        # 14 Moth 2
-        # 15 Year 2
-        # 16 Day 2 merge
-        # 17 Time 2
+        # Collection Day 2
+        # Moth 2
+        # Year 2
+        # Day 2 merge
+        # Time 2
         date2 = check_for_cols(in_header, in_row, "field:trap removed")
         day2, month2, year2, merge2 = col_functions.date_2(date2)
         time2 = col_functions.time_2(in_row[search_header(in_header,"field:trap removed")])
@@ -321,38 +330,30 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(merge2)
         out_row.append(time2)
 
-        # 18 Sample ID
-        sampleid = check_for_cols(in_header, in_row, "field:sample id")
-        out_row.append(sampleid)
-
-        # 19 Specimen ID
-        specimenid = check_for_cols(in_header, in_row, "field:number of bees collected")
-        out_row.append(specimenid)
-
-        # 20 Country
+        # Country
         country = "USA"
         out_row.append(country)
 
-        # 21 State
+        # State
         state = "OR"
         if in_row[search_header(in_header,"place_state_name")] != "Oregon":
             state = in_row[search_header(in_header,"place_state_name")]
         out_row.append(state)
 
-        # 22 County
+        # County
         county = in_row[search_header(in_header,"place_county_name")]
         out_row.append(county)
 
-        # 23 Location
-        # 24 Abbreviated Location
+        # Location
+        # Abbreviated Location
         place_guess = check_for_cols(in_header, in_row, "place_guess")
         location = col_functions.location_guess(place_guess,"data/OR_cities.csv")
         abbreviated_location = ''
         out_row.append(location)
         out_row.append(abbreviated_location)
 
-        # 25 Dec. Lat.
-        # 26 Dec. Long.
+        # Dec. Lat.
+        # Dec. Long.
         lat = check_for_cols(in_header, in_row, "latitude")
         long = check_for_cols(in_header, in_row, "longitude")
         if lat == '' or long == '':
@@ -368,24 +369,24 @@ def gen_output(out_header, out_file, in_header, in_data):
                 out_row.append(lat)
                 out_row.append(long)
 
-        # 27 Pos Accuracy
+        # Pos Accuracy
         pos_acc = check_for_cols(in_header, in_row, "positional_accuracy")
         out_row.append(pos_acc)
 
-        # 28 Elevation
+        # Elevation
         if lat is None or long is None or lat == '' or long == '':
             out_row.append('')
         else:
             elevation = col_functions.elevation(lat,long)
             out_row.append(elevation)
 
-        # 29 Collection method
+        # Collection method
         collection_method = check_for_cols(in_header, in_row, "field:oba collection method")
         out_row.append(collection_method)
 
-        # 30 Associated plant - family
-        # 31 Associated plant - species
-        # 32 Associated plant - iNaturalist url
+        # Associated plant - family
+        # Associated plant - species
+        # Associated plant - iNaturalist url
         family = check_for_cols(in_header, in_row, "taxon_family_name")
         species = check_for_cols(in_header, in_row, "scientific_name")
         url = check_for_cols(in_header, in_row, "url")
