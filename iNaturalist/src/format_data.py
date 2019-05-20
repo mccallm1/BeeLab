@@ -413,7 +413,6 @@ def gen_output(out_header, out_file, in_header, in_data):
             print_out_row(out_row,out_file)
         print()
 
-
 def create_csv_windows(out_file, out_file_windows):
     #with open('/pythonwork/thefile_subset11.csv', 'w', newline='') as outfile:
     #writer = csv.writer(outfile)
