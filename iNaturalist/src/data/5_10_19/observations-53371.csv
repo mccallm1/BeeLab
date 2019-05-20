@@ -1,0 +1,296 @@
+id,observed_on,time_observed_at,user_id,user_login,url,latitude,longitude,positional_accuracy,place_town_name,place_county_name,place_state_name,place_country_name,scientific_name,field:oba collection method,field:oba collector id,field:trap installed,field:trap removed
+24457787,2019-05-03,2019-05-03 18:44:37 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24457787,42.3447460542,-123.6196591427,5,,Josephine,Oregon,United States,Arctostaphylos viscida,net,,"",""
+24458646,2019-05-03,2019-05-03 18:58:06 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24458646,42.3444997286,-123.6193811342,32,,Josephine,Oregon,United States,Lupinus,net,,"",""
+24462254,2019-05-03,2019-05-03 19:55:06 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24462254,42.3568506958,-123.6587971823,5,,Josephine,Oregon,United States,Pinus jeffreyi,net,,"",""
+24463819,2019-05-03,2019-05-03 20:17:53 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24463819,44.63185109,-123.19694519,5,,Benton,Oregon,United States,Nemophila maculata,net,,,
+24464544,2019-05-03,2019-05-03 20:30:36 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24464544,44.63183765,-123.19695975,7,,Benton,Oregon,United States,Layia platyglossa,net,,,
+24466506,2019-05-03,2019-05-03 21:00:48 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24466506,44.63178352,-123.19689999,5,,Benton,Oregon,United States,Eschscholzia californica,net,,,
+24467687,2019-05-03,2019-05-03 21:19:46 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24467687,44.63184096,-123.19650208,3,,Benton,Oregon,United States,Nemophila menziesii,net,,,
+24475100,2019-05-03,2019-05-03 22:46:52 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/24475100,44.6254848736,-123.2172051632,5,,Benton,Oregon,United States,Iris tenax,net,,"",""
+24478149,2019-05-03,2019-05-03 20:35:58 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/24478149,44.6328624571,-123.1973093749,5,,Benton,Oregon,United States,Raphanus,net,,"",""
+24478851,2019-05-03,2019-05-03 22:31:52 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24478851,42.4945758004,-123.7126551849,5,,Josephine,Oregon,United States,Quercus vacciniifolia,net,,"",""
+24479028,2019-05-03,2019-05-03 23:11:21 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24479028,42.4942004169,-123.7130902895,5,,Josephine,Oregon,United States,Arctostaphylos uva-ursi,net,,"",""
+24479889,2019-05-03,2019-05-03 23:02:42 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24479889,44.62538731,-123.2170807,6,,Benton,Oregon,United States,,net,,,
+24479926,2019-05-03,2019-05-03 21:38:43 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24479926,44.8578440368,-122.2486378709,72,,Marion,Oregon,United States,Micranthes integrifolia,net,,"",""
+24479946,2019-05-03,2019-05-03 21:52:36 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24479946,44.8558421361,-122.2421703392,431,,Marion,Oregon,United States,Vaccinium parvifolium,net,,"",""
+24483763,2019-05-03,2019-05-03 20:24:52 UTC,733757,pattiwittrup,https://www.inaturalist.org/observations/24483763,44.631848008,-123.1969047405,8,,Benton,Oregon,United States,Nemophila,net,,"",""
+24485714,2019-05-03,2019-05-03 21:00:05 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24485714,44.9106725073,-120.3702457343,10,,Wheeler,Oregon,United States,Purshia tridentata,net,,"",""
+24485753,2019-05-03,2019-05-03 22:05:19 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24485753,44.9150021794,-120.2693622374,10,,Wheeler,Oregon,United States,Prunus emarginata,net,,"",""
+24486866,2019-05-03,2019-05-03 22:18:07 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/24486866,44.6252531559,-123.2174214163,5,,Benton,Oregon,United States,Phacelia tanacetifolia,net,,"",""
+24487204,2019-05-03,2019-05-03 20:53:52 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24487204,42.4427532442,-123.6825603155,32,,Josephine,Oregon,United States,,net,,"",""
+24487218,2019-05-03,2019-05-03 21:23:48 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24487218,42.4428234884,-123.6833041042,32,,Josephine,Oregon,United States,,net,,"",""
+24487223,2019-05-03,2019-05-03 23:34:14 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24487223,42.4952570838,-123.7120022445,48,,Josephine,Oregon,United States,Arctostaphylos patula,net,,"",""
+24495022,2019-05-03,2019-05-03 20:13:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24495022,42.4431083333,-123.6824722222,24,,Josephine,Oregon,United States,Lomatium,net,,,
+24495700,2019-05-03,2019-05-04 06:10:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24495700,42.4431,-123.6824,,,Josephine,Oregon,United States,Montia,net,,,
+24495844,2019-05-03,2019-05-04 06:22:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24495844,42.4952,-123.712,,,Josephine,Oregon,United States,,net,,,
+24529695,2019-05-04,2019-05-04 18:56:22 UTC,1467387,loishawk,https://www.inaturalist.org/observations/24529695,,,4,,,,,Pieris japonica,net,,2019-05-04T12:27:00-07:00,
+24533468,2019-05-04,2019-05-04 19:52:34 UTC,816767,jeaniet,https://www.inaturalist.org/observations/24533468,45.1338228258,-123.372452343,10,,Yamhill,Oregon,United States,Calochortus tolmiei,net,,"",""
+24537655,2019-05-04,2019-05-04 20:46:55 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24537655,44.8843935645,-122.8875959573,5,,Marion,Oregon,United States,Plectritis congesta,net,,"",""
+24538267,2019-05-04,2019-05-04 20:55:21 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24538267,44.8843480926,-122.8876853922,5,,Marion,Oregon,United States,Plectritis congesta,net,,"",""
+24538474,2019-05-04,2019-05-04 20:58:10 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24538474,44.8844253319,-122.8877473344,5,,Marion,Oregon,United States,Rosmarinus,net,,"",""
+24542471,2019-05-04,2019-05-04 21:35:37 UTC,1482843,jdillow,https://www.inaturalist.org/observations/24542471,45.27387626,-123.01111426,7,,Yamhill,Oregon,United States,Origanum vulgare,net,,,
+24542505,2019-05-04,2019-05-04 21:40:38 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24542505,42.2313580171,-123.7029413769,16,,Josephine,Oregon,United States,Balsamorhiza sericea,net,,,
+24542663,2019-05-04,2019-05-04 21:40:16 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24542663,44.3117729947,-121.5912431852,10,,Deschutes,Oregon,United States,,nest block,,"",""
+24547490,2019-05-04,2019-05-04 21:00:00 UTC,816767,jeaniet,https://www.inaturalist.org/observations/24547490,45.1337999432,-123.3730747831,5,,Yamhill,Oregon,United States,Rosmarinus officinalis,net,,"",""
+24549249,2019-05-04,2019-05-04 23:10:39 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24549249,42.2380346559,-123.7036405436,24,,Josephine,Oregon,United States,Phacelia corymbosa,net,,,
+24562818,2019-05-04,2019-05-04 21:37:50 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24562818,45.8812698216,-122.8923070058,66,,Columbia,Oregon,United States,,net,,,
+24563075,2019-05-04,2019-05-04 21:44:30 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24563075,45.881778717,-122.8927536011,,,Columbia,Oregon,United States,Aronia melanocarpa,net,,,
+24563251,2019-05-04,2019-05-04 22:07:22 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24563251,45.8813781738,-122.8922576904,,,Columbia,Oregon,United States,Rhododendron,net,,,
+24571977,2019-05-04,2019-05-05 02:11:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24571977,42.2381583333,-123.7036944444,80,,Josephine,Oregon,United States,Lomatium,net,,,
+24606341,2019-05-05,2019-05-05 18:14:40 UTC,429964,amelathopoulos,https://www.inaturalist.org/observations/24606341,45.4800017,-123.02144981,16,,Washington,Oregon,United States,Vaccinium,net,,,
+24619218,2019-05-05,2019-05-05 20:57:54 UTC,1462047,marksg,https://www.inaturalist.org/observations/24619218,45.5174397623,-122.8502006024,65,,Washington,Oregon,United States,Erysimum capitatum,net,,"",""
+24619638,2019-05-05,2019-05-05 21:04:23 UTC,1462047,marksg,https://www.inaturalist.org/observations/24619638,45.517348188,-122.8501148849,65,,Washington,Oregon,United States,Aquifoliaceae,net,,,
+24620283,2019-05-05,2019-05-05 18:23:59 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24620283,44.96185,-123.2592916667,5,,Polk,Oregon,United States,Valerianella locusta,net,,"",""
+24620841,2019-05-05,2019-05-05 21:16:44 UTC,1482843,jdillow,https://www.inaturalist.org/observations/24620841,45.35025322,-123.0011371,9,,Yamhill,Oregon,United States,Rhododendron,net,,,
+24622883,2019-05-05,2019-05-05 18:38:31 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24622883,44.9622333333,-123.259505,5,,Polk,Oregon,United States,,net,,"",""
+24623058,2019-05-05,2019-05-05 18:32:45 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24623058,44.9622033333,-123.2596366667,5,,Polk,Oregon,United States,Sanicula bipinnatifida,net,,"",""
+24623080,2019-05-05,2019-05-05 21:51:57 UTC,1462047,marksg,https://www.inaturalist.org/observations/24623080,45.5174805131,-122.8502681573,5,,Washington,Oregon,United States,Allium,net,,"",""
+24626737,2019-05-05,2019-05-05 20:38:09 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24626737,46.1007993742,-122.9803344235,263,,Columbia,Oregon,United States,Hyacinthoides,net,,,
+24629012,2019-05-04,2019-05-04 23:38:53 UTC,927865,natalielozano,https://www.inaturalist.org/observations/24629012,45.4983389668,-122.601781101,6,Portland,Multnomah,Oregon,United States,Fragaria vesca,net,,"",""
+24629056,2019-05-05,2019-05-05 23:06:41 UTC,927865,natalielozano,https://www.inaturalist.org/observations/24629056,45.4983058901,-122.6016684167,6,Portland,Multnomah,Oregon,United States,Smyrnium olusatrum,net,,"",""
+24632968,2019-05-05,2019-05-05 21:10:00 UTC,1539907,pdxmartha,https://www.inaturalist.org/observations/24632968,45.46245199,-123.96854599,9,,Tillamook,Oregon,United States,Syringa vulgaris,net,,,
+24635640,2019-05-05,2019-05-06 00:47:31 UTC,792468,molfamily,https://www.inaturalist.org/observations/24635640,45.1711483856,-123.1857576076,24,,Yamhill,Oregon,United States,Lupinus,net,,"",""
+24650141,2019-05-05,2019-05-05 22:08:20 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24650141,44.2356084846,-121.5632182081,5,,Deschutes,Oregon,United States,Salix,net,,"",""
+24650183,2019-05-05,2019-05-05 22:33:52 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24650183,44.2353405152,-121.5627209936,10,,Deschutes,Oregon,United States,Arctostaphylos patula,net,,"",""
+24679998,2019-05-03,2019-05-03 23:09:36 UTC,800960,pamarion,https://www.inaturalist.org/observations/24679998,45.5043746951,-122.2403503397,5,,Multnomah,Oregon,United States,Prunus laurocerasus,net,,"",""
+24686151,2019-05-06,2019-05-06 17:19:51 UTC,792468,molfamily,https://www.inaturalist.org/observations/24686151,45.3023418576,-123.4150474829,24,,Yamhill,Oregon,United States,Taraxacum officinale,net,,"",""
+24686261,2019-05-06,2019-05-06 17:33:59 UTC,792468,molfamily,https://www.inaturalist.org/observations/24686261,45.3081155075,-123.4190959634,24,,Yamhill,Oregon,United States,Acer circinatum,net,,"",""
+24686269,2019-05-06,2019-05-06 20:03:57 UTC,433308,annie333,https://www.inaturalist.org/observations/24686269,44.91971268,-123.11562504,9,,Polk,Oregon,United States,Camassia leichtlinii,net,,,
+24686363,2019-05-06,2019-05-06 20:08:02 UTC,792468,molfamily,https://www.inaturalist.org/observations/24686363,45.1713849541,-123.1853029704,12,,Yamhill,Oregon,United States,Phacelia tanacetifolia,net,,"",""
+24686436,2019-05-06,2019-05-06 20:09:29 UTC,433308,annie333,https://www.inaturalist.org/observations/24686436,44.91974586,-123.11565094,9,,Polk,Oregon,United States,Taraxacum,net,,,
+24686562,2019-05-06,2019-05-06 20:11:51 UTC,792468,molfamily,https://www.inaturalist.org/observations/24686562,45.1712923833,-123.1854544126,24,,Yamhill,Oregon,United States,Boraginaceae,net,,"",""
+24690565,2019-05-06,2019-05-06 21:11:29 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24690565,44.28711546,-120.84408708,6,,Crook,Oregon,United States,Salix,net,,,
+24695347,2019-05-06,2019-05-06 22:28:22 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24695347,42.095474101,-123.6838183903,24,,Josephine,Oregon,United States,Calochortus,net,,,
+24695579,2019-05-03,2019-05-03 18:15:34 UTC,841568,lohump,https://www.inaturalist.org/observations/24695579,44.0198439917,-123.1585997343,263,,Lane,Oregon,United States,Ranunculus orthorhynchus,net,,,
+24696006,2019-05-03,2019-05-03 19:06:34 UTC,841568,lohump,https://www.inaturalist.org/observations/24696006,44.0159683228,-123.1566543579,,,Lane,Oregon,United States,Rubus ursinus,net,,,
+24696260,2019-05-03,2019-05-03 20:10:34 UTC,841568,lohump,https://www.inaturalist.org/observations/24696260,44.0134887695,-123.1519775391,,,Lane,Oregon,United States,Ranunculus orthorhynchus,net,,,
+24696513,2019-05-03,2019-05-03 21:11:56 UTC,841568,lohump,https://www.inaturalist.org/observations/24696513,44.0165100098,-123.1547088623,,,Lane,Oregon,United States,,net,,,
+24696830,2019-05-05,2019-05-05 22:05:19 UTC,841568,lohump,https://www.inaturalist.org/observations/24696830,,,,,,,,Rubus ursinus,net,,,
+24697117,2019-05-05,2019-05-05 19:13:36 UTC,841568,lohump,https://www.inaturalist.org/observations/24697117,,,,,,,,Elaeagnus umbellata,net,,,
+24697291,2019-05-06,2019-05-06 23:02:14 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24697291,45.5314898295,-122.6089902967,9,Portland,Multnomah,Oregon,United States,Rubus ursinus,net,,,
+24697465,2019-05-05,2019-05-05 20:15:56 UTC,841568,lohump,https://www.inaturalist.org/observations/24697465,,,,,,,,Raphanus sativus,net,,,
+24698720,2019-05-06,2019-05-06 20:41:36 UTC,770229,englerj,https://www.inaturalist.org/observations/24698720,45.6902963,-121.3846108,3400,,Wasco,Oregon,United States,Balsamorhiza careyana,net,,,
+24700052,2019-05-06,2019-05-06 21:37:05 UTC,800960,pamarion,https://www.inaturalist.org/observations/24700052,45.5029165148,-122.2410415762,200,,Multnomah,Oregon,United States,Fragaria vesca,net,,"",""
+24701088,2019-05-06,2019-05-06 19:49:05 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24701088,42.65117905,-123.58747462,7,,Josephine,Oregon,United States,Madia elegans,net,,,
+24706983,2019-05-06,2019-05-06 20:54:14 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24706983,46.1008911133,-122.9800186157,,,Columbia,Oregon,United States,Spiraea,net,,,
+24709069,2019-05-06,2019-05-06 20:26:51 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24709069,42.65063811,-123.59033444,9,,Josephine,Oregon,United States,Phacelia heterophylla,net,,,
+24709221,2019-05-06,2019-05-06 23:53:11 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24709221,42.42689942,-123.54456243,6,,Josephine,Oregon,United States,,net,,,
+24709227,2019-05-06,2019-05-07 00:04:27 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24709227,42.42696496,-123.54461446,7,,Josephine,Oregon,United States,Sisyrinchium bellum,net,,,
+24709350,2019-05-06,2019-05-07 00:13:09 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24709350,42.42700049,-123.54475875,7,,Josephine,Oregon,United States,Plectritis congesta,net,,,
+24709496,2019-05-06,2019-05-07 00:46:36 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24709496,42.42692518,-123.54442924,8,,Josephine,Oregon,United States,Lomatium triternatum,net,,,
+24729250,2019-05-06,2019-05-07 00:53:49 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24729250,42.4149957,-123.4183116,3099,,Josephine,Oregon,United States,Quercus garryana breweri,net,,,
+24740884,2019-05-07,2019-05-07 18:08:35 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24740884,45.54434417,-122.3721591,9,,Multnomah,Oregon,United States,Camassia,net,,,
+24742494,2019-05-07,2019-05-07 18:33:21 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24742494,45.54474667,-122.37206227,5,,Multnomah,Oregon,United States,Camassia,net,,,
+24744531,2019-05-07,2019-05-07 19:06:03 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24744531,42.23717248,-123.69508886,7,,Josephine,Oregon,United States,Calochortus tolmiei,net,,,
+24744608,2019-05-07,2019-05-07 19:08:34 UTC,1462047,marksg,https://www.inaturalist.org/observations/24744608,42.2373022931,-123.6964092964,10,,Josephine,Oregon,United States,Asterales,net,,"",""
+24745926,2019-05-07,2019-05-07 19:32:58 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24745926,42.23754265,-123.69527711,7,,Josephine,Oregon,United States,Packera,net,,,
+24746672,2019-05-07,2019-05-07 19:41:30 UTC,1445574,janknapik,https://www.inaturalist.org/observations/24746672,42.2371435997,-123.6964258513,9,,Josephine,Oregon,United States,,net,,"",""
+24747411,2019-05-07,2019-05-07 20:07:17 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24747411,42.2372913966,-123.6967522,5,,Josephine,Oregon,United States,Collinsia sparsiflora,net,,"",""
+24749942,2019-05-07,2019-05-07 20:42:06 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24749942,42.2378275451,-123.6963893474,5,,Josephine,Oregon,United States,Festuca,net,,"",""
+24750066,2019-05-07,2019-05-07 20:49:06 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24750066,42.2375006508,-123.6960240641,5,,Josephine,Oregon,United States,Calochortus,net,,"",""
+24752712,2019-05-07,2019-05-07 21:34:47 UTC,800960,pamarion,https://www.inaturalist.org/observations/24752712,45.5029660743,-122.2410841753,50,,Multnomah,Oregon,United States,Rhododendron periclymenoides,net,,"",""
+24753190,2019-05-06,2019-05-06 18:30:09 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24753190,45.8662475646,-122.8227077891,5,,Columbia,Oregon,United States,Camassia quamash,pan trap,,"",07 May 2019 13:50:51 -0700
+24753335,2019-05-07,2019-05-07 20:28:09 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24753335,42.23708167,-123.69620979,9,,Josephine,Oregon,United States,Collinsia linearis,net,,,
+24754173,2019-05-07,2019-05-07 21:58:41 UTC,800960,pamarion,https://www.inaturalist.org/observations/24754173,45.5031633424,-122.2409188003,5,,Multnomah,Oregon,United States,Arctostaphylos,net,,"",""
+24754885,2019-05-03,2019-05-03 21:01:24 UTC,858490,heike_williams,https://www.inaturalist.org/observations/24754885,44.91086543,-120.37017564,9,,Wheeler,Oregon,United States,Purshia tridentata,net,,,
+24754901,2019-05-06,2019-05-06 18:22:13 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24754901,45.866333982,-122.8226645385,5,,Columbia,Oregon,United States,Plectritis,net,,"",""
+24754908,2019-05-03,2019-05-03 22:00:00 UTC,858490,heike_williams,https://www.inaturalist.org/observations/24754908,44.91361,-121.27054,,,Wasco,Oregon,United States,Lomatium,net,,,
+24754921,2019-05-07,2019-05-07 20:25:49 UTC,858490,heike_williams,https://www.inaturalist.org/observations/24754921,44.49103409,-121.15883534,7,,Jefferson,Oregon,United States,,net,,,
+24754950,2019-05-07,2019-05-07 21:44:27 UTC,858490,heike_williams,https://www.inaturalist.org/observations/24754950,44.6794426,-121.1430428,116,,Jefferson,Oregon,United States,,net,,,
+24754976,2019-05-06,2019-05-06 19:02:15 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24754976,45.8661106881,-122.8226030992,5,,Columbia,Oregon,United States,Camassia quamash,net,,"",""
+24755062,2019-05-06,2019-05-06 19:28:47 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24755062,45.8656583587,-122.8243855109,5,,Columbia,Oregon,United States,,net,,"",""
+24755063,2019-05-07,2019-05-07 22:21:54 UTC,792468,molfamily,https://www.inaturalist.org/observations/24755063,45.4774439882,-123.2329854606,32,,Washington,Oregon,United States,Geranium lucidum,net,,"",""
+24756234,2019-05-07,2019-05-07 22:50:06 UTC,792468,molfamily,https://www.inaturalist.org/observations/24756234,45.4775346367,-123.2334765896,48,,Washington,Oregon,United States,Rubus ursinus,net,,"",""
+24757112,2019-05-07,2019-05-07 21:48:25 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24757112,42.2310939851,-123.6602179987,5,,Josephine,Oregon,United States,Allium siculum,net,,"",""
+24757286,2019-05-07,2019-05-07 23:09:58 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24757286,42.2460323805,-123.6878806261,10,,Josephine,Oregon,United States,Lomatium,net,,"",""
+24757829,2019-05-07,2019-05-07 23:25:59 UTC,792468,molfamily,https://www.inaturalist.org/observations/24757829,45.4781458615,-123.2409443981,96,,Washington,Oregon,United States,Geranium lucidum,net,,"",""
+24760023,2019-05-07,2019-05-07 18:59:37 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24760023,42.237025,-123.6950533333,10,,Josephine,Oregon,United States,Lewisia oppositifolia,net,,"",""
+24760465,2019-05-07,2019-05-07 19:03:48 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24760465,42.237025,-123.6950533333,5095,,Josephine,Oregon,United States,,net,,"",""
+24760599,2019-05-07,2019-05-07 19:13:53 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24760599,42.2374333333,-123.6952283333,5,,Josephine,Oregon,United States,Allium falcifolium,net,,"",""
+24760941,2019-05-07,2019-05-07 22:07:21 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24760941,42.23077879,-123.66062955,8,,Josephine,Oregon,United States,Calochortus tolmiei,net,,,
+24760949,2019-05-07,2019-05-07 19:19:15 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24760949,42.237575,-123.6951533333,10,,Josephine,Oregon,United States,Calochortus tolmiei,net,,"",""
+24761174,2019-05-07,2019-05-07 23:08:40 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24761174,42.24572659,-123.68764746,6,,Josephine,Oregon,United States,Toxicoscordion venenosum,net,,,
+24761302,2019-05-07,2019-05-08 00:19:10 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24761302,42.2784538481,-123.6459701221,65,,Josephine,Oregon,United States,Ranunculus occidentalis,net,,"",""
+24761318,2019-05-07,2019-05-07 20:12:59 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24761318,42.2377133333,-123.6967383333,5,,Josephine,Oregon,United States,Collinsia,net,,"",""
+24761354,2019-05-07,2019-05-07 23:19:46 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24761354,42.24598133,-123.6879594,9,,Josephine,Oregon,United States,Phacelia corymbosa,net,,,
+24762287,2019-05-07,2019-05-07 20:53:34 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24762287,42.237275,-123.695525,5,,Josephine,Oregon,United States,Toxicoscordion venenosum,net,,"",""
+24762384,2019-05-07,2019-05-07 21:43:47 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24762384,42.231545,-123.6610416667,50,,Josephine,Oregon,United States,Calochortus tolmiei,net,,"",""
+24762472,2019-05-07,2019-05-07 21:46:01 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24762472,42.2313916667,-123.6609716667,10,,Josephine,Oregon,United States,Allium falcifolium,net,,"",""
+24762879,2019-05-07,2019-05-07 21:56:41 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24762879,42.2310783333,-123.6604916667,5,,Josephine,Oregon,United States,Triteleia hyacinthina,net,,"",""
+24763084,2019-05-07,2019-05-07 22:58:53 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24763084,42.2460466667,-123.6879883333,10,,Josephine,Oregon,United States,Gilia capitata,net,,"",""
+24763288,2019-05-07,2019-05-07 23:07:48 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24763288,42.245975,-123.6881716667,10,,Josephine,Oregon,United States,Collinsia,net,,"",""
+24763477,2019-05-07,2019-05-07 23:05:21 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24763477,42.2458283333,-123.68757,10,,Josephine,Oregon,United States,Lomatium,net,,"",""
+24765306,2019-05-07,2019-05-07 19:07:34 UTC,770229,englerj,https://www.inaturalist.org/observations/24765306,44.35950547,-121.29504142,8,,Deschutes,Oregon,United States,Salix,net,,,
+24767165,2019-05-07,2019-05-08 00:27:29 UTC,792468,molfamily,https://www.inaturalist.org/observations/24767165,45.4737848169,-123.2476196852,16,,Washington,Oregon,United States,Vicia sativa,net,,"",""
+24768932,2019-05-07,2019-05-08 00:42:23 UTC,325615,grottaa,https://www.inaturalist.org/observations/24768932,45.4738567304,-123.2479177137,10,,Washington,Oregon,United States,Vicia sativa,net,,"",""
+24770436,2019-05-07,2019-05-07 19:05:25 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24770436,42.2369395109,-123.6958319153,6,,Josephine,Oregon,United States,Collinsia sparsiflora,net,,"",""
+24770686,2019-05-07,2019-05-07 22:28:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24770686,42.21727,-123.7338,9492,,Josephine,Oregon,United States,Calochortus tolmiei,net,,,
+24770842,2019-05-07,2019-05-08 04:52:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24770842,42.2465877975,-123.6895878584,122,,Josephine,Oregon,United States,Erythranthe guttata,net,,,
+24780940,2019-05-07,2019-05-07 21:47:28 UTC,792775,dto,https://www.inaturalist.org/observations/24780940,45.4981846,-123.21911478,10,,Washington,Oregon,United States,Cytisus scoparius,net,,,
+24780952,2019-05-07,2019-05-07 22:07:40 UTC,792775,dto,https://www.inaturalist.org/observations/24780952,45.49800448,-123.2191445,11,,Washington,Oregon,United States,Malus pumila,net,,,
+24780970,2019-05-07,2019-05-07 23:43:47 UTC,792775,dto,https://www.inaturalist.org/observations/24780970,45.4673806,-123.1885303,110,,Washington,Oregon,United States,Claytonia sibirica,net,,,
+24788682,2019-05-08,2019-05-08 16:02:46 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24788682,42.2827059729,-123.6513789465,5,,Josephine,Oregon,United States,Toxicoscordion venenosum,net,,"",""
+24791105,2019-05-08,2019-05-08 16:54:12 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24791105,42.2834019643,-123.6507615355,5,,Josephine,Oregon,United States,Calochortus,net,,"",""
+24791860,2019-05-08,2019-05-08 17:09:46 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24791860,42.28328768,-123.65093644,6,,Josephine,Oregon,United States,Calochortus tolmiei,net,,,
+24792816,2019-05-08,2019-05-08 17:30:39 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24792816,42.28407688,-123.6508771,8,,Josephine,Oregon,United States,Lewisia oppositifolia,net,,,
+24793327,2019-05-08,2019-05-08 17:41:16 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24793327,42.28423066,-123.65079132,5,,Josephine,Oregon,United States,,net,,,
+24793344,2019-05-08,2019-05-08 17:42:08 UTC,792468,molfamily,https://www.inaturalist.org/observations/24793344,45.2200124285,-123.3357920245,12,,Yamhill,Oregon,United States,Iris tenax,net,,"",""
+24793689,2019-05-08,2019-05-08 17:47:43 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24793689,42.28424647,-123.65093769,7,,Josephine,Oregon,United States,Calochortus tolmiei,net,,,
+24794191,2019-05-08,2019-05-08 17:58:49 UTC,816767,jeaniet,https://www.inaturalist.org/observations/24794191,42.5073019183,-124.4136592281,5,,Curry,Oregon,United States,Hypochaeris radicata,net,,"",""
+24794295,2019-05-08,2019-05-08 18:00:49 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24794295,44.23811939,-121.18303717,21,,Deschutes,Oregon,United States,,net,,2019-05-08T11:02:00-07:00,
+24796167,2019-05-08,2019-05-08 18:39:44 UTC,792468,molfamily,https://www.inaturalist.org/observations/24796167,45.207410799,-123.3490134225,24,,Yamhill,Oregon,United States,Claytonia perfoliata,net,,"",""
+24800104,2019-05-08,2019-05-08 16:24:24 UTC,1462047,marksg,https://www.inaturalist.org/observations/24800104,42.282628608,-123.6513901782,10,,Josephine,Oregon,United States,Asteraceae,net,,"",""
+24800453,2019-05-07,2019-05-07 19:14:30 UTC,1462047,marksg,https://www.inaturalist.org/observations/24800453,42.2373911832,-123.69632422,10,,Josephine,Oregon,United States,Collinsia,net,,"",""
+24800735,2019-05-07,2019-05-07 19:50:02 UTC,1462047,marksg,https://www.inaturalist.org/observations/24800735,42.2378320294,-123.6964902655,10,,Josephine,Oregon,United States,Allium,net,,"",""
+24800923,2019-05-07,2019-05-07 20:10:50 UTC,1462047,marksg,https://www.inaturalist.org/observations/24800923,42.2378870985,-123.6966691354,5,,Josephine,Oregon,United States,Calochortus,net,,"",""
+24803105,2019-05-08,2019-05-08 21:01:42 UTC,792468,molfamily,https://www.inaturalist.org/observations/24803105,45.2199872505,-123.3360376802,16,,Yamhill,Oregon,United States,Fragaria,net,,"",""
+24803346,2019-05-08,2019-05-08 21:06:21 UTC,792468,molfamily,https://www.inaturalist.org/observations/24803346,45.2202050926,-123.3358679024,32,,Yamhill,Oregon,United States,Rubus ursinus,net,,"",""
+24803923,2019-05-08,2019-05-08 20:32:02 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24803923,46.1008415222,-122.9797897339,,,Columbia,Oregon,United States,Crataegus monogyna,net,,,
+24804334,2019-05-08,2019-05-08 15:39:53 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24804334,42.2815216667,-123.652345,10,,Josephine,Oregon,United States,Agoseris,net,,"",""
+24805768,2019-05-08,2019-05-08 16:21:23 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24805768,42.2832033333,-123.6504533333,10,,Josephine,Oregon,United States,Calochortus tolmiei,net,,"",""
+24805932,2019-05-07,2019-05-07 20:34:46 UTC,1462047,marksg,https://www.inaturalist.org/observations/24805932,42.2378332029,-123.6967185048,5,,Josephine,Oregon,United States,Ranunculus occidentalis,net,,"",""
+24806269,2019-05-07,2019-05-07 20:58:01 UTC,1462047,marksg,https://www.inaturalist.org/observations/24806269,42.2372214916,-123.6964366214,10,,Josephine,Oregon,United States,Calochortus,net,,"",""
+24806501,2019-05-07,2019-05-07 21:54:03 UTC,1462047,marksg,https://www.inaturalist.org/observations/24806501,42.2464839556,-123.6891225727,10,,Josephine,Oregon,United States,Phacelia,net,,"",""
+24807038,2019-05-08,2019-05-08 17:02:46 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24807038,42.2844,-123.6508466667,5,,Josephine,Oregon,United States,,net,,"",""
+24808751,2019-05-08,2019-05-08 18:46:11 UTC,792775,dto,https://www.inaturalist.org/observations/24808751,45.1846488,-123.218284,2599,,Yamhill,Oregon,United States,Claytonia,net,,,
+24808773,2019-05-08,2019-05-08 18:50:22 UTC,792775,dto,https://www.inaturalist.org/observations/24808773,45.0785047,-123.4761719,3000,,Yamhill,Oregon,United States,Achlys triphylla,net,,,
+24808785,2019-05-08,2019-05-08 21:08:00 UTC,792775,dto,https://www.inaturalist.org/observations/24808785,45.125564,-123.3792369,3500,,Yamhill,Oregon,United States,,net,,,
+24808806,2019-05-08,2019-05-08 21:30:55 UTC,792775,dto,https://www.inaturalist.org/observations/24808806,45.2066716,-123.3362972,110,,Yamhill,Oregon,United States,Camassia,net,,,
+24809536,2019-05-08,2019-05-08 23:24:17 UTC,885553,threeyees,https://www.inaturalist.org/observations/24809536,,,6,,,,,Geranium lucidum,net,,,
+24811891,2019-05-08,2019-05-08 17:49:29 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24811891,42.2844064477,-123.6501229746,8,,Josephine,Oregon,United States,Calochortus tolmiei,net,,"",""
+24813565,2019-05-08,2019-05-09 00:45:28 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24813565,42.23530687,-123.69716196,8,,Josephine,Oregon,United States,,net,,,
+24813692,2019-05-08,2019-05-09 00:51:52 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24813692,42.23543321,-123.6969161,6,,Josephine,Oregon,United States,Camassia leichtlinii,net,,,
+24816630,2019-05-08,2019-05-08 16:40:27 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24816630,42.28352,-123.65055,10,,Josephine,Oregon,United States,Ranunculus,net,,"",""
+24816922,2019-05-08,2019-05-08 16:54:47 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24816922,42.284405,-123.6505583333,5,,Josephine,Oregon,United States,Asteraceae,net,,"",""
+24823693,2019-05-07,2019-05-07 22:10:51 UTC,1462047,marksg,https://www.inaturalist.org/observations/24823693,42.2467934154,-123.6894923822,5,,Josephine,Oregon,United States,Erythranthe guttata,net,,"",""
+24823845,2019-05-08,2019-05-08 17:02:47 UTC,1462047,marksg,https://www.inaturalist.org/observations/24823845,42.2838853486,-123.6513715704,10,,Josephine,Oregon,United States,Calochortus,net,,"",""
+24823911,2019-05-08,2019-05-08 17:40:04 UTC,1462047,marksg,https://www.inaturalist.org/observations/24823911,42.284518811,-123.6508378946,5,,Josephine,Oregon,United States,,net,,"",""
+24823968,2019-05-08,2019-05-09 00:47:54 UTC,1462047,marksg,https://www.inaturalist.org/observations/24823968,42.283288599,-123.6507551653,10,,Josephine,Oregon,United States,Calochortus,net,,"",""
+24824746,2019-05-08,2019-05-09 06:16:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24824746,42.2844,-123.6501,1000000,,Josephine,Oregon,United States,Synhalonia,net,,,
+24844548,2019-05-09,2019-05-09 17:17:36 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24844548,42.2292171093,-123.7035172341,10,,Josephine,Oregon,United States,Rhododendron,net,,"",""
+24844599,2019-05-09,2019-05-09 17:18:53 UTC,792468,molfamily,https://www.inaturalist.org/observations/24844599,45.4693922853,-123.2051972706,16,,Washington,Oregon,United States,Lupinus,net,,"",""
+24844901,2019-05-09,2019-05-09 17:14:07 UTC,860617,laustin,https://www.inaturalist.org/observations/24844901,42.2288750019,-123.7033704669,5,,Josephine,Oregon,United States,,net,,"",""
+24844935,2019-05-09,2019-05-09 17:27:07 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24844935,42.228635992,-123.703086069,5,,Josephine,Oregon,United States,Calochortus,net,,"",""
+24845231,2019-05-09,2019-05-09 17:34:34 UTC,792468,molfamily,https://www.inaturalist.org/observations/24845231,45.46946,-123.205003,,,Washington,Oregon,United States,Crataegus,net,,"",""
+24845664,2019-05-09,2019-05-09 16:51:12 UTC,792775,dto,https://www.inaturalist.org/observations/24845664,45.49957278,-123.21925984,8,,Washington,Oregon,United States,,net,,,
+24845811,2019-05-09,2019-05-09 17:46:13 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24845811,42.22888877,-123.70525327,7,,Josephine,Oregon,United States,Calochortus tolmiei,net,,,
+24846414,2019-05-09,2019-05-09 18:01:36 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24846414,42.22919514,-123.70516261,9,,Josephine,Oregon,United States,Balsamorhiza sericea,net,,,
+24848377,2019-05-09,2019-05-09 16:57:08 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24848377,43.9903107053,-123.035396319,10,,Lane,Oregon,United States,Ranunculus fascicularis,net,,"",""
+24848448,2019-05-09,2019-05-09 18:41:41 UTC,816767,jeaniet,https://www.inaturalist.org/observations/24848448,45.4777189019,-123.2337492799,5,,Washington,Oregon,United States,Rubus ursinus,net,,"",""
+24848558,2019-05-09,2019-05-09 18:44:41 UTC,831425,fffpat2,https://www.inaturalist.org/observations/24848558,45.477813785,-123.2334628702,5,,Washington,Oregon,United States,Geranium,net,,"",""
+24848566,2019-05-09,2019-05-09 16:57:36 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24848566,43.9902741602,-123.0354128313,5,,Lane,Oregon,United States,Camassia,net,,"",""
+24848676,2019-05-09,2019-05-09 17:23:11 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24848676,43.9896839485,-123.0322894828,5,,Lane,Oregon,United States,Plantae,net,,"",""
+24848771,2019-05-09,2019-05-09 17:31:49 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24848771,43.9892482572,-123.0322275405,30,,Lane,Oregon,United States,Vicia,net,,"",""
+24848947,2019-05-09,2019-05-09 18:54:22 UTC,885553,threeyees,https://www.inaturalist.org/observations/24848947,45.47779852,-123.23313433,7,,Washington,Oregon,United States,Vicia sativa,net,,,
+24849023,2019-05-09,2019-05-09 18:56:08 UTC,885553,threeyees,https://www.inaturalist.org/observations/24849023,45.47783556,-123.23304294,9,,Washington,Oregon,United States,Rubus ursinus,net,,,
+24849145,2019-05-09,2019-05-09 18:59:22 UTC,1546088,scotttienken,https://www.inaturalist.org/observations/24849145,45.47764877,-123.23355076,9,,Washington,Oregon,United States,Vicia,net,,,
+24849308,2019-05-09,2019-05-09 19:01:48 UTC,816767,jeaniet,https://www.inaturalist.org/observations/24849308,45.4776597675,-123.2338317578,5,,Washington,Oregon,United States,Iris tenax,net,,"",""
+24850242,2019-05-09,2019-05-09 19:18:10 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24850242,42.24670599,-123.68933898,8,,Josephine,Oregon,United States,Erythranthe guttata,net,,,
+24850667,2019-05-09,2019-05-09 19:27:31 UTC,885553,threeyees,https://www.inaturalist.org/observations/24850667,45.47372758,-123.24649234,4,,Washington,Oregon,United States,Camassia,net,,,
+24850830,2019-05-09,2019-05-09 19:23:10 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24850830,44.28715817,-120.84403584,7,,Crook,Oregon,United States,,net,,,
+24851188,2019-05-09,2019-05-09 19:37:16 UTC,831425,fffpat2,https://www.inaturalist.org/observations/24851188,45.4777797964,-123.2406493464,10,,Washington,Oregon,United States,Geranium lucidum,net,,"",""
+24852265,2019-05-09,2019-05-09 19:19:06 UTC,770229,englerj,https://www.inaturalist.org/observations/24852265,44.28713978,-120.8440653,7,,Crook,Oregon,United States,Salix,net,,,
+24852279,2019-05-09,2019-05-09 19:21:18 UTC,770229,englerj,https://www.inaturalist.org/observations/24852279,44.28709831,-120.84413505,3,,Crook,Oregon,United States,Ribes aureum,net,,,
+24852648,2019-05-09,2019-05-09 20:00:29 UTC,1546088,scotttienken,https://www.inaturalist.org/observations/24852648,45.474713183,-123.2473875582,132,,Washington,Oregon,United States,Cytisus scoparius,net,,,
+24853127,2019-05-09,2019-05-09 20:16:21 UTC,792468,molfamily,https://www.inaturalist.org/observations/24853127,45.477577,-123.232585,,,Washington,Oregon,United States,Geranium lucidum,net,,"",""
+24855708,2019-05-09,2019-05-09 21:05:05 UTC,233445,dribee,https://www.inaturalist.org/observations/24855708,44.4906941206,-121.1586252327,11,,Jefferson,Oregon,United States,,net,,"",""
+24856411,2019-05-09,2019-05-09 18:53:51 UTC,354308,maryjomosby,https://www.inaturalist.org/observations/24856411,45.4777336959,-123.2330881153,5,,Washington,Oregon,United States,Vicia,net,,"",""
+24857377,2019-05-09,2019-05-09 21:13:46 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24857377,44.49072966,-121.15870715,9,,Jefferson,Oregon,United States,,net,,,
+24857425,2019-05-09,2019-05-09 21:43:04 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24857425,44.49085388,-121.1579222,9,,Jefferson,Oregon,United States,Juniperus,net,,,
+24858228,2019-05-08,2019-05-08 17:07:12 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24858228,42.279275,-123.6469116667,5005,,Josephine,Oregon,United States,,net,,"",""
+24858811,2019-05-08,2019-05-08 19:18:25 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24858811,42.282405,-123.6516583333,874,,Josephine,Oregon,United States,Collinsia linearis,net,,"",""
+24859165,2019-05-08,2019-05-08 23:22:18 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24859165,42.2844666667,-123.6526116667,10,,Josephine,Oregon,United States,Erythranthe,net,,"",""
+24859380,2019-05-08,2019-05-08 23:35:08 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24859380,42.2818216667,-123.649605,5,,Josephine,Oregon,United States,Camassia leichtlinii,net,,"",""
+24860081,2019-05-09,2019-05-09 20:06:25 UTC,1085105,canalest,https://www.inaturalist.org/observations/24860081,45.4694047454,-123.162509353,7000,,Washington,Oregon,United States,Rubus ursinus,net,,"",""
+24860105,2019-05-09,2019-05-09 19:43:01 UTC,1085105,canalest,https://www.inaturalist.org/observations/24860105,45.4777093046,-123.2407201735,10,,Washington,Oregon,United States,Geranium lucidum,net,,"",""
+24863466,2019-05-08,2019-05-08 19:27:57 UTC,841568,lohump,https://www.inaturalist.org/observations/24863466,43.7479972839,-122.8941268921,,,Lane,Oregon,United States,Camassia leichtlinii,net,,,
+24863478,2019-05-08,2019-05-08 19:48:48 UTC,841568,lohump,https://www.inaturalist.org/observations/24863478,43.7479972839,-122.8945083618,,,Lane,Oregon,United States,Marah oregana,net,,,
+24863811,2019-05-08,2019-05-08 20:49:39 UTC,841568,lohump,https://www.inaturalist.org/observations/24863811,43.7512550354,-122.89453125,,,Lane,Oregon,United States,Eschscholzia californica,net,,,
+24863823,2019-05-08,2019-05-08 21:32:02 UTC,841568,lohump,https://www.inaturalist.org/observations/24863823,43.7546653748,-122.8963546753,,,Lane,Oregon,United States,Lomatium utriculatum,net,,,
+24864560,2019-05-09,2019-05-10 00:40:05 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24864560,42.23583733,-123.69898985,8,,Josephine,Oregon,United States,,net,,,
+24864734,2019-05-09,2019-05-09 19:30:00 UTC,1542491,nicolaspackard,https://www.inaturalist.org/observations/24864734,45.2415949,-123.2743514,20,,Yamhill,Oregon,United States,Rubus ursinus,net,,,
+24864905,2019-05-09,2019-05-10 00:49:56 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24864905,42.23580982,-123.69915196,8,,Josephine,Oregon,United States,Collinsia linearis,net,,,
+24870672,2019-05-09,2019-05-09 19:30:06 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24870672,42.2471357324,-123.6899613497,10,,Josephine,Oregon,United States,Calochortus,net,,"",""
+24872535,2019-05-09,2019-05-09 18:15:18 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872535,45.4775469515,-123.2334280496,154,,Washington,Oregon,United States,,pan trap,,07 May 2019 15:45:10 -0700,09 May 2019 11:15:28 -0700
+24872539,2019-05-09,2019-05-09 18:30:18 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872539,45.4776343112,-123.2333076941,155,,Washington,Oregon,United States,,vane trap,,07 May 2019 16:15:19 -0700,09 May 2019 11:30:26 -0700
+24872560,2019-05-09,2019-05-09 18:53:25 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872560,45.477500393,-123.2333174359,222,,Washington,Oregon,United States,Rubus ursinus,net,,"",""
+24872573,2019-05-09,2019-05-09 18:42:24 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872573,45.5569712632,-122.6465978009,5,Portland,Multnomah,Oregon,United States,,net,,"",""
+24872578,2019-05-09,2019-05-09 19:24:57 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872578,45.4777901395,-123.2407616802,171,,Washington,Oregon,United States,,pan trap,,07 May 2019 16:45:23 -0700,09 May 2019 12:26:34 -0700
+24872582,2019-05-09,2019-05-09 19:28:40 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872582,45.4775794621,-123.2408281114,246,,Washington,Oregon,United States,,vane trap,,07 May 2019 16:50:26 -0700,09 May 2019 12:50:36 -0700
+24872590,2019-05-09,2019-05-09 19:50:09 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872590,45.4740988874,-123.2475827227,194,,Washington,Oregon,United States,,pan trap,,07 May 2019 17:15:38 -0700,09 May 2019 12:50:50 -0700
+24872606,2019-05-09,2019-05-09 19:50:14 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872606,45.4737858876,-123.2475131734,294,,Washington,Oregon,United States,,vane trap,,07 May 2019 17:30:38 -0700,09 May 2019 12:54:46 -0700
+24874869,2019-05-09,2019-05-09 19:31:07 UTC,354308,maryjomosby,https://www.inaturalist.org/observations/24874869,45.4779656232,-123.2409956028,10,,Washington,Oregon,United States,,net,,"",""
+24874871,2019-05-09,2019-05-09 19:48:11 UTC,354308,maryjomosby,https://www.inaturalist.org/observations/24874871,45.4777419102,-123.2410369256,5,,Washington,Oregon,United States,,net,,"",""
+24882701,2019-05-08,,792468,molfamily,https://www.inaturalist.org/observations/24882701,45.1712743854,-123.1854536107,12,,Yamhill,Oregon,United States,,pan trap,,08 May 2019 11:15:06 -0700,09 May 2019 15:00:18 -0700
+24888550,2019-05-09,2019-05-09 21:11:09 UTC,770229,englerj,https://www.inaturalist.org/observations/24888550,44.49074113,-121.15873135,4,,Jefferson,Oregon,United States,,net,,,
+24888564,2019-05-09,2019-05-09 21:12:16 UTC,770229,englerj,https://www.inaturalist.org/observations/24888564,44.49074002,-121.158731,5,,Jefferson,Oregon,United States,,net,,,
+24898600,2019-05-10,2019-05-10 20:37:48 UTC,927865,natalielozano,https://www.inaturalist.org/observations/24898600,45.4982730266,-122.6017541393,22,Portland,Multnomah,Oregon,United States,Eschscholzia californica,net,,"",""
+24898973,2019-05-10,2019-05-10 21:03:21 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24898973,42.0956583333,-123.6839616667,10,,Josephine,Oregon,United States,Eschscholzia californica,net,,"",""
+24899252,2019-05-09,2019-05-09 16:36:00 UTC,841568,lohump,https://www.inaturalist.org/observations/24899252,43.9899,-123.0353,20,,Lane,Oregon,United States,Camassia leichtlinii,net,,,
+24900476,2019-05-09,2019-05-09 17:43:00 UTC,841568,lohump,https://www.inaturalist.org/observations/24900476,43.991,-123.035,20,,Lane,Oregon,United States,Geum macrophyllum,net,,,
+24900815,2019-05-09,2019-05-09 18:09:00 UTC,841568,lohump,https://www.inaturalist.org/observations/24900815,43.991,-123.035,20,,Lane,Oregon,United States,Rubus ursinus,net,,,
+24901140,2019-05-09,2019-05-09 18:42:00 UTC,841568,lohump,https://www.inaturalist.org/observations/24901140,43.991,-123.035,20,,Lane,Oregon,United States,Ranunculus orthorhynchus,net,,,
+24904351,2019-05-10,2019-05-10 20:53:05 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24904351,44.4727196591,-121.6387254932,5,,Jefferson,Oregon,United States,Ribes cereum,net,,"",""
+24904371,2019-05-10,2019-05-10 21:17:34 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24904371,44.482354,-121.639494,10,,Jefferson,Oregon,United States,Berberis aquifolium,net,,"",""
+24904395,2019-05-10,2019-05-10 22:06:01 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24904395,44.4830047992,-121.6399686971,30,,Jefferson,Oregon,United States,Amelanchier,net,,"",""
+24905116,2019-05-10,2019-05-10 23:19:24 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24905116,44.8932317784,-122.8855813668,5,,Marion,Oregon,United States,Aquilegia formosa,net,,"",""
+24905335,2019-05-10,2019-05-10 23:23:29 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24905335,44.893596014,-122.8854125553,5,,Marion,Oregon,United States,Lomatium,net,,"",""
+24905688,2019-05-10,2019-05-10 21:09:04 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24905688,42.0951777954,-123.6853550173,16,,Josephine,Oregon,United States,Plagiobothrys,net,,"",""
+24905735,2019-05-10,2019-05-10 23:33:14 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24905735,44.8938874528,-122.8846135085,5,,Marion,Oregon,United States,Lomatium nudicaule,net,,"",""
+24906014,2019-05-10,2019-05-10 23:39:29 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24906014,44.8938571522,-122.8845110816,5,,Marion,Oregon,United States,Lomatium nudicaule,net,,"",""
+24906224,2019-05-10,2019-05-10 23:44:10 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24906224,44.893927644,-122.8844654841,5,,Marion,Oregon,United States,Plectritis congesta,net,,"",""
+24907042,2019-05-10,2019-05-11 00:00:01 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24907042,44.8953831615,-122.8854768445,5,,Marion,Oregon,United States,Lomatium,net,,"",""
+24907075,2019-05-10,2019-05-11 00:02:15 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24907075,44.8953586026,-122.8854427302,5,,Marion,Oregon,United States,,net,,"",""
+24907141,2019-05-10,2019-05-11 00:03:18 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24907141,44.8954195809,-122.885488663,5,,Marion,Oregon,United States,Lomatium,net,,"",""
+24907240,2019-05-10,2019-05-11 00:05:33 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24907240,44.8953401205,-122.8854740785,5,,Marion,Oregon,United States,,net,,"",""
+24908027,2019-05-10,2019-05-11 00:22:58 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24908027,44.8954420863,-122.8863313795,5,,Marion,Oregon,United States,Sidalcea malviflora,net,,"",""
+24908588,2019-05-10,2019-05-11 00:38:03 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24908588,44.8968238011,-122.8881226761,5,,Marion,Oregon,United States,Lupinus,net,,"",""
+24911415,2019-05-10,2019-05-10 21:32:52 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24911415,42.0957861667,-123.6850583333,5,,Josephine,Oregon,United States,Balsamorhiza sagittata,net,,"",""
+24915413,2019-05-10,2019-05-10 19:06:23 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24915413,42.0066527833,-123.5500333333,5,,Josephine,Oregon,United States,Ribes sanguineum,net,,"",""
+24916103,2019-05-03,2019-05-03 20:43:39 UTC,839659,oregonpat,https://www.inaturalist.org/observations/24916103,44.9162903103,-120.469791731,5,,Wheeler,Oregon,United States,Salix,net,,"",""
+24922466,2019-05-10,2019-05-10 17:33:12 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24922466,42.00672042,-123.54987689,4,,Josephine,Oregon,United States,,net,,,
+24922468,2019-05-10,2019-05-10 18:01:32 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24922468,42.00618953,-123.55011587,8,,Josephine,Oregon,United States,Ribes sanguineum,net,,,
+24922478,2019-05-10,2019-05-10 18:45:53 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24922478,42.00619295,-123.54939234,4,,Josephine,Oregon,United States,Ceanothus velutinus,net,,,
+24922483,2019-05-10,2019-05-10 19:12:17 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24922483,42.00672322,-123.54835796,4,,Josephine,Oregon,United States,Arctostaphylos viscida,net,,,
+24922493,2019-05-10,2019-05-10 19:44:32 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24922493,42.00682921,-123.54989059,8,,Josephine,Oregon,United States,Arctostaphylos patula,net,,,
+24933564,2019-05-08,2019-05-09 01:04:01 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24933564,42.2883916667,-123.6504283333,5,,Josephine,Oregon,United States,Phacelia,net,,"",""
+24933571,2019-05-08,2019-05-09 01:26:01 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24933571,42.2781,-123.6460116667,5,,Josephine,Oregon,United States,Toxicoscordion fremontii,net,,"",""
+24944870,2019-05-09,2019-05-09 19:33:37 UTC,792775,dto,https://www.inaturalist.org/observations/24944870,45.4673806,-123.1885303,104,,Washington,Oregon,United States,,net,,,
+24949727,2019-05-03,2019-05-03 20:30:00 UTC,384451,debibrimacombe,https://www.inaturalist.org/observations/24949727,45.7494,-122.8426,,,Columbia,Oregon,United States,Geranium maculatum,net,,,
+24955565,2019-05-09,2019-05-09 17:32:29 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24955565,42.22855,-123.7044833333,30,,Josephine,Oregon,United States,Calochortus tolmiei,net,,"",""
+24955653,2019-05-09,2019-05-09 17:31:20 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24955653,42.2283466667,-123.7050783333,5,,Josephine,Oregon,United States,Iris,net,,"",""
+24955770,2019-05-09,2019-05-09 17:30:10 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24955770,42.2285283333,-123.7051,5,,Josephine,Oregon,United States,Asteraceae,net,,"",""
+24955858,2019-05-09,2019-05-09 17:38:49 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24955858,42.228275,-123.7049633333,5,,Josephine,Oregon,United States,Allium falcifolium,net,,"",""
+24956101,2019-05-09,2019-05-09 19:14:46 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956101,42.2462416667,-123.6886366667,5,,Josephine,Oregon,United States,Sabulina douglasii,net,,"",""
+24956159,2019-05-09,2019-05-09 19:25:20 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956159,42.2462583333,-123.688645,29990,,Josephine,Oregon,United States,,net,,"",""
+24956242,2019-05-09,2019-05-09 19:35:57 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956242,42.2462416667,-123.6886283333,9584,,Josephine,Oregon,United States,Phacelia,net,,"",""
+24956291,2019-05-09,2019-05-09 23:11:51 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956291,42.2853583333,-123.6525283333,2012,,Josephine,Oregon,United States,Sisyrinchium,net,,"",""
+24956345,2019-05-09,2019-05-09 23:34:14 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956345,42.285555,-123.65235,5005,,Josephine,Oregon,United States,,net,,"",""
+24956426,2019-05-09,2019-05-09 23:34:14 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956426,42.285555,-123.65235,5,,Josephine,Oregon,United States,Collinsia linearis,net,,"",""
+24956509,2019-05-09,2019-05-09 23:48:46 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956509,42.29087,-123.6508716667,10,,Josephine,Oregon,United States,Lomatium triternatum,net,,"",""
+24956603,2019-05-09,2019-05-10 00:19:58 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956603,42.2921633333,-123.6520916667,5005,,Josephine,Oregon,United States,Plagiobothrys,net,,"",""
+24956802,2019-05-09,2019-05-09 23:48:46 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956802,42.29087,-123.6508716667,9584,,Josephine,Oregon,United States,Phacelia,net,,"",""
+24956901,2019-05-09,2019-05-10 01:04:07 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956901,42.2920533333,-123.6513583333,5,,Josephine,Oregon,United States,Erythranthe,net,,"",""
+24957034,2019-05-09,2019-05-09 23:11:51 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24957034,42.2853583333,-123.6525283333,5,,Josephine,Oregon,United States,Calochortus tolmiei,net,,"",""
+24957106,2019-05-09,2019-05-10 00:38:38 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24957106,42.2925216667,-123.6515283333,5005,,Josephine,Oregon,United States,,net,,"",""
+24957264,2019-05-10,2019-05-10 18:08:42 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24957264,42.0045611167,-123.5486666667,5,,Josephine,Oregon,United States,Ribes sanguineum,net,,"",""
+24957606,2019-05-10,2019-05-10 19:19:28 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24957606,42.0070638833,-123.5481716667,10,,Josephine,Oregon,United States,Arctostaphylos,net,,"",""
+24957706,2019-05-10,2019-05-10 18:46:07 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24957706,42.0045861167,-123.5487216667,10,,Josephine,Oregon,United States,,net,,"",""
+24957933,2019-05-10,2019-05-10 19:49:03 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24957933,42.0067583333,-123.5483783333,10,,Josephine,Oregon,United States,Ribes roezlii,net,,"",""
+24963972,2019-05-07,2019-05-07 19:19:27 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24963972,42.23722944,-123.69642334,6,,Josephine,Oregon,United States,Collinsia linearis,net,,,
+24963999,2019-05-07,2019-05-07 20:11:21 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24963999,42.23768271,-123.6964706,7,,Josephine,Oregon,United States,Ranunculaceae,net,,,
+24964030,2019-05-07,2019-05-07 21:42:23 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964030,42.24669038,-123.6895657,8,,Josephine,Oregon,United States,Erythranthe guttata,net,,,
+24964051,2019-05-07,2019-05-07 21:51:47 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964051,42.24717417,-123.69040709,20,,Josephine,Oregon,United States,Ranunculaceae,net,,,
+24964090,2019-05-07,2019-05-07 22:09:24 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964090,42.24768945,-123.69080877,9,,Josephine,Oregon,United States,Boraginaceae,net,,,
+24964123,2019-05-07,2019-05-07 22:16:33 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964123,42.24757872,-123.69069802,8,,Josephine,Oregon,United States,Sabulina douglasii,net,,,
+24964143,2019-05-08,2019-05-08 16:27:29 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964143,42.2846374,-123.65249918,5,,Josephine,Oregon,United States,Camassia,net,,,
+24964162,2019-05-08,2019-05-08 17:00:13 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964162,42.28464463,-123.65235715,9,,Josephine,Oregon,United States,Erythranthe guttata,net,,,
+24964183,2019-05-09,2019-05-09 17:11:03 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964183,42.22885186,-123.70394202,5,,Josephine,Oregon,United States,Asteroideae,net,,,
+24964243,2019-05-09,2019-05-09 17:41:56 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964243,42.22890929,-123.70494566,6,,Josephine,Oregon,United States,Balsamorhiza hookeri,net,,,
+24964294,2019-05-09,2019-05-09 18:10:21 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964294,42.22857529,-123.70594541,4,,Josephine,Oregon,United States,Ranunculaceae,net,,,
+24964320,2019-05-09,2019-05-09 19:19:01 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964320,42.24767938,-123.69064808,8,,Josephine,Oregon,United States,Boraginaceae,net,,,
+24964337,2019-05-09,2019-05-09 19:26:14 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964337,42.24763037,-123.69070448,5,,Josephine,Oregon,United States,Sabulina douglasii,net,,,
+24964367,2019-05-09,2019-05-09 19:31:28 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964367,42.24767553,-123.69074154,8,,Josephine,Oregon,United States,Erysimum,net,,,
+24964384,2019-05-10,2019-05-10 18:21:07 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964384,42.00757631,-123.55021755,8,,Josephine,Oregon,United States,Arctostaphylos,net,,,
+24964397,2019-05-10,2019-05-10 19:29:46 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964397,42.00821207,-123.55043179,8,,Josephine,Oregon,United States,Arctostaphylos,net,,,
+24964415,2019-05-10,2019-05-10 20:13:27 UTC,1586075,rachelphariss,https://www.inaturalist.org/observations/24964415,42.00660237,-123.54828261,9,,Josephine,Oregon,United States,Arctostaphylos,net,,,

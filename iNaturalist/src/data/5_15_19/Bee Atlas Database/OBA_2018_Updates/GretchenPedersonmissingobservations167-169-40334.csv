@@ -1,0 +1,698 @@
+id,observed_on,user_id,user_login,description,species_guess,scientific_name,common_name,iconic_taxon_name,taxon_id,field:location name,field:oba collector id,field:sample id
+11322664,4/19/2018,843723,pandg,"55 degrees F
+sunny",Wax Currant,Ribes cereum,wax currant,Plantae,78854,Twin Bridges trailhead,GP,1
+11323792,4/20/2018,843723,pandg,"2584 elevation
+ sunny",Wax Currant,Ribes cereum,wax currant,Plantae,78854,Eagle Crest river trail,GP,2
+11323902,4/20/2018,843723,pandg,"2880 feet elevation
+sunny",Wax Currant,Ribes cereum,wax currant,Plantae,78854,Eagle Crest river trail,GP,3
+11324081,4/21/2018,843723,pandg,"3667 ft. elevation 
+52 degrees F",Golden Currant,Ribes aureum,golden currant,Plantae,55544,"Safeway, Century Dr.",GP,4
+11324407,4/19/2018,843723,pandg,,Wax Currant,Ribes cereum,wax currant,Plantae,78854,Twin Bridges trailhead,rlp,1
+11324761,4/20/2018,843723,pandg,,Wax Currant,Ribes cereum,wax currant,Plantae,78854,Eagle Crest River Trail,rlp,2
+11325687,4/21/2018,843723,pandg,,golden currant,Ribes aureum,golden currant,Plantae,55544,Safeway Century Dr.,RLP,4
+11326544,4/20/2018,843723,pandg,,wax currant,Ribes cereum,wax currant,Plantae,78854,Eagle Crest Resort,RLP,3
+11403228,4/23/2018,843723,pandg,"Sunny
+Elevation 3447'",Salix sp.,Salix,willows,Plantae,53453,"Bend, Tumalo Resevoir Inlet",RLP,5
+11403524,4/23/2018,843723,pandg,"sunny
+elevation 3447'",Salix sp. willow,,,,,Tumalo Reservoir,GP,5
+11464403,4/26/2018,843723,pandg,"sunny
+65 degrees F",Golden Currant,Ribes aureum,golden currant,Plantae,55544,Old Mill Dog Park,GP,6
+11464561,4/26/2018,843723,pandg,"sunny 
+72 degrees F",Wax Currant,Ribes cereum,wax currant,Plantae,78854,Old Mill Dog Park,GP,7
+11466923,4/26/2018,843723,pandg,,Ribes aureum,Ribes aureum,golden currant,Plantae,55544,"Bend, Old Mill dog park",RLP,6
+11466985,4/26/2018,843723,pandg,,Ribes cereum,Ribes cereum,wax currant,Plantae,78854,"Deschutes Co., Bend, Old Mill dog park",RLP,7
+11467071,4/26/2018,843723,pandg,,Oregon Grape,Berberis aquifolium,Oregon grape,Plantae,126887,"Deschutes Co., Bend, Old Mill dog park",RLP,8
+12111896,5/3/2018,843723,pandg,,wax currant,Ribes cereum,wax currant,Plantae,78854,Eagle Crest Resort,RLP,9
+12112429,5/3/2018,843723,pandg,,wax currant,Ribes cereum,wax currant,Plantae,78854,Eagle crest,RLP,10
+12112525,5/3/2018,843723,pandg,,wax currant,Ribes cereum,wax currant,Plantae,78854,Eagle Crest Resort,RLP,11
+12142855,5/4/2018,843723,pandg,,Arctostaphylos patula,Arctostaphylos patula,greenleaf manzanita,Plantae,75537,"Deschutes River, Lava Island Falls",RLP,12
+12172810,5/3/2018,843723,pandg,"elevation 2866 ft.
+70 degrees F
+sunny",Wax Currant,Ribes cereum,wax currant,Plantae,78854,Eagle Crest Resort river trail,GP,8
+12172944,5/3/2018,843723,pandg,"sunny
+72 degrees F
+elev. 2897 ft.",yellow mustard Descurainia sophia?,Brassicaceae,mustard family,Plantae,47204,Eagle Crest Resort river trail,GP,9
+12173075,5/3/2018,843723,pandg,"sunny elev. 
+2913 ft.",Wax Currant,Ribes cereum,wax currant,Plantae,78854,Eagle Crest Resort river trail,GP,10
+12173170,5/3/2018,843723,pandg,"elev. 2894 ft.
+sunny",Wax Currant,Ribes cereum,wax currant,Plantae,78854,Eagle Crest Resort river trail,GP,11
+12173588,5/4/2018,843723,pandg,"elev. 3928 ft.
+sunny",willows,Salix,willows,Plantae,53453,Lava Island Falls trailhead,GP,12
+12396630,5/8/2018,843723,pandg,,Ribes aureum,Ribes aureum,golden currant,Plantae,55544,Hwy 20 west of Burns,RLP,13
+12397214,5/8/2018,843723,pandg,,antelope brush,Purshia tridentata,antelope brush,Plantae,67804,7 miles east of Burns on Hwy 20,RLP,14
+12397415,5/8/2018,843723,pandg,,Hairy White-Top,Lepidium appelianum,hairy white-top,Plantae,77662,8 miles east of Burns,RLP,15
+12397596,5/8/2018,843723,pandg,,Willows,Salix,willows,Plantae,53453,Succor Creek Campground,RLP,16
+12397731,5/9/2018,843723,pandg,,Astragalus phillipes,,,,,Succor Crk. Campground,RLP,17
+12397840,5/9/2018,843723,pandg,,Beardtongues,Penstemon,beardtongues,Plantae,48367,1 mile south of Succor Crk. Camp,RLP,18
+12397971,5/9/2018,843723,pandg,,Hooker's Balsamroot,Balsamorhiza hookeri,Hooker's Balsamroot,Plantae,75742,3 miles south of Succor Crk. Campground,RLP,19
+12398202,5/9/2018,843723,pandg,,Hairy White-Top,Lepidium appelianum,hairy white-top,Plantae,77662,3 miles South of Succor Crk. Campground,RLP,20
+12398439,5/9/2018,843723,pandg,,Delphinium sp.,Delphinium,larkspurs,Plantae,48493,1 mile down Leslie Gulch,RLP,21
+12398546,5/9/2018,843723,pandg,,Silverleaf phacelia,Phacelia hastata,Silverleaf phacelia,Plantae,59982,mile down Leslie Gulch,RLP,22
+12398632,5/9/2018,843723,pandg,,Chokecherry,Prunus virginiana,chokecherry,Plantae,54835,3 miles down Leslie Gulch,RLP,24
+12398789,5/9/2018,843723,pandg,,antelope brush,Purshia tridentata,antelope brush,Plantae,67804,6 miles down Leslie Gulch,RLP,25
+12400376,5/8/2018,843723,pandg,"sunny
+75 degrees F
+road shoulder",golden currant,Ribes aureum,golden currant,Plantae,55544,"west of Burns, OR",GP,13
+12400473,5/8/2018,843723,pandg,"sunny
+82 degrees F
+road shoulder",Hairy White-Top,Lepidium appelianum,hairy white-top,Plantae,77662,"east of Burns, OR",GP,14
+12400617,5/9/2018,843723,pandg,light rain,Salix sp.,Salix,willows,Plantae,53453,Succor Creek Campground,GP,15
+12400651,5/9/2018,843723,pandg,"overcast 
+64 degrees F",common stork's-bill,Erodium cicutarium,common stork's-bill,Plantae,47687,Succor Creek Campground,GP,16
+12400759,5/9/2018,843723,pandg,"partly cloudy
+71 degrees F",basalt milkvetch,Astragalus filipes,basalt milkvetch,Plantae,75643,Succor Creek Rd.,GP,17
+12400815,5/9/2018,843723,pandg,"partly cloudy
+72 degrees F",Penstemon sp.,Penstemon,beardtongues,Plantae,48367,Succor Creek Road,GP,18
+12401037,5/9/2018,843723,pandg,"partly cloudy
+72 degrees F",Hooker's Balsamroot,Balsamorhiza hookeri,Hooker's Balsamroot,Plantae,75742,Succor Creek Rd.,GP,19
+12401102,5/9/2018,843723,pandg,"partly cloudy
+73 degrees F",western stoneseed,Lithospermum ruderale,western stoneseed,Plantae,77795,Succor Creek Rd.,GP,20
+12401154,5/9/2018,843723,pandg,"partly cloudy
+73 degrees F",Hairy White-Top,Lepidium appelianum,hairy white-top,Plantae,77662,Succor Creek Rd.,GP,21
+12401193,5/9/2018,843723,pandg,"flying low over terrain near Lepidium appelianum, see photo",Hairy White-Top,Lepidium appelianum,hairy white-top,Plantae,77662,Succor Creek Rd.,GP,22
+12401309,5/9/2018,843723,pandg,overcast,Silverleaf phacelia,Phacelia hastata,Silverleaf phacelia,Plantae,59982,Leslie Gulch,GP,23
+12401346,5/9/2018,843723,pandg,,chokecherry,Prunus virginiana,chokecherry,Plantae,54835,Leslie Gulch,GP,24
+12401644,5/10/2018,843723,pandg,"partly cloudy
+62 degrees F",Chorispora tenella,Chorispora tenella,crossflower,Plantae,76301,Malheur NWR near French round barn,GP,25
+12401708,5/10/2018,843723,pandg,"sunny 
+65 degrees F",Salix sp.,Salix,willows,Plantae,53453,Hwy 205 near French Glen,GP,26
+12401789,5/10/2018,843723,pandg,"sunny
+elevation 4284 feet
+Many individuals of Bombus huntii and Bombus nevadensis",Thermopsis rhombifolia,Thermopsis rhombifolia,false lupine,Plantae,169720,Page Springs CG,GP,27
+12405858,5/10/2018,843723,pandg,,crossflower,Chorispora tenella,crossflower,Plantae,76301,1 mile southwest of Pete French's Round Barn,RLP,26
+12406043,5/10/2018,843723,pandg,,False Lupine,Thermopsis rhombifolia,false lupine,Plantae,169720,Page Springs Campground,RLP,27
+12452850,5/13/2018,843723,pandg,,Saskatoon,Amelanchier alnifolia,Saskatoon,Plantae,75415,Mill Creek Rd. near NF33,RLP,28
+12453084,5/13/2018,843723,pandg,,Lithophragma tenellum,Lithophragma tenellum,slender woodland star,Plantae,77792,"Mill Creek, Wildcat Campground trail",RLP,29
+12453223,5/13/2018,843723,pandg,,willows,Salix,willows,Plantae,53453,"Mill Creek, Wildcat Campground trail",RLP,30
+12453427,5/13/2018,843723,pandg,,ballhead waterleaf,Hydrophyllum capitatum,ballhead waterleaf,Plantae,77469,"Mill Cry, Wildcat campgound trail",RLP,31
+12453523,5/13/2018,843723,pandg,,common dandelion,Taraxacum officinale,common dandelion,Plantae,47602,Wildcat Campground Trail,RLP,32
+12459784,5/13/2018,843723,pandg,"sunny 
+72 degrees",golden currant,Ribes aureum,golden currant,Plantae,55544,Mill Creek Rd. near NF33,GP,28
+12459829,5/13/2018,843723,pandg,"elev. 3525 ft.
+sunny
+73 degrees",Saskatoon,Amelanchier alnifolia,Saskatoon,Plantae,75415,Mill Creek Rd. near NF33,GP,29
+12459936,5/13/2018,843723,pandg,"
+elev. 3740 ft.
+sunny
+73 degrees",Blue-eyed Marys,Collinsia,Blue-eyed Marys,Plantae,47324,Wildcat Campground Trail,GP,30
+12460019,5/13/2018,843723,pandg,"sunny 
+73 degrees",Wax Currant,Ribes cereum,wax currant,Plantae,78854,"Mill Creek, Wildcat campgound trail",GP,31
+12460108,5/13/2018,843723,pandg,"sunny 
+74 degrees",ballhead waterleaf,Hydrophyllum capitatum,ballhead waterleaf,Plantae,77469,"Mill Creek, Wildcat Campground trail",GP,32
+12591162,5/17/2018,843723,pandg,,Descurania sophia Tansy Mustard,Angiospermae,flowering plants,Plantae,47125,"Deschutes Co., Eagle Crest Resort Trail",RLP,33
+12591434,5/17/2018,843723,pandg,,Thelypodium laciniatum,Thelypodium laciniatum,Cutleaf Thelypody,Plantae,79351,"Deschutes Co., Eagle Crest Resort Trail",RLP,34
+12591878,5/17/2018,843723,pandg,"65 degrees F
+sunny
+elev. 2863 feet.",Flixweed,Descurainia sophia,flixweed,Plantae,58074,Eagle Crest river trail,GP,33
+12591931,5/17/2018,843723,pandg,64 degrees F,Thelypodium laciniatum,Thelypodium laciniatum,Cutleaf Thelypody,Plantae,79351,Eagle Crest River Trail,GP,34
+12591969,5/17/2018,843723,pandg,66 degrees F,Taraxacum officinale,Taraxacum officinale,common dandelion,Plantae,47602,Eagle Crest River Trail,GP,35
+12621590,5/19/2018,843723,pandg,Most of those collected were about 5 to 7 mm long.,Rhus aromatica,Rhus aromatica,fragrant sumac,Plantae,58738,"Bend, Tumalo, Pinehurst Rd.",RLP,35
+12645988,5/19/2018,843723,pandg,"Many small bees on a single cultivated plant.
+Partly cloudy
+68 degrees F",Fragrant Sumac,Rhus aromatica,fragrant sumac,Plantae,58738,"Pinehurst Rd., Bend, OR",GP,36
+12741585,5/21/2018,843723,pandg,,Tartarian Honeysuckle,Lonicera tatarica,Tatarian honeysuckle,Plantae,77836,"Deschutes Co. Bend, Tumalo",RLP,36
+12741713,5/21/2018,843723,pandg,,Lilac Syringa sp.,Syringa vulgaris,common lilac,Plantae,83072,"Bend, Tumalo",RLP,37
+12741953,5/21/2018,843723,pandg,,"Fragrant Sumac, Rhus aromatica",Rhus aromatica,fragrant sumac,Plantae,58738,"Bend, Tumalo, Pinehurst Rd.",RLP,38
+12742284,5/22/2018,843723,pandg,,"Arrow-leaved Balsom Root, Balsamorhiza sagitta",Wyethia,mule's ears,Plantae,48243,north west of Sisters,RLP,39
+12742467,5/22/2018,843723,pandg,,"Lupine, Lupinus sp.",Lupinus,lupines,Plantae,47121,"Nortwest of Sisters, 4 Miles",RLP,40
+12742762,5/22/2018,843723,pandg,,Ribes sanguineum Red Flowering Current,Ribes sanguineum,Red-flowering Currant,Plantae,53435,Suttle Lake Lodge turnoff road,RLP,41
+12743040,5/22/2018,843723,pandg,,Vaccinium sp.,Vaccinium,"blueberries, cranberries, and allies",Plantae,48353,Above Suttle Lakes West end on Hwy #20,RLP,42
+12743307,5/22/2018,843723,pandg,,"Black Twinberry, Loncera involucrata",Lonicera involucrata,twinberry honeysuckle,Plantae,60881,Hwy #20 west of Suttle Lake about 8 miles,Rlp,43
+12743563,5/22/2018,843723,pandg,,Red-flowering Currant,Ribes sanguineum,Red-flowering Currant,Plantae,53435,"Hwy. #20, Suttle lake, 7 miles west of",RLP,44
+12743713,5/22/2018,843723,pandg,,"Vetch, Vicia sp.",Fabaceae,legumes,Plantae,47122,sveral miles west of Camp Sherman,RLP,45
+12743904,5/22/2018,843723,pandg,,Fernleaf Biscuitroot,Lomatium dissectum,Fernleaf Biscuitroot,Plantae,77805,"Camp Sherman, several miles west",Rlp,46
+12809603,5/22/2018,843723,pandg,"sunny
+73 degrees F",arrowleaf balsamroot,Balsamorhiza sagittata,arrowleaf balsamroot,Plantae,62266,"west of Sisters, Highway 20",GP,39
+12809691,5/22/2018,843723,pandg,"sunny
+74 degrees F",Lupines,Lupinus,lupines,Plantae,47121,"west of Sisters, Highway 20",GP,40
+12809758,5/22/2018,843723,pandg,"sunny
+75 degrees F",Red-flowering Currant,Ribes sanguineum,Red-flowering Currant,Plantae,53435,"West of Sisters, Suttle Lake Rd.",GP,41
+12809818,5/22/2018,843723,pandg,"partly cloudy
+75 degrees F","Blueberries, Cranberries, and Allies",Vaccinium,"blueberries, cranberries, and allies",Plantae,48353,west of Sisters on Hwy 20,GP,42
+12809858,5/22/2018,843723,pandg,"sunny
+76 degrees F",Saskatoon,Amelanchier alnifolia,Saskatoon,Plantae,75415,west of Sisters on Hwy 20,GP,43
+12809955,5/22/2018,843723,pandg,"sunny
+77 degrees F",Strawberries,Fragaria,strawberries,Plantae,50299,Camp Sherman Rd.,GP,44
+12810003,5/22/2018,843723,pandg,sunny,Lupines,Lupinus,lupines,Plantae,47121,"west of Sisters, Camp Sherman Rd.",GP,45
+12810065,5/22/2018,843723,pandg,"partly cloudy
+75 degrees F",Western Stoneseed,Lithospermum ruderale,western stoneseed,Plantae,77795,"west of Sisters, Camp Sherman Rd.",GP,46
+12810108,5/23/2018,843723,pandg,partlly cloudy,Fragrant Sumac,Rhus aromatica,fragrant sumac,Plantae,58738,Pinehurst Rd.,GP,47
+12810210,5/23/2018,843723,pandg,partly cloudy,Tatarian Honeysuckle,Lonicera tatarica,Tatarian honeysuckle,Plantae,77836,Pinehurst Rd.,GP,48
+12926282,5/23/2018,843723,pandg,,"Fragrant Sumac, Rhus aromatica",Rhus aromatica,fragrant sumac,Plantae,58738,"Bend, Tumalo. Pinehurst Rd",RLP,47
+12953392,5/29/2018,843723,pandg,,Ribes cereum Wax Current,Ribes cereum,wax currant,Plantae,78854,"Deschutes Co., Tumalo, Twin Bridges Rd., Twin Bridges Trailhead",RLP,48
+12954861,5/29/2018,843723,pandg,,Red Osier Dogwood,Cornus sericea,red osier dogwood,Plantae,53387,"Deschutes Co., Tumalo, Twin Bridges Rd., Deschutes River, 1 mile South",RLP,49
+12955008,5/29/2018,843723,pandg,Bombus huntii,Vetches,Vicia,Vetches,Plantae,52472,"Deschutes Co., Tumalo, Twin Bridges Rd., Deschutes River, 1 mile South",RLP,50
+12965615,5/29/2018,843723,pandg,"sunny
+68 degrees F",Virgate Scorpionweed,Phacelia heterophylla,virgate scorpionweed,Plantae,78488,Twin Bridges trailhead,GP,49
+12965657,5/29/2018,843723,pandg,"partly cloudy
+67 degrees F",red osier dogwood,Cornus sericea,red osier dogwood,Plantae,53387,Twin Bridges trail,GP,50
+13077852,6/1/2018,843723,pandg,,yellow flag iris,Iris pseudacorus,Yellow Iris,Plantae,47779,"Deschutes Co.,Eagle Crest River Trail",RLP,51
+13078140,6/1/2018,843723,pandg,,Flixweed,Descurainia sophia,flixweed,Plantae,58074,"Deschutes Co., Eagle Crest Resort River Trail",RLP,52
+13078262,6/1/2018,843723,pandg,,Thelypodium,Thelypodium,,Plantae,64719,"Deschutes Co., Eagle Crest Resort River Trail",RLP,53
+13078523,6/1/2018,843723,pandg,,Tumble Mustard,Sisymbrium altissimum,tumble mustard,Plantae,56996,"Deschutes Co., Eagle Crest Resort River Trail",RLP,55
+13078668,6/1/2018,843723,pandg,,Thelypodium,Thelypodium,,Plantae,64719,"Deschutes Co., Eagle Crest Resort River Trail",RLP,56
+13078770,6/1/2018,843723,pandg,,Vetches,Vicia,Vetches,Plantae,52472,"Deschutes Co., Eagle Crest Resort River Trail",RLP,54
+13091691,6/2/2018,843723,pandg,,Lupines,Lupinus,lupines,Plantae,47121,"Crook Co., %miles West of Big Summit Prairie",RLP,59
+13091936,6/2/2018,843723,pandg,,American Vetch,Vicia americana,American vetch,Plantae,53320,"Crook Co., 5 miles West of Big Summit Prairie5",RLP,60
+13092176,6/2/2018,843723,pandg,,Cinquefoils,Potentilla,cinquefoils,Plantae,53186,"Crook Co., Big Summit Prairie",RLP,61
+13092347,6/2/2018,843723,pandg,,"Lupine, Lupinus sp.",Lupinus,lupines,Plantae,47121,"Crook Co., Big Summit Prairie, USFS Rd.4210",RLP,63
+13092534,6/2/2018,843723,pandg,,Royal Penstemon,Penstemon speciosus,Royal Penstemon,Plantae,78422,"Crook Co., Big Summit Prairie",RLP,62
+13092730,6/2/2018,843723,pandg,,heartleaf arnica,Arnica cordifolia,heartleaf arnica,Plantae,75569,Crook Co. Big Summit Prairie,RLP,64
+13092932,6/2/2018,843723,pandg,,Mule-ears,Wyethia amplexicaulis,Mule-ears,Plantae,50798,Crook Co. Big Summit Prairie,RLP,65
+13093257,6/2/2018,843723,pandg,,Jessica's Stickseed,Hackelia micrantha,Jessica's stickseed,Plantae,77323,"Crook Co., Big Summit Prairie, north side",RLP,66
+13093448,6/2/2018,843723,pandg,,Jessica's Stickseed,Hackelia micrantha,Jessica's stickseed,Plantae,77323,"Crook Co., Big Summit Prairie, north side",RLP,66
+13093851,6/2/2018,843723,pandg,,western stoneseed,Lithospermum ruderale,western stoneseed,Plantae,77795,Crook Co. off Hwy 26 on Rd 22,RLP,57
+13094008,6/2/2018,843723,pandg,,Royal Penstemon,Penstemon speciosus,Royal Penstemon,Plantae,78422,"Crook.Co, Off Hwy 26 on Rd. 22",RLP,58
+13094259,6/1/2018,843723,pandg,"sunny
+65 degrees F",Flixweed,Descurainia sophia,flixweed,Plantae,58074,Eagle Crest River Trail,GP,51
+13094374,6/1/2018,843723,pandg,"sunny
+67 degrees F",American Vetch,Vicia americana,American vetch,Plantae,53320,Eagle Crest River Trail,GP,52
+13094474,6/1/2018,843723,pandg,"sunny
+67 degrees F",Thelypodium,Thelypodium,,Plantae,64719,Eagle Crest River Trail,GP,53
+13094539,6/1/2018,843723,pandg,"sunny
+68 degrees F",Woods' Rose,Rosa woodsii,Woods' rose,Plantae,78887,Eagle Crest River Trail,GP,54
+13094620,6/1/2018,843723,pandg,"sunny
+67 degrees F",Thelypodium,Thelypodium,,Plantae,64719,Eagle Crest River Trail,GP,55
+13094780,6/2/2018,843723,pandg,"sunny
+68 degrees F",western stoneseed,Lithospermum ruderale,western stoneseed,Plantae,77795,Crook Co. Ochoco Ranger Station Rd.,GP,56
+13094807,6/2/2018,843723,pandg,"sunny
+68 degrees F",Royal Penstemon,Penstemon speciosus,Royal Penstemon,Plantae,78422,Crook Co. Ochoco Ranger Station Rd.,GP,57
+13094868,6/2/2018,843723,pandg,"sunny
+72 degrees F",American Vetch,Vicia americana,American vetch,Plantae,53320,Crook Co. USFS Road 42,GP,58
+13094927,6/2/2018,843723,pandg,"sunny
+73 degrees F",Lupines,Lupinus,lupines,Plantae,47121,Crook Co. USFS Road 42,GP,59
+13094987,6/2/2018,843723,pandg,"sunny
+71 degrees F",Clovers,Trifolium,clovers,Plantae,51876,Crook Co. USFS Road 4210,GP,60
+13095041,6/2/2018,843723,pandg,"sunny
+71 degrees F",small camas,Camassia quamash,small camas,Plantae,62220,Crook Co. USFS Road 4210,GP,61
+13095085,6/2/2018,843723,pandg,"sunny
+70 degrees F",Lupines,Lupinus,lupines,Plantae,47121,Crook Co. USFS Road 4210,GP,62
+13095133,6/2/2018,843723,pandg,"sunny
+72 degrees F",American Vetch,Vicia americana,American vetch,Plantae,53320,Crook Co. USFS Road 4210,GP,63
+13095198,6/2/2018,843723,pandg,"sunny
+74 degrees F",Mule-ears,Wyethia amplexicaulis,Mule-ears,Plantae,50798,Crook Co. USFS Road 210,GP,64
+13095299,6/2/2018,843723,pandg,"sunny
+72 degrees F",Jessica's Stickseed,Hackelia micrantha,Jessica's stickseed,Plantae,77323,Crook Co. USFS Road 22,GP,65
+13095411,6/2/2018,843723,pandg,"sunny
+74 degrees F",Beardtongues,Penstemon,beardtongues,Plantae,48367,Crook Co. USFS Road 22,GP,66
+13189713,6/5/2018,843723,pandg,,Oxeye Daisy,Leucanthemum vulgare,oxeye daisy,Plantae,56057,"Bend, Tumalo, Pinehurst Rd.",RLP,68
+13189827,6/5/2018,843723,pandg,,Rocky Mountain Penstemon,Penstemon strictus,Rocky Mountain penstemon,Plantae,166444,"Bend, Tumalo, Pinehurst Rd.",RLP,69
+13788396,6/20/2018,843723,pandg,,Wild Buckwheats,Eriogonum,wild buckwheats,Plantae,48939,"Wallowa Co., Buckhorn Rd. Zumwalt Prairie road shoulder",RLP,70
+13788822,6/20/2018,843723,pandg,,Royal Penstemon,Penstemon speciosus,Royal Penstemon,Plantae,78422,"Oregon, Wallowa County, Buckhorn Summit",RLP,71
+13788928,6/20/2018,843723,pandg,,Small-flower Beardtongue,Penstemon procerus,Small-flower Beardtongue,Plantae,78414,"Oregon, Wallowa County, Buckhorn Summit",RLP,73
+13789093,6/21/2018,843723,pandg,,Larkspurs,Delphinium,larkspurs,Plantae,48493,"Oregon, Wallowa County, Buckhorn Summit",RLP,74
+13801057,6/21/2018,843723,pandg,,Snowberries,Symphoricarpos,snowberries,Plantae,48528,"Wallowa Co., Buckhorn Summit Parking area",RLP,75
+13801215,6/21/2018,843723,pandg,,mule's ears,Wyethia,mule's ears,Plantae,48243,"Wallowa Co., Buckhorn Summit Parking area",RLP,76
+13801278,6/21/2018,843723,pandg,,Bolander's Yampah,Perideridia bolanderi,Bolander's yampah,Plantae,78433,"Wallowa Co., Buckhorn Summit Parking area",RLP,78
+13801680,6/21/2018,843723,pandg,,Hot Rock Penstemon,Penstemon deustus,Hot Rock Penstemon,Plantae,68587,"Wallowa Co., Buckhorn Rd. Zumwalt Prairie road shoulder",RLP,79
+13802582,6/21/2018,843723,pandg,,Snowberries,Symphoricarpos,snowberries,Plantae,48528,"Wallowa Co., Lostine Ck. Rd., 5 miles south of Lostine",RLP,80
+13802838,6/21/2018,843723,pandg,,bittersweet,Solanum dulcamara,bittersweet,Plantae,55620,"Wallowa Co., Lostine Ck. Rd., 5 miles south of Lostine",RLP,81
+13803591,6/21/2018,843723,pandg,,Silverleaf Phacelia,Phacelia hastata,Silverleaf phacelia,Plantae,59982,"Wallowa Co., Lostine Ck. Rd., 5 miles south of Lostine",RLP,82
+13803961,6/21/2018,843723,pandg,,Senecio sp.,Senecio,groundsels,Plantae,53207,"Wallowa Co., Lostine Ck. Rd., 5 miles south of Lostine",RLP,83
+13804261,6/22/2018,843723,pandg,,Rosa woodsii,Rosa woodsii,Woods' rose,Plantae,78887,"Union Co., south of Starky on Hwy. 244",RLP,85
+13804845,6/22/2018,843723,pandg,,Phacelia sp.,Phacelia,Scorpionweeds,Plantae,49347,"Union Co., south of Starky on Hwy. 244",RLP,86
+13805256,6/22/2018,843723,pandg,,Black Locust,Robinia pseudoacacia,black locust,Plantae,56088,"Union Co., south of Starky on Hwy. 5160",RLP,87
+13805557,6/22/2018,843723,pandg,,Hot Rock Penstemon,Penstemon deustus,Hot Rock Penstemon,Plantae,68587,"Union Co., south of Starky on Hwy. 5160",RLP,88
+13805974,6/22/2018,843723,pandg,,Wild Buckwheats,Eriogonum,wild buckwheats,Plantae,48939,"Union Co., south of Starky on Hwy. 5160",RLP,89
+13806617,6/22/2018,843723,pandg,,Asters,Aster,asters,Plantae,54903,"Union Co., south of Starky on Hwy. 5160",RLP,90
+13807019,6/22/2018,843723,pandg,,common yarrow,Achillea millefolium,common yarrow,Plantae,52821,"Union Co., south of Starky on Hwy. 244",RLP,91
+13807543,6/22/2018,843723,pandg,,Small-flower Beardtongue,Penstemon procerus,Small-flower Beardtongue,Plantae,78414,"Grant Co.,North Fork of John Day Campground",RLP,92
+13808272,6/22/2018,843723,pandg,,Phacelia sp.,Phacelia,Scorpionweeds,Plantae,49347,"OR, Baker Co., Hwy 7 west of Sumpter Junction",RLP,93
+13808456,6/22/2018,843723,pandg,,Spreading Dogbane,Apocynum androsaemifolium,spreading dogbane,Plantae,47359,"Baker Co., Hwy 7 East of Austin",RLP,94
+13809483,6/22/2018,843723,pandg,,Woods' Rose,Rosa woodsii,Woods' rose,Plantae,78887,"Oregon, Union Co.,west of LeGrande, Starky Hwy 244",RLP,85
+13839711,6/20/2018,843723,pandg,Prairie landscape,Small-flower Beardtongue,Penstemon procerus,Small-flower Beardtongue,Plantae,78414,Wallowa Co. Zumwalt-Buckhorn Road #697,GP,67
+13839751,6/20/2018,843723,pandg,Prairie landscape,Hound's-Tongues,Cynoglossum,Hound's-tongues,Plantae,48153,Wallowa Co. Zumwalt-Buckhorn Road #697,GP,68
+13839808,6/20/2018,843723,pandg,sunny,Jessica's Stickseed,Hackelia micrantha,Jessica's stickseed,Plantae,77323,Wallowa Co. Road #46,GP,69
+13839891,6/20/2018,843723,pandg,sunny,Clovers,Trifolium,clovers,Plantae,51876,Wallowa Co. Road #46,GP,70
+13839962,6/21/2018,843723,pandg,"cloudy, windy
+55 degrees F
+elev. 5333 ft.",Larkspurs,Delphinium,larkspurs,Plantae,48493,Wallowa Co. Buckhorn Overlook,GP,71
+13840069,6/21/2018,843723,pandg,"cloudy
+55 degrees F
+elev. 5333 ft.",Mule's Ears,Wyethia,mule's ears,Plantae,48243,Wallowa Co. Buckhorn Overlook,GP,72
+13840142,6/21/2018,843723,pandg,"cloudy
+elev. 5333 feet",Snowberries,Symphoricarpos,snowberries,Plantae,48528,Wallowa Co. Buckhorn Overlook,GP,73
+13840197,6/21/2018,843723,pandg,"cloudy
+58 degrees F",Woods' Rose,Rosa woodsii,Woods' rose,Plantae,78887,"Wallowa Co. Rd. 46, between Buckhorn CG and Zumwalt Prairie",GP,74
+13840283,6/21/2018,843723,pandg,"cloudy with rain
+59 degrees F",Mule's Ears,Wyethia,mule's ears,Plantae,48243,"Wallowa Co. Rd. 46, between Buckhorn CG and Zumwalt Prairie",GP,75
+13840335,6/21/2018,843723,pandg,"cloudy
+60 degrees F
+elev. 4593 ft.",Hot Rock Penstemon,Penstemon deustus,Hot Rock Penstemon,Plantae,68587,Wallowa Co. Zumwalt Rd.,GP,76
+13840374,6/21/2018,843723,pandg,"partly cloudy
+elev. 2051 ft.
+70 degrees F",Snowberries,Symphoricarpos,snowberries,Plantae,48528,Wallowa Co. Lostine Rd.,GP,77
+13840393,6/21/2018,843723,pandg,"partly cloudy
+2051 ft. elev.
+70 degrees F",Woods' Rose,Rosa woodsii,Woods' rose,Plantae,78887,Wallowa Co. Lostine Rd.,GP,78
+13840430,6/21/2018,843723,pandg,"sunny
+elev. 3706 ft.
+71 degrees F",Groundsels,Senecio,groundsels,Plantae,53207,Wallowa Co. Lostine Rd.,GP,79
+13840461,6/22/2018,843723,pandg,"elev. 3233 ft.
+56 degrees F",Woods' rose,Rosa woodsii,Woods' rose,Plantae,78887,"Union Co. Starky near La Grande, Hwy 244",GP,80
+13840490,6/22/2018,843723,pandg,"sunny
+elev. 3233 ft.
+56 degrees F",Silverleaf Phacelia,Phacelia hastata,Silverleaf phacelia,Plantae,59982,"Union Co. Starky near La Grande, Hwy 244",GP,81
+13840561,6/22/2018,843723,pandg,"sunny
+elev. 3584 ft.
+62 degrees F",Black Locust,Robinia pseudoacacia,black locust,Plantae,56088,Union Co. Grande Ronde River near Spool Cart CG,GP,82
+13840618,6/22/2018,843723,pandg,"sunny
+elev. 3668 ft.
+ 63 degrees F",Hot Rock Penstemon,Penstemon deustus,Hot Rock Penstemon,Plantae,68587,Union Co. Grande Ronde River Hwy 51,GP,83
+13840724,6/22/2018,843723,pandg,"sunny
+elev. 3668 ft.
+63 degrees F
+among the bees visiting this plant was one Bombus occidentalis",thimbleberry,Rubus parviflorus,thimbleberry,Plantae,51646,Union Co. Grande Ronde River Hwy 51,GP,84
+13840791,6/22/2018,843723,pandg,"sunny
+elev. 3778 ft.
+64 degrees F",Spreading Dogbane,Apocynum androsaemifolium,spreading dogbane,Plantae,47359,Union Co. Grande Ronde River Hwy 51,GP,85
+13840838,6/22/2018,843723,pandg,"sunny
+71 degrees F
+elev. 3868 ft.",American Red Raspberry,Rubus idaeus strigosus,American red raspberry,Plantae,125488,Union Co. Grande Ronde River Hwy 51,GP,86
+13840876,6/22/2018,843723,pandg,"sunny
+elev. 4172 ft.
+73 degrees F",white clover,Trifolium repens,white clover,Plantae,55745,"Union Co. Grande Ronde River Hwy 15, 18 mi. N of Granite",GP,87
+13840974,6/22/2018,843723,pandg,"sunny
+78 degrees F
+elev. 5211 ft.",Silverleaf Phacelia,Phacelia hastata,Silverleaf phacelia,Plantae,59982,"Grant Co. Hwy 51, North Fork John Day CG",GP,88
+13841036,6/22/2018,843723,pandg,"partly cloudy
+elev. 5211 ft.
+77 degrees F",Small-flower Beardtongue,Penstemon procerus,Small-flower Beardtongue,Plantae,78414,"Grant Co. Hwy 51, North Fork John Day CG",GP,89
+13889647,6/28/2018,843723,pandg,sunny,Shrubby Cinquefoil,Dasiphora fruticosa,shrubby cinquefoil,Plantae,76606,Deschutes Co. Eagle Crest Resort Sports Center,GP,94
+13889716,6/28/2018,843723,pandg,sunny,Rose Spiraea,Spiraea douglasii,rose spiraea,Plantae,62493,Deschutes Co. Eagle Crest Resort River Trail,GP,90
+13889799,6/28/2018,843723,pandg,sunny,Thelypodium,Thelypodium,,Plantae,64719,Deschutes Co. Eagle Crest Resort River Trail,GP,91
+13889860,6/28/2018,843723,pandg,"sunny
+elev. 3021 feet",Rose Spiraea,Spiraea douglasii,rose spiraea,Plantae,62493,Deschutes Co. Eagle Crest Resort River Trail,GP,92
+13889968,6/28/2018,843723,pandg,"sunny
+elev. 2973",Lewis's Mock-Orange,Philadelphus lewisii,Lewis's mock-orange,Plantae,62223,Deschutes Co. Eagle Crest Resort River Trail,GP,93
+13893070,6/28/2018,843723,pandg,,Rose Spiraea,Spiraea douglasii,rose spiraea,Plantae,62493,"Deschutes Co., Eagle Crest Resort River Trail",RLP,95
+13893161,6/28/2018,843723,pandg,,Thelypodium,Thelypodium,,Plantae,64719,"Deschutes Co., Eagle Crest Resort River Trail",RLP,96
+13893264,6/28/2018,843723,pandg,,Lewis's Mock-Orange,Philadelphus lewisii,Lewis's mock-orange,Plantae,62223,"Deschutes Co., Eagle Crest Resort River Trail",RLP,97
+13893366,6/28/2018,843723,pandg,,Thelypodium,Thelypodium,,Plantae,64719,"Deschutes Co., Eagle Crest Resort River Trail",RLP,98
+13893499,6/28/2018,843723,pandg,,shrubby cinquefoil,Dasiphora fruticosa,shrubby cinquefoil,Plantae,76606,"Deschutes Co., Eagle Crest Resort River Trail",RLP,99
+14167461,7/3/2018,843723,pandg,,Bachelor's-buttons,Cyanus segetum,Bachelor's-buttons,Plantae,502212,"Hwy. 380, Paulina Hwy",RLP,100
+14167686,7/3/2018,843723,pandg,,Seep Monkeyflower,Erythranthe guttata,Seep Monkeyflower,Plantae,470643,"Crook Co.,Hwy.380, 5 mi. SE ofPrineville, %mi SE",RLP,101
+14168199,7/3/2018,843723,pandg,,wavyleaf thistle,Cirsium undulatum,wavyleaf thistle,Plantae,76358,"Crook Co, Hwy.380, 5 mi. SE of Prineville",RLP,102
+14168953,7/3/2018,843723,pandg,,lupines,Lupinus,lupines,Plantae,47121,"Crook Co.,Hwy.380, 5 mi. SE ofPrineville, %mi SE",RLP,103
+14169295,7/3/2018,843723,pandg,,Snowberries,Symphoricarpos,snowberries,Plantae,48528,"Crook Co.,Dutchman Flat,Sugar Crk. Campground",RLP,104
+14169717,7/3/2018,843723,pandg,,geraniums and cranesbills,Geranium,geraniums and cranesbills,Plantae,47701,Crook Co. Rd. 58 near ranger District Office,RLP,105
+14170149,7/3/2018,843723,pandg,,Scorpionweeds,Phacelia,Scorpionweeds,Plantae,49347,"Crook Co. Dutchman Flat, 1 mile South of Ranger Sta.",RLP,106
+14170989,7/3/2018,843723,pandg,,Catseyes,Cryptantha,catseyes,Plantae,51694,"Grant Co., Hwy 380 near Izee",RLP,108
+14171253,7/3/2018,843723,pandg,,Geraniums and Cranesbills,Geranium,geraniums and cranesbills,Plantae,47701,"Grant Co., Hwy 380 near Izee",RLP,109
+14171579,7/4/2018,843723,pandg,,Checkerblooms,Sidalcea,Checkerblooms,Plantae,48798,"Grant Co., near Frasier Campground",RLP,110
+14172226,7/4/2018,843723,pandg,,Calochortus eurycarpus,Calochortus eurycarpus,white mariposa lily,Plantae,51055,"Grant Co., Rd. 58 near Frasier Campground",RLP,111
+14172290,7/4/2018,843723,pandg,,Checkerblooms,Sidalcea,Checkerblooms,Plantae,48798,"Grant Co., Rd. 58 near Frasier Campground",RLP,112
+14179692,7/4/2018,843723,pandg,,Hyssop,Agastache,Hyssop,Plantae,52635,"Grant Co., Rd. 58 near Frasier Campground",RLP,113
+14179941,7/4/2018,843723,pandg,,fireweed,Chamaenerion angustifolium,fireweed,Plantae,564969,"Grant Co., Rd. 58, 2 mi W of South Fork Of John Day R.",RLP,114
+14180053,7/4/2018,843723,pandg,,Hot Rock Penstemon,Penstemon deustus,Hot Rock Penstemon,Plantae,68587,"Grant Co., Rd. 58, 2 mi W of South Fork Of John Day R.",RLP,115
+14180151,7/4/2018,843723,pandg,,Melilots and Sweetclovers,Melilotus,melilots and sweetclovers,Plantae,57067,"Grant Co., Rd. 58, 2 mi W of South Fork Of John Day R..",RLP,116
+14181067,7/5/2018,843723,pandg,Same bees also visited nearby White Blepharipappus. See RLP 118,Aster Family,Asteraceae,"sunflowers, daisies, asters, and allies",Plantae,47604,"Grant Co., Rd 58 at S. Fork Of John Day R..",RLP,117
+14181507,7/5/2018,843723,pandg,These bees visited only the white flowers of Blepharipappus and not the Asteraceae of RLP 117,Blepharipappus,Blepharipappus,,Plantae,72012,"Grant Co., Rd. 58, at South Fork Of John Day R.",RLP,118
+14181841,7/5/2018,843723,pandg,,Thistles,Cirsium,thistles,Plantae,48561,"Grant Co., Rd. 58, at South Fork Of John Day R..",RLP,119
+14182079,7/5/2018,843723,pandg,,Beardtongues,Penstemon,beardtongues,Plantae,48367,"Grant Co., 30 miles South of Dayville on South Fork Of John Day R..",RLP,120
+14182293,7/5/2018,843723,pandg,,Streambank Wild Hollyhock,Iliamna rivularis,streambank wild hollyhock,Plantae,77489,"Grant Co., Dayville, 30 miles south on South Fork John Day R.",RLP,121
+14182798,7/5/2018,843723,pandg,,White Melilot,Melilotus albus,white sweetclover,Plantae,58907,"Grant Co., Dayville, 30 miles south on South Fork Of John Day R.",RLP,123
+14183045,7/5/2018,843723,pandg,,alfalfa,Medicago sativa,alfalfa,Plantae,57057,"Grant Co., Dayville, 25 miles south on South Fork Of John Day R..",RLP,124
+14184880,7/3/2018,843723,pandg,"Sunny
+56 degrees F
+roadside",Bachelor's-buttons,Cyanus segetum,Bachelor's-buttons,Plantae,502212,"Crook County Paulina Hwy 380, south of Prineville",GP,95
+14186580,7/3/2018,843723,pandg,"sunny
+64 degrees F
+elev. 3530 ft.",fireweed,Chamaenerion angustifolium,fireweed,Plantae,564969,Crook County Paulina Hwy 380 Milepost 39,GP,96
+14186622,7/3/2018,843723,pandg,"sunny
+64 degrees F
+elev. 3530 ft.",Desert Yellow Fleabane,Erigeron linearis,Desert Yellow Fleabane,Plantae,76926,Crook County Paulina Hwy 380 Milepost 39,GP,97
+14186724,7/3/2018,843723,pandg,"sunny
+elev. 4040 ft.",Slender Cinquefoil,Potentilla gracilis,slender cinquefoil,Plantae,78728,"Crook County Dutchman Flat, Sugar Creek Campground",GP,98
+14186760,7/3/2018,843723,pandg,"sunny
+66 degrees F
+elev. 4040 ft.",Snowberries,Symphoricarpos,snowberries,Plantae,48528,"Crook County Dutchman Flat, Sugar Creek Campground",GP,99
+14186834,7/3/2018,843723,pandg,elev. 3917 ft.,sulphur cinquefoil,Potentilla recta,sulphur cinquefoil,Plantae,62211,"Crook County Rd. 58, near ranger district office",GP,100
+14186879,7/3/2018,843723,pandg,"sunny
+67 degrees F
+elev. 3981 ft.",Scorpionweeds,Phacelia,Scorpionweeds,Plantae,49347,"Crook County Dutchman Flat, east of Sugar Crk Campground",GP,101
+14186905,7/3/2018,843723,pandg,"sunny
+67 degrees f
+elev. 3981 ft.",lupines,Lupinus,lupines,Plantae,47121,"Crook County Dutchman Flat, east of Sugar Crk Campground",GP,102
+14186944,7/3/2018,843723,pandg,"sunny
+67 degrees F
+elev. 3981 ft.",groundsels,Senecio,groundsels,Plantae,53207,"Crook County Dutchman Flat, east of Sugar Crk Campground",GP,103
+14187155,7/3/2018,843723,pandg,"sunny
+69 degrees F
+elev. 4567 ft.",Scorpionweeds,Phacelia,Scorpionweeds,Plantae,49347,"Grant County, Hwy 63 east of Izee",GP,104
+14187232,7/4/2018,843723,pandg,"mostly sunny
+76 degrees F
+elev. 4667 ft.",Helmet Skullcap,Scutellaria integrifolia,Helmet skullcap,Plantae,127045,"Grant County, leaving Frazier Campground",GP,105
+14190610,7/4/2018,843723,pandg,"mostly sunny
+82 degrees f
+elev 4488 ft.",Calochortus eurycarpus,Calochortus eurycarpus,white mariposa lily,Plantae,51055,Grant county Rd. 58 Between Frazier Campground and South fork John Day River,GP,106
+14190750,7/4/2018,843723,pandg,"sunny
+82 degrees F
+elev. 4498 ft.
+Robberfly mimic on flower too",Thistles,Cirsium,thistles,Plantae,48561,Grant County Rd. 58 2 mi. west of south Fk. John Day River,GP,107
+14190791,7/4/2018,843723,pandg,"sunny
+82 degrees F
+elev. 4441 ft.",Hyssop,Agastache,Hyssop,Plantae,52635,Grant County Rd. 58 2 mi. west of south Fk. John Day River,GP,108
+14190811,7/4/2018,843723,pandg,"sunny 
+82 degrees F
+elev. 4441 ft.",Hot Rock Penstemon,Penstemon deustus,Hot Rock Penstemon,Plantae,68587,Grant County Rd. 58 2 mi. west of south Fk. John Day River,GP,109
+14190845,7/4/2018,843723,pandg,"sunny
+82 degrees f
+elev. 4441 ft.",Snowberries,Symphoricarpos,snowberries,Plantae,48528,Grant County Rd. 58 2 mi. west of south Fk. John Day River,GP,110
+14190915,7/4/2018,843723,pandg,"Sunny
+82 degrees F
+elev. 4441 ft.",dusty-maidens,Chaenactis douglasii douglasii,dusty-maidens,Plantae,80547,Grant County Rd. 58 2 mi. west of south Fk. John Day River,GP,111
+14190950,7/4/2018,843723,pandg,"sunny
+82 degrees F
+elev. 3857 ft.",Ribbed Melilot,Melilotus officinalis,yellow sweetclover,Plantae,57066,Grant County Rd. 58 1 mi. west of south Fk. John Day River,GP,112
+14191051,7/5/2018,843723,pandg,"Sunny
+57 degrees F
+elev. 3952 ft.
+Small composite that looks like tarweed",tarweeds,Madia,tarweeds,Plantae,53136,Grant County Rd. 58 and South Fk. John Day River junction,GP,113
+14191097,7/5/2018,843723,pandg,"sunny 
+57 degrees F
+elev. 3952 ft.",Blepharipappus,Blepharipappus,,Plantae,72012,Grant County Rd. 58 and South Fk. John Day River junction,GP,114
+14191136,7/5/2018,843723,pandg,"sunny
+57 degrees F
+elev. 3794 ft.",Hot Rock Penstemon,Penstemon deustus,Hot Rock Penstemon,Plantae,68587,Grant County Rd. South Fk. John Day River Rd,GP,115
+14191166,7/5/2018,843723,pandg,"sunny
+57 degrees F
+elev. 3794 ft.",Scorpionweeds,Phacelia,Scorpionweeds,Plantae,49347,Grant County Rd. South Fk. John Day River Rd,GP,116
+14191195,7/5/2018,843723,pandg,"sunny
+57 degrees F
+elev. 3794 ft.",Thistles,Cirsium,thistles,Plantae,48561,Grant County Rd. South Fk. John Day River Rd,GP,117
+14191222,7/5/2018,843723,pandg,"sunny
+47 degrees F
+elev. 3610 ft.",streambank wild hollyhock,Iliamna rivularis,streambank wild hollyhock,Plantae,77489,Grant County Rd. South Fk. John Day River Rd,GP,118
+14191247,7/5/2018,843723,pandg,"sunny
+65 degrees F
+elev. 3281 ft.",Dogbanes,Apocynum,dogbanes,Plantae,47361,Grant County Rd. South Fk. John Day River Rd,GP,119
+14191298,7/5/2018,843723,pandg,"Sunny
+65 degrees F
+elev. 3283 ft.",Oxeye Daisy,Leucanthemum vulgare,oxeye daisy,Plantae,56057,Grant County Rd. South Fk. John Day River Rd,GP,120
+14191368,7/5/2018,843723,pandg,"sunny
+77 degrees F
+elev 3144 ft.",White Melilot,Melilotus albus,white sweetclover,Plantae,58907,Grant County Rd. South Fk. John Day River Rd,GP,121
+14191404,7/3/2018,843723,pandg,,Monkeyflowers,Phrymaceae,lopseed family,Plantae,64552,Grant County Hwy 63 near Izee,RLP,107
+14191452,7/5/2018,843723,pandg,"sunny 
+77 degrees F
+elev. 3144 ft.",Scorpionweeds,Phacelia,Scorpionweeds,Plantae,49347,Grant County South Fork John Day River Rd.,GP,122
+14191489,7/5/2018,843723,pandg,"sunny 
+77 degrees F
+elev. 3144 ft.",Alfalfa,Medicago sativa,alfalfa,Plantae,57057,Grant County South Fork John Day River Rd.,GP,123
+14191522,7/5/2018,843723,pandg,"sunny
+84 degrees F
+elev. 2990 ft.",Field Bindweed,Convolvulus arvensis,field bindweed,Plantae,53021,Grant County South Fork John Day River Rd.,GP,124
+14269245,7/11/2018,843723,pandg,"sunny
+elev. 3438 ft.
+73 degrees F",primrose monkeyflower,Erythranthe primuloides,primrose monkeyflower,Plantae,635401,"Deschutes Co, Bend, Tumalo, 18925 Pinehurst Rd.",GP,125
+14300011,7/12/2018,843723,pandg,"sunny 
+73 degrees F
+",Thelypodium,Thelypodium,,Plantae,64719,"Deschutes Co, Eagle Crest Resort, River Trail",GP,126
+14300103,7/12/2018,843723,pandg,"sunny
+elev. 2838 ft.
+74 degrees F",Rose Spiraea,Spiraea douglasii,rose spiraea,Plantae,62493,"Deschutes Co, Eagle Crest Resort, River Trail",GP,127
+14300186,7/12/2018,843723,pandg,"sunny
+75 degrees F
+elev. 2873 ft.
+Many individuals flying just above top of plant, flowers past prime",Lewis's Mock-Orange,Philadelphus lewisii,Lewis's mock-orange,Plantae,62223,"Deschutes Co, Eagle Crest Resort, River Trail",GP,128
+14301558,7/12/2018,843723,pandg,,creeping thistle,Cirsium arvense,creeping thistle,Plantae,60132,"Eagle Crest Resort, River Trail",RLP,125
+14301620,7/12/2018,843723,pandg,,Thelypodium,Thelypodium,,Plantae,64719,"Eagle Crest Resort, River Trail",RLP,126
+14301705,7/12/2018,843723,pandg,,Rose Spiraea,Spiraea douglasii,rose spiraea,Plantae,62493,"Eagle Crest Resort, River Trail",RLP,127
+14954824,7/26/2018,843723,pandg,,shrubby cinquefoil,Dasiphora fruticosa,shrubby cinquefoil,Plantae,76606,"Crook Co. Hwy 20,Bandit Springs",RLP,128
+14954945,7/26/2018,843723,pandg,,bull thistle,Cirsium vulgare,bull thistle,Plantae,52989,"Crook Co. Hwy 20,Bandit Springs",RLP,129
+14955065,7/26/2018,843723,pandg,,shrubby cinquefoil,Dasiphora fruticosa,shrubby cinquefoil,Plantae,76606,"Crook Co. Hwy 20, Bandit Springs",RLP,130
+14955855,7/26/2018,843723,pandg,,common yarrow,Achillea millefolium,common yarrow,Plantae,52821,"Grant Co.Forest Servive Rd 1520, Canyon Meadows",RLP,131
+14956435,7/26/2018,843723,pandg,,Solidago sp.,Solidago,goldenrods,Plantae,48678,"Grant Co., Forest Service Rd.1520 canyon Creek Meadows",RLP,132
+14956707,7/26/2018,843723,pandg,,Asteraceae,Asteraceae,"sunflowers, daisies, asters, and allies",Plantae,47604,"grant Co. Forest Service Rd 1520, Canyon Meadows Rd.",RLP,133
+14957029,7/26/2018,843723,pandg,,bird's-foot trefoil,Lotus corniculatus,bird's-foot trefoil,Plantae,47435,"Grant Co. South side of Strawberry Mtns., Rd 1520",RLP,134
+14957950,7/26/2018,843723,pandg,,Alpine Leafybract Aster,Symphyotrichum foliaceum,alpine leafybract aster,Plantae,56113,"Grant Co. South side of Strawberry Mtns., Parish Cabin Camp",RLP,135
+14960611,7/28/2018,843723,pandg,,rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook Co. Ochoco Mtns., Road 30",RLP,151
+14960769,7/28/2018,843723,pandg,,Gumplants,Grindelia,gumplants,Plantae,55365,"Crook Co. Ochoco Mtns., Road 3010",RLP,152
+14960875,7/28/2018,843723,pandg,,Sagebrush Mariposa Lily,Calochortus macrocarpus,Sagebrush Mariposa Lily,Plantae,63311,"Crook Co. Ochoco Mtns., Road 3010",RLP,153
+14961131,7/28/2018,843723,pandg,,Alpine Leafybract Aster,Symphyotrichum foliaceum,alpine leafybract aster,Plantae,56113,"Crook Co. Ochoco Mtns., Road 3010",RLP,154
+14961380,7/28/2018,843723,pandg,,Yampahs,Perideridia,yampahs,Plantae,56839,"Crook Co. Ochoco Mtns., Road 2630",RLP,146
+14961547,7/28/2018,843723,pandg,,Yampahs,Perideridia,yampahs,Plantae,56839,"Crook Co. Ochoco Mtns., Road 2630",RLP,146
+14961738,7/28/2018,843723,pandg,,groundsels,Senecio,groundsels,Plantae,53207,"Crook Co. Ochoco Mtns., Road 2630",RLP,148
+14962063,7/28/2018,843723,pandg,,bull thistle,Cirsium vulgare,bull thistle,Plantae,52989,"Crook Co. Ochoco Mtns., Road 30",RLP,149
+14962251,7/28/2018,843723,pandg,,Calochortus macrocarpus,Calochortus macrocarpus,Sagebrush Mariposa Lily,Plantae,63311,"Crook Co. Ochoco Mtns., Road 30",RLP,150
+14962601,7/28/2018,843723,pandg,,Gumplants,Grindelia,gumplants,Plantae,55365,"Crook Co. South Ochoco Mtns., Indian Springs",RLP,155
+14962883,7/28/2018,843723,pandg,,Gumplants,Grindelia,gumplants,Plantae,55365,"Crook Co. South Ochoco Mtns., Indian Springs",RLP,155
+14964153,7/26/2018,843723,pandg,"sunny
+elev. 5086 ft.
+89 degrees F",fireweed,Chamaenerion angustifolium,fireweed,Plantae,564969,"Grant County, Canyon Meadow Road #1520",g,129
+14964681,7/26/2018,843723,pandg,"sunny
+burned area
+89 degrees F
+elev. 5086 ft.",Bull Thistle,Cirsium vulgare,bull thistle,Plantae,52989,"Grant County, Canyon Meadow Road 1520",GP,130
+14964771,7/26/2018,843723,pandg,"sunny 
+Burned area
+89 degrees F
+elev. 5114 ft.
+",Goldenrods,Solidago,goldenrods,Plantae,48678,"Grant County, Canyon Meadow Road 1520",GP,131
+14964871,7/26/2018,843723,pandg,"sun
+elev. 5418 ft.
+90 degrees F
+burned area",Aster Family,Asteraceae,"sunflowers, daisies, asters, and allies",Plantae,47604,"Grant County, Canyon Meadow Campground, Road 1520",GP,132
+14965136,7/26/2018,843723,pandg,"sun
+elev. 5259 feet
+88 degrees F",Balkan toadflax,Linaria dalmatica,Balkan toadflax,Plantae,77776,"Grant County, near Parrish Cabin Campground, Road 16 16",GP,133
+14965357,7/26/2018,843723,pandg,"sun
+elev. 5474 ft.
+88 degrees F",Alpine Leafybract Aster,Symphyotrichum foliaceum,alpine leafybract aster,Plantae,56113,"Grant County, east of Parrish Cabin Campground, Road 16",GP,134
+14965533,7/26/2018,843723,pandg,"sun
+elev. 5089 ft.
+87 degrees F",Blanket Flowers,Gaillardia,Blanket Flowers,Plantae,51769,Grant Co. Big Creek Campground Road,GP,135
+14965687,7/27/2018,843723,pandg,"sun
+elev. 7992 ft.
+65 degrees F",Lupines,Lupinus,lupines,Plantae,47121,"Grant County, Strawberry Mountains, High Lake Trailhead",GP,136
+14965763,7/27/2018,843723,pandg,"sun
+elev. 7992 ft.
+65 degrees F",Aster Family,Asteraceae,"sunflowers, daisies, asters, and allies",Plantae,47604,"Grant County, Strawberry Mountains, High Lake Trailhead",GP,137
+14965898,7/27/2018,843723,pandg,"Burned site
+elev. 7348 ft.
+72 degrees F",Scorpionweeds,Phacelia,Scorpionweeds,Plantae,49347,"Grant County, Strawberry Mountains, Road 1640",GP,138
+14965996,7/27/2018,843723,pandg,"sunny
+burned area
+72 degrees F
+elev. 6892 ft.",Nettle-leaf Giant Hyssop,Agastache urticifolia,nettle-leaf giant hyssop,Plantae,63316,"Grant County, Strawberry Mountains, Road 1640",GP,139
+14966154,7/28/2018,843723,pandg,"sun
+elev. 5737 ft.
+63 degrees F",Gumplants,Grindelia,gumplants,Plantae,55365,"Crook County, Ochoco National Forest Road 2630",GP,140
+14966360,7/28/2018,843723,pandg,"sun
+elev. 5835 ft.
+63 degrees F",bull thistle,Cirsium vulgare,bull thistle,Plantae,52989,"Crook County, Ochoco National Forest Road 2630",GP,141
+14966616,7/28/2018,843723,pandg,"sunny
+72 degrees F",creeping thistle,Cirsium arvense,creeping thistle,Plantae,60132,"Crook County, Ochoco National Forest Road 2630",GP,142
+14966791,7/28/2018,843723,pandg,"sunny
+76 degrees F",Oregon Checker-Mallow,Sidalcea oregana,Oregon Checker-mallow,Plantae,68635,"Crook County, Ochoco National Forest Road 2630",GP,143
+14967024,7/28/2018,843723,pandg,"sun
+elev. 5901 ft.
+72 degrees F",groundsels,Senecio,groundsels,Plantae,53207,"Crook County, Ochoco National Forest Road 2630",GP,144
+14967296,7/28/2018,843723,pandg,"sun
+elev. 5475 ft.
+79 degrees F",Calochortus macrocarpus,Calochortus macrocarpus,Sagebrush Mariposa Lily,Plantae,63311,"Crook County, Ochoco National Forest Road 30",GP,145
+14967616,7/28/2018,843723,pandg,"sunny
+elev 5475 ft
+79 degrees F",Scorpionweeds,Phacelia,Scorpionweeds,Plantae,49347,"Crook County, Ochoco National Forest Road 30",GP,146
+14967901,7/28/2018,843723,pandg,"sunny
+elev. 4989 ft.
+83 degrees F",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook County, Ochoco National Forest Road 30",GP,147
+14968154,7/28/2018,843723,pandg,"sunny
+elev. 5050 ft.
+82 degrees F",gumplants,Grindelia,gumplants,Plantae,55365,"Crook County, Ochoco National Forest Road 3010",GP,148
+14968394,7/28/2018,843723,pandg,"sun
+elev. 5052 ft.
+84 degrees F",Calochortus macrocarpus,Calochortus macrocarpus,Sagebrush Mariposa Lily,Plantae,63311,"Crook County, Ochoco National Forest Road 3010",GP,149
+15421432,8/9/2018,843723,pandg,,Fireweed,Chamaenerion angustifolium,fireweed,Plantae,564969,"Lake Co., Fremont Nat'l Forest, Cambell Lake",RLP,156
+15421771,8/9/2018,843723,pandg,,Thistles,Cirsium,thistles,Plantae,48561,"Lake Co., Fremont Nat'l Forest, near Cambell Lake",RLP,157
+15422138,8/10/2018,843723,pandg,,Bird's-foot Trefoil,Lotus corniculatus,bird's-foot trefoil,Plantae,47435,"Lake Co., Fremont Nat'l Forest, Chewagen Crossing",RLP,158
+15422383,8/10/2018,843723,pandg,"Elev. 5195, Temp F 86",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Lake Co., Fremont Nat'l Forest, Dairy Crk. Campground",RLP,159
+15422493,8/10/2018,843723,pandg,,Goldenbushes,Ericameria,goldenbushes,Plantae,57933,"Lake Co., Fremont Nat'l Forest, Rd 33",RLP,160
+15422790,8/10/2018,843723,pandg,,Sunflowers,Helianthus,sunflowers,Plantae,56955,"Lake Co., North of Paisley, Hwy. 31",RLP,161
+15423055,8/11/2018,843723,pandg,5156' Temp. 63 F,common St. John's-wort,Hypericum perforatum,common St. John's-wort,Plantae,56077,"Lane Co., Rd. 5897, west of Gold Lake",RLP,162
+15423113,8/11/2018,843723,pandg,,Asters,Aster,asters,Plantae,54903,"Lane Co., Rd. 5897, West of Gold Lake",RLP,163
+15423211,8/11/2018,843723,pandg,5156' Temp. 63,fireweed,Chamaenerion angustifolium,fireweed,Plantae,564969,"Lane Co., Rd. 5897, West of Gold Lake",RLP,164
+15423531,8/12/2018,843723,pandg,,Goldenbushes,Ericameria,goldenbushes,Plantae,57933,"Deschutes Co., Rd. to Mt. Bachelor near Rd. 45",RLP,165
+15423616,8/12/2018,843723,pandg,,Scorpionweeds,Phacelia,Scorpionweeds,Plantae,49347,"Deschutes Co., Rd. to Mt. Bachelor near Rd. 45",RLP,166
+15462118,8/2/2018,843723,pandg,"other plants in flower included Solanum, Vicea, Cirsium, Solidago, Ericameria, Centaurea, Oenothera, Chrysanthemum, and Marrubium vulgare",Purple Crownvetch,Securigera varia,purple crownvetch,Plantae,127186,"Deschutes County, Bend, Tumalo, Allen Rd",GP,150
+15462176,8/9/2018,843723,pandg,"89 degrees F
+7372 ft. elev.
+sunny",Fireweed,Chamaenerion angustifolium,fireweed,Plantae,564969,"Lake Co., Fremont Nat'l Forest, Campbell Lake Campground",GP,151
+15462213,8/9/2018,843723,pandg,"on honeydew from aphids on the leaves
+86 degrees F
+7372 ft. elev.",Corn Lily,Veratrum californicum,Corn Lily,Plantae,60500,"Lake Co., Fremont Nat'l Forest, Campbell Lake Campground",GP,152
+15462332,8/10/2018,843723,pandg,"82 degrees F
+6345 ft. elev.
+sunny",Musk Thistle,Carduus nutans,musk thistle,Plantae,76007,"Lake Co., Fremont National Forest, Road 28 near Campbell Lake",GP,153
+15462404,8/10/2018,843723,pandg,"sunny
+elevation 5195 feet
+86 degrees F",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Lake County, near Paisley, Dairy Creek Campground",GP,154
+15462493,8/11/2018,843723,pandg,"sunny
+elevation 5156 feet
+63 dgrees F",Pearly Everlasting,Anaphalis margaritacea,pearly everlasting,Plantae,52833,"Lane County, Road 5897 near Gold Lake",GP,155
+15462539,8/11/2018,843723,pandg,"sunny
+elevation 5156 feet
+63 degrees F
+one Bombus occidentalis among other species",fireweed,Chamaenerion angustifolium,fireweed,Plantae,564969,"Lane County, Road 5897 near Gold Lake",GP,156
+15462928,8/11/2018,843723,pandg,"sunny
+elevation 4468 feet
+68 degrees F",fireweed,Chamaenerion angustifolium,fireweed,Plantae,564969,Lane Co. intersection of Road 5897 and Highway 58,GP,157
+15463002,8/12/2018,843723,pandg,"sunny
+81 degrees F
+elevation 5857 feet",Knapweeds,Centaurea,knapweeds,Plantae,48160,"Deschutes County, roadside near Mount Bachelor",GP,158
+15463061,8/12/2018,843723,pandg,"sunny
+elevation 5857 feet
+81 degrees F",Bloomer's Goldenbush,Ericameria bloomeri,Bloomer's goldenbush,Plantae,76879,"Deschutes County, roadside near Mount Bachelor",GP,159
+15463109,8/12/2018,843723,pandg,"sunny
+elevation 5857 feet
+81 degrees F",Scorpionweeds,Phacelia,Scorpionweeds,Plantae,49347,"Deschutes County, roadside near Mount Bachelor",GP,160
+15518053,8/14/2018,843723,pandg,"Ericameria nauseosa and Ericameria viscidiflora together
+partly cloudy
+3679 feet elevation",Goldenbushes,Ericameria,goldenbushes,Plantae,57933,"Deschutes County, Bend, Tumalo, 18925 Pinehurst Road",GP,161
+15627995,8/17/2018,843723,pandg,"Ericameria nauseosa and E. viscidiflora at site
+sunny
+71 degrees F
+elevation 3266 feet",Goldenbushes,Ericameria,goldenbushes,Plantae,57933,"Deschutes County, Bend, Sisemore Road",GP,162
+15915741,8/17/2018,843723,pandg,,Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes Co, near Sisemore Rd.D",RLP,167
+15916211,8/19/2018,843723,pandg,"Centaurea (knapweed), Cirsium, Silene, and Vicea also at this site
+33 pans",Great Mullein,Verbascum thapsus,great mullein,Plantae,59029,"Deschutes Co, Bend,18925 Pinehurst Rd.",RLP,168
+15916564,8/20/2018,843723,pandg,"Centaurea (knapweed), Cirsium, Silene, and Vicea also at this site",Great Mullein,Verbascum thapsus,great mullein,Plantae,59029,"Deschutes Co, Bend, 18925 Pinehurst Rd.",RLP,169
+15925121,8/21/2018,843723,pandg,"sunny
+3679 feet elevation
+Bombus morrisoni caught
+4 other individuals seen",Great Mullein,Verbascum thapsus,great mullein,Plantae,59029,"Deschutes County, Bend, Tumalo, 18925 Pinehurst Road.",GP,163
+15925428,8/22/2018,843723,pandg,"irrigation ditch bank
+also with asters, Securigera varia, and other spp.",Goldenrods,Solidago,goldenrods,Plantae,48678,"Deschutes County, Bend, Tumalo, Allen Road",GP,164
+15925520,8/22/2018,843723,pandg,on road shoulder with Chrysothamnus viscidiflorus,Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes County, Bend, Tumalo, Mock Road",GP,165
+15925587,8/26/2018,843723,pandg,"sunny 
+60 degrees F",Goldenrods,Solidago,goldenrods,Plantae,48678,"Deschutes County, Bend, Tumalo, Allen Road",GP,166
+15927288,8/23/2018,843723,pandg,"Sunny, 68 F",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes Co., Eagle Crest  River Trail",RLP,170
+16241407,9/4/2018,843723,pandg,"Ericameria nauseosa and Chrysothamnus viscidiflorus were together at this site
+elevation 3679 feet
+76 degrees F
+sunny",Yellow Rabbitbrush,,,,,"Deschutes County, Bend, Tumalo, 18925 Pinehurst Road",GP,170
+16285267,9/6/2018,843723,pandg,"sunny
+elevation 2959 feet
+69 degrees F",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes County, Eagle Crest Resort, Redtail Hawk Drive",GP,171
+16508172,9/13/2018,843723,pandg,"partly cloudy
+elevation 3679 feet
+64 degrees F",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes County, Bend, Tumalo, 18925 Pinehurst Road",GP,172
+16539231,9/14/2018,843723,pandg,"sunny
+69 degrees F",Desert Globemallow,Sphaeralcea ambigua,desert globemallow,Plantae,50153,"Deschutes County, Redmond Fairgrounds",GP,173
+16539287,9/14/2018,843723,pandg,"sunny
+68 degrees F",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes County, Bend, Sturgeon Road",GP,174
+16554941,8/29/2018,843723,pandg,"Sunny, 74 F",Yellow Rabbitbrush,Chrysothamnus viscidiflorus,yellow rabbitbrush,Plantae,76329,"Deschutes Co., Sizemore Rd.",RLP,172
+16555270,9/3/2018,843723,pandg,"with Chrysothamnus viscidiflorus
+Sunny,76 F, 3,679",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes Co., Bend, Pinehurst Rd.",RLP,173
+16555473,9/6/2018,843723,pandg,"Sunny 69 F, 2959'",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes Co., Eagle Crest Resort",RLP,174
+16555876,9/13/2018,843723,pandg,,Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes Co., Bend, Pinehurst Rd.",RLP,175
+16556207,9/14/2018,843723,pandg,"Sunny, 68 F",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes Co., Bend, Sturgeon Rd.",RLP,176
+16735025,9/14/2018,843723,pandg,,rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes Co, Bend, Sturgen Rd.",RLP,176
+16735293,9/16/2018,843723,pandg,,Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"heeler Co,Hwy. 19, Mule Shoe Campground",RLP,177
+16735337,9/16/2018,843723,pandg,,Snow Buckwheat,Eriogonum niveum,Snow Buckwheat,Plantae,162640,"heeler Co,Hwy. 19, Mule Shoe Campground",RLP,178
+16735400,9/16/2018,843723,pandg,"Sunny 67 F
+Elevation 1702'",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"heeler Co,Hwy. 19, Mule Shoe Campground",RLP,179
+16735514,9/16/2018,843723,pandg,Sunny 75 F,Yellow Buckwheat,Eriogonum flavum flavum,Yellow Buckwheat,Plantae,240616,"Wheeler Co, Hwy.19, East of Service Crk.",RLP,180
+16756371,9/17/2018,843723,pandg,"Sunny, 61 F",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,Wheeler Co. Winlock Lane,RLP,181
+16756517,9/17/2018,843723,pandg,,Common Sunflower,Helianthus annuus,common sunflower,Plantae,57983,Wheeler Co. Winlock Lane,RLP,182
+16756927,9/17/2018,843723,pandg,,Knotweeds,Polygonum,knotweeds,Plantae,48972,"Wheeler Co., Hwy 19, Shelton Co. Park",RLP,183
+16757207,9/17/2018,843723,pandg,"Sunny, 63 F
+Elevation 3,390'",cotton thistle,Onopordum acanthium,cotton thistle,Plantae,78259,"Wheeler Co., Hwy 19, Butte Crk. Pass",RLP,184
+16757508,9/17/2018,843723,pandg,"Partly Sunny 62 F
+Elevation 3300'",teasels,Dipsacus,teasels,Plantae,53030,"Wheeler Co, Hwy.19",RLP,185
+16757699,9/17/2018,843723,pandg,,Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Wheeler Co., Hwy 19, Fossil",RLP,186
+16758179,9/17/2018,843723,pandg,"Sunny 54 F
+Elevation 2007'",Sunflowers,Helianthus,sunflowers,Plantae,56955,"Wheeler Co., Hwy 207, North of Spray",RLP,187
+16758583,9/18/2018,843723,pandg,"Sunny, 55 F
+Elevation 4392'",Thistles,Cirsium,thistles,Plantae,48561,"Wheeler Co., USFS Rd. 2039",RLP,188
+16758943,9/18/2018,843723,pandg,"Sunny, 66 F
+Elevation3234'",Gumplants,Grindelia,gumplants,Plantae,55365,"Morrow Co. Hwy 207, South of Hardman",RLP,189
+16759208,9/18/2018,843723,pandg,"Sunny, 66 F
+Elevation 3234'",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Morrow Co. Hwy207, S. Hardman",RLP,190
+16759509,9/18/2018,843723,pandg,"Sunny, 64 F
+Elevation 3136'",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Morrow Co. Hwy207, S. Hardman",RLP,191
+16759922,9/18/2018,843723,pandg,"Sunny, 64 F
+Elevation 1958""",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Gilliam Co. Hwy 206, East of Condon",RLP,192
+16760418,9/19/2018,843723,pandg,"Sunny, 64 F
+Elevation 2409'",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Wasco Co. Hwy 218, East of Antelope",RLP,193
+16761901,9/16/2018,843723,pandg,"sunny
+67 degrees F
+elevation 1702 feet",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Wheeler County, Muleshoe Campground, Highway 19",GP,175
+16762060,9/16/2018,843723,pandg,"sunny
+67 degrees F
+1702 feet elevation",Snow Buckwheat,Eriogonum niveum,Snow Buckwheat,Plantae,162640,"Wheeler County,  Muleshoe Campground, Highway 19",GP,176
+16762161,9/16/2018,843723,pandg,"sunny
+77 degrees F
+elevation 1714 feet",Sunflowers,Helianthus,sunflowers,Plantae,56955,"Wheeler County, Highway 19, East of Service Creek",GP,177
+16762364,9/17/2018,843723,pandg,"sunny
+61 degrees F",Giant Blazingstar,Mentzelia laevicaulis,Giant Blazingstar,Plantae,62308,"Wheeler County, Alder Creek Road",GP,178
+16762693,9/17/2018,843723,pandg,"sun
+68 degrees F
+3205 feet elevation
+road shoulder",Knotweeds,Polygonum,knotweeds,Plantae,48972,"Wheeler County, Highway 19, near Shelton Wayside Park",GP,180
+16763180,9/17/2018,843723,pandg,"sunny
+3390 feet elevation
+63 degrees F",cotton thistle,Onopordum acanthium,cotton thistle,Plantae,78259,"Wheeler County, Highway 19, Butte Creek Pass 19, Shelton Wayside Park",GP,181
+16763783,9/17/2018,843723,pandg,"Sunny
+2870 feet elevation
+",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Wheeler County, Highway 19, near Fossil",GP,182
+16764001,9/18/2018,843723,pandg,"sunny
+55 degrees F
+4392 feet elevation",bull thistle,Cirsium vulgare,bull thistle,Plantae,52989,"Wheeler County, Bull Prairie Road., United States Forest Service Road 2039",GP,183
+16764262,9/18/2018,843723,pandg,"sunny
+elevation 3234 feet
+66 degrees F",Gumplants,Grindelia,gumplants,Plantae,55365,"Morrow County, Highway 207 South of Hardman",GP,184
+16764468,9/18/2018,843723,pandg,"sunny
+3234 feet elevation
+66 degrees F",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Morrow County, Highway 207 South of Hardman",GP,185
+16764627,9/18/2018,843723,pandg,"sunny
+elevation 3136 feet
+64 degrees F
+grassland",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Morrow County, Highway 207 north of Hardman",GP,186
+16764760,9/18/2018,843723,pandg,"sunny
+1958 feet elevation
+70 degrees F",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Gilliam County, Highway 206 East of Condon",GP,187
+16765462,9/17/2018,843723,pandg,"sunny
+61 degrees F",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Wheeler County, Winlock Lane",GP,179
+16887699,9/19/2018,843723,pandg,"sunny
+2409 feet elevation
+64 degrees F",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Wasco County Highway 218,east of Antelope",GP,188
+17008903,9/27/2018,843723,pandg,,rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook Co.,Prineville, Hwy #27",RLP,194
+17009038,9/27/2018,843723,pandg,,rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook Co.,Hwy 27, Bowman Dam",RLP,195
+17009137,9/27/2018,843723,pandg,"Sunny 87F
+Elevation 2975'",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook Co.,Hwy 27, Bowman Dam",RLP,195
+17009254,9/27/2018,843723,pandg,,rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook Co.,Hwy27,Chimney Rock CG.",RLP,196
+17009404,9/27/2018,843723,pandg,"Sunny 88 F
+Elevation 3275'",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook Co.,Powder House Cove",RLP,197
+17009537,9/27/2018,843723,pandg,"Sunny 81 F
+Elevation 3390",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes Co, East of Alfalfa",RLP,198
+17009938,9/27/2018,843723,pandg,"sunny
+85 degrees F",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook County, Highway 27, south of Prineville",GP,189
+17010115,9/27/2018,843723,pandg,"sunny
+2975 feet elevation
+87 degrees F",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,,,
+17010155,9/27/2018,843723,pandg,"sunny
+2975 feet elevation
+87 degrees F",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook County, Highway 27, south of Prineville",GP,190
+17010256,9/27/2018,843723,pandg,"sunny
+3052 feet elevation
+88 degrees F",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook County, Highway 27, Chimney Rock Campground",GP,191
+17010335,9/27/2018,843723,pandg,"sunny
+88 degrees F
+3275 feet elevation",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Crook County, Highway 27, Powder House Cove",GP,192
+17010407,9/27/2018,843723,pandg,"sunny
+81 degrees F
+3390 feet elevation",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes County, west of Alfalfa",GP,193
+17481286,10/12/2018,843723,pandg,"sunny
+73 degrees F
+2947 feet elevation",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes County, Fryrear Transfer Station",GP,194
+17481327,10/12/2018,843723,pandg,"sunny
+70 degrees F
+3179 feet elevation",Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes County, Camp Polk Road",GP,195
+17482011,10/12/2018,843723,pandg,,Rubber Rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes County, Sisters, Fryrear Dump",RLP,199
+17482279,10/12/2018,843723,pandg,"Temp. 70 F
+Elevation 3179'",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes County, Sisters, Polk Mdws. Rd.",RLP,200
+17801688,10/19/2018,843723,pandg,"Sunny 74 F
+Elevation 3535'
+",rubber rabbitbrush,Ericameria nauseosa,rubber rabbitbrush,Plantae,57934,"Deschutes Co, Bend, Shopping Center",RLP,201

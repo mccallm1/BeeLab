@@ -1,549 +1,549 @@
-Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Sample ID,Specimen ID,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL
- , , , ,1459777,,,,9,II,19,20:48,,,,,,,,USA,OR,Benton,,,44.5674,-123.2816,50,79,net,,,https://www.inaturalist.org/observations/20236585
- , , , ,733757,,,,9,II,19,20:46,,,,,,,,USA,OR,Benton,,,44.5677,-123.2828,200,79,net,,Homo sapiens,https://www.inaturalist.org/observations/20321217
- , , , ,1467407,,,,9,II,19,20:50,,,,,,,,USA,OR,Benton,,,44.5671,-123.2815,200,79,net,,Asteraceae,https://www.inaturalist.org/observations/21044422
- , , , ,841568,Lori,L.,Humphreys,11,III,19,22:21,,,,,,,,USA,OR,Lane,,,43.8535,-122.6365,,296,net,,Lomatium hallii,https://www.inaturalist.org/observations/21169660
- , , , ,792468,Michael,M.,O'Loughlin,14,III,19,20:58,,,,,,,,USA,OR,Yamhill,,,45.171,-123.186,24,44,net,,Erica,https://www.inaturalist.org/observations/21239358
- , , , ,792468,Michael,M.,O'Loughlin,14,III,19,21:03,,,,,,,,USA,OR,Yamhill,,,45.1715,-123.1862,16,44,net,,Bellis perennis,https://www.inaturalist.org/observations/21239536
- , , , ,792468,Michael,M.,O'Loughlin,15,III,19,20:59,,,,,,,,USA,OR,Yamhill,,,45.1703,-123.1858,32,44,net,,Bellis perennis,https://www.inaturalist.org/observations/21267007
- , , , ,327525,Briana,B.,Lindh,15,III,19,23:21,,,,,,,,USA,OR,Marion,,,44.9373,-123.0145,5,55,net,,Bellis perennis,https://www.inaturalist.org/observations/21301500
- , , , ,327525,Briana,B.,Lindh,16,III,19,21:55,,,,,,,,USA,OR,Marion,,,44.9352,-123.0167,65,54,net,,Erica carnea,https://www.inaturalist.org/observations/21301672
- , , , ,792468,Michael,M.,O'Loughlin,17,III,19,20:15,,,,,,,,USA,OR,Yamhill,,,45.173,-123.2131,65,43,net,,Pieris japonica,https://www.inaturalist.org/observations/21331157
- , , , ,1445987,,,,17,III,19,20:05,,,,,,,,USA,OR,Josephine,,,42.6465,-123.3173,5,564,net,,Salix,https://www.inaturalist.org/observations/21331221
- , , , ,792468,Michael,M.,O'Loughlin,17,III,19,20:21,,,,,,,,USA,OR,Yamhill,,,45.1734,-123.2116,16,43,net,,Bellis perennis,https://www.inaturalist.org/observations/21331394
- , , , ,792468,Michael,M.,O'Loughlin,17,III,19,20:54,,,,,,,,USA,OR,Yamhill,,,45.21,-123.2006,16,42,net,,Bellis perennis,https://www.inaturalist.org/observations/21332643
- , , , ,754260,Ellen,E.,Watrous,17,III,19,21:23,,,,,,,,USA,OR,Benton,,,44.5954,-123.2853,7,84,net,,Salix,https://www.inaturalist.org/observations/21347386
- , , , ,754260,Ellen,E.,Watrous,17,III,19,22:23,,,,,,,,USA,OR,Benton,,,44.6043,-123.2406,5,66,net,,Salix,https://www.inaturalist.org/observations/21347403
- , , , ,754260,Ellen,E.,Watrous,17,III,19,23:35,,,,,,,,USA,OR,Benton,,,44.599,-123.3156,9,185,net,,Arctostaphylos glauca,https://www.inaturalist.org/observations/21347414
- , , , ,620505,,,,17,III,19,22:38,,,,,,,,USA,OR,Josephine,,,42.2572,-123.5837,8,427,net,,Salix,https://www.inaturalist.org/observations/21347487
- , , , ,792468,Michael,M.,O'Loughlin,18,III,19,21:47,,,,,,,,USA,OR,Yamhill,,,45.2301,-123.104,64,24,net,,Bellis perennis,https://www.inaturalist.org/observations/21368816
- , , , ,792468,Michael,M.,O'Loughlin,18,III,19,22:14,,,,,,,,USA,OR,Yamhill,,,45.2304,-123.164,16,46,net,,Bellis perennis,https://www.inaturalist.org/observations/21369401
- , , , ,841568,Lori,L.,Humphreys,18,III,19,21:18,,,,,,,,USA,OR,Lane,,,43.9888,-123.0352,,158,net,,Oemleria cerasiformis,https://www.inaturalist.org/observations/21380620
- , , , ,841568,Lori,L.,Humphreys,18,III,19,20:19,,,,,,,,USA,OR,Lane,,,43.9902,-123.0329,,181,net,,Cardamine hirsuta,https://www.inaturalist.org/observations/21380641
- , , , ,841568,Lori,L.,Humphreys,18,III,19,20:06,,,,,,,,USA,OR,Lane,,,43.9901,-123.0327,,181,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21380659
- , , , ,841568,Lori,L.,Humphreys,18,III,19,19:56,,,,,,,,USA,OR,Lane,,,43.9895,-123.033,,181,net,,Draba verna,https://www.inaturalist.org/observations/21380667
- , , , ,841568,Lori,L.,Humphreys,18,III,19,19:34,,,,,,,,USA,OR,Lane,,,43.9896,-123.035,,181,net,,Salix,https://www.inaturalist.org/observations/21380726
- , , , ,327525,Briana,B.,Lindh,17,III,19,21:22,,,,,,,,USA,OR,Marion,,,44.9282,-123.0675,5,44,net,,Salix,https://www.inaturalist.org/observations/21387936
- , , , ,327525,Briana,B.,Lindh,17,III,19,21:11,,,,,,,,USA,OR,Marion,,,44.9274,-123.0695,10,44,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21387974
- , , , ,327525,Briana,B.,Lindh,17,III,19,22:00,,,,,,,,USA,OR,Marion,,,44.9297,-123.059,5,39,net,,Salix,https://www.inaturalist.org/observations/21388002
- , , , ,620505,,,,18,III,19,3:21,,,,,,,,USA,OR,Josephine,,,42.4615,-123.4844,8,252,net,,Salix lucida,https://www.inaturalist.org/observations/21390355
- , , , ,792468,Michael,M.,O'Loughlin,19,III,19,21:59,,,,,,,,USA,OR,Washington,,,45.5018,-122.9845,24,40,net,,Salix sitchensis,https://www.inaturalist.org/observations/21399642
- , , , ,620505,,,,20,III,19,,,,,,,,,USA,OR,Jackson,,,42.4446,-122.8816,196,365,net,,,https://www.inaturalist.org/observations/21435467
- , , , ,1542612,,,,20,III,19,0:04,22,III,2019,-22III,14:24,,,USA,OR,Benton,,,44.5666,-123.2819,20,79,vane trap,,Cactaceae,https://www.inaturalist.org/observations/21435643
- , , , ,792468,Michael,M.,O'Loughlin,20,III,19,0:11,,,,,,,,USA,OR,Yamhill,,,45.171,-123.1862,48,44,net,,Narcissus 'tahiti',https://www.inaturalist.org/observations/21435668
- , , , ,1542665,,,,20,III,19,0:27,,,,,,,,USA,OR,Benton,,,44.5668,-123.2806,45,79,net,,Dudleya farinosa,https://www.inaturalist.org/observations/21436427
- , , , ,792468,Michael,M.,O'Loughlin,20,III,19,0:36,,,,,,,,USA,OR,Yamhill,,,45.1708,-123.1855,64,44,net,,Bellis perennis,https://www.inaturalist.org/observations/21436435
- , , , ,754260,Ellen,E.,Watrous,20,III,19,21:59,,,,,,,,USA,OR,Benton,,,44.5753,-123.3096,6,87,net,,Salix,https://www.inaturalist.org/observations/21444705
- , , , ,620505,,,,21,III,19,23:32,,,,,,,,USA,OR,Josephine,,,42.4119,-123.3852,6,307,net,,Arctostaphylos patula,https://www.inaturalist.org/observations/21473537
- , , , ,327525,Briana,B.,Lindh,23,III,19,18:46,,,,,,,,USA,OR,Marion,,,44.9277,-123.0669,10,44,net,,Salix,https://www.inaturalist.org/observations/21524905
- , , , ,175529,Jerry,J.,Paul,24,III,19,22:48,,,,,,,,USA,OR,Benton,,,44.6026,-123.2661,5,103,net,,Salix discolor,https://www.inaturalist.org/observations/21574371
- , , , ,1550876,,,,24,III,19,22:49,,,,,,,,USA,OR,Coos,,,43.0666,-124.1398,5,25,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21574697
- , , , ,1427305,,,,24,III,19,23:00,,,,,,,,USA,OR,Coos,,,43.0669,-124.1403,5,25,net,,Rosmarinus officinalis,https://www.inaturalist.org/observations/21574801
- , , , ,841568,Lori,L.,Humphreys,24,III,19,19:47,,,,,,,,USA,OR,Lane,,,43.9969,-123.119,,263,net,,Oemleria cerasiformis,https://www.inaturalist.org/observations/21586602
- , , , ,841568,Lori,L.,Humphreys,24,III,19,21:14,,,,,,,,USA,OR,Lane,,,43.9991,-123.1258,,301,net,,Oemleria cerasiformis,https://www.inaturalist.org/observations/21587233
- , , , ,327525,Briana,B.,Lindh,24,III,19,19:22,,,,,,,,USA,OR,Lincoln,,,45.0352,-124.0062,10,5,net,,Salix,https://www.inaturalist.org/observations/21600922
- , , , ,792468,Michael,M.,O'Loughlin,26,III,19,20:49,,,,,,,,USA,OR,Washington,,,45.5013,-122.9856,12,40,net,,Salix lucida,https://www.inaturalist.org/observations/21642240
- , , , ,792468,Michael,M.,O'Loughlin,26,III,19,21:53,,,,,,,,USA,OR,Washington,,,45.4997,-122.9893,16,40,net,,Prunus cerasifera,https://www.inaturalist.org/observations/21644390
- , , , ,752114,,,,17,III,19,21:33,,,,,,,,USA,OR,Marion,,,44.9282,-123.0675,5,44,net,,Salix,https://www.inaturalist.org/observations/21645372
- , , , ,752114,,,,26,III,19,22:25,,,,,,,,USA,OR,Marion,,,44.8845,-122.8876,5,137,net,,Salix caprea,https://www.inaturalist.org/observations/21645380
- , , , ,327525,Briana,B.,Lindh,26,III,19,20:39,,,,,,,,USA,OR,Marion,,,44.9273,-123.0684,5,44,net,,Salix,https://www.inaturalist.org/observations/21646081
- , , , ,327525,Briana,B.,Lindh,26,III,19,21:19,,,,,,,,USA,OR,Marion,,,44.9285,-123.0681,1550,44,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21646843
- , , , ,327525,Briana,B.,Lindh,26,III,19,22:11,,,,,,,,USA,OR,Marion,,,44.9308,-123.0327,5,47,net,,Erythronium oregonum,https://www.inaturalist.org/observations/21646899
- , , , ,792468,Michael,M.,O'Loughlin,26,III,19,23:38,,,,,,,,USA,OR,Yamhill,,,45.168,-123.1859,16,44,net,,Brassica rapa,https://www.inaturalist.org/observations/21647327
- , , , ,78982,,,,9,II,19,20:57,,,,,,,,USA,OR,Benton,,,44.5667,-123.2814,50,79,net,,Homo sapiens,https://www.inaturalist.org/observations/21669183
- , , , ,792468,Michael,M.,O'Loughlin,28,III,19,20:41,,,,,,,,USA,OR,Yamhill,,,45.1711,-123.1866,16,44,net,,Brassicaceae,https://www.inaturalist.org/observations/21711740
- , , , ,792468,Michael,M.,O'Loughlin,28,III,19,21:02,,,,,,,,USA,OR,Yamhill,,,45.1736,-123.1845,24,36,net,,Oemleria cerasiformis,https://www.inaturalist.org/observations/21712447
- , , , ,792468,Michael,M.,O'Loughlin,28,III,19,21:21,,,,,,,,USA,OR,Yamhill,,,45.174,-123.1807,32,36,net,,Salix lucida,https://www.inaturalist.org/observations/21712977
- , , , ,792468,Michael,M.,O'Loughlin,28,III,19,22:10,,,,,,,,USA,OR,Yamhill,,,45.1712,-123.1865,16,44,net,,Bellis perennis,https://www.inaturalist.org/observations/21714494
- , , , ,327525,Briana,B.,Lindh,28,III,19,19:33,,,,,,,,USA,OR,Marion,,,44.9295,-123.0385,10,49,net,,Bellis perennis,https://www.inaturalist.org/observations/21723715
- , , , ,327525,Briana,B.,Lindh,28,III,19,19:39,,,,,,,,USA,OR,Marion,,,44.93,-123.0396,30,49,net,,Skimmia,https://www.inaturalist.org/observations/21723748
- , , , ,754260,Ellen,E.,Watrous,29,III,19,20:01,,,,,,,,USA,OR,Benton,,,44.5938,-123.2865,8,84,net,,,https://www.inaturalist.org/observations/21749215
- , , , ,1550876,,,,29,III,19,20:09,,,,,,,,USA,OR,Coos,,,43.0667,-124.1399,5,25,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21749452
- , , , ,1550876,,,,29,III,19,20:14,,,,,,,,USA,OR,Coos,,,43.067,-124.1402,10,25,net,,Rosmarinus officinalis,https://www.inaturalist.org/observations/21749638
- , , , ,792468,Michael,M.,O'Loughlin,29,III,19,21:06,,,,,,,,USA,OR,Yamhill,,,45.2474,-123.2746,32,126,net,,Salix sitchensis,https://www.inaturalist.org/observations/21751550
- , , , ,1423344,Jessica,J.,Hird,24,III,19,20:36,,,,,,,,USA,OR,Columbia,,,45.8416,-122.8452,,36,net,,Salix,https://www.inaturalist.org/observations/21752086
- , , , ,754260,Ellen,E.,Watrous,29,III,19,22:15,,,,,,,,USA,OR,Benton,,,44.5994,-123.315,6,191,net,,,https://www.inaturalist.org/observations/21755162
- , , , ,754260,Ellen,E.,Watrous,29,III,19,22:49,,,,,,,,USA,OR,Benton,,,44.5992,-123.3156,8,185,net,,Arctostaphylos densiflora,https://www.inaturalist.org/observations/21756299
- , , , ,620505,,,,29,III,19,22:27,,,,,,,,USA,OR,Josephine,,,42.4633,-123.4861,12,253,net,,Salix,https://www.inaturalist.org/observations/21764300
- , , , ,1447015,,,,29,III,19,21:00,,,,,,,,USA,OR,Josephine,,,42.4613,-123.4844,5,252,net,,Salix,https://www.inaturalist.org/observations/21773499
- , , , ,175529,Jerry,J.,Paul,29,III,19,20:51,,,,,,,,USA,OR,Benton,,,44.6031,-123.2645,5,135,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21777656
- , , , ,175529,Jerry,J.,Paul,29,III,19,20:54,,,,,,,,USA,OR,Benton,,,44.6033,-123.2641,5,135,net,,Arctostaphylos columbiana,https://www.inaturalist.org/observations/21778380
- , , , ,1560167,,,,30,III,19,19:02,,,,,,,,USA,OR,Washington,,,45.5654,-122.863,4,78,net,,Prunus laurocerasus,https://www.inaturalist.org/observations/21791437
- , , , ,1447015,,,,30,III,19,19:47,,,,,,,,USA,OR,Josephine,,,42.0642,-123.6349,5,474,net,,Narcissus 'tahiti',https://www.inaturalist.org/observations/21793543
- , , , ,841568,Lori,L.,Humphreys,30,III,19,19:54,,,,,,,,USA,OR,Lane,,,44.0324,-123.0873,,131,net,,Prunus,https://www.inaturalist.org/observations/21794149
- , , , ,1560167,,,,30,III,19,20:19,,,,,,,,USA,OR,Washington,,,45.5644,-122.8582,5,75,net,,Pyrus calleryana,https://www.inaturalist.org/observations/21795235
- , , , ,1560167,,,,30,III,19,20:31,,,,,,,,USA,OR,Washington,,,45.5648,-122.8584,4,75,net,,Taraxacum,https://www.inaturalist.org/observations/21795672
- , , , ,1560167,,,,30,III,19,20:37,,,,,,,,USA,OR,Washington,,,45.5649,-122.8585,5,75,net,,Erica,https://www.inaturalist.org/observations/21795961
- , , , ,792468,Michael,M.,O'Loughlin,30,III,19,20:55,,,,,,,,USA,OR,Yamhill,,,45.191,-123.1653,3603,33,net,,Salix lucida,https://www.inaturalist.org/observations/21796870
- , , , ,1434192,,,,30,III,19,20:23,,,,,,,,USA,OR,Washington,,,45.5649,-122.858,8,75,net,,Salicaceae,https://www.inaturalist.org/observations/21796973
- , , , ,1403213,,,,30,III,19,21:10,,,,,,,,USA,OR,Washington,,,45.5641,-122.8578,5,75,net,,Salix,https://www.inaturalist.org/observations/21797591
- , , , ,841568,Lori,L.,Humphreys,30,III,19,21:15,,,,,,,,USA,OR,Lane,,,44.0315,-123.0866,,131,net,,Salix,https://www.inaturalist.org/observations/21797826
- , , , ,1447015,,,,30,III,19,21:14,,,,,,,,USA,OR,Josephine,,,42.0956,-123.6854,5,426,net,,Arctostaphylos viscida,https://www.inaturalist.org/observations/21797837
- , , , ,754260,Ellen,E.,Watrous,30,III,19,21:30,,,,,,,,USA,OR,Benton,,,44.5741,-123.3104,5,85,net,,Salix,https://www.inaturalist.org/observations/21798614
- , , , ,854908,Elaine,E.,Rybak,30,III,19,20:31,,,,,,,,USA,OR,Washington,,,45.5652,-122.8578,3,78,net,,Salix,https://www.inaturalist.org/observations/21800281
- , , , ,854908,Elaine,E.,Rybak,30,III,19,21:08,,,,,,,,USA,OR,Washington,,,45.5643,-122.858,9,75,net,,Taraxacum,https://www.inaturalist.org/observations/21800423
- , , , ,1450900,,,,30,III,19,19:58,,,,,,,,USA,OR,Lane,,,44.0325,-123.0872,5,131,net,,Prunus,https://www.inaturalist.org/observations/21800634
- , , , ,429964,,,,30,III,19,22:30,,,,,,,,USA,OR,Benton,,,44.56,-123.2891,9,72,net,,Prunus,https://www.inaturalist.org/observations/21801703
- , , , ,1424904,Sherry,S.,Sheng,30,III,19,20:36,,,,,,,,USA,OR,Washington,,,45.5652,-122.8577,8,78,net,,Taraxacum,https://www.inaturalist.org/observations/21801786
- , , , ,1424904,Sherry,S.,Sheng,30,III,19,20:56,,,,,,,,USA,OR,Washington,,,45.5637,-122.8579,10,75,net,,Salix,https://www.inaturalist.org/observations/21801815
- , , , ,1424904,Sherry,S.,Sheng,30,III,19,21:47,,,,,,,,USA,OR,Washington,,,45.5653,-122.8634,5,78,net,,Pyrus communis,https://www.inaturalist.org/observations/21801844
- , , , ,325615,Amy,A.,Grotta,30,III,19,20:35,,,,,,,,USA,OR,Washington,,,45.5652,-122.858,5,78,net,,Salicaceae,https://www.inaturalist.org/observations/21801954
- , , , ,325615,Amy,A.,Grotta,30,III,19,20:46,,,,,,,,USA,OR,Washington,,,45.5651,-122.858,19,78,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21801995
- , , , ,325615,Amy,A.,Grotta,30,III,19,21:37,,,,,,,,USA,OR,Washington,,,45.5654,-122.863,20,78,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21802054
- , , , ,792468,Michael,M.,O'Loughlin,30,III,19,23:04,,,,,,,,USA,OR,Washington,,,45.5027,-122.9867,16,40,net,,Salix lucida,https://www.inaturalist.org/observations/21802717
- , , , ,1425646,Francis,F.,Opila,30,III,19,20:23,,,,,,,,USA,OR,Washington,,,45.5647,-122.858,11,75,net,,Taraxacum,https://www.inaturalist.org/observations/21803123
- , , , ,1566342,,,,30,III,19,20:37,,,,,,,,USA,OR,Washington,,,45.5652,-122.8581,8,78,net,,Salix sitchensis,https://www.inaturalist.org/observations/21803149
- , , , ,1425646,Francis,F.,Opila,30,III,19,20:44,,,,,,,,USA,OR,Washington,,,45.5649,-122.8579,,75,net,,Salix,https://www.inaturalist.org/observations/21803156
- , , , ,754260,Ellen,E.,Watrous,30,III,19,23:14,,,,,,,,USA,OR,Benton,,,44.5213,-123.2953,7,68,net,,Salix,https://www.inaturalist.org/observations/21803165
- , , , ,1566342,,,,30,III,19,20:50,,,,,,,,USA,OR,Washington,,,45.5646,-122.8582,7,75,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21803328
- , , , ,1566342,,,,30,III,19,21:40,,,,,,,,USA,OR,Washington,,,45.5646,-122.8628,5,75,net,,Berberis repens,https://www.inaturalist.org/observations/21803360
- , , , ,792468,Michael,M.,O'Loughlin,30,III,19,23:27,,,,,,,,USA,OR,Washington,,,45.4998,-122.9892,8,40,net,,Prunus,https://www.inaturalist.org/observations/21803584
- , , , ,1566342,,,,30,III,19,23:27,,,,,,,,USA,OR,Washington,,,45.5647,-122.8629,4,75,net,,Salix,https://www.inaturalist.org/observations/21803692
- , , , ,1462047,,,,30,III,19,20:24,,,,,,,,USA,OR,Washington,,,45.5642,-122.8581,5,75,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21804617
- , , , ,1462047,,,,30,III,19,20:29,,,,,,,,USA,OR,Washington,,,45.564,-122.858,5,75,net,,Salix,https://www.inaturalist.org/observations/21804634
- , , , ,1462047,,,,30,III,19,20:48,,,,,,,,USA,OR,Washington,,,45.564,-122.8578,5,75,net,,Salicaceae,https://www.inaturalist.org/observations/21804652
- , , , ,1462047,,,,30,III,19,20:48,,,,,,,,USA,OR,Washington,,,45.564,-122.8579,5,75,net,,Salicaceae,https://www.inaturalist.org/observations/21804669
- , , , ,1462047,,,,30,III,19,20:58,,,,,,,,USA,OR,Washington,,,45.557,-122.8673,1647,52,net,,Salicaceae,https://www.inaturalist.org/observations/21804687
- , , , ,1462047,,,,30,III,19,21:11,,,,,,,,USA,OR,Washington,,,45.5644,-122.858,5,75,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21804705
- , , , ,1462047,,,,30,III,19,21:14,,,,,,,,USA,OR,Washington,,,45.5648,-122.8583,5,75,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21804719
- , , , ,1462047,,,,30,III,19,21:20,,,,,,,,USA,OR,Washington,,,45.5651,-122.8583,5,78,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21804728
- , , , ,1462047,,,,30,III,19,21:36,,,,,,,,USA,OR,Washington,,,45.5653,-122.863,5,78,net,,Prunus,https://www.inaturalist.org/observations/21804737
- , , , ,754260,Ellen,E.,Watrous,30,III,19,0:09,,,,,,,,USA,OR,Benton,,,44.5205,-123.2952,4,68,net,,Salix,https://www.inaturalist.org/observations/21805258
- , , , ,754260,Ellen,E.,Watrous,30,III,19,0:34,,,,,,,,USA,OR,Benton,,,44.5204,-123.2952,5,68,net,,Prunus,https://www.inaturalist.org/observations/21806386
- , , , ,792468,Michael,M.,O'Loughlin,30,III,19,0:38,,,,,,,,USA,OR,Washington,,,45.4999,-122.989,48,40,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21806449
- , , , ,1505195,,,,30,III,19,20:40,,,,,,,,USA,OR,Washington,,,45.5651,-122.8577,4,78,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21809702
- , , , ,620505,,,,30,III,19,0:10,,,,,,,,USA,OR,Josephine,,,42.0956,-123.6854,6,426,net,,Arctostaphylos viscida,https://www.inaturalist.org/observations/21812426
- , , , ,620505,,,,30,III,19,1:05,,,,,,,,USA,OR,Josephine,,,42.0949,-123.6841,32,423,net,,Olsynium douglasii,https://www.inaturalist.org/observations/21812602
- , , , ,620505,,,,30,III,19,1:41,,,,,,,,USA,OR,Josephine,,,42.1556,-123.6498,24,395,net,,Salix,https://www.inaturalist.org/observations/21812653
- , , , ,327525,Briana,B.,Lindh,30,III,19,21:56,,,,,,,,USA,OR,Lincoln,,,45.0351,-124.0063,5,5,net,,Salix,https://www.inaturalist.org/observations/21812855
- , , , ,327525,Briana,B.,Lindh,30,III,19,20:01,,,,,,,,USA,OR,Polk,,,44.8621,-123.4563,5,275,net,,Ranunculus,https://www.inaturalist.org/observations/21812980
- , , , ,1423260,Autumn,A.,Hickman,30,III,19,20:45,,,,,,,,USA,OR,Washington,,,45.565,-122.8582,5,75,net,,Salix lasiolepis,https://www.inaturalist.org/observations/21816996
- , , , ,1423260,Autumn,A.,Hickman,30,III,19,21:05,,,,,,,,USA,OR,Washington,,,45.5648,-122.8585,5,75,net,,Erica,https://www.inaturalist.org/observations/21817024
- , , , ,1423260,Autumn,A.,Hickman,30,III,19,21:18,,,,,,,,USA,OR,Washington,,,45.5648,-122.8584,5,75,net,,Saxifraga aizoides,https://www.inaturalist.org/observations/21817029
- , , , ,1423260,Autumn,A.,Hickman,30,III,19,5:37,,,,,,,,USA,OR,Washington,,,45.5652,-122.8629,15,78,net,,Malpighiales,https://www.inaturalist.org/observations/21817039
- , , , ,429964,,,,30,III,19,22:47,,,,,,,,USA,OR,Benton,,,44.5602,-123.2896,10,72,net,,Salix,https://www.inaturalist.org/observations/21828888
- , , , ,1539907,Martha,M.,Richards,30,III,19,20:59,,,,,,,,USA,OR,Washington,,,45.5637,-122.858,5,75,net,,Lamium purpureum,https://www.inaturalist.org/observations/21838499
- , , , ,1539907,Martha,M.,Richards,30,III,19,21:16,,,,,,,,USA,OR,Washington,,,45.5647,-122.8582,,75,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21838512
- , , , ,1539907,Martha,M.,Richards,30,III,19,20:31,,,,,,,,USA,OR,Washington,,,45.5652,-122.8579,,78,net,,Salix,https://www.inaturalist.org/observations/21838534
- , , , ,752114,,,,30,III,19,21:51,,,,,,,,USA,OR,Marion,,,44.8845,-122.8877,5,137,net,,Salix,https://www.inaturalist.org/observations/21839049
- , , , ,752114,,,,31,III,19,19:26,,,,,,,,USA,OR,Marion,,,44.8848,-122.8877,5,137,net,,Ranunculus,https://www.inaturalist.org/observations/21841502
- , , , ,752114,,,,31,III,19,19:32,,,,,,,,USA,OR,Marion,,,44.8841,-122.888,5,137,net,,Taraxacum,https://www.inaturalist.org/observations/21841523
- , , , ,754260,Ellen,E.,Watrous,31,III,19,20:38,,,,,,,,USA,OR,Benton,,,44.596,-123.3143,6,191,net,,Salix,https://www.inaturalist.org/observations/21843921
- , , , ,1550876,,,,31,III,19,21:12,,,,,,,,USA,OR,Coos,,,43.0504,-124.1314,10,26,net,,,https://www.inaturalist.org/observations/21845317
- , , , ,1561159,,,,30,III,19,20:19,,,,,,,,USA,OR,Washington,,,45.565,-122.8578,9,75,net,,Salix,https://www.inaturalist.org/observations/21846732
- , , , ,1561159,,,,30,III,19,20:54,,,,,,,,USA,OR,Washington,,,45.5638,-122.8579,11,75,net,,Conium maculatum,https://www.inaturalist.org/observations/21846759
- , , , ,1561159,,,,30,III,19,21:31,,,,,,,,USA,OR,Washington,,,45.5654,-122.8632,,78,net,,Prunus cerasifera,https://www.inaturalist.org/observations/21846780
- , , , ,754260,Ellen,E.,Watrous,31,III,19,0:31,,,,,,,,USA,OR,Benton,,,44.6042,-123.241,8,66,net,,Salix,https://www.inaturalist.org/observations/21853706
- , , , ,620505,,,,31,III,19,,,,,,,,,USA,OR,Josephine,,,42.5625,-123.5817,48,220,net,,,https://www.inaturalist.org/observations/21900645
- , , , ,792468,Michael,M.,O'Loughlin,2,IV,19,23:34,,,,,,,,USA,OR,Yamhill,,,45.1678,-123.1849,12,36,net,,Brassica rapa,https://www.inaturalist.org/observations/21927165
- , , , ,792468,Michael,M.,O'Loughlin,2,IV,19,0:03,,,,,,,,USA,OR,Yamhill,,,45.1922,-123.1658,3756,33,net,,Acer macrophyllum,https://www.inaturalist.org/observations/21928209
- , , , ,841568,Lori,L.,Humphreys,31,III,19,22:33,,,,,,,,USA,OR,Lane,,,43.854,-122.638,,296,net,,Marah oregana,https://www.inaturalist.org/observations/21935494
- , , , ,841568,Lori,L.,Humphreys,31,III,19,23:16,,,,,,,,USA,OR,Lane,,,43.8535,-122.6368,,296,net,,Lomatium hallii,https://www.inaturalist.org/observations/21935798
- , , , ,620505,,,,2,IV,19,0:43,,,,,,,,USA,OR,Josephine,,,42.4588,-123.484,12,252,net,,Salix,https://www.inaturalist.org/observations/21938922
- , , , ,792468,Michael,M.,O'Loughlin,3,IV,19,19:47,,,,,,,,USA,OR,Washington,,,45.434,-122.8023,8,56,net,,Ribes sanguineum,https://www.inaturalist.org/observations/21956537
- , , , ,792468,Michael,M.,O'Loughlin,3,IV,19,21:26,,,,,,,,USA,OR,Yamhill,,,45.1639,-123.1872,24,37,net,,Salix,https://www.inaturalist.org/observations/21959507
- , , , ,792468,Michael,M.,O'Loughlin,3,IV,19,21:51,,,,,,,,USA,OR,Yamhill,,,45.168,-123.1859,16,44,net,,Brassica rapa,https://www.inaturalist.org/observations/21960443
- , , , ,792468,Michael,M.,O'Loughlin,3,IV,19,22:16,,,,,,,,USA,OR,Yamhill,,,45.171,-123.1867,32,44,net,,Brassicaceae,https://www.inaturalist.org/observations/21961339
- , , , ,327525,Briana,B.,Lindh,3,IV,19,21:14,,,,,,,,USA,OR,Marion,,,44.9301,-123.0324,30,47,net,,Erythronium oregonum,https://www.inaturalist.org/observations/21963760
- , , , ,327525,Briana,B.,Lindh,3,IV,19,23:04,,,,,,,,USA,OR,Marion,,,44.9356,-123.015,5,54,net,,Salix,https://www.inaturalist.org/observations/21963796
- , , , ,28,,,,28,III,19,23:10,4,II,19,-4II,14:37,,,USA,California,Los Angeles,,,34.736,-118.3908,,909,net,,Phacelia tanacetifolia,https://www.inaturalist.org/observations/21966113
- , , , ,327525,Briana,B.,Lindh,3,IV,19,0:07,,,,,,,,USA,OR,Marion,,,44.936,-123.0174,5,54,net,,Andrena,https://www.inaturalist.org/observations/21971184
- , , , ,808137,,,,4,IV,19,16:13,,,,,,,,USA,OR,Benton,,,44.6177,-123.2815,5,192,net,,Narcissus 'tahiti',https://www.inaturalist.org/observations/21984671
- , , , ,792468,Michael,M.,O'Loughlin,4,IV,19,0:14,,,,,,,,USA,OR,Yamhill,,,45.1708,-123.1861,32,44,net,,Taraxacum,https://www.inaturalist.org/observations/22002007
- , , , ,28,,,,29,III,19,21:24,,,,,,,,USA,California,Riverside,,,33.7259,-115.8217,,861,net,,Eriophyllum wallacei,https://www.inaturalist.org/observations/22013024
- , , , ,792468,Michael,M.,O'Loughlin,6,IV,19,18:45,,,,,,,,USA,OR,Yamhill,,,45.1571,-123.3223,16,77,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22107893
- , , , ,792468,Michael,M.,O'Loughlin,6,IV,19,20:15,,,,,,,,USA,OR,Yamhill,,,45.1539,-123.3219,48,71,net,,Taraxacum,https://www.inaturalist.org/observations/22107960
- , , , ,792468,Michael,M.,O'Loughlin,6,IV,19,20:48,,,,,,,,USA,OR,Yamhill,,,45.1681,-123.186,12,44,net,,Brassica rapa,https://www.inaturalist.org/observations/22108952
- , , , ,841568,Lori,L.,Humphreys,4,IV,19,22:20,,,,,,,,USA,OR,Lane,,,43.9899,-123.0353,20,158,net,,Oemleria cerasiformis,https://www.inaturalist.org/observations/22120563
- , , , ,1467407,,,,6,IV,19,21:05,,,,,,,,USA,OR,Benton,,,44.6998,-123.4374,8,93,net,,Cichorieae,https://www.inaturalist.org/observations/22120627
- , , , ,841568,Lori,L.,Humphreys,4,IV,19,22:41,,,,,,,,USA,OR,Lane,,,43.99,-123.0349,20,181,net,,Salix,https://www.inaturalist.org/observations/22120833
- , , , ,1434967,,,,6,IV,19,21:14,,,,,,,,USA,OR,Benton,,,44.6996,-123.4383,9,93,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22125358
- , , , ,800960,,,,7,IV,19,18:51,,,,,,,,USA,OR,Multnomah,,,45.6414,-122.818,5,9,net,,Taraxacum,https://www.inaturalist.org/observations/22153928
- , , , ,1462047,,,,8,IV,19,22:58,,,,,,,,USA,OR,Washington,,,45.5149,-122.8467,5,67,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22214517
- , , , ,1582689,,,,8,IV,19,23:00,,,,,,,,USA,OR,Multnomah,,,45.5173,-122.6367,50,44,net,,,https://www.inaturalist.org/observations/22214741
- , , , ,792468,Michael,M.,O'Loughlin,9,IV,19,20:03,,,,,,,,USA,OR,Washington,,,45.4994,-122.9823,16,40,net,,Salix lucida,https://www.inaturalist.org/observations/22251979
- , , , ,792468,Michael,M.,O'Loughlin,9,IV,19,20:30,,,,,,,,USA,OR,Washington,,,45.5021,-122.9807,16,40,net,,Salix,https://www.inaturalist.org/observations/22253466
- , , , ,792468,Michael,M.,O'Loughlin,9,IV,19,21:15,,,,,,,,USA,OR,Washington,,,45.5016,-122.9832,6,40,net,,Brassica rapa,https://www.inaturalist.org/observations/22255175
- , , , ,792468,Michael,M.,O'Loughlin,9,IV,19,22:28,,,,,,,,USA,OR,Washington,,,45.5577,-122.9148,16,64,net,,Brassica rapa,https://www.inaturalist.org/observations/22257723
- , , , ,754260,Ellen,E.,Watrous,9,IV,19,22:57,,,,,,,,USA,OR,Benton,,,44.5993,-123.3157,8,185,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22258843
- , , , ,620505,,,,9,IV,19,22:35,,,,,,,,USA,OR,Jackson,,,42.3141,-122.9734,12,532,net,,Adelinia grande,https://www.inaturalist.org/observations/22310738
- , , , ,620505,,,,9,IV,19,0:57,,,,,,,,USA,OR,Jackson,,,42.4804,-122.6745,12,527,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/22310908
- , , , ,792775,Dan,D.,O'Loughlin,9,IV,19,20:03,,,,,,,,USA,OR,Washington,,,45.5168,-122.9915,1700,56,vane trap,,Salix,https://www.inaturalist.org/observations/22359826
- , , , ,792775,Dan,D.,O'Loughlin,9,IV,19,20:29,,,,,,,,USA,OR,Washington,,,45.5021,-122.9806,9,40,net,,Salix,https://www.inaturalist.org/observations/22359924
- , , , ,792775,Dan,D.,O'Loughlin,9,IV,19,21:13,,,,,,,,USA,OR,Washington,,,45.5014,-122.9832,2700,40,net,,Brassica rapa,https://www.inaturalist.org/observations/22359926
- , , , ,792775,Dan,D.,O'Loughlin,9,IV,19,21:36,,,,,,,,USA,OR,Washington,,,45.5168,-122.9915,1700,56,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22359932
- , , , ,792775,Dan,D.,O'Loughlin,9,IV,19,21:47,,,,,,,,USA,OR,Washington,,,45.5168,-122.9915,1700,56,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22359954
- , , , ,831425,,,,12,IV,19,19:34,,,,,,,,USA,OR,Yamhill,,,45.2467,-123.275,5,134,net,,Taraxacum,https://www.inaturalist.org/observations/22380983
- , , , ,885553,,,,12,IV,19,19:35,,,,,,,,USA,OR,Yamhill,,,45.2468,-123.2744,9,126,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22381054
- , , , ,816767,Jeanie,J.,Taylor,12,IV,19,19:38,,,,,,,,USA,OR,Yamhill,,,45.247,-123.2753,5,134,net,,Taraxacum,https://www.inaturalist.org/observations/22381090
- , , , ,792468,Michael,M.,O'Loughlin,12,IV,19,19:38,,,,,,,,USA,OR,Yamhill,,,45.2469,-123.275,48,134,net,,Taraxacum,https://www.inaturalist.org/observations/22381116
- , , , ,354308,,,,12,IV,19,19:36,,,,,,,,USA,OR,Yamhill,,,45.2468,-123.2748,5,126,net,,Taraxacum,https://www.inaturalist.org/observations/22381447
- , , , ,816767,Jeanie,J.,Taylor,12,IV,19,19:48,,,,,,,,USA,OR,Yamhill,,,45.247,-123.2747,10,126,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22381476
- , , , ,792468,Michael,M.,O'Loughlin,12,IV,19,19:59,,,,,,,,USA,OR,Yamhill,,,45.2463,-123.2748,12,126,net,,Ribes sanguineum,https://www.inaturalist.org/observations/22381954
- , , , ,885553,,,,12,IV,19,20:28,,,,,,,,USA,OR,Yamhill,,,45.2458,-123.2721,7,126,net,,Salix sitchensis,https://www.inaturalist.org/observations/22383115
- , , , ,792468,Michael,M.,O'Loughlin,12,IV,19,20:30,,,,,,,,USA,OR,Yamhill,,,45.2458,-123.2723,16,126,net,,Salix scouleriana,https://www.inaturalist.org/observations/22383185
- , , , ,831425,,,,12,IV,19,20:29,,,,,,,,USA,OR,Yamhill,,,45.2459,-123.2723,10,126,net,,Salix scouleriana,https://www.inaturalist.org/observations/22383214
- , , , ,354308,,,,12,IV,19,19:53,,,,,,,,USA,OR,Yamhill,,,45.2468,-123.2755,5,134,net,,Bellis perennis,https://www.inaturalist.org/observations/22383227
- , , , ,354308,,,,12,IV,19,20:30,,,,,,,,USA,OR,Yamhill,,,45.246,-123.2724,5,126,net,,Salix,https://www.inaturalist.org/observations/22383272
- , , , ,1351592,,,,12,IV,19,20:31,,,,,,,,USA,OR,Yamhill,,,45.246,-123.2724,9,126,net,,Salix,https://www.inaturalist.org/observations/22383304
- , , , ,175529,Jerry,J.,Paul,12,IV,19,21:39,4,XIII,19,-4XIII,14:40,,,USA,OR,Benton,,,44.6029,-123.2647,5,135,net,,Stewartia pseudocamellia,https://www.inaturalist.org/observations/22385779
- , , , ,1085105,Tom,T.,Canales,12,IV,19,20:35,,,,,,,,USA,OR,Yamhill,,,45.2458,-123.2722,5,126,net,,Salix sitchensis,https://www.inaturalist.org/observations/22388224
- , , , ,1085105,Tom,T.,Canales,12,IV,19,19:33,,,,,,,,USA,OR,Yamhill,,,45.2466,-123.2746,10,126,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22388292
- , , , ,754260,Ellen,E.,Watrous,12,IV,19,22:55,,,,,,,,USA,OR,Benton,,,44.5991,-123.3154,5,185,net,,Berberis repens,https://www.inaturalist.org/observations/22388729
- , , , ,1447015,,,,12,IV,19,21:07,,,,,,,,USA,OR,Jackson,,,42.4862,-122.666,5,533,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22389017
- , , , ,1447015,,,,12,IV,19,23:06,,,,,,,,USA,OR,Jackson,,,42.4806,-122.6743,5,527,net,,Plagiobothrys nothofulvus,https://www.inaturalist.org/observations/22389174
- , , , ,792468,Michael,M.,O'Loughlin,12,IV,19,0:24,,,,,,,,USA,OR,Yamhill,,,45.2302,-123.1035,200,24,net,,Bellis perennis,https://www.inaturalist.org/observations/22391661
- , , , ,327525,Briana,B.,Lindh,12,IV,19,22:03,,,,,,,,USA,OR,Marion,,,44.9353,-123.0149,5,55,net,,,https://www.inaturalist.org/observations/22392362
- , , , ,327525,Briana,B.,Lindh,12,IV,19,22:05,,,,,,,,USA,OR,Marion,,,44.9354,-123.0149,5,55,net,,Taraxacum,https://www.inaturalist.org/observations/22392464
- , , , ,327525,Briana,B.,Lindh,12,IV,19,22:11,,,,,,,,USA,OR,Marion,,,44.9357,-123.0147,30,55,net,,,https://www.inaturalist.org/observations/22392533
- , , , ,327525,Briana,B.,Lindh,12,IV,19,22:32,,,,,,,,USA,OR,Marion,,,44.9363,-123.0147,5,55,net,,Bellis perennis,https://www.inaturalist.org/observations/22392693
- , , , ,792468,Michael,M.,O'Loughlin,12,IV,19,1:01,,,,,,,,USA,OR,Yamhill,,,45.211,-123.1735,32,33,net,,Bellis perennis,https://www.inaturalist.org/observations/22392873
- , , , ,752114,,,,12,IV,19,1:35,,,,,,,,USA,OR,Marion,,,44.8839,-122.8879,5,137,net,,,https://www.inaturalist.org/observations/22394725
- , , , ,752114,,,,12,IV,19,1:57,,,,,,,,USA,OR,Marion,,,44.8953,-122.8924,5,126,net,,,https://www.inaturalist.org/observations/22394779
- , , , ,327525,Briana,B.,Lindh,12,IV,19,0:02,,,,,,,,USA,OR,Marion,,,44.9352,-123.0147,10,55,net,,Pyrus,https://www.inaturalist.org/observations/22395411
- , , , ,327525,Briana,B.,Lindh,12,IV,19,0:04,,,,,,,,USA,OR,Marion,,,44.9355,-123.0152,5,54,net,,Salix,https://www.inaturalist.org/observations/22395456
- , , , ,327525,Briana,B.,Lindh,12,IV,19,22:40,,,,,,,,USA,OR,Marion,,,44.9333,-123.0152,10,54,net,,Taraxacum,https://www.inaturalist.org/observations/22395557
- , , , ,327525,Briana,B.,Lindh,9,IV,19,22:16,,,,,,,,USA,OR,Marion,,,44.9368,-123.0335,1590,48,net,,,https://www.inaturalist.org/observations/22395781
- , , , ,620505,,,,12,IV,19,2:09,,,,,,,,USA,OR,Jackson,,,42.4805,-122.6745,96,527,net,,Plagiobothrys nothofulvus,https://www.inaturalist.org/observations/22396408
- , , , ,792775,Dan,D.,O'Loughlin,12,IV,19,19:04,,,,,,,,USA,OR,Yamhill,,,45.2472,-123.2753,8,134,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22404973
- , , , ,792775,Dan,D.,O'Loughlin,12,IV,19,20:32,,,,,,,,USA,OR,Yamhill,,,45.246,-123.2723,10,126,net,,Salix scouleriana,https://www.inaturalist.org/observations/22404977
- , , , ,1482843,Jesse,J.,Dillow,12,IV,19,18:48,,,,,,,,USA,OR,Yamhill,,,45.304,-122.9637,6,56,net,,Arctostaphylos manzanita,https://www.inaturalist.org/observations/22413420
- , , , ,816767,Jeanie,J.,Taylor,12,IV,19,20:30,,,,,,,,USA,OR,Yamhill,,,45.2457,-123.2719,5,126,net,,Salix,https://www.inaturalist.org/observations/22417083
- , , , ,1542491,Roberta,R.,Packard,12,IV,19,19:38,,,,,,,,USA,OR,Yamhill,,,45.246,-123.2751,135,134,net,,Taraxacum,https://www.inaturalist.org/observations/22419401
- , , , ,1542491,Roberta,R.,Packard,12,IV,19,20:37,,,,,,,,USA,OR,Yamhill,,,45.2207,-123.1983,2500,47,net,,Salix sitchensis,https://www.inaturalist.org/observations/22419437
- , , , ,325615,Amy,A.,Grotta,4,IV,19,17:00,4,IV,19,-4IV,9:30,,,USA,OR,Washington,,,45.4778,-123.2334,82,165,pan trap,,,https://www.inaturalist.org/observations/22502118
- , , , ,325615,Amy,A.,Grotta,4,IV,19,17:30,4,IV,19,-4IV,10:00,,,USA,OR,Washington,,,45.4778,-123.2404,194,176,pan trap,,,https://www.inaturalist.org/observations/22502121
- , , , ,325615,Amy,A.,Grotta,4,IV,19,17:30,4,IV,19,-4IV,10:30,,,USA,OR,Washington,,,45.4738,-123.2477,227,212,pan trap,,,https://www.inaturalist.org/observations/22502124
- , , , ,1539907,Martha,M.,Richards,14,IV,19,20:48,,,,,,,,USA,OR,Tillamook,,,45.516,-123.9044,11,-1,net,,Ericaceae,https://www.inaturalist.org/observations/22502125
- , , , ,792468,Michael,M.,O'Loughlin,16,IV,19,21:19,,,,,,,,USA,OR,Washington,,,45.4342,-122.802,64,56,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22576394
- , , , ,620505,,,,16,IV,19,2:41,,,,,,,,USA,OR,Josephine,,,42.3563,-123.4069,6,310,net,,Arctostaphylos viscida,https://www.inaturalist.org/observations/22585938
- , , , ,620505,,,,16,IV,19,2:47,,,,,,,,USA,OR,Josephine,,,42.3564,-123.4068,64,310,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22585993
- , , , ,620505,,,,16,IV,19,2:49,,,,,,,,USA,OR,Josephine,,,42.3564,-123.4069,48,310,net,,Lithophragma,https://www.inaturalist.org/observations/22586018
- , , , ,620505,,,,16,IV,19,3:01,,,,,,,,USA,OR,Josephine,,,42.356,-123.4105,48,310,net,,Acer macrophyllum,https://www.inaturalist.org/observations/22586044
- , , , ,754260,Ellen,E.,Watrous,17,IV,19,21:52,,,,,,,,USA,OR,Benton,,,44.5991,-123.3148,9,191,net,,Erythronium oregonum,https://www.inaturalist.org/observations/22628910
- , , , ,1462047,,,,17,IV,19,21:48,,,,,,,,USA,OR,Washington,,,45.5151,-122.8456,65,67,net,,Bellis perennis,https://www.inaturalist.org/observations/22629701
- , , , ,754260,Ellen,E.,Watrous,17,IV,19,22:16,,,,,,,,USA,OR,Benton,,,44.5993,-123.316,4,185,net,,Balsamorhiza deltoidea,https://www.inaturalist.org/observations/22630025
- , , , ,1478567,,,,17,IV,19,22:22,,,,,,,,USA,OR,Washington,,,45.4342,-122.8024,9,56,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22630348
- , , , ,1462047,,,,16,IV,19,21:58,,,,,,,,USA,OR,Washington,,,45.4891,-122.8339,1414,51,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22630450
- , , , ,1462047,,,,17,IV,19,22:26,,,,,,,,USA,OR,Washington,,,45.5154,-122.8459,65,67,net,,Salix,https://www.inaturalist.org/observations/22630463
- , , , ,1629810,,,,17,IV,19,22:34,,,,,,,,USA,OR,Washington,,,45.4342,-122.8031,65,56,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22630738
- , , , ,792468,Michael,M.,O'Loughlin,17,IV,19,22:57,,,,,,,,USA,OR,Washington,,,45.4346,-122.803,24,56,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22631820
- , , , ,754260,Ellen,E.,Watrous,17,IV,19,22:57,,,,,,,,USA,OR,Benton,,,44.5994,-123.3157,9,185,net,,Fragaria virginiana,https://www.inaturalist.org/observations/22631873
- , , , ,1462047,,,,17,IV,19,23:10,,,,,,,,USA,OR,Washington,,,45.5153,-122.8467,5,67,net,,Bellis perennis,https://www.inaturalist.org/observations/22632949
- , , , ,327525,Briana,B.,Lindh,17,IV,19,23:00,,,,,,,,USA,OR,Polk,,,44.9622,-123.2574,5,79,net,,Bellis perennis,https://www.inaturalist.org/observations/22637237
- , , , ,327525,Briana,B.,Lindh,17,IV,19,23:15,,,,,,,,USA,OR,Polk,,,44.9625,-123.2576,10,79,net,,Crataegus monogyna,https://www.inaturalist.org/observations/22637306
- , , , ,327525,Briana,B.,Lindh,17,IV,19,23:27,,,,,,,,USA,OR,Polk,,,44.964,-123.2589,6535,79,net,,Ranunculus,https://www.inaturalist.org/observations/22637357
- , , , ,327525,Briana,B.,Lindh,17,IV,19,23:51,,,,,,,,USA,OR,Polk,,,44.9633,-123.2619,1966,79,net,,Danthonia californica,https://www.inaturalist.org/observations/22637429
- , , , ,327525,Briana,B.,Lindh,17,IV,19,0:05,,,,,,,,USA,OR,Polk,,,44.9633,-123.2611,5,79,net,,Marah oregana,https://www.inaturalist.org/observations/22637489
- , , , ,792468,Michael,M.,O'Loughlin,17,IV,19,2:03,,,,,,,,USA,OR,Yamhill,,,45.1711,-123.1867,96,44,net,,Raphanus bipinnatus,https://www.inaturalist.org/observations/22639432
- , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,17:42,,,,,,,,USA,OR,Yamhill,,,45.292,-123.1887,8,38,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22663985
- , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,18:15,,,,,,,,USA,OR,Yamhill,,,45.3381,-123.185,32,51,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22668320
- , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,19:06,,,,,,,,USA,OR,Washington,,,45.5001,-122.9895,24,40,net,,Ribes aureum,https://www.inaturalist.org/observations/22670414
- , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,19:21,,,,,,,,USA,OR,Washington,,,45.4998,-122.9866,32,40,net,,Mahonia,https://www.inaturalist.org/observations/22671123
- , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,19:50,,,,,,,,USA,OR,Washington,,,45.5015,-122.9832,32,40,net,,Brassica rapa,https://www.inaturalist.org/observations/22672474
- , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,20:06,,,,,,,,USA,OR,Washington,,,45.502,-122.9824,16,40,net,,Salix,https://www.inaturalist.org/observations/22673289
- , , , ,1462047,,,,18,IV,19,18:46,,,,,,,,USA,OR,Washington,,,45.5153,-122.8463,5,67,net,,Salicaceae,https://www.inaturalist.org/observations/22675271
- , , , ,754260,Ellen,E.,Watrous,18,IV,19,21:07,,,,,,,,USA,OR,Benton,,,44.5857,-123.2507,3,69,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22675699
- , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,21:13,,,,,,,,USA,OR,Washington,,,45.4986,-122.9843,16,40,net,,Prunus,https://www.inaturalist.org/observations/22675862
- , , , ,808137,,,,18,IV,19,21:16,,,,,,,,USA,OR,Benton,,,44.5859,-123.2505,5,69,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22676025
- , , , ,752114,,,,18,IV,19,18:22,,,,,,,,USA,OR,Lincoln,,,44.8764,-124.0374,5,17,net,,Lonicera involucrata,https://www.inaturalist.org/observations/22676998
- , , , ,752114,,,,18,IV,19,20:44,,,,,,,,USA,OR,Lincoln,,,44.8291,-124.0638,5,4,net,,Gaultheria shallon,https://www.inaturalist.org/observations/22677016
- , , , ,752114,,,,18,IV,19,21:40,,,,,,,,USA,OR,Lincoln,,,44.7602,-124.0659,5,140,net,,Gaultheria shallon,https://www.inaturalist.org/observations/22677063
- , , , ,808137,,,,18,IV,19,21:37,,,,,,,,USA,OR,Benton,,,44.5859,-123.2509,5,69,net,,Viburnum tinus,https://www.inaturalist.org/observations/22677126
- , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,21:42,,,,,,,,USA,OR,Washington,,,45.4998,-122.9891,12,40,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22677186
- , , , ,754260,Ellen,E.,Watrous,18,IV,19,21:50,,,,,,,,USA,OR,Benton,,,44.5862,-123.2509,6,69,net,,Eschscholzia californica,https://www.inaturalist.org/observations/22677584
- , , , ,752114,,,,18,IV,19,21:54,,,,,,,,USA,OR,Lincoln,,,44.7601,-124.066,5,140,net,,Rubus ursinus,https://www.inaturalist.org/observations/22677674
- , , , ,792775,Dan,D.,O'Loughlin,18,IV,19,19:49,,,,,,,,USA,OR,Washington,,,45.5015,-122.9831,8,40,net,,Brassica rapa,https://www.inaturalist.org/observations/22678189
- , , , ,792775,Dan,D.,O'Loughlin,18,IV,19,20:08,,,,,,,,USA,OR,Washington,,,45.502,-122.9824,13,40,net,,Salix,https://www.inaturalist.org/observations/22678223
- , , , ,792775,Dan,D.,O'Loughlin,18,IV,19,20:59,,,,,,,,USA,OR,Washington,,,45.4988,-122.983,9,40,net,,Conium maculatum,https://www.inaturalist.org/observations/22678245
- , , , ,792775,Dan,D.,O'Loughlin,18,IV,19,21:11,,,,,,,,USA,OR,Washington,,,45.4985,-122.9841,9,40,net,,Prunus emarginata,https://www.inaturalist.org/observations/22678263
- , , , ,792775,Dan,D.,O'Loughlin,18,IV,19,21:43,,,,,,,,USA,OR,Washington,,,45.4997,-122.9895,29,40,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22678278
- , , , ,1566342,,,,18,IV,19,22:30,,,,,,,,USA,OR,Multnomah,,,45.6941,-122.7847,9,7,net,,Ribes sanguineum,https://www.inaturalist.org/observations/22679512
- , , , ,752114,,,,18,IV,19,22:49,,,,,,,,USA,OR,Lincoln,,,44.6118,-124.05,5,5,net,,Lithodora,https://www.inaturalist.org/observations/22680222
- , , , ,752114,,,,18,IV,19,23:10,,,,,,,,USA,OR,Lincoln,,,44.6184,-124.0535,5,6,net,,Ericaceae,https://www.inaturalist.org/observations/22680873
- , , , ,752114,,,,18,IV,19,23:30,,,,,,,,USA,OR,Lincoln,,,44.6147,-124.0627,5,5,net,,,https://www.inaturalist.org/observations/22681687
- , , , ,175529,Jerry,J.,Paul,18,IV,19,21:15,,,,,,,,USA,OR,Benton,,,44.5859,-123.2506,5,69,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22681717
- , , , ,1546088,,,,18,IV,19,23:29,,,,,,,,USA,OR,Yamhill,,,45.3296,-122.9686,100,99,net,,Brassica rapa,https://www.inaturalist.org/observations/22681758
- , , , ,752114,,,,18,IV,19,23:35,,,,,,,,USA,OR,Lincoln,,,44.6147,-124.0628,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22681840
- , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,23:39,,,,,,,,USA,OR,Yamhill,,,45.3313,-122.9676,32,99,net,,Brassica rapa,https://www.inaturalist.org/observations/22681954
- , , , ,752114,,,,18,IV,19,23:40,,,,,,,,USA,OR,Lincoln,,,44.6146,-124.0629,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22681982
- , , , ,752114,,,,18,IV,19,23:41,,,,,,,,USA,OR,Lincoln,,,44.6146,-124.0629,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682080
- , , , ,752114,,,,18,IV,19,23:46,,,,,,,,USA,OR,Lincoln,,,44.6146,-124.063,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682244
- , , , ,752114,,,,18,IV,19,23:51,,,,,,,,USA,OR,Lincoln,,,44.6145,-124.0631,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682501
- , , , ,752114,,,,18,IV,19,23:54,,,,,,,,USA,OR,Lincoln,,,44.6147,-124.0631,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682613
- , , , ,752114,,,,18,IV,19,23:59,,,,,,,,USA,OR,Lincoln,,,44.6147,-124.0631,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682788
- , , , ,752114,,,,18,IV,19,0:02,,,,,,,,USA,OR,Lincoln,,,44.6147,-124.0631,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682937
- , , , ,733757,,,,18,IV,19,21:28,,,,,,,,USA,OR,Benton,,,44.5857,-123.2507,8,69,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22685002
- , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,0:34,,,,,,,,USA,OR,Yamhill,,,45.2046,-123.1324,12,49,net,,Vitaceae,https://www.inaturalist.org/observations/22686122
- , , , ,327525,Briana,B.,Lindh,18,IV,19,21:17,,,,,,,,USA,OR,Polk,,,45.0222,-123.1452,165,80,net,,Amelanchier alnifolia,https://www.inaturalist.org/observations/22687493
- , , , ,327525,Briana,B.,Lindh,18,IV,19,21:28,,,,,,,,USA,OR,Polk,,,45.024,-123.1436,5,80,net,,Arbutus menziesii,https://www.inaturalist.org/observations/22687604
- , , , ,327525,Briana,B.,Lindh,18,IV,19,21:35,,,,,,,,USA,OR,Polk,,,45.0236,-123.1474,5005,80,net,,Ranunculus,https://www.inaturalist.org/observations/22688110
- , , , ,327525,Briana,B.,Lindh,18,IV,19,21:44,,,,,,,,USA,OR,Polk,,,45.0259,-123.1506,30,123,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22688327
- , , , ,327525,Briana,B.,Lindh,18,IV,19,22:37,,,,,,,,USA,OR,Polk,,,45.022,-123.1498,165,80,net,,Prunus,https://www.inaturalist.org/observations/22688474
- , , , ,1467407,,,,18,IV,19,21:06,,,,,,,,USA,OR,Benton,,,44.5857,-123.2507,12,69,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22704483
- , , , ,770229,Joe,J.,Engler,18,IV,19,19:24,,,,,,,,USA,OR,Washington,,,45.4998,-122.9866,7,40,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22705558
- , , , ,770229,Joe,J.,Engler,18,IV,19,19:51,,,,,,,,USA,OR,Washington,,,45.5015,-122.9832,9,40,net,,Brassica rapa,https://www.inaturalist.org/observations/22705581
- , , , ,770229,Joe,J.,Engler,18,IV,19,20:08,,,,,,,,USA,OR,Washington,,,45.5019,-122.9827,3,40,net,,Salix,https://www.inaturalist.org/observations/22705604
- , , , ,770229,Joe,J.,Engler,18,IV,19,21:43,,,,,,,,USA,OR,Washington,,,45.4998,-122.9892,8,40,net,,Ribes sanguineum,https://www.inaturalist.org/observations/22705625
- , , , ,620505,,,,18,IV,19,,,,,,,,,USA,OR,Josephine,,,42.4278,-123.5443,32,393,net,,Erythronium,https://www.inaturalist.org/observations/22707355
- , , , ,620505,,,,18,IV,19,,,,,,,,,USA,OR,Josephine,,,42.3564,-123.4068,64,310,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22707458
- , , , ,620505,,,,18,IV,19,0:50,,,,,,,,USA,OR,Josephine,,,42.4272,-123.5453,48,406,net,,Ceanothus cuneatus,https://www.inaturalist.org/observations/22707580
- , , , ,620505,,,,18,IV,19,,,,,,,,,USA,OR,Jackson,,,42.3035,-123.1889,6,550,net,,Arctostaphylos,https://www.inaturalist.org/observations/22707894
- , , , ,620505,,,,18,IV,19,,,,,,,,,USA,OR,Jackson,,,42.3035,-123.1889,48,550,net,,Boraginaceae,https://www.inaturalist.org/observations/22708009
- , , , ,1566342,,,,18,IV,19,23:15,,,,,,,,USA,OR,Multnomah,,,45.6927,-122.788,10,8,net,,Ribes divaricatum,https://www.inaturalist.org/observations/22709776
- , , , ,1539907,Martha,M.,Richards,18,IV,19,18:57,,,,,,,,USA,OR,Multnomah,,,45.4732,-122.6128,22,79,net,,Viburnum carlesii,https://www.inaturalist.org/observations/22715711
- , , , ,1539907,Martha,M.,Richards,18,IV,19,18:55,,,,,,,,USA,OR,Multnomah,,,45.4732,-122.6127,11,79,net,,Ribes grossularia,https://www.inaturalist.org/observations/22715873
- , , , ,1539907,Martha,M.,Richards,18,IV,19,21:00,,,,,,,,USA,OR,Multnomah,,,45.4732,-122.6127,11,79,net,,Eruca vesicaria,https://www.inaturalist.org/observations/22716045
- , , , ,620505,,,,19,IV,19,18:48,,,,,,,,USA,OR,Josephine,,,42.0962,-123.6841,16,425,net,,Lomatium,https://www.inaturalist.org/observations/22718655
- , , , ,1447015,,,,19,IV,19,19:06,,,,,,,,USA,OR,Josephine,,,42.0957,-123.6842,5,425,net,,Lomatium,https://www.inaturalist.org/observations/22719542
- , , , ,860617,Linda,L.,Austin,19,IV,19,22:01,,,,,,,,USA,OR,Josephine,,,42.0658,-123.6359,5,471,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22727655
- , , , ,620505,,,,19,IV,19,18:49,,,,,,,,USA,OR,Josephine,,,42.0962,-123.6841,16,425,net,,Arctostaphylos viscida,https://www.inaturalist.org/observations/22727909
- , , , ,620505,,,,19,IV,19,22:09,,,,,,,,USA,OR,Josephine,,,42.0665,-123.6372,24,471,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22727923
- , , , ,620505,,,,19,IV,19,23:01,,,,,,,,USA,OR,Josephine,,,42.0632,-123.6347,24,474,net,,Fragaria,https://www.inaturalist.org/observations/22730181
- , , , ,620505,,,,19,IV,19,23:03,,,,,,,,USA,OR,Josephine,,,42.0626,-123.6352,24,478,net,,Ceanothus cuneatus,https://www.inaturalist.org/observations/22730305
- , , , ,1447015,,,,19,IV,19,23:01,,,,,,,,USA,OR,Josephine,,,42.0628,-123.635,30,478,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22730425
- , , , ,841568,Lori,L.,Humphreys,17,IV,19,17:29,,,,,,,,USA,OR,Lane,,,44.0329,-123.0947,8,131,net,,Osmanthus × burkwoodii,https://www.inaturalist.org/observations/22740780
- , , , ,841568,Lori,L.,Humphreys,18,IV,19,21:49,,,,,,,,USA,OR,Lane,,,43.8344,-122.7675,,415,net,,,https://www.inaturalist.org/observations/22740941
- , , , ,841568,Lori,L.,Humphreys,18,IV,19,22:05,,,,,,,,USA,OR,Lane,,,43.8329,-122.7665,,415,net,,,https://www.inaturalist.org/observations/22741029
- , , , ,841568,Lori,L.,Humphreys,18,IV,19,22:50,,,,,,,,USA,OR,Lane,,,43.792,-122.7591,,777,net,,Salix,https://www.inaturalist.org/observations/22741138
- , , , ,1482843,Jesse,J.,Dillow,20,IV,19,20:37,,,,,,,,USA,OR,Yamhill,,,45.1681,-123.1859,6,44,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22776191
- , , , ,1482843,Jesse,J.,Dillow,20,IV,19,20:39,,,,,,,,USA,OR,Yamhill,,,45.168,-123.186,4,44,net,,Brassica rapa,https://www.inaturalist.org/observations/22776289
- , , , ,1467407,,,,18,IV,19,21:51,,,,,,,,USA,OR,Benton,,,44.586,-123.251,4,69,net,,Viburnum,https://www.inaturalist.org/observations/22785476
- , , , ,1425646,Francis,F.,Opila,20,IV,19,20:56,,,,,,,,USA,OR,Multnomah,,,45.6439,-122.8133,,3,net,,Salix,https://www.inaturalist.org/observations/22786548
- , , , ,1425646,Francis,F.,Opila,20,IV,19,21:19,,,,,,,,USA,OR,Multnomah,,,45.6448,-122.8136,,3,net,,Prunus,https://www.inaturalist.org/observations/22786589
- , , , ,1425646,Francis,F.,Opila,20,IV,19,22:05,,,,,,,,USA,OR,Multnomah,,,45.642,-122.817,,9,net,,Brassicaceae,https://www.inaturalist.org/observations/22786635
- , , , ,1425646,Francis,F.,Opila,20,IV,19,22:18,,,,,,,,USA,OR,Multnomah,,,45.6421,-122.8169,,9,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22786653
- , , , ,792468,Michael,M.,O'Loughlin,20,IV,19,20:41,,,,,,,,USA,OR,Yamhill,,,45.1683,-123.1875,16,44,net,,Brassica rapa,https://www.inaturalist.org/observations/22794397
- , , , ,1504693,,,,20,IV,19,21:03,,,,,,,,USA,OR,Multnomah,,,45.6445,-122.8133,1399,3,net,,,https://www.inaturalist.org/observations/22797447
- , , , ,1504693,,,,20,IV,19,21:14,,,,,,,,USA,OR,Multnomah,,,45.6445,-122.8133,5,3,net,,Ribes sanguineum,https://www.inaturalist.org/observations/22797471
- , , , ,1504693,,,,20,IV,19,21:58,,,,,,,,USA,OR,Multnomah,,,45.6423,-122.8169,3,9,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22797488
- , , , ,1504693,,,,21,IV,19,20:27,,,,,,,,USA,OR,Multnomah,,,45.4915,-122.6148,11,71,net,,,https://www.inaturalist.org/observations/22838187
- , , , ,429964,,,,21,IV,19,22:28,,,,,,,,USA,OR,Linn,,,44.7148,-122.7129,4,147,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22846658
- , , , ,429964,,,,21,IV,19,22:45,,,,,,,,USA,OR,Linn,,,44.7144,-122.7132,6,147,net,,Amelanchier,https://www.inaturalist.org/observations/22848362
- , , , ,752114,,,,21,IV,19,23:03,,,,,,,,USA,OR,Marion,,,44.8845,-122.8878,5,137,net,,Muntingia calabura,https://www.inaturalist.org/observations/22848949
- , , , ,752114,,,,21,IV,19,23:09,,,,,,,,USA,OR,Marion,,,44.8846,-122.8878,5,137,net,,Ranunculaceae,https://www.inaturalist.org/observations/22849239
- , , , ,752114,,,,21,IV,19,23:32,,,,,,,,USA,OR,Marion,,,44.8846,-122.8878,50,137,net,,Prunus,https://www.inaturalist.org/observations/22850753
- , , , ,1504693,,,,21,IV,19,0:00,,,,,,,,USA,OR,Multnomah,,,45.4754,-122.5859,10,75,net,,,https://www.inaturalist.org/observations/22852408
- , , , ,816767,Jeanie,J.,Taylor,22,IV,19,18:28,,,,,,,,USA,OR,Yamhill,,,45.1341,-123.374,5,81,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22895925
- , , , ,816767,Jeanie,J.,Taylor,22,IV,19,18:41,,,,,,,,USA,OR,Yamhill,,,45.1344,-123.3741,10,81,net,,Bellis perennis,https://www.inaturalist.org/observations/22896642
- , , , ,754260,Ellen,E.,Watrous,22,IV,19,21:08,,,,,,,,USA,OR,Benton,,,44.5987,-123.316,15,185,net,,Lomatium dissectum,https://www.inaturalist.org/observations/22906120
- , , , ,620505,,,,22,IV,19,6:57,,,,,,,,USA,OR,Josephine,,,42.2335,-123.6607,,435,net,,Camassia quamash,https://www.inaturalist.org/observations/22931187
- , , , ,620505,,,,22,IV,19,23:47,,,,,,,,USA,OR,Josephine,,,42.2335,-123.6607,64,435,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22931291
- , , , ,620505,,,,22,IV,19,23:41,,,,,,,,USA,OR,Josephine,,,42.2335,-123.6607,6,435,net,,Arctostaphylos viscida,https://www.inaturalist.org/observations/22931397
- , , , ,792775,Dan,D.,O'Loughlin,23,IV,19,19:37,,,,,,,,USA,OR,Yamhill,,,45.1705,-123.1855,10,44,net,,Bellis perennis,https://www.inaturalist.org/observations/22957933
- , , , ,792775,Dan,D.,O'Loughlin,23,IV,19,19:38,,,,,,,,USA,OR,Yamhill,,,45.1705,-123.1855,10,44,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22957941
- , , , ,620505,,,,23,IV,19,22:12,,,,,,,,USA,OR,Josephine,,,42.2407,-123.6904,16,421,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22966161
- , , , ,620505,,,,23,IV,19,5:10,,,,,,,,USA,OR,Josephine,,,42.2407,-123.6903,,421,net,,Camassia quamash,https://www.inaturalist.org/observations/22983984
- , , , ,1427302,,,,24,III,19,22:45,,,,,,,,USA,OR,Coos,,,43.0666,-124.1399,5,25,net,,,https://www.inaturalist.org/observations/22997380
- , , , ,1119443,Linda,L.,Zahl,24,IV,19,18:38,,,,,,,,USA,OR,Columbia,,,45.8664,-122.8223,5,52,net,,Camassia,https://www.inaturalist.org/observations/23008769
- , , , ,620505,,,,23,IV,19,23:26,,,,,,,,USA,OR,Josephine,,,42.236,-123.6989,32,472,net,,Lomatium,https://www.inaturalist.org/observations/23009849
- , , , ,620505,,,,24,IV,19,18:55,,,,,,,,USA,OR,Jackson,,,42.3138,-122.9756,32,548,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/23009896
- , , , ,1119443,Linda,L.,Zahl,24,IV,19,19:10,,,,,,,,USA,OR,Columbia,,,45.8688,-122.827,5,74,net,,Plectritis congesta,https://www.inaturalist.org/observations/23011581
- , , , ,1119443,Linda,L.,Zahl,24,IV,19,19:22,,,,,,,,USA,OR,Columbia,,,45.868,-122.8307,5,74,net,,Taraxacum,https://www.inaturalist.org/observations/23014174
- , , , ,754260,Ellen,E.,Watrous,24,IV,19,20:01,,,,,,,,USA,OR,Benton,,,44.6572,-123.2354,9,135,net,,Camassia leichtlinii,https://www.inaturalist.org/observations/23014471
- , , , ,829567,,,,24,IV,19,20:15,,,,,,,,USA,OR,Jefferson,,,44.6372,-121.142,9,678,net,,,https://www.inaturalist.org/observations/23015028
- , , , ,1561159,,,,24,IV,19,20:35,,,,,,,,USA,OR,Multnomah,,,45.5314,-122.6089,17,68,net,,Acer circinatum,https://www.inaturalist.org/observations/23017532
- , , , ,754260,Ellen,E.,Watrous,24,IV,19,21:16,,,,,,,,USA,OR,Benton,,,44.5913,-123.3107,7,123,net,,Marah oregana,https://www.inaturalist.org/observations/23018321
- , , , ,754260,Ellen,E.,Watrous,24,IV,19,22:03,,,,,,,,USA,OR,Benton,,,44.5891,-123.3112,7,123,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/23020874
- , , , ,927865,Natalie,N.,Lozano,24,IV,19,0:57,,,,,,,,USA,OR,Multnomah,,,45.4984,-122.6018,22,69,net,,Malus,https://www.inaturalist.org/observations/23033643
- , , , ,327525,Briana,B.,Lindh,24,IV,19,0:52,,,,,,,,USA,OR,Marion,,,44.9543,-123.0092,65,53,net,,Camassia quamash,https://www.inaturalist.org/observations/23035898
- , , , ,620505,,,,24,IV,19,5:25,,,,,,,,USA,OR,Jackson,,,42.3137,-122.9756,,548,net,,Calochortus tolmiei,https://www.inaturalist.org/observations/23037876
- , , , ,620505,,,,24,IV,19,5:38,,,,,,,,USA,OR,Jackson,,,42.3137,-122.9756,,548,net,,Quercus garryana,https://www.inaturalist.org/observations/23038195
- , , , ,752114,,,,25,IV,19,17:43,,,,,,,,USA,OR,Marion,,,44.9523,-123.0135,5,53,net,,Ceanothus,https://www.inaturalist.org/observations/23061529
- , , , ,752114,,,,25,IV,19,17:56,,,,,,,,USA,OR,Marion,,,44.9523,-123.0135,5,53,net,,Ceanothus thyrsiflorus thyrsiflorus,https://www.inaturalist.org/observations/23062066
- , , , ,752114,,,,25,IV,19,17:57,,,,,,,,USA,OR,Marion,,,44.9523,-123.0134,5,53,net,,Ceanothus thyrsiflorus thyrsiflorus,https://www.inaturalist.org/observations/23062100
- , , , ,752114,,,,25,IV,19,19:18,,,,,,,,USA,OR,Marion,,,44.884,-122.8879,10,137,net,,Taraxacum officinale,https://www.inaturalist.org/observations/23066325
- , , , ,752114,,,,25,IV,19,19:21,,,,,,,,USA,OR,Marion,,,44.884,-122.888,5,137,net,,Taraxacum officinale,https://www.inaturalist.org/observations/23066479
- , , , ,752114,,,,25,IV,19,19:24,,,,,,,,USA,OR,Marion,,,44.884,-122.8881,10,137,net,,Taraxacum,https://www.inaturalist.org/observations/23066670
- , , , ,752114,,,,25,IV,19,19:26,,,,,,,,USA,OR,Marion,,,44.884,-122.8879,5,137,net,,Taraxacum officinale,https://www.inaturalist.org/observations/23066738
- , , , ,752114,,,,25,IV,19,19:28,,,,,,,,USA,OR,Marion,,,44.8841,-122.888,5,137,net,,Taraxacum officinale,https://www.inaturalist.org/observations/23066840
- , , , ,752114,,,,25,IV,19,19:30,,,,,,,,USA,OR,Marion,,,44.8841,-122.888,5,137,net,,Taraxacum officinale,https://www.inaturalist.org/observations/23066936
- , , , ,754260,Ellen,E.,Watrous,25,IV,19,19:59,,,,,,,,USA,OR,Benton,,,44.5988,-123.3153,9,185,net,,Plectritis congesta,https://www.inaturalist.org/observations/23068845
- , , , ,754260,Ellen,E.,Watrous,25,IV,19,20:37,,,,,,,,USA,OR,Benton,,,44.5988,-123.3156,7,185,net,,Cornus nuttallii,https://www.inaturalist.org/observations/23070769
- , , , ,754260,Ellen,E.,Watrous,25,IV,19,23:12,,,,,,,,USA,OR,Benton,,,44.5729,-123.3109,8,85,net,,Camassia quamash,https://www.inaturalist.org/observations/23079714
- , , , ,327525,Briana,B.,Lindh,25,IV,19,20:25,,,,,,,,USA,OR,Marion,,,44.9377,-123.0339,30,48,net,,Hedera helix,https://www.inaturalist.org/observations/23080727
- , , , ,327525,Briana,B.,Lindh,25,IV,19,20:31,,,,,,,,USA,OR,Marion,,,44.9372,-123.0351,120,47,net,,Prunus laurocerasus,https://www.inaturalist.org/observations/23080798
- , , , ,327525,Briana,B.,Lindh,25,IV,19,21:06,,,,,,,,USA,OR,Marion,,,44.9365,-123.0292,10,48,net,,Ceanothus,https://www.inaturalist.org/observations/23081258
- , , , ,792775,Dan,D.,O'Loughlin,25,IV,19,1:18,,,,,,,,USA,OR,Washington,,,45.3809,-122.7609,10,38,net,,Laurales,https://www.inaturalist.org/observations/23086587
- , , , ,327525,Briana,B.,Lindh,25,IV,19,21:32,,,,,,,,USA,OR,Marion,,,44.9348,-123.0286,10,47,net,,Limnanthes douglasii,https://www.inaturalist.org/observations/23089123
- , , , ,327525,Briana,B.,Lindh,25,IV,19,21:49,,,,,,,,USA,OR,Marion,,,44.9353,-123.0294,10,48,net,,Camassia quamash,https://www.inaturalist.org/observations/23089258
- , , , ,327525,Briana,B.,Lindh,25,IV,19,23:42,,,,,,,,USA,OR,Marion,,,44.935,-123.0289,23,48,net,,Acer circinatum,https://www.inaturalist.org/observations/23089469
- , , , ,620505,,,,25,IV,19,22:55,,,,,,,,USA,OR,Josephine,,,42.2045,-123.302,22226,462,net,,Salix,https://www.inaturalist.org/observations/23102174
- , , , ,620505,,,,25,IV,19,0:27,,,,,,,,USA,OR,Josephine,,,42.1361,-123.3525,16,1151,net,,Arctostaphylos patula,https://www.inaturalist.org/observations/23102255
- , , , ,620505,,,,25,IV,19,1:25,,,,,,,,USA,OR,Josephine,,,42.1381,-123.3446,,1288,net,,,https://www.inaturalist.org/observations/23102882
- , , , ,754260,Ellen,E.,Watrous,26,IV,19,21:42,,,,,,,,USA,OR,Benton,,,44.5991,-123.315,9,191,net,,Limnanthes douglasii,https://www.inaturalist.org/observations/23230203
- , , , ,754260,Ellen,E.,Watrous,26,IV,19,22:35,,,,,,,,USA,OR,Benton,,,44.5991,-123.3154,3,185,net,,Camassia leichtlinii,https://www.inaturalist.org/observations/23240718
- , , , ,327525,Briana,B.,Lindh,26,IV,19,23:29,,,,,,,,USA,OR,Marion,,,44.9354,-123.0309,65,48,net,,Malus,https://www.inaturalist.org/observations/23251239
- , , , ,327525,Briana,B.,Lindh,26,IV,19,21:45,,,,,,,,USA,OR,Marion,,,44.9308,-123.0324,10,47,net,,Claytonia sibirica,https://www.inaturalist.org/observations/23251459
- , , , ,327525,Briana,B.,Lindh,26,IV,19,22:18,,,,,,,,USA,OR,Marion,,,44.9306,-123.0334,81,47,net,,Prosartes hookeri,https://www.inaturalist.org/observations/23251845
- , , , ,620505,,,,26,IV,19,6:14,,,,,,,,USA,OR,Josephine,,,42.5294,-123.5881,,405,net,,Madia elegans,https://www.inaturalist.org/observations/23319046
- , , , ,620505,,,,26,IV,19,6:37,,,,,,,,USA,OR,Josephine,,,42.5294,-123.5881,,405,net,,Lupinus latifolius,https://www.inaturalist.org/observations/23320163
- , , , ,620505,,,,26,IV,19,22:26,,,,,,,,USA,OR,Josephine,,,42.4414,-123.6838,,617,net,,,https://www.inaturalist.org/observations/23320746
- , , , ,620505,,,,26,IV,19,23:13,,,,,,,,USA,OR,Josephine,,,42.4431,-123.6825,24,617,net,,Lomatium,https://www.inaturalist.org/observations/23320869
- , , , ,620505,,,,26,IV,19,2:31,,,,,,,,USA,OR,Josephine,,,42.5082,-123.6229,64,392,net,,Mimulus,https://www.inaturalist.org/observations/23321014
- , , , ,620505,,,,25,IV,19,21:27,,,,,,,,USA,OR,Josephine,,,42.1361,-123.3526,16,1151,net,,Arctostaphylos patula,https://www.inaturalist.org/observations/23370280
- , , , ,620505,,,,25,IV,19,22:28,,,,,,,,USA,OR,Josephine,,,42.1381,-123.3447,16,1288,net,,,https://www.inaturalist.org/observations/23370339
- , , , ,752114,,,,27,IV,19,21:33,,,,,,,,USA,OR,Marion,,,44.8943,-122.8859,5,133,net,,,https://www.inaturalist.org/observations/23479676
- , , , ,752114,,,,27,IV,19,21:34,,,,,,,,USA,OR,Marion,,,44.8942,-122.8859,5,133,net,,Plectritis,https://www.inaturalist.org/observations/23479936
- , , , ,752114,,,,27,IV,19,21:51,,,,,,,,USA,OR,Marion,,,44.8954,-122.8857,5,126,net,,Camassia,https://www.inaturalist.org/observations/23484023
- , , , ,752114,,,,27,IV,19,21:55,,,,,,,,USA,OR,Marion,,,44.8955,-122.8857,5,126,net,,Camassia,https://www.inaturalist.org/observations/23484940
- , , , ,752114,,,,27,IV,19,21:59,,,,,,,,USA,OR,Marion,,,44.8954,-122.8856,5,126,net,,Camassia quamash,https://www.inaturalist.org/observations/23485710
- , , , ,752114,,,,27,IV,19,22:02,,,,,,,,USA,OR,Marion,,,44.8954,-122.8854,5,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/23486736
- , , , ,429964,,,,27,IV,19,22:04,,,,,,,,USA,OR,Linn,,,44.5595,-123.2294,16,68,net,,Ribes,https://www.inaturalist.org/observations/23487275
- , , , ,752114,,,,27,IV,19,22:06,,,,,,,,USA,OR,Marion,,,44.8952,-122.8854,5,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/23487521
- , , , ,752114,,,,27,IV,19,22:16,,,,,,,,USA,OR,Marion,,,44.8951,-122.8854,5,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/23489826
- , , , ,752114,,,,27,IV,19,22:19,,,,,,,,USA,OR,Marion,,,44.8954,-122.8856,5,126,net,,Camassia,https://www.inaturalist.org/observations/23490559
- , , , ,752114,,,,27,IV,19,22:27,,,,,,,,USA,OR,Marion,,,44.897,-122.8864,5,126,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/23492548
- , , , ,752114,,,,27,IV,19,22:43,,,,,,,,USA,OR,Marion,,,44.8968,-122.8942,5,126,net,,Plectritis congesta congesta,https://www.inaturalist.org/observations/23496391
- , , , ,752114,,,,27,IV,19,22:53,,,,,,,,USA,OR,Marion,,,44.8974,-122.8936,5,126,net,,Camassia quamash,https://www.inaturalist.org/observations/23498155
- , , , ,752114,,,,27,IV,19,22:58,,,,,,,,USA,OR,Marion,,,44.8975,-122.8935,5,126,net,,Camassia,https://www.inaturalist.org/observations/23499667
- , , , ,175529,Jerry,J.,Paul,26,IV,19,0:24,,,,,,,,USA,OR,Benton,,,44.6029,-123.2648,5,135,net,,Berberis darwinii,https://www.inaturalist.org/observations/23530414
- , , , ,175529,Jerry,J.,Paul,26,IV,19,23:18,26,IV,19,-26IV,16:22,,,USA,OR,Benton,,,44.603,-123.2645,5,135,net,,Ceanothus cuneatus,https://www.inaturalist.org/observations/23531004
- , , , ,327525,Briana,B.,Lindh,27,IV,19,21:15,,,,,,,,USA,OR,Marion,,,44.9273,-123.0697,10,44,net,,Marah oregana,https://www.inaturalist.org/observations/23531350
- , , , ,327525,Briana,B.,Lindh,27,IV,19,21:45,,,,,,,,USA,OR,Marion,,,44.9287,-123.0676,10,44,net,,Malus,https://www.inaturalist.org/observations/23531663
- , , , ,327525,Briana,B.,Lindh,27,IV,19,22:08,,,,,,,,USA,OR,Marion,,,44.9275,-123.0716,1533,44,net,,,https://www.inaturalist.org/observations/23532044
- , , , ,1539907,Martha,M.,Richards,31,III,19,22:10,,,,,,,,USA,OR,Multnomah,,,45.4141,-122.6349,7,58,net,,,https://www.inaturalist.org/observations/23660743
- , , , ,1539907,Martha,M.,Richards,31,III,19,21:50,,,,,,,,USA,OR,Multnomah,,,45.4731,-122.6133,7,79,net,,Rosmarinus officinalis,https://www.inaturalist.org/observations/23669398
- , , , ,1539907,Martha,M.,Richards,31,III,19,21:45,,,,,,,,USA,OR,Multnomah,,,45.4732,-122.6133,5,79,net,,Lamium purpureum,https://www.inaturalist.org/observations/23672041
- , , , ,1539907,Martha,M.,Richards,31,III,19,22:00,,,,,,,,USA,OR,Multnomah,,,45.4733,-122.613,5,79,net,,,https://www.inaturalist.org/observations/23673560
- , , , ,1539907,Martha,M.,Richards,27,IV,19,22:45,,,,,,,,USA,OR,Multnomah,,,45.4735,-122.6123,10,79,net,,Ribes grossularia,https://www.inaturalist.org/observations/23675465
- , , , ,1445574,,,,19,IV,19,21:18,,,,,,,,USA,OR,Josephine,,,42.0638,-123.6346,9,474,net,,,https://www.inaturalist.org/observations/23703547
- , , , ,1539907,Martha,M.,Richards,28,IV,19,19:27,,,,,,,,USA,OR,Multnomah,,,45.4732,-122.6124,21,79,net,,,https://www.inaturalist.org/observations/23712262
- , , , ,816767,Jeanie,J.,Taylor,28,IV,19,19:54,,,,,,,,USA,OR,Yamhill,,,45.1339,-123.3728,10,81,net,,Rosmarinus officinalis,https://www.inaturalist.org/observations/23719105
- , , , ,1582689,,,,28,IV,19,20:02,,,,,,,,USA,OR,Multnomah,,,45.6415,-122.818,5,9,net,,,https://www.inaturalist.org/observations/23727087
- , , , ,325615,Amy,A.,Grotta,28,IV,19,19:53,,,,,,,,USA,OR,Multnomah,,,45.5568,-122.6464,20,72,net,,Pyrus pyrifolia,https://www.inaturalist.org/observations/23741271
- , , , ,325615,Amy,A.,Grotta,28,IV,19,20:38,,,,,,,,USA,OR,Multnomah,,,45.5567,-122.6462,10,72,net,,,https://www.inaturalist.org/observations/23741389
- , , , ,325615,Amy,A.,Grotta,28,IV,19,20:58,,,,,,,,USA,OR,Multnomah,,,45.5569,-122.6466,10,72,net,,Camassia,https://www.inaturalist.org/observations/23741521
- , , , ,754260,Ellen,E.,Watrous,28,IV,19,22:06,,,,,,,,USA,OR,Benton,,,44.6005,-123.2425,5,66,net,,Prunus virginiana,https://www.inaturalist.org/observations/23755125
- , , , ,754260,Ellen,E.,Watrous,28,IV,19,23:53,,,,,,,,USA,OR,Benton,,,44.3637,-123.3748,6,121,net,,Camassia quamash,https://www.inaturalist.org/observations/23785725
- , , , ,1425646,Francis,F.,Opila,28,IV,19,20:56,,,,,,,,USA,OR,Multnomah,,,45.5574,-122.6908,,61,net,,Vaccinium,https://www.inaturalist.org/observations/23791910
- , , , ,1425646,Francis,F.,Opila,28,IV,19,21:08,,,,,,,,USA,OR,Multnomah,,,45.5574,-122.6908,,61,net,,Poaceae,https://www.inaturalist.org/observations/23792249
- , , , ,1425646,Francis,F.,Opila,28,IV,19,22:47,,,,,,,,USA,OR,Multnomah,,,45.5574,-122.6909,,61,net,,Acer circinatum,https://www.inaturalist.org/observations/23792612
- , , , ,1462047,,,,28,IV,19,18:00,,,,,,,,USA,OR,Washington,,,45.5173,-122.8501,65,67,net,,Syringa vulgaris,https://www.inaturalist.org/observations/23803562
- , , , ,175529,Jerry,J.,Paul,28,IV,19,22:44,,,,,,,,USA,OR,Benton,,,44.6317,-123.1966,5,70,net,,,https://www.inaturalist.org/observations/23819128
- , , , ,327525,Briana,B.,Lindh,28,IV,19,19:52,,,,,,,,USA,OR,Marion,,,44.9299,-122.9525,5,63,net,,Bellis perennis,https://www.inaturalist.org/observations/23819551
- , , , ,327525,Briana,B.,Lindh,28,IV,19,20:09,,,,,,,,USA,OR,Marion,,,44.9311,-122.9529,5,63,net,,Claytonia sibirica,https://www.inaturalist.org/observations/23819895
- , , , ,175529,Jerry,J.,Paul,28,IV,19,22:58,,,,,,,,USA,OR,Benton,,,44.6318,-123.1966,5,70,net,,Nemophila menziesii,https://www.inaturalist.org/observations/23822047
- , , , ,175529,Jerry,J.,Paul,28,IV,19,23:55,,,,,,,,USA,OR,Benton,,,44.6252,-123.2179,5,68,net,,Holodiscus discolor,https://www.inaturalist.org/observations/23823242
- , , , ,1447015,,,,28,IV,19,19:12,,,,,,,,USA,OR,Jackson,,,42.0653,-123.1689,10,702,net,,Berberis aquifolium,https://www.inaturalist.org/observations/23836646
- , , , ,1447015,,,,28,IV,19,21:23,,,,,,,,USA,OR,Jackson,,,42.0715,-123.1793,10,731,net,,Lomatium,https://www.inaturalist.org/observations/23836690
- , , , ,1447015,,,,28,IV,19,21:26,,,,,,,,USA,OR,Jackson,,,42.0718,-123.18,30,731,net,,Berberis aquifolium,https://www.inaturalist.org/observations/23836763
- , , , ,620505,,,,28,IV,19,22:14,,,,,,,,USA,OR,Jackson,,,42.0653,-123.1693,6,702,net,,,https://www.inaturalist.org/observations/23865529
- , , , ,620505,,,,28,IV,19,22:12,,,,,,,,USA,OR,Jackson,,,42.0656,-123.1691,128,702,net,,Berberis aquifolium,https://www.inaturalist.org/observations/23865731
- , , , ,620505,,,,28,IV,19,0:23,,,,,,,,USA,OR,Jackson,,,42.0718,-123.1797,16,731,net,,Lomatium,https://www.inaturalist.org/observations/23866320
- , , , ,620505,,,,28,IV,19,0:38,,,,,,,,USA,OR,Jackson,,,42.0715,-123.1795,16,731,net,,,https://www.inaturalist.org/observations/23866811
- , , , ,841568,Lori,L.,Humphreys,25,IV,19,22:47,,,,,,,,USA,OR,Lane,,,44.002,-123.1331,,301,net,,Nemophila menziesii,https://www.inaturalist.org/observations/23968162
- , , , ,841568,Lori,L.,Humphreys,25,IV,19,0:02,,,,,,,,USA,OR,Lane,,,44.0029,-123.1329,,301,net,,Salix,https://www.inaturalist.org/observations/23974440
- , , , ,1119443,Linda,L.,Zahl,29,IV,19,18:38,,,,,,,,USA,OR,Columbia,,,45.8663,-122.8225,5,52,net,,Camassia quamash,https://www.inaturalist.org/observations/23987873
- , , , ,1119443,Linda,L.,Zahl,29,IV,19,18:44,30,IV,19,-30IV,16:46,,,USA,OR,Columbia,,,45.8662,-122.8217,5,52,net,,Plectritis congesta brachystemon,https://www.inaturalist.org/observations/23989469
- , , , ,620505,,,,29,IV,19,20:26,,,,,,,,USA,OR,Jackson,,,42.4215,-122.9056,16,377,net,,Lasthenia californica,https://www.inaturalist.org/observations/24014917
- , , , ,620505,,,,29,IV,19,20:52,,,,,,,,USA,OR,Jackson,,,42.4215,-122.9053,16,377,net,,Ceanothus cuneatus,https://www.inaturalist.org/observations/24021680
- , , , ,620505,,,,29,IV,19,23:11,,,,,,,,USA,OR,Jackson,,,42.4805,-122.6731,8,527,net,,Castilleja,https://www.inaturalist.org/observations/24059646
- , , , ,620505,,,,29,IV,19,23:16,,,,,,,,USA,OR,Jackson,,,42.4806,-122.6733,32,527,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/24061339
- , , , ,841568,Lori,L.,Humphreys,26,IV,19,21:32,,,,,,,,USA,OR,Lane,,,43.9899,-123.0353,20,158,net,,Camassia,https://www.inaturalist.org/observations/24083683
- , , , ,620505,,,,29,IV,19,23:11,,,,,,,,USA,OR,Jackson,,,42.4805,-122.6731,6,527,net,,Calochortus tolmiei,https://www.inaturalist.org/observations/24085550
- , , , ,754260,Ellen,E.,Watrous,29,IV,19,0:47,,,,,,,,USA,OR,Benton,,,44.5989,-123.3157,5,185,net,,,https://www.inaturalist.org/observations/24086661
- , , , ,841568,Lori,L.,Humphreys,26,IV,19,21:12,,,,,,,,USA,OR,Lane,,,43.9887,-123.0355,,158,net,,Malus,https://www.inaturalist.org/observations/24118355
- , , , ,841568,Lori,L.,Humphreys,26,IV,19,22:16,,,,,,,,USA,OR,Lane,,,43.9897,-123.0335,,181,net,,,https://www.inaturalist.org/observations/24122442
- , , , ,841568,Lori,L.,Humphreys,26,IV,19,22:34,,,,,,,,USA,OR,Lane,,,43.9904,-123.0331,,181,net,,Trifolium subterraneum,https://www.inaturalist.org/observations/24122505
- , , , ,841568,Lori,L.,Humphreys,26,IV,19,22:54,,,,,,,,USA,OR,Lane,,,43.99,-123.0325,,181,net,,Prunus emarginata,https://www.inaturalist.org/observations/24125282
- , , , ,841568,Lori,L.,Humphreys,28,IV,19,21:40,,,,,,,,USA,OR,Lane,,,44.0219,-123.1579,,283,net,,Plectritis congesta,https://www.inaturalist.org/observations/24136087
- , , , ,841568,Lori,L.,Humphreys,28,IV,19,21:54,,,,,,,,USA,OR,Lane,,,44.0212,-123.1584,,283,net,,Lithophragma tenellum,https://www.inaturalist.org/observations/24136927
- , , , ,841568,Lori,L.,Humphreys,28,IV,19,22:32,,,,,,,,USA,OR,Lane,,,44.0218,-123.1594,,283,net,,Fragaria vesca,https://www.inaturalist.org/observations/24137757
- , , , ,841568,Lori,L.,Humphreys,28,IV,19,23:04,,,,,,,,USA,OR,Lane,,,44.0273,-123.1592,,191,net,,Arbutus menziesii,https://www.inaturalist.org/observations/24141477
- , , , ,927865,Natalie,N.,Lozano,28,IV,19,21:07,,,,,,,,USA,OR,Multnomah,,,45.6421,-122.8168,24,9,net,,Brassicaceae,https://www.inaturalist.org/observations/24181550
- , , , ,927865,Natalie,N.,Lozano,28,IV,19,21:40,,,,,,,,USA,OR,Multnomah,,,45.6435,-122.8188,24,9,net,,Brassicaceae,https://www.inaturalist.org/observations/24181729
- , , , ,927865,Natalie,N.,Lozano,28,IV,19,21:51,,,,,,,,USA,OR,Multnomah,,,45.6414,-122.8179,16,9,net,,Rubus,https://www.inaturalist.org/observations/24182226
- , , , ,1560167,,,,30,IV,19,16:27,,,,,,,,USA,OR,Washington,,,45.5663,-122.8604,8,78,net,,Cornus florida,https://www.inaturalist.org/observations/24194531
- , , , ,1560167,,,,30,IV,19,16:30,,,,,,,,USA,OR,Washington,,,45.5663,-122.8613,4,78,net,,Cistus,https://www.inaturalist.org/observations/24194756
- , , , ,1560167,,,,30,IV,19,16:37,,,,,,,,USA,OR,Washington,,,45.5655,-122.8636,3,78,net,,Cytisus,https://www.inaturalist.org/observations/24195382
- , , , ,841568,Lori,L.,Humphreys,30,IV,19,17:15,,,,,,,,USA,OR,Lane,,,43.6811,-123.0766,,270,net,,Dicentra formosa,https://www.inaturalist.org/observations/24199167
- , , , ,841568,Lori,L.,Humphreys,30,IV,19,17:21,,,,,,,,USA,,,,,,,,,net,,,https://www.inaturalist.org/observations/24199704
- , , , ,841568,Lori,L.,Humphreys,30,IV,19,17:33,,,,,,,,USA,,,,,,,,,net,,Claytonia sibirica,https://www.inaturalist.org/observations/24202364
- , , , ,792775,Dan,D.,O'Loughlin,30,IV,19,19:04,,,,,,,,USA,OR,Yamhill,,,45.1706,-123.1856,68,44,net,,Bellis perennis,https://www.inaturalist.org/observations/24208428
- , , , ,792775,Dan,D.,O'Loughlin,30,IV,19,19:05,,,,,,,,USA,OR,Yamhill,,,45.1706,-123.1856,34,44,net,,,https://www.inaturalist.org/observations/24208449
- , , , ,752114,,,,30,IV,19,23:02,,,,,,,,USA,OR,Marion,,,44.8844,-122.8876,5,137,net,,Rosmarinus officinalis,https://www.inaturalist.org/observations/24230094
- , , , ,1423344,Jessica,J.,Hird,21,IV,19,0:28,,,,,,,,USA,OR,Columbia,,,45.8813,-122.8928,263,99,net,,,https://www.inaturalist.org/observations/24232250
- , , , ,1423344,Jessica,J.,Hird,21,IV,19,1:09,,,,,,,,USA,OR,Columbia,,,45.8819,-122.8922,,99,net,,Taraxacum,https://www.inaturalist.org/observations/24232480
- , , , ,1423344,Jessica,J.,Hird,30,IV,19,19:49,,,,,,,,USA,OR,Columbia,,,45.8302,-122.9632,17,271,net,,Rhododendron,https://www.inaturalist.org/observations/24234364
- , , , ,1423344,Jessica,J.,Hird,30,IV,19,20:33,,,,,,,,USA,OR,Columbia,,,45.8302,-122.9617,33,271,net,,Taraxacum,https://www.inaturalist.org/observations/24234621
- , , , ,1423344,Jessica,J.,Hird,30,IV,19,20:47,,,,,,,,USA,OR,Columbia,,,45.8297,-122.9615,,271,net,,,https://www.inaturalist.org/observations/24234814
- , , , ,327525,Briana,B.,Lindh,30,IV,19,20:33,,,,,,,,USA,OR,Polk,,,45.0223,-123.1458,25,80,net,,Bellis perennis,https://www.inaturalist.org/observations/24239961
- , , , ,327525,Briana,B.,Lindh,30,IV,19,1:19,,,,,,,,USA,OR,Polk,,,45.0225,-123.1458,22,80,net,,Crataegus,https://www.inaturalist.org/observations/24240100
- , , , ,327525,Briana,B.,Lindh,30,IV,19,23:15,,,,,,,,USA,OR,Polk,,,45.0224,-123.1476,10,80,net,,Arbutus menziesii,https://www.inaturalist.org/observations/24240347
- , , , ,327525,Briana,B.,Lindh,30,IV,19,23:23,,,,,,,,USA,OR,Polk,,,45.0216,-123.15,5,80,net,,Geranium lucidum,https://www.inaturalist.org/observations/24240384
- , , , ,620505,,,,30,IV,19,,,,,,,,,USA,OR,Josephine,,,42.0068,-123.5499,24,1388,net,,,https://www.inaturalist.org/observations/24254523
- , , , ,620505,,,,30,IV,19,,,,,,,,,USA,OR,Josephine,,,42.0068,-123.5499,32,1388,net,,Arctostaphylos patula,https://www.inaturalist.org/observations/24254662
- , , , ,1586075,,,,28,IV,19,21:09,,,,,,,,USA,OR,Multnomah,,,45.6421,-122.8168,6,9,net,,Brassicaceae,https://www.inaturalist.org/observations/24256257
- , , , ,1586075,,,,28,IV,19,21:41,,,,,,,,USA,OR,Multnomah,,,45.6434,-122.8188,7,9,net,,Brassicaceae,https://www.inaturalist.org/observations/24256298
- , , , ,1586075,,,,28,IV,19,22:00,,,,,,,,USA,OR,Multnomah,,,45.6417,-122.8198,8,9,net,,Berberis aquifolium,https://www.inaturalist.org/observations/24256304
- , , , ,175529,Jerry,J.,Paul,30,IV,19,19:28,,,,,,,,USA,OR,Lane,,,43.6873,-122.3735,10,487,net,,Berberis aquifolium,https://www.inaturalist.org/observations/24256805
- , , , ,175529,Jerry,J.,Paul,30,IV,19,21:16,,,,,,,,USA,OR,Lane,,,43.6898,-122.374,,487,net,,Taraxacum officinale,https://www.inaturalist.org/observations/24256887
- , , , ,1119443,Linda,L.,Zahl,30,IV,19,18:48,30,IV,19,-30IV,14:19,,,USA,OR,Columbia,,,45.8303,-122.9588,359,271,pan trap,,Bellis perennis,https://www.inaturalist.org/observations/24260176
- , , , ,1119443,Linda,L.,Zahl,30,IV,19,19:16,,,,,,,,USA,OR,Columbia,,,45.8299,-122.9616,10,271,net,,Taraxacum,https://www.inaturalist.org/observations/24260278
- , , , ,1119443,Linda,L.,Zahl,30,IV,19,20:47,,,,,,,,USA,OR,Columbia,,,45.8298,-122.9619,5,271,net,,,https://www.inaturalist.org/observations/24260357
- , , , ,1119443,Linda,L.,Zahl,30,IV,19,21:18,30,IV,19,-30IV,14:18,,,USA,OR,Columbia,,,45.8296,-122.9613,5,271,pan trap,,,https://www.inaturalist.org/observations/24260496
- , , , ,1119443,Linda,L.,Zahl,30,IV,19,21:33,30,IV,19,-30IV,14:34,,,USA,OR,Columbia,,,45.8297,-122.9613,39689,271,pan trap,,Fragaria vesca,https://www.inaturalist.org/observations/24260524
- , , , ,1119443,Linda,L.,Zahl,30,IV,19,0:09,,,,,,,,USA,OR,Columbia,,,45.8663,-122.8223,10,52,net,,Toxicoscordion venenosum,https://www.inaturalist.org/observations/24260593
- , , , ,1119443,Linda,L.,Zahl,30,IV,19,0:18,,,,,,,,USA,OR,Columbia,,,45.8663,-122.8224,5,52,net,,Camassia quamash,https://www.inaturalist.org/observations/24260648
- , , , ,1119443,Linda,L.,Zahl,30,IV,19,0:52,,,,,,,,USA,OR,Columbia,,,45.8687,-122.827,5,74,net,,Plectritis,https://www.inaturalist.org/observations/24260672
- , , , ,829567,,,,1,V,19,19:32,,,,,,,,USA,OR,Crook,,,44.2873,-120.844,7,873,net,,Salix,https://www.inaturalist.org/observations/24309697
- , , , ,620505,,,,1,V,19,19:39,,,,,,,,USA,OR,Jackson,,,42.2199,-123.0381,22151,616,net,,Calochortus tolmiei,https://www.inaturalist.org/observations/24310260
- , , , ,754260,Ellen,E.,Watrous,1,V,19,20:52,,,,,,,,USA,OR,Benton,,,44.6587,-123.2348,7,127,net,,Insecta,https://www.inaturalist.org/observations/24316534
- , , , ,754260,Ellen,E.,Watrous,1,V,19,21:37,,,,,,,,USA,OR,Benton,,,44.6572,-123.2354,,135,net,,Claytonia sibirica,https://www.inaturalist.org/observations/24319452
- , , , ,754260,Ellen,E.,Watrous,1,V,19,22:07,,,,,,,,USA,OR,Benton,,,44.6567,-123.2337,8,127,net,,Camassia leichtlinii,https://www.inaturalist.org/observations/24321686
- , , , ,1482843,Jesse,J.,Dillow,1,V,19,22:40,,,,,,,,USA,OR,Yamhill,,,45.2739,-123.011,4,57,net,,Allium schoenoprasum,https://www.inaturalist.org/observations/24323930
- , , , ,1482843,Jesse,J.,Dillow,1,V,19,23:05,,,,,,,,USA,OR,Yamhill,,,45.2739,-123.0111,9,57,net,,Fragaria,https://www.inaturalist.org/observations/24325815
- , , , ,752114,,,,1,V,19,23:10,,,,,,,,USA,OR,Marion,,,44.8843,-122.8877,5,137,net,,Rosmarinus,https://www.inaturalist.org/observations/24326253
- , , , ,752114,,,,1,V,19,23:11,,,,,,,,USA,OR,Marion,,,44.8843,-122.8878,5,137,net,,Rosmarinus,https://www.inaturalist.org/observations/24326327
- , , , ,754260,Ellen,E.,Watrous,1,V,19,23:33,,,,,,,,USA,OR,Benton,,,44.6391,-123.2896,12,307,net,,Claytonia sibirica,https://www.inaturalist.org/observations/24328618
- , , , ,620505,,,,1,V,19,19:40,,,,,,,,USA,OR,Jackson,,,42.1493,-123.0477,24,535,net,,Lomatium,https://www.inaturalist.org/observations/24336108
- , , , ,327525,Briana,B.,Lindh,30,IV,19,23:25,,,,,,,,USA,OR,Polk,,,45.0218,-123.15,30,80,net,,Ranunculus uncinatus,https://www.inaturalist.org/observations/24337412
- , , , ,327525,Briana,B.,Lindh,1,V,19,22:42,,,,,,,,USA,OR,Polk,,,44.9618,-123.2575,5005,79,net,,Crataegus monogyna,https://www.inaturalist.org/observations/24338449
- , , , ,327525,Briana,B.,Lindh,1,V,19,23:21,,,,,,,,USA,OR,Polk,,,44.9617,-123.2596,5,79,net,,Valerianella locusta,https://www.inaturalist.org/observations/24338489
- , , , ,327525,Briana,B.,Lindh,1,V,19,23:40,,,,,,,,USA,OR,Polk,,,44.9641,-123.2604,962,79,net,,Lomatium nudicaule,https://www.inaturalist.org/observations/24338599
- , , , ,327525,Briana,B.,Lindh,1,V,19,23:49,,,,,,,,USA,OR,Polk,,,44.8752,-123.2239,3870,56,net,,Camassia quamash,https://www.inaturalist.org/observations/24338656
- , , , ,620505,,,,1,V,19,5:35,,,,,,,,USA,OR,Jackson,,,42.1492,-123.0477,,535,net,,Dichelostemma,https://www.inaturalist.org/observations/24351062
- , , , ,620505,,,,1,V,19,22:40,,,,,,,,USA,OR,Jackson,,,42.1494,-123.0476,65,535,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/24351364
- , , , ,620505,,,,1,V,19,5:50,,,,,,,,USA,OR,Jackson,,,42.1492,-123.0477,,535,net,,Senecio,https://www.inaturalist.org/observations/24351953
- , , , ,1447015,,,,1,V,19,19:21,,,,,,,,USA,OR,Jackson,,,42.1496,-123.0485,22,535,net,,Lomatium,https://www.inaturalist.org/observations/24368306
- , , , ,1447015,,,,1,V,19,19:23,,,,,,,,USA,OR,Jackson,,,42.1496,-123.0485,5,535,net,,Calochortus,https://www.inaturalist.org/observations/24368314
- , , , ,829567,,,,2,V,19,19:15,,,,,,,,USA,OR,Crook,,,44.231,-120.9944,9,1011,net,,Magnoliopsida,https://www.inaturalist.org/observations/24390581
- , , , ,754260,Ellen,E.,Watrous,2,V,19,19:39,,,,,,,,USA,OR,Wasco,,,45.6784,-121.3064,6,229,net,,Lomatium nudicaule,https://www.inaturalist.org/observations/24392246
- , , , ,1462047,,,,2,V,19,22:05,,,,,,,,USA,OR,Washington,,,45.4483,-122.8695,5,189,net,,Geranium lucidum,https://www.inaturalist.org/observations/24401546
- , , , ,1462047,,,,2,V,19,22:26,,,,,,,,USA,OR,Washington,,,45.4481,-122.8694,5,189,net,,,https://www.inaturalist.org/observations/24401861
- , , , ,1462047,,,,2,V,19,22:40,,,,,,,,USA,OR,Washington,,,45.448,-122.8698,5005,189,net,,Iris tenax,https://www.inaturalist.org/observations/24402306
- , , , ,1450900,,,,9,II,19,12:49,,,,,,,,USA,OR,Benton,,,44.5943,-123.2347,65,61,net,,Bombus caliginosus,https://www.inaturalist.org/observations/24403485
- , , , ,752114,,,,2,V,19,23:13,,,,,,,,USA,OR,Marion,,,44.8949,-122.8865,5,133,net,,Plectritis congesta,https://www.inaturalist.org/observations/24404055
- , , , ,752114,,,,2,V,19,23:18,,,,,,,,USA,OR,Marion,,,44.8948,-122.8862,5,133,net,,Plectritis congesta,https://www.inaturalist.org/observations/24404351
- , , , ,1462047,,,,2,V,19,23:21,,,,,,,,USA,OR,Washington,,,45.4485,-122.8687,30,189,net,,Marah oregana,https://www.inaturalist.org/observations/24404602
- , , , ,752114,,,,2,V,19,23:25,,,,,,,,USA,OR,Marion,,,44.8951,-122.8856,10,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/24404919
- , , , ,752114,,,,2,V,19,23:28,,,,,,,,USA,OR,Marion,,,44.8952,-122.8854,5,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/24405055
- , , , ,752114,,,,2,V,19,23:31,,,,,,,,USA,OR,Marion,,,44.8952,-122.8853,5,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/24405192
- , , , ,752114,,,,2,V,19,23:36,,,,,,,,USA,OR,Marion,,,44.8953,-122.8857,5,126,net,,Camassia leichtlinii,https://www.inaturalist.org/observations/24405555
- , , , ,752114,,,,2,V,19,23:38,,,,,,,,USA,OR,Marion,,,44.8954,-122.8857,5,126,net,,Camassia leichtlinii,https://www.inaturalist.org/observations/24405735
- , , , ,752114,,,,2,V,19,23:46,,,,,,,,USA,OR,Marion,,,44.8953,-122.8857,5,126,net,,Camassia quamash,https://www.inaturalist.org/observations/24406167
- , , , ,752114,,,,2,V,19,0:03,,,,,,,,USA,OR,Marion,,,44.8951,-122.8875,5,126,net,,Iris tenax,https://www.inaturalist.org/observations/24407072
- , , , ,1462047,,,,2,V,19,0:05,,,,,,,,USA,OR,Washington,,,45.4512,-122.8698,10,189,net,,Vicia sativa,https://www.inaturalist.org/observations/24407223
- , , , ,327525,Briana,B.,Lindh,2,V,19,20:17,,,,,,,,USA,OR,Marion,,,44.9355,-123.0307,65,48,net,,Prunus laurocerasus,https://www.inaturalist.org/observations/24413532
- , , , ,327525,Briana,B.,Lindh,2,V,19,20:34,,,,,,,,USA,OR,Marion,,,44.9355,-123.0294,50,48,net,,Camassia quamash,https://www.inaturalist.org/observations/24413951
- , , , ,327525,Briana,B.,Lindh,2,V,19,20:45,,,,,,,,USA,OR,Marion,,,44.9341,-123.0291,65,47,net,,Limnanthes douglasii,https://www.inaturalist.org/observations/24414619
- , , , ,327525,Briana,B.,Lindh,2,V,19,20:51,,,,,,,,USA,OR,Marion,,,44.9344,-123.0286,5,47,net,,Aronia,https://www.inaturalist.org/observations/24414688
- , , , ,327525,Briana,B.,Lindh,2,V,19,20:58,,,,,,,,USA,OR,Marion,,,44.9348,-123.0302,10,47,net,,Eschscholzia californica,https://www.inaturalist.org/observations/24416524
- , , , ,327525,Briana,B.,Lindh,2,V,19,21:11,,,,,,,,USA,OR,Marion,,,44.9362,-123.0293,189,48,net,,Crataegus,https://www.inaturalist.org/observations/24416648
- , , , ,327525,Briana,B.,Lindh,2,V,19,21:16,,,,,,,,USA,OR,Marion,,,44.9365,-123.029,1451,48,net,,Ceanothus,https://www.inaturalist.org/observations/24416851
- , , , ,327525,Briana,B.,Lindh,2,V,19,22:00,,,,,,,,USA,OR,Marion,,,44.9308,-123.0324,65,47,net,,Claytonia sibirica,https://www.inaturalist.org/observations/24417142
- , , , ,327525,Briana,B.,Lindh,2,V,19,22:09,,,,,,,,USA,OR,Marion,,,44.9291,-123.0319,66,47,net,,Camassia quamash,https://www.inaturalist.org/observations/24417270
- , , , ,770229,Joe,J.,Engler,2,V,19,21:42,,,,,,,,USA,OR,Clackamas,,,45.3826,-121.8737,17,603,net,,Salix,https://www.inaturalist.org/observations/24420325
- , , , ,770229,Joe,J.,Engler,2,V,19,22:00,,,,,,,,USA,OR,Clackamas,,,45.3825,-121.8747,8,603,net,,Vaccinium,https://www.inaturalist.org/observations/24420350
- , , , ,754260,Ellen,E.,Watrous,2,V,19,19:53,,,,,,,,USA,OR,Wasco,,,45.6785,-121.3065,5,229,net,,Lomatium triternatum,https://www.inaturalist.org/observations/24425154
- , , , ,754260,Ellen,E.,Watrous,2,V,19,19:57,,,,,,,,USA,OR,Wasco,,,45.6784,-121.3065,6,229,net,,,https://www.inaturalist.org/observations/24425177
- , , , ,754260,Ellen,E.,Watrous,2,V,19,20:08,,,,,,,,USA,OR,Wasco,,,45.6783,-121.3062,6,229,net,,Balsamorhiza careyana,https://www.inaturalist.org/observations/24425183
- , , , ,754260,Ellen,E.,Watrous,2,V,19,21:05,,,,,,,,USA,OR,Wasco,,,45.6761,-121.2986,8,138,net,,Ceanothus integerrimus,https://www.inaturalist.org/observations/24425193
- , , , ,754260,Ellen,E.,Watrous,2,V,19,21:07,,,,,,,,USA,OR,Wasco,,,45.6761,-121.298,7,138,net,,Lomatium triternatum,https://www.inaturalist.org/observations/24425204
- , , , ,754260,Ellen,E.,Watrous,2,V,19,21:21,,,,,,,,USA,OR,Wasco,,,45.6759,-121.2979,9,138,net,,Lomatium dissectum,https://www.inaturalist.org/observations/24425209
- , , , ,754260,Ellen,E.,Watrous,2,V,19,21:41,,,,,,,,USA,OR,Wasco,,,45.6758,-121.2951,8,138,net,,Lomatium triternatum,https://www.inaturalist.org/observations/24425243
- , , , ,1447015,,,,3,V,19,18:44,,,,,,,,USA,OR,Josephine,,,42.3447,-123.6197,5,745,net,,,https://www.inaturalist.org/observations/24457787
- , , , ,1447015,,,,3,V,19,19:55,,,,,,,,USA,OR,Josephine,,,42.3569,-123.6588,5,1280,net,,,https://www.inaturalist.org/observations/24462254
- , , , ,754260,Ellen,E.,Watrous,3,V,19,20:17,,,,,,,,USA,OR,Benton,,,44.6319,-123.1969,5,70,net,,Nemophila maculata,https://www.inaturalist.org/observations/24463819
- , , , ,754260,Ellen,E.,Watrous,3,V,19,20:30,,,,,,,,USA,OR,Benton,,,44.6318,-123.197,7,70,net,,Layia platyglossa,https://www.inaturalist.org/observations/24464544
+Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Sample ID,Specimen ID,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL,
+ , , , ,1459777,,,,9,II,19,20:48,,,,,,,,USA,OR,Benton,,,44.5674,-123.2816,50,79,net,,,https://www.inaturalist.org/observations/20236585
+ , , , ,733757,,,,9,II,19,20:46,,,,,,,,USA,OR,Benton,,,44.5677,-123.2828,200,79,net,,Homo sapiens,https://www.inaturalist.org/observations/20321217
+ , , , ,1467407,,,,9,II,19,20:50,,,,,,,,USA,OR,Benton,,,44.5671,-123.2815,200,79,net,,Asteraceae,https://www.inaturalist.org/observations/21044422
+ , , , ,841568,Lori,L.,Humphreys,11,III,19,22:21,,,,,,,,USA,OR,Lane,,,43.8535,-122.6365,,296,net,,Lomatium hallii,https://www.inaturalist.org/observations/21169660
+ , , , ,792468,Michael,M.,O'Loughlin,14,III,19,20:58,,,,,,,,USA,OR,Yamhill,,,45.1710,-123.1860,24,44,net,,Erica,https://www.inaturalist.org/observations/21239358
+ , , , ,792468,Michael,M.,O'Loughlin,14,III,19,21:03,,,,,,,,USA,OR,Yamhill,,,45.1715,-123.1862,16,44,net,,Bellis perennis,https://www.inaturalist.org/observations/21239536
+ , , , ,792468,Michael,M.,O'Loughlin,15,III,19,20:59,,,,,,,,USA,OR,Yamhill,,,45.1703,-123.1858,32,44,net,,Bellis perennis,https://www.inaturalist.org/observations/21267007
+ , , , ,327525,Briana,B.,Lindh,15,III,19,23:21,,,,,,,,USA,OR,Marion,,,44.9373,-123.0145,5,55,net,,Bellis perennis,https://www.inaturalist.org/observations/21301500
+ , , , ,327525,Briana,B.,Lindh,16,III,19,21:55,,,,,,,,USA,OR,Marion,,,44.9352,-123.0167,65,54,net,,Erica carnea,https://www.inaturalist.org/observations/21301672
+ , , , ,792468,Michael,M.,O'Loughlin,17,III,19,20:15,,,,,,,,USA,OR,Yamhill,,,45.1730,-123.2131,65,43,net,,Pieris japonica,https://www.inaturalist.org/observations/21331157
+ , , , ,1445987,,,,17,III,19,20:05,,,,,,,,USA,OR,Josephine,,,42.6465,-123.3173,5,564,net,,Salix,https://www.inaturalist.org/observations/21331221
+ , , , ,792468,Michael,M.,O'Loughlin,17,III,19,20:21,,,,,,,,USA,OR,Yamhill,,,45.1734,-123.2116,16,43,net,,Bellis perennis,https://www.inaturalist.org/observations/21331394
+ , , , ,792468,Michael,M.,O'Loughlin,17,III,19,20:54,,,,,,,,USA,OR,Yamhill,,,45.2100,-123.2006,16,42,net,,Bellis perennis,https://www.inaturalist.org/observations/21332643
+ , , , ,754260,Ellen,E.,Watrous,17,III,19,21:23,,,,,,,,USA,OR,Benton,,,44.5954,-123.2853,7,84,net,,Salix,https://www.inaturalist.org/observations/21347386
+ , , , ,754260,Ellen,E.,Watrous,17,III,19,22:23,,,,,,,,USA,OR,Benton,,,44.6043,-123.2406,5,66,net,,Salix,https://www.inaturalist.org/observations/21347403
+ , , , ,754260,Ellen,E.,Watrous,17,III,19,23:35,,,,,,,,USA,OR,Benton,,,44.5990,-123.3156,9,185,net,,Arctostaphylos glauca,https://www.inaturalist.org/observations/21347414
+ , , , ,620505,Judi,J.,Maxwell,17,III,19,22:38,,,,,,,,USA,OR,Josephine,,,42.2572,-123.5837,8,427,net,,Salix,https://www.inaturalist.org/observations/21347487
+ , , , ,792468,Michael,M.,O'Loughlin,18,III,19,21:47,,,,,,,,USA,OR,Yamhill,,,45.2301,-123.1040,64,24,net,,Bellis perennis,https://www.inaturalist.org/observations/21368816
+ , , , ,792468,Michael,M.,O'Loughlin,18,III,19,22:14,,,,,,,,USA,OR,Yamhill,,,45.2304,-123.1640,16,46,net,,Bellis perennis,https://www.inaturalist.org/observations/21369401
+ , , , ,841568,Lori,L.,Humphreys,18,III,19,21:18,,,,,,,,USA,OR,Lane,,,43.9888,-123.0352,,158,net,,Oemleria cerasiformis,https://www.inaturalist.org/observations/21380620
+ , , , ,841568,Lori,L.,Humphreys,18,III,19,20:19,,,,,,,,USA,OR,Lane,,,43.9902,-123.0329,,181,net,,Cardamine hirsuta,https://www.inaturalist.org/observations/21380641
+ , , , ,841568,Lori,L.,Humphreys,18,III,19,20:06,,,,,,,,USA,OR,Lane,,,43.9901,-123.0327,,181,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21380659
+ , , , ,841568,Lori,L.,Humphreys,18,III,19,19:56,,,,,,,,USA,OR,Lane,,,43.9895,-123.0330,,181,net,,Draba verna,https://www.inaturalist.org/observations/21380667
+ , , , ,841568,Lori,L.,Humphreys,18,III,19,19:34,,,,,,,,USA,OR,Lane,,,43.9896,-123.0350,,181,net,,Salix,https://www.inaturalist.org/observations/21380726
+ , , , ,327525,Briana,B.,Lindh,17,III,19,21:22,,,,,,,,USA,OR,Marion,,,44.9282,-123.0675,5,44,net,,Salix,https://www.inaturalist.org/observations/21387936
+ , , , ,327525,Briana,B.,Lindh,17,III,19,21:11,,,,,,,,USA,OR,Marion,,,44.9274,-123.0695,10,44,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21387974
+ , , , ,327525,Briana,B.,Lindh,17,III,19,22:00,,,,,,,,USA,OR,Marion,,,44.9297,-123.0590,5,39,net,,Salix,https://www.inaturalist.org/observations/21388002
+ , , , ,620505,Judi,J.,Maxwell,18,III,19,03:21,,,,,,,,USA,OR,Josephine,,,42.4615,-123.4844,8,252,net,,Salix lucida,https://www.inaturalist.org/observations/21390355
+ , , , ,792468,Michael,M.,O'Loughlin,19,III,19,21:59,,,,,,,,USA,OR,Washington,,,45.5018,-122.9845,24,40,net,,Salix sitchensis,https://www.inaturalist.org/observations/21399642
+ , , , ,620505,Judi,J.,Maxwell,20,III,19,,,,,,,,,USA,OR,Jackson,,,42.4446,-122.8816,196,365,net,,,https://www.inaturalist.org/observations/21435467
+ , , , ,1542612,,,,20,III,19,00:04,22,III,2019,-22III,14:24,,,USA,OR,Benton,,,44.5666,-123.2819,20,79,vane trap,,Cactaceae,https://www.inaturalist.org/observations/21435643
+ , , , ,792468,Michael,M.,O'Loughlin,20,III,19,00:11,,,,,,,,USA,OR,Yamhill,,,45.1710,-123.1862,48,44,net,,Narcissus 'tahiti',https://www.inaturalist.org/observations/21435668
+ , , , ,1542665,,,,20,III,19,00:27,,,,,,,,USA,OR,Benton,,,44.5668,-123.2806,45,79,net,,Dudleya farinosa,https://www.inaturalist.org/observations/21436427
+ , , , ,792468,Michael,M.,O'Loughlin,20,III,19,00:36,,,,,,,,USA,OR,Yamhill,,,45.1708,-123.1855,64,44,net,,Bellis perennis,https://www.inaturalist.org/observations/21436435
+ , , , ,754260,Ellen,E.,Watrous,20,III,19,21:59,,,,,,,,USA,OR,Benton,,,44.5753,-123.3096,6,87,net,,Salix,https://www.inaturalist.org/observations/21444705
+ , , , ,620505,Judi,J.,Maxwell,21,III,19,23:32,,,,,,,,USA,OR,Josephine,,,42.4119,-123.3852,6,307,net,,Arctostaphylos patula,https://www.inaturalist.org/observations/21473537
+ , , , ,327525,Briana,B.,Lindh,23,III,19,18:46,,,,,,,,USA,OR,Marion,,,44.9277,-123.0669,10,44,net,,Salix,https://www.inaturalist.org/observations/21524905
+ , , , ,175529,Jerry,J.,Paul,24,III,19,22:48,,,,,,,,USA,OR,Benton,,,44.6026,-123.2661,5,103,net,,Salix discolor,https://www.inaturalist.org/observations/21574371
+ , , , ,1550876,,,,24,III,19,22:49,,,,,,,,USA,OR,Coos,,,43.0666,-124.1398,5,25,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21574697
+ , , , ,1427305,,,,24,III,19,23:00,,,,,,,,USA,OR,Coos,,,43.0669,-124.1403,5,25,net,,Rosmarinus officinalis,https://www.inaturalist.org/observations/21574801
+ , , , ,841568,Lori,L.,Humphreys,24,III,19,19:47,,,,,,,,USA,OR,Lane,,,43.9969,-123.1190,,263,net,,Oemleria cerasiformis,https://www.inaturalist.org/observations/21586602
+ , , , ,841568,Lori,L.,Humphreys,24,III,19,21:14,,,,,,,,USA,OR,Lane,,,43.9991,-123.1258,,301,net,,Oemleria cerasiformis,https://www.inaturalist.org/observations/21587233
+ , , , ,327525,Briana,B.,Lindh,24,III,19,19:22,,,,,,,,USA,OR,Lincoln,,,45.0352,-124.0062,10,5,net,,Salix,https://www.inaturalist.org/observations/21600922
+ , , , ,792468,Michael,M.,O'Loughlin,26,III,19,20:49,,,,,,,,USA,OR,Washington,,,45.5013,-122.9856,12,40,net,,Salix lucida,https://www.inaturalist.org/observations/21642240
+ , , , ,792468,Michael,M.,O'Loughlin,26,III,19,21:53,,,,,,,,USA,OR,Washington,,,45.4997,-122.9893,16,40,net,,Prunus cerasifera,https://www.inaturalist.org/observations/21644390
+ , , , ,752114,Stephanie,S.,Hazen,17,III,19,21:33,,,,,,,,USA,OR,Marion,,,44.9282,-123.0675,5,44,net,,Salix,https://www.inaturalist.org/observations/21645372
+ , , , ,752114,Stephanie,S.,Hazen,26,III,19,22:25,,,,,,,,USA,OR,Marion,,,44.8845,-122.8876,5,137,net,,Salix caprea,https://www.inaturalist.org/observations/21645380
+ , , , ,327525,Briana,B.,Lindh,26,III,19,20:39,,,,,,,,USA,OR,Marion,,,44.9273,-123.0684,5,44,net,,Salix,https://www.inaturalist.org/observations/21646081
+ , , , ,327525,Briana,B.,Lindh,26,III,19,21:19,,,,,,,,USA,OR,Marion,,,44.9285,-123.0681,1550,44,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21646843
+ , , , ,327525,Briana,B.,Lindh,26,III,19,22:11,,,,,,,,USA,OR,Marion,,,44.9308,-123.0327,5,47,net,,Erythronium oregonum,https://www.inaturalist.org/observations/21646899
+ , , , ,792468,Michael,M.,O'Loughlin,26,III,19,23:38,,,,,,,,USA,OR,Yamhill,,,45.1680,-123.1859,16,44,net,,Brassica rapa,https://www.inaturalist.org/observations/21647327
+ , , , ,78982,,,,9,II,19,20:57,,,,,,,,USA,OR,Benton,,,44.5667,-123.2814,50,79,net,,Homo sapiens,https://www.inaturalist.org/observations/21669183
+ , , , ,792468,Michael,M.,O'Loughlin,28,III,19,20:41,,,,,,,,USA,OR,Yamhill,,,45.1711,-123.1866,16,44,net,,Brassicaceae,https://www.inaturalist.org/observations/21711740
+ , , , ,792468,Michael,M.,O'Loughlin,28,III,19,21:02,,,,,,,,USA,OR,Yamhill,,,45.1736,-123.1845,24,36,net,,Oemleria cerasiformis,https://www.inaturalist.org/observations/21712447
+ , , , ,792468,Michael,M.,O'Loughlin,28,III,19,21:21,,,,,,,,USA,OR,Yamhill,,,45.1740,-123.1807,32,36,net,,Salix lucida,https://www.inaturalist.org/observations/21712977
+ , , , ,792468,Michael,M.,O'Loughlin,28,III,19,22:10,,,,,,,,USA,OR,Yamhill,,,45.1712,-123.1865,16,44,net,,Bellis perennis,https://www.inaturalist.org/observations/21714494
+ , , , ,327525,Briana,B.,Lindh,28,III,19,19:33,,,,,,,,USA,OR,Marion,,,44.9295,-123.0385,10,49,net,,Bellis perennis,https://www.inaturalist.org/observations/21723715
+ , , , ,327525,Briana,B.,Lindh,28,III,19,19:39,,,,,,,,USA,OR,Marion,,,44.9300,-123.0396,30,49,net,,Skimmia,https://www.inaturalist.org/observations/21723748
+ , , , ,754260,Ellen,E.,Watrous,29,III,19,20:01,,,,,,,,USA,OR,Benton,,,44.5938,-123.2865,8,84,net,,,https://www.inaturalist.org/observations/21749215
+ , , , ,1550876,,,,29,III,19,20:09,,,,,,,,USA,OR,Coos,,,43.0667,-124.1399,5,25,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21749452
+ , , , ,1550876,,,,29,III,19,20:14,,,,,,,,USA,OR,Coos,,,43.0670,-124.1402,10,25,net,,Rosmarinus officinalis,https://www.inaturalist.org/observations/21749638
+ , , , ,792468,Michael,M.,O'Loughlin,29,III,19,21:06,,,,,,,,USA,OR,Yamhill,,,45.2474,-123.2746,32,126,net,,Salix sitchensis,https://www.inaturalist.org/observations/21751550
+ , , , ,1423344,Jessica,J.,Hird,24,III,19,20:36,,,,,,,,USA,OR,Columbia,,,45.8416,-122.8452,,36,net,,Salix,https://www.inaturalist.org/observations/21752086
+ , , , ,754260,Ellen,E.,Watrous,29,III,19,22:15,,,,,,,,USA,OR,Benton,,,44.5994,-123.3150,6,191,net,,,https://www.inaturalist.org/observations/21755162
+ , , , ,754260,Ellen,E.,Watrous,29,III,19,22:49,,,,,,,,USA,OR,Benton,,,44.5992,-123.3156,8,185,net,,Arctostaphylos densiflora,https://www.inaturalist.org/observations/21756299
+ , , , ,620505,Judi,J.,Maxwell,29,III,19,22:27,,,,,,,,USA,OR,Josephine,,,42.4633,-123.4861,12,253,net,,Salix,https://www.inaturalist.org/observations/21764300
+ , , , ,1447015,,,,29,III,19,21:00,,,,,,,,USA,OR,Josephine,,,42.4613,-123.4844,5,252,net,,Salix,https://www.inaturalist.org/observations/21773499
+ , , , ,175529,Jerry,J.,Paul,29,III,19,20:51,,,,,,,,USA,OR,Benton,,,44.6031,-123.2645,5,135,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21777656
+ , , , ,175529,Jerry,J.,Paul,29,III,19,20:54,,,,,,,,USA,OR,Benton,,,44.6033,-123.2641,5,135,net,,Arctostaphylos columbiana,https://www.inaturalist.org/observations/21778380
+ , , , ,1560167,,,,30,III,19,19:02,,,,,,,,USA,OR,Washington,,,45.5654,-122.8630,4,78,net,,Prunus laurocerasus,https://www.inaturalist.org/observations/21791437
+ , , , ,1447015,,,,30,III,19,19:47,,,,,,,,USA,OR,Josephine,,,42.0642,-123.6349,5,474,net,,Narcissus 'tahiti',https://www.inaturalist.org/observations/21793543
+ , , , ,841568,Lori,L.,Humphreys,30,III,19,19:54,,,,,,,,USA,OR,Lane,,,44.0324,-123.0873,,131,net,,Prunus,https://www.inaturalist.org/observations/21794149
+ , , , ,1560167,,,,30,III,19,20:19,,,,,,,,USA,OR,Washington,,,45.5644,-122.8582,5,75,net,,Pyrus calleryana,https://www.inaturalist.org/observations/21795235
+ , , , ,1560167,,,,30,III,19,20:31,,,,,,,,USA,OR,Washington,,,45.5648,-122.8584,4,75,net,,Taraxacum,https://www.inaturalist.org/observations/21795672
+ , , , ,1560167,,,,30,III,19,20:37,,,,,,,,USA,OR,Washington,,,45.5649,-122.8585,5,75,net,,Erica,https://www.inaturalist.org/observations/21795961
+ , , , ,792468,Michael,M.,O'Loughlin,30,III,19,20:55,,,,,,,,USA,OR,Yamhill,,,45.1910,-123.1653,3603,33,net,,Salix lucida,https://www.inaturalist.org/observations/21796870
+ , , , ,1434192,,,,30,III,19,20:23,,,,,,,,USA,OR,Washington,,,45.5649,-122.8580,8,75,net,,Salicaceae,https://www.inaturalist.org/observations/21796973
+ , , , ,1403213,,,,30,III,19,21:10,,,,,,,,USA,OR,Washington,,,45.5641,-122.8578,5,75,net,,Salix,https://www.inaturalist.org/observations/21797591
+ , , , ,841568,Lori,L.,Humphreys,30,III,19,21:15,,,,,,,,USA,OR,Lane,,,44.0315,-123.0866,,131,net,,Salix,https://www.inaturalist.org/observations/21797826
+ , , , ,1447015,,,,30,III,19,21:14,,,,,,,,USA,OR,Josephine,,,42.0956,-123.6854,5,426,net,,Arctostaphylos viscida,https://www.inaturalist.org/observations/21797837
+ , , , ,754260,Ellen,E.,Watrous,30,III,19,21:30,,,,,,,,USA,OR,Benton,,,44.5741,-123.3104,5,85,net,,Salix,https://www.inaturalist.org/observations/21798614
+ , , , ,854908,Elaine,E.,Rybak,30,III,19,20:31,,,,,,,,USA,OR,Washington,,,45.5652,-122.8578,3,78,net,,Salix,https://www.inaturalist.org/observations/21800281
+ , , , ,854908,Elaine,E.,Rybak,30,III,19,21:08,,,,,,,,USA,OR,Washington,,,45.5643,-122.8580,9,75,net,,Taraxacum,https://www.inaturalist.org/observations/21800423
+ , , , ,1450900,,,,30,III,19,19:58,,,,,,,,USA,OR,Lane,,,44.0325,-123.0872,5,131,net,,Prunus,https://www.inaturalist.org/observations/21800634
+ , , , ,429964,,,,30,III,19,22:30,,,,,,,,USA,OR,Benton,,,44.5600,-123.2891,9,72,net,,Prunus,https://www.inaturalist.org/observations/21801703
+ , , , ,1424904,Sherry,S.,Sheng,30,III,19,20:36,,,,,,,,USA,OR,Washington,,,45.5652,-122.8577,8,78,net,,Taraxacum,https://www.inaturalist.org/observations/21801786
+ , , , ,1424904,Sherry,S.,Sheng,30,III,19,20:56,,,,,,,,USA,OR,Washington,,,45.5637,-122.8579,10,75,net,,Salix,https://www.inaturalist.org/observations/21801815
+ , , , ,1424904,Sherry,S.,Sheng,30,III,19,21:47,,,,,,,,USA,OR,Washington,,,45.5653,-122.8634,5,78,net,,Pyrus communis,https://www.inaturalist.org/observations/21801844
+ , , , ,325615,Amy,A.,Grotta,30,III,19,20:35,,,,,,,,USA,OR,Washington,,,45.5652,-122.8580,5,78,net,,Salicaceae,https://www.inaturalist.org/observations/21801954
+ , , , ,325615,Amy,A.,Grotta,30,III,19,20:46,,,,,,,,USA,OR,Washington,,,45.5651,-122.8580,19,78,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21801995
+ , , , ,325615,Amy,A.,Grotta,30,III,19,21:37,,,,,,,,USA,OR,Washington,,,45.5654,-122.8630,20,78,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21802054
+ , , , ,792468,Michael,M.,O'Loughlin,30,III,19,23:04,,,,,,,,USA,OR,Washington,,,45.5027,-122.9867,16,40,net,,Salix lucida,https://www.inaturalist.org/observations/21802717
+ , , , ,1425646,Francis,F.,Opila,30,III,19,20:23,,,,,,,,USA,OR,Washington,,,45.5647,-122.8580,11,75,net,,Taraxacum,https://www.inaturalist.org/observations/21803123
+ , , , ,1566342,,,,30,III,19,20:37,,,,,,,,USA,OR,Washington,,,45.5652,-122.8581,8,78,net,,Salix sitchensis,https://www.inaturalist.org/observations/21803149
+ , , , ,1425646,Francis,F.,Opila,30,III,19,20:44,,,,,,,,USA,OR,Washington,,,45.5649,-122.8579,,75,net,,Salix,https://www.inaturalist.org/observations/21803156
+ , , , ,754260,Ellen,E.,Watrous,30,III,19,23:14,,,,,,,,USA,OR,Benton,,,44.5213,-123.2953,7,68,net,,Salix,https://www.inaturalist.org/observations/21803165
+ , , , ,1566342,,,,30,III,19,20:50,,,,,,,,USA,OR,Washington,,,45.5646,-122.8582,7,75,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21803328
+ , , , ,1566342,,,,30,III,19,21:40,,,,,,,,USA,OR,Washington,,,45.5646,-122.8628,5,75,net,,Berberis repens,https://www.inaturalist.org/observations/21803360
+ , , , ,792468,Michael,M.,O'Loughlin,30,III,19,23:27,,,,,,,,USA,OR,Washington,,,45.4998,-122.9892,8,40,net,,Prunus,https://www.inaturalist.org/observations/21803584
+ , , , ,1566342,,,,30,III,19,23:27,,,,,,,,USA,OR,Washington,,,45.5647,-122.8629,4,75,net,,Salix,https://www.inaturalist.org/observations/21803692
+ , , , ,1462047,,,,30,III,19,20:24,,,,,,,,USA,OR,Washington,,,45.5642,-122.8581,5,75,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21804617
+ , , , ,1462047,,,,30,III,19,20:29,,,,,,,,USA,OR,Washington,,,45.5640,-122.8580,5,75,net,,Salix,https://www.inaturalist.org/observations/21804634
+ , , , ,1462047,,,,30,III,19,20:48,,,,,,,,USA,OR,Washington,,,45.5640,-122.8578,5,75,net,,Salicaceae,https://www.inaturalist.org/observations/21804652
+ , , , ,1462047,,,,30,III,19,20:48,,,,,,,,USA,OR,Washington,,,45.5640,-122.8579,5,75,net,,Salicaceae,https://www.inaturalist.org/observations/21804669
+ , , , ,1462047,,,,30,III,19,20:58,,,,,,,,USA,OR,Washington,,,45.5570,-122.8673,1647,52,net,,Salicaceae,https://www.inaturalist.org/observations/21804687
+ , , , ,1462047,,,,30,III,19,21:11,,,,,,,,USA,OR,Washington,,,45.5644,-122.8580,5,75,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21804705
+ , , , ,1462047,,,,30,III,19,21:14,,,,,,,,USA,OR,Washington,,,45.5648,-122.8583,5,75,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21804719
+ , , , ,1462047,,,,30,III,19,21:20,,,,,,,,USA,OR,Washington,,,45.5651,-122.8583,5,78,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21804728
+ , , , ,1462047,,,,30,III,19,21:36,,,,,,,,USA,OR,Washington,,,45.5653,-122.8630,5,78,net,,Prunus,https://www.inaturalist.org/observations/21804737
+ , , , ,754260,Ellen,E.,Watrous,30,III,19,00:09,,,,,,,,USA,OR,Benton,,,44.5205,-123.2952,4,68,net,,Salix,https://www.inaturalist.org/observations/21805258
+ , , , ,754260,Ellen,E.,Watrous,30,III,19,00:34,,,,,,,,USA,OR,Benton,,,44.5204,-123.2952,5,68,net,,Prunus,https://www.inaturalist.org/observations/21806386
+ , , , ,792468,Michael,M.,O'Loughlin,30,III,19,00:38,,,,,,,,USA,OR,Washington,,,45.4999,-122.9890,48,40,net,,Berberis aquifolium,https://www.inaturalist.org/observations/21806449
+ , , , ,1505195,,,,30,III,19,20:40,,,,,,,,USA,OR,Washington,,,45.5651,-122.8577,4,78,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21809702
+ , , , ,620505,Judi,J.,Maxwell,30,III,19,00:10,,,,,,,,USA,OR,Josephine,,,42.0956,-123.6854,6,426,net,,Arctostaphylos viscida,https://www.inaturalist.org/observations/21812426
+ , , , ,620505,Judi,J.,Maxwell,30,III,19,01:05,,,,,,,,USA,OR,Josephine,,,42.0949,-123.6841,32,423,net,,Olsynium douglasii,https://www.inaturalist.org/observations/21812602
+ , , , ,620505,Judi,J.,Maxwell,30,III,19,01:41,,,,,,,,USA,OR,Josephine,,,42.1556,-123.6498,24,395,net,,Salix,https://www.inaturalist.org/observations/21812653
+ , , , ,327525,Briana,B.,Lindh,30,III,19,21:56,,,,,,,,USA,OR,Lincoln,,,45.0351,-124.0063,5,5,net,,Salix,https://www.inaturalist.org/observations/21812855
+ , , , ,327525,Briana,B.,Lindh,30,III,19,20:01,,,,,,,,USA,OR,Polk,,,44.8621,-123.4563,5,275,net,,Ranunculus,https://www.inaturalist.org/observations/21812980
+ , , , ,1423260,Autumn,A.,Hickman,30,III,19,20:45,,,,,,,,USA,OR,Washington,,,45.5650,-122.8582,5,75,net,,Salix lasiolepis,https://www.inaturalist.org/observations/21816996
+ , , , ,1423260,Autumn,A.,Hickman,30,III,19,21:05,,,,,,,,USA,OR,Washington,,,45.5648,-122.8585,5,75,net,,Erica,https://www.inaturalist.org/observations/21817024
+ , , , ,1423260,Autumn,A.,Hickman,30,III,19,21:18,,,,,,,,USA,OR,Washington,,,45.5648,-122.8584,5,75,net,,Saxifraga aizoides,https://www.inaturalist.org/observations/21817029
+ , , , ,1423260,Autumn,A.,Hickman,30,III,19,05:37,,,,,,,,USA,OR,Washington,,,45.5652,-122.8629,15,78,net,,Malpighiales,https://www.inaturalist.org/observations/21817039
+ , , , ,429964,,,,30,III,19,22:47,,,,,,,,USA,OR,Benton,,,44.5602,-123.2896,10,72,net,,Salix,https://www.inaturalist.org/observations/21828888
+ , , , ,1539907,Martha,M.,Richards,30,III,19,20:59,,,,,,,,USA,OR,Washington,,,45.5637,-122.8580,5,75,net,,Lamium purpureum,https://www.inaturalist.org/observations/21838499
+ , , , ,1539907,Martha,M.,Richards,30,III,19,21:16,,,,,,,,USA,OR,Washington,,,45.5647,-122.8582,,75,net,,Taraxacum officinale,https://www.inaturalist.org/observations/21838512
+ , , , ,1539907,Martha,M.,Richards,30,III,19,20:31,,,,,,,,USA,OR,Washington,,,45.5652,-122.8579,,78,net,,Salix,https://www.inaturalist.org/observations/21838534
+ , , , ,752114,Stephanie,S.,Hazen,30,III,19,21:51,,,,,,,,USA,OR,Marion,,,44.8845,-122.8877,5,137,net,,Salix,https://www.inaturalist.org/observations/21839049
+ , , , ,752114,Stephanie,S.,Hazen,31,III,19,19:26,,,,,,,,USA,OR,Marion,,,44.8848,-122.8877,5,137,net,,Ranunculus,https://www.inaturalist.org/observations/21841502
+ , , , ,752114,Stephanie,S.,Hazen,31,III,19,19:32,,,,,,,,USA,OR,Marion,,,44.8841,-122.8880,5,137,net,,Taraxacum,https://www.inaturalist.org/observations/21841523
+ , , , ,754260,Ellen,E.,Watrous,31,III,19,20:38,,,,,,,,USA,OR,Benton,,,44.5960,-123.3143,6,191,net,,Salix,https://www.inaturalist.org/observations/21843921
+ , , , ,1550876,,,,31,III,19,21:12,,,,,,,,USA,OR,Coos,,,43.0504,-124.1314,10,26,net,,,https://www.inaturalist.org/observations/21845317
+ , , , ,1561159,,,,30,III,19,20:19,,,,,,,,USA,OR,Washington,,,45.5650,-122.8578,9,75,net,,Salix,https://www.inaturalist.org/observations/21846732
+ , , , ,1561159,,,,30,III,19,20:54,,,,,,,,USA,OR,Washington,,,45.5638,-122.8579,11,75,net,,Conium maculatum,https://www.inaturalist.org/observations/21846759
+ , , , ,1561159,,,,30,III,19,21:31,,,,,,,,USA,OR,Washington,,,45.5654,-122.8632,,78,net,,Prunus cerasifera,https://www.inaturalist.org/observations/21846780
+ , , , ,754260,Ellen,E.,Watrous,31,III,19,00:31,,,,,,,,USA,OR,Benton,,,44.6042,-123.2410,8,66,net,,Salix,https://www.inaturalist.org/observations/21853706
+ , , , ,620505,Judi,J.,Maxwell,31,III,19,,,,,,,,,USA,OR,Josephine,,,42.5625,-123.5817,48,220,net,,,https://www.inaturalist.org/observations/21900645
+ , , , ,792468,Michael,M.,O'Loughlin,2,IV,19,23:34,,,,,,,,USA,OR,Yamhill,,,45.1678,-123.1849,12,36,net,,Brassica rapa,https://www.inaturalist.org/observations/21927165
+ , , , ,792468,Michael,M.,O'Loughlin,2,IV,19,00:03,,,,,,,,USA,OR,Yamhill,,,45.1922,-123.1658,3756,33,net,,Acer macrophyllum,https://www.inaturalist.org/observations/21928209
+ , , , ,841568,Lori,L.,Humphreys,31,III,19,22:33,,,,,,,,USA,OR,Lane,,,43.8540,-122.6380,,296,net,,Marah oregana,https://www.inaturalist.org/observations/21935494
+ , , , ,841568,Lori,L.,Humphreys,31,III,19,23:16,,,,,,,,USA,OR,Lane,,,43.8535,-122.6368,,296,net,,Lomatium hallii,https://www.inaturalist.org/observations/21935798
+ , , , ,620505,Judi,J.,Maxwell,2,IV,19,00:43,,,,,,,,USA,OR,Josephine,,,42.4588,-123.4840,12,252,net,,Salix,https://www.inaturalist.org/observations/21938922
+ , , , ,792468,Michael,M.,O'Loughlin,3,IV,19,19:47,,,,,,,,USA,OR,Washington,,,45.4340,-122.8023,8,56,net,,Ribes sanguineum,https://www.inaturalist.org/observations/21956537
+ , , , ,792468,Michael,M.,O'Loughlin,3,IV,19,21:26,,,,,,,,USA,OR,Yamhill,,,45.1639,-123.1872,24,37,net,,Salix,https://www.inaturalist.org/observations/21959507
+ , , , ,792468,Michael,M.,O'Loughlin,3,IV,19,21:51,,,,,,,,USA,OR,Yamhill,,,45.1680,-123.1859,16,44,net,,Brassica rapa,https://www.inaturalist.org/observations/21960443
+ , , , ,792468,Michael,M.,O'Loughlin,3,IV,19,22:16,,,,,,,,USA,OR,Yamhill,,,45.1710,-123.1867,32,44,net,,Brassicaceae,https://www.inaturalist.org/observations/21961339
+ , , , ,327525,Briana,B.,Lindh,3,IV,19,21:14,,,,,,,,USA,OR,Marion,,,44.9301,-123.0324,30,47,net,,Erythronium oregonum,https://www.inaturalist.org/observations/21963760
+ , , , ,327525,Briana,B.,Lindh,3,IV,19,23:04,,,,,,,,USA,OR,Marion,,,44.9356,-123.0150,5,54,net,,Salix,https://www.inaturalist.org/observations/21963796
+ , , , ,28,,,,28,III,19,23:10,4,II,19,-4II,14:37,,,USA,California,Los Angeles,,,34.7360,-118.3908,,909,net,,Phacelia tanacetifolia,https://www.inaturalist.org/observations/21966113
+ , , , ,327525,Briana,B.,Lindh,3,IV,19,00:07,,,,,,,,USA,OR,Marion,,,44.9360,-123.0174,5,54,net,,Andrena,https://www.inaturalist.org/observations/21971184
+ , , , ,808137,,,,4,IV,19,16:13,,,,,,,,USA,OR,Benton,,,44.6177,-123.2815,5,192,net,,Narcissus 'tahiti',https://www.inaturalist.org/observations/21984671
+ , , , ,792468,Michael,M.,O'Loughlin,4,IV,19,00:14,,,,,,,,USA,OR,Yamhill,,,45.1708,-123.1861,32,44,net,,Taraxacum,https://www.inaturalist.org/observations/22002007
+ , , , ,28,,,,29,III,19,21:24,,,,,,,,USA,California,Riverside,,,33.7259,-115.8217,,861,net,,Eriophyllum wallacei,https://www.inaturalist.org/observations/22013024
+ , , , ,792468,Michael,M.,O'Loughlin,6,IV,19,18:45,,,,,,,,USA,OR,Yamhill,,,45.1571,-123.3223,16,77,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22107893
+ , , , ,792468,Michael,M.,O'Loughlin,6,IV,19,20:15,,,,,,,,USA,OR,Yamhill,,,45.1539,-123.3219,48,71,net,,Taraxacum,https://www.inaturalist.org/observations/22107960
+ , , , ,792468,Michael,M.,O'Loughlin,6,IV,19,20:48,,,,,,,,USA,OR,Yamhill,,,45.1681,-123.1860,12,44,net,,Brassica rapa,https://www.inaturalist.org/observations/22108952
+ , , , ,841568,Lori,L.,Humphreys,4,IV,19,22:20,,,,,,,,USA,OR,Lane,,,43.9899,-123.0353,20,158,net,,Oemleria cerasiformis,https://www.inaturalist.org/observations/22120563
+ , , , ,1467407,,,,6,IV,19,21:05,,,,,,,,USA,OR,Benton,,,44.6998,-123.4374,8,93,net,,Cichorieae,https://www.inaturalist.org/observations/22120627
+ , , , ,841568,Lori,L.,Humphreys,4,IV,19,22:41,,,,,,,,USA,OR,Lane,,,43.9900,-123.0349,20,181,net,,Salix,https://www.inaturalist.org/observations/22120833
+ , , , ,1434967,,,,6,IV,19,21:14,,,,,,,,USA,OR,Benton,,,44.6996,-123.4383,9,93,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22125358
+ , , , ,800960,,,,7,IV,19,18:51,,,,,,,,USA,OR,Multnomah,,,45.6414,-122.8180,5,9,net,,Taraxacum,https://www.inaturalist.org/observations/22153928
+ , , , ,1462047,,,,8,IV,19,22:58,,,,,,,,USA,OR,Washington,,,45.5149,-122.8467,5,67,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22214517
+ , , , ,1582689,,,,8,IV,19,23:00,,,,,,,,USA,OR,Multnomah,,,45.5173,-122.6367,50,44,net,,,https://www.inaturalist.org/observations/22214741
+ , , , ,792468,Michael,M.,O'Loughlin,9,IV,19,20:03,,,,,,,,USA,OR,Washington,,,45.4994,-122.9823,16,40,net,,Salix lucida,https://www.inaturalist.org/observations/22251979
+ , , , ,792468,Michael,M.,O'Loughlin,9,IV,19,20:30,,,,,,,,USA,OR,Washington,,,45.5021,-122.9807,16,40,net,,Salix,https://www.inaturalist.org/observations/22253466
+ , , , ,792468,Michael,M.,O'Loughlin,9,IV,19,21:15,,,,,,,,USA,OR,Washington,,,45.5016,-122.9832,6,40,net,,Brassica rapa,https://www.inaturalist.org/observations/22255175
+ , , , ,792468,Michael,M.,O'Loughlin,9,IV,19,22:28,,,,,,,,USA,OR,Washington,,,45.5577,-122.9148,16,64,net,,Brassica rapa,https://www.inaturalist.org/observations/22257723
+ , , , ,754260,Ellen,E.,Watrous,9,IV,19,22:57,,,,,,,,USA,OR,Benton,,,44.5993,-123.3157,8,185,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22258843
+ , , , ,620505,Judi,J.,Maxwell,9,IV,19,22:35,,,,,,,,USA,OR,Jackson,,,42.3141,-122.9734,12,532,net,,Adelinia grande,https://www.inaturalist.org/observations/22310738
+ , , , ,620505,Judi,J.,Maxwell,9,IV,19,00:57,,,,,,,,USA,OR,Jackson,,,42.4804,-122.6745,12,527,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/22310908
+ , , , ,792775,Dan,D.,O'Loughlin,9,IV,19,20:03,,,,,,,,USA,OR,Washington,,,45.5168,-122.9915,1700,56,vane trap,,Salix,https://www.inaturalist.org/observations/22359826
+ , , , ,792775,Dan,D.,O'Loughlin,9,IV,19,20:29,,,,,,,,USA,OR,Washington,,,45.5021,-122.9806,9,40,net,,Salix,https://www.inaturalist.org/observations/22359924
+ , , , ,792775,Dan,D.,O'Loughlin,9,IV,19,21:13,,,,,,,,USA,OR,Washington,,,45.5014,-122.9832,2700,40,net,,Brassica rapa,https://www.inaturalist.org/observations/22359926
+ , , , ,792775,Dan,D.,O'Loughlin,9,IV,19,21:36,,,,,,,,USA,OR,Washington,,,45.5168,-122.9915,1700,56,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22359932
+ , , , ,792775,Dan,D.,O'Loughlin,9,IV,19,21:47,,,,,,,,USA,OR,Washington,,,45.5168,-122.9915,1700,56,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22359954
+ , , , ,831425,,,,12,IV,19,19:34,,,,,,,,USA,OR,Yamhill,,,45.2467,-123.2750,5,134,net,,Taraxacum,https://www.inaturalist.org/observations/22380983
+ , , , ,885553,,,,12,IV,19,19:35,,,,,,,,USA,OR,Yamhill,,,45.2468,-123.2744,9,126,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22381054
+ , , , ,816767,Jeanie,J.,Taylor,12,IV,19,19:38,,,,,,,,USA,OR,Yamhill,,,45.2470,-123.2753,5,134,net,,Taraxacum,https://www.inaturalist.org/observations/22381090
+ , , , ,792468,Michael,M.,O'Loughlin,12,IV,19,19:38,,,,,,,,USA,OR,Yamhill,,,45.2469,-123.2750,48,134,net,,Taraxacum,https://www.inaturalist.org/observations/22381116
+ , , , ,354308,,,,12,IV,19,19:36,,,,,,,,USA,OR,Yamhill,,,45.2468,-123.2748,5,126,net,,Taraxacum,https://www.inaturalist.org/observations/22381447
+ , , , ,816767,Jeanie,J.,Taylor,12,IV,19,19:48,,,,,,,,USA,OR,Yamhill,,,45.2470,-123.2747,10,126,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22381476
+ , , , ,792468,Michael,M.,O'Loughlin,12,IV,19,19:59,,,,,,,,USA,OR,Yamhill,,,45.2463,-123.2748,12,126,net,,Ribes sanguineum,https://www.inaturalist.org/observations/22381954
+ , , , ,885553,,,,12,IV,19,20:28,,,,,,,,USA,OR,Yamhill,,,45.2458,-123.2721,7,126,net,,Salix sitchensis,https://www.inaturalist.org/observations/22383115
+ , , , ,792468,Michael,M.,O'Loughlin,12,IV,19,20:30,,,,,,,,USA,OR,Yamhill,,,45.2458,-123.2723,16,126,net,,Salix scouleriana,https://www.inaturalist.org/observations/22383185
+ , , , ,831425,,,,12,IV,19,20:29,,,,,,,,USA,OR,Yamhill,,,45.2459,-123.2723,10,126,net,,Salix scouleriana,https://www.inaturalist.org/observations/22383214
+ , , , ,354308,,,,12,IV,19,19:53,,,,,,,,USA,OR,Yamhill,,,45.2468,-123.2755,5,134,net,,Bellis perennis,https://www.inaturalist.org/observations/22383227
+ , , , ,354308,,,,12,IV,19,20:30,,,,,,,,USA,OR,Yamhill,,,45.2460,-123.2724,5,126,net,,Salix,https://www.inaturalist.org/observations/22383272
+ , , , ,1351592,,,,12,IV,19,20:31,,,,,,,,USA,OR,Yamhill,,,45.2460,-123.2724,9,126,net,,Salix,https://www.inaturalist.org/observations/22383304
+ , , , ,175529,Jerry,J.,Paul,12,IV,19,21:39,4,XIII,19,-4XIII,14:40,,,USA,OR,Benton,,,44.6029,-123.2647,5,135,net,,Stewartia pseudocamellia,https://www.inaturalist.org/observations/22385779
+ , , , ,1085105,Tom,T.,Canales,12,IV,19,20:35,,,,,,,,USA,OR,Yamhill,,,45.2458,-123.2722,5,126,net,,Salix sitchensis,https://www.inaturalist.org/observations/22388224
+ , , , ,1085105,Tom,T.,Canales,12,IV,19,19:33,,,,,,,,USA,OR,Yamhill,,,45.2466,-123.2746,10,126,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22388292
+ , , , ,754260,Ellen,E.,Watrous,12,IV,19,22:55,,,,,,,,USA,OR,Benton,,,44.5991,-123.3154,5,185,net,,Berberis repens,https://www.inaturalist.org/observations/22388729
+ , , , ,1447015,,,,12,IV,19,21:07,,,,,,,,USA,OR,Jackson,,,42.4862,-122.6660,5,533,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22389017
+ , , , ,1447015,,,,12,IV,19,23:06,,,,,,,,USA,OR,Jackson,,,42.4806,-122.6743,5,527,net,,Plagiobothrys nothofulvus,https://www.inaturalist.org/observations/22389174
+ , , , ,792468,Michael,M.,O'Loughlin,12,IV,19,00:24,,,,,,,,USA,OR,Yamhill,,,45.2302,-123.1035,200,24,net,,Bellis perennis,https://www.inaturalist.org/observations/22391661
+ , , , ,327525,Briana,B.,Lindh,12,IV,19,22:03,,,,,,,,USA,OR,Marion,,,44.9353,-123.0149,5,55,net,,,https://www.inaturalist.org/observations/22392362
+ , , , ,327525,Briana,B.,Lindh,12,IV,19,22:05,,,,,,,,USA,OR,Marion,,,44.9354,-123.0149,5,55,net,,Taraxacum,https://www.inaturalist.org/observations/22392464
+ , , , ,327525,Briana,B.,Lindh,12,IV,19,22:11,,,,,,,,USA,OR,Marion,,,44.9357,-123.0147,30,55,net,,,https://www.inaturalist.org/observations/22392533
+ , , , ,327525,Briana,B.,Lindh,12,IV,19,22:32,,,,,,,,USA,OR,Marion,,,44.9363,-123.0147,5,55,net,,Bellis perennis,https://www.inaturalist.org/observations/22392693
+ , , , ,792468,Michael,M.,O'Loughlin,12,IV,19,01:01,,,,,,,,USA,OR,Yamhill,,,45.2110,-123.1735,32,33,net,,Bellis perennis,https://www.inaturalist.org/observations/22392873
+ , , , ,752114,Stephanie,S.,Hazen,12,IV,19,01:35,,,,,,,,USA,OR,Marion,,,44.8839,-122.8879,5,137,net,,,https://www.inaturalist.org/observations/22394725
+ , , , ,752114,Stephanie,S.,Hazen,12,IV,19,01:57,,,,,,,,USA,OR,Marion,,,44.8953,-122.8924,5,126,net,,,https://www.inaturalist.org/observations/22394779
+ , , , ,327525,Briana,B.,Lindh,12,IV,19,00:02,,,,,,,,USA,OR,Marion,,,44.9352,-123.0147,10,55,net,,Pyrus,https://www.inaturalist.org/observations/22395411
+ , , , ,327525,Briana,B.,Lindh,12,IV,19,00:04,,,,,,,,USA,OR,Marion,,,44.9355,-123.0152,5,54,net,,Salix,https://www.inaturalist.org/observations/22395456
+ , , , ,327525,Briana,B.,Lindh,12,IV,19,22:40,,,,,,,,USA,OR,Marion,,,44.9333,-123.0152,10,54,net,,Taraxacum,https://www.inaturalist.org/observations/22395557
+ , , , ,327525,Briana,B.,Lindh,9,IV,19,22:16,,,,,,,,USA,OR,Marion,,,44.9368,-123.0335,1590,48,net,,,https://www.inaturalist.org/observations/22395781
+ , , , ,620505,Judi,J.,Maxwell,12,IV,19,02:09,,,,,,,,USA,OR,Jackson,,,42.4805,-122.6745,96,527,net,,Plagiobothrys nothofulvus,https://www.inaturalist.org/observations/22396408
+ , , , ,792775,Dan,D.,O'Loughlin,12,IV,19,19:04,,,,,,,,USA,OR,Yamhill,,,45.2472,-123.2753,8,134,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22404973
+ , , , ,792775,Dan,D.,O'Loughlin,12,IV,19,20:32,,,,,,,,USA,OR,Yamhill,,,45.2460,-123.2723,10,126,net,,Salix scouleriana,https://www.inaturalist.org/observations/22404977
+ , , , ,1482843,Jesse,J.,Dillow,12,IV,19,18:48,,,,,,,,USA,OR,Yamhill,,,45.3040,-122.9637,6,56,net,,Arctostaphylos manzanita,https://www.inaturalist.org/observations/22413420
+ , , , ,816767,Jeanie,J.,Taylor,12,IV,19,20:30,,,,,,,,USA,OR,Yamhill,,,45.2457,-123.2719,5,126,net,,Salix,https://www.inaturalist.org/observations/22417083
+ , , , ,1542491,Roberta,R.,Packard,12,IV,19,19:38,,,,,,,,USA,OR,Yamhill,,,45.2460,-123.2751,135,134,net,,Taraxacum,https://www.inaturalist.org/observations/22419401
+ , , , ,1542491,Roberta,R.,Packard,12,IV,19,20:37,,,,,,,,USA,OR,Yamhill,,,45.2207,-123.1983,2500,47,net,,Salix sitchensis,https://www.inaturalist.org/observations/22419437
+ , , , ,325615,Amy,A.,Grotta,4,IV,19,17:00,4,IV,19,-4IV,9:30,,,USA,OR,Washington,,,45.4778,-123.2334,82,165,pan trap,,,https://www.inaturalist.org/observations/22502118
+ , , , ,325615,Amy,A.,Grotta,4,IV,19,17:30,4,IV,19,-4IV,10:00,,,USA,OR,Washington,,,45.4778,-123.2404,194,176,pan trap,,,https://www.inaturalist.org/observations/22502121
+ , , , ,325615,Amy,A.,Grotta,4,IV,19,17:30,4,IV,19,-4IV,10:30,,,USA,OR,Washington,,,45.4738,-123.2477,227,212,pan trap,,,https://www.inaturalist.org/observations/22502124
+ , , , ,1539907,Martha,M.,Richards,14,IV,19,20:48,,,,,,,,USA,OR,Tillamook,,,45.5160,-123.9044,11,-1,net,,Ericaceae,https://www.inaturalist.org/observations/22502125
+ , , , ,792468,Michael,M.,O'Loughlin,16,IV,19,21:19,,,,,,,,USA,OR,Washington,,,45.4342,-122.8020,64,56,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22576394
+ , , , ,620505,Judi,J.,Maxwell,16,IV,19,02:41,,,,,,,,USA,OR,Josephine,,,42.3563,-123.4069,6,310,net,,Arctostaphylos viscida,https://www.inaturalist.org/observations/22585938
+ , , , ,620505,Judi,J.,Maxwell,16,IV,19,02:47,,,,,,,,USA,OR,Josephine,,,42.3564,-123.4068,64,310,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22585993
+ , , , ,620505,Judi,J.,Maxwell,16,IV,19,02:49,,,,,,,,USA,OR,Josephine,,,42.3564,-123.4069,48,310,net,,Lithophragma,https://www.inaturalist.org/observations/22586018
+ , , , ,620505,Judi,J.,Maxwell,16,IV,19,03:01,,,,,,,,USA,OR,Josephine,,,42.3560,-123.4105,48,310,net,,Acer macrophyllum,https://www.inaturalist.org/observations/22586044
+ , , , ,754260,Ellen,E.,Watrous,17,IV,19,21:52,,,,,,,,USA,OR,Benton,,,44.5991,-123.3148,9,191,net,,Erythronium oregonum,https://www.inaturalist.org/observations/22628910
+ , , , ,1462047,,,,17,IV,19,21:48,,,,,,,,USA,OR,Washington,,,45.5151,-122.8456,65,67,net,,Bellis perennis,https://www.inaturalist.org/observations/22629701
+ , , , ,754260,Ellen,E.,Watrous,17,IV,19,22:16,,,,,,,,USA,OR,Benton,,,44.5993,-123.3160,4,185,net,,Balsamorhiza deltoidea,https://www.inaturalist.org/observations/22630025
+ , , , ,1478567,,,,17,IV,19,22:22,,,,,,,,USA,OR,Washington,,,45.4342,-122.8024,9,56,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22630348
+ , , , ,1462047,,,,16,IV,19,21:58,,,,,,,,USA,OR,Washington,,,45.4891,-122.8339,1414,51,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22630450
+ , , , ,1462047,,,,17,IV,19,22:26,,,,,,,,USA,OR,Washington,,,45.5154,-122.8459,65,67,net,,Salix,https://www.inaturalist.org/observations/22630463
+ , , , ,1629810,,,,17,IV,19,22:34,,,,,,,,USA,OR,Washington,,,45.4342,-122.8031,65,56,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22630738
+ , , , ,792468,Michael,M.,O'Loughlin,17,IV,19,22:57,,,,,,,,USA,OR,Washington,,,45.4346,-122.8030,24,56,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22631820
+ , , , ,754260,Ellen,E.,Watrous,17,IV,19,22:57,,,,,,,,USA,OR,Benton,,,44.5994,-123.3157,9,185,net,,Fragaria virginiana,https://www.inaturalist.org/observations/22631873
+ , , , ,1462047,,,,17,IV,19,23:10,,,,,,,,USA,OR,Washington,,,45.5153,-122.8467,5,67,net,,Bellis perennis,https://www.inaturalist.org/observations/22632949
+ , , , ,327525,Briana,B.,Lindh,17,IV,19,23:00,,,,,,,,USA,OR,Polk,,,44.9622,-123.2574,5,79,net,,Bellis perennis,https://www.inaturalist.org/observations/22637237
+ , , , ,327525,Briana,B.,Lindh,17,IV,19,23:15,,,,,,,,USA,OR,Polk,,,44.9625,-123.2576,10,79,net,,Crataegus monogyna,https://www.inaturalist.org/observations/22637306
+ , , , ,327525,Briana,B.,Lindh,17,IV,19,23:27,,,,,,,,USA,OR,Polk,,,44.9640,-123.2589,6535,79,net,,Ranunculus,https://www.inaturalist.org/observations/22637357
+ , , , ,327525,Briana,B.,Lindh,17,IV,19,23:51,,,,,,,,USA,OR,Polk,,,44.9633,-123.2619,1966,79,net,,Danthonia californica,https://www.inaturalist.org/observations/22637429
+ , , , ,327525,Briana,B.,Lindh,17,IV,19,00:05,,,,,,,,USA,OR,Polk,,,44.9633,-123.2611,5,79,net,,Marah oregana,https://www.inaturalist.org/observations/22637489
+ , , , ,792468,Michael,M.,O'Loughlin,17,IV,19,02:03,,,,,,,,USA,OR,Yamhill,,,45.1711,-123.1867,96,44,net,,Raphanus bipinnatus,https://www.inaturalist.org/observations/22639432
+ , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,17:42,,,,,,,,USA,OR,Yamhill,,,45.2920,-123.1887,8,38,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22663985
+ , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,18:15,,,,,,,,USA,OR,Yamhill,,,45.3381,-123.1850,32,51,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22668320
+ , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,19:06,,,,,,,,USA,OR,Washington,,,45.5001,-122.9895,24,40,net,,Ribes aureum,https://www.inaturalist.org/observations/22670414
+ , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,19:21,,,,,,,,USA,OR,Washington,,,45.4998,-122.9866,32,40,net,,Mahonia,https://www.inaturalist.org/observations/22671123
+ , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,19:50,,,,,,,,USA,OR,Washington,,,45.5015,-122.9832,32,40,net,,Brassica rapa,https://www.inaturalist.org/observations/22672474
+ , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,20:06,,,,,,,,USA,OR,Washington,,,45.5020,-122.9824,16,40,net,,Salix,https://www.inaturalist.org/observations/22673289
+ , , , ,1462047,,,,18,IV,19,18:46,,,,,,,,USA,OR,Washington,,,45.5153,-122.8463,5,67,net,,Salicaceae,https://www.inaturalist.org/observations/22675271
+ , , , ,754260,Ellen,E.,Watrous,18,IV,19,21:07,,,,,,,,USA,OR,Benton,,,44.5857,-123.2507,3,69,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22675699
+ , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,21:13,,,,,,,,USA,OR,Washington,,,45.4986,-122.9843,16,40,net,,Prunus,https://www.inaturalist.org/observations/22675862
+ , , , ,808137,,,,18,IV,19,21:16,,,,,,,,USA,OR,Benton,,,44.5859,-123.2505,5,69,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22676025
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,18:22,,,,,,,,USA,OR,Lincoln,,,44.8764,-124.0374,5,17,net,,Lonicera involucrata,https://www.inaturalist.org/observations/22676998
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,20:44,,,,,,,,USA,OR,Lincoln,,,44.8291,-124.0638,5,4,net,,Gaultheria shallon,https://www.inaturalist.org/observations/22677016
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,21:40,,,,,,,,USA,OR,Lincoln,,,44.7602,-124.0659,5,140,net,,Gaultheria shallon,https://www.inaturalist.org/observations/22677063
+ , , , ,808137,,,,18,IV,19,21:37,,,,,,,,USA,OR,Benton,,,44.5859,-123.2509,5,69,net,,Viburnum tinus,https://www.inaturalist.org/observations/22677126
+ , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,21:42,,,,,,,,USA,OR,Washington,,,45.4998,-122.9891,12,40,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22677186
+ , , , ,754260,Ellen,E.,Watrous,18,IV,19,21:50,,,,,,,,USA,OR,Benton,,,44.5862,-123.2509,6,69,net,,Eschscholzia californica,https://www.inaturalist.org/observations/22677584
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,21:54,,,,,,,,USA,OR,Lincoln,,,44.7601,-124.0660,5,140,net,,Rubus ursinus,https://www.inaturalist.org/observations/22677674
+ , , , ,792775,Dan,D.,O'Loughlin,18,IV,19,19:49,,,,,,,,USA,OR,Washington,,,45.5015,-122.9831,8,40,net,,Brassica rapa,https://www.inaturalist.org/observations/22678189
+ , , , ,792775,Dan,D.,O'Loughlin,18,IV,19,20:08,,,,,,,,USA,OR,Washington,,,45.5020,-122.9824,13,40,net,,Salix,https://www.inaturalist.org/observations/22678223
+ , , , ,792775,Dan,D.,O'Loughlin,18,IV,19,20:59,,,,,,,,USA,OR,Washington,,,45.4988,-122.9830,9,40,net,,Conium maculatum,https://www.inaturalist.org/observations/22678245
+ , , , ,792775,Dan,D.,O'Loughlin,18,IV,19,21:11,,,,,,,,USA,OR,Washington,,,45.4985,-122.9841,9,40,net,,Prunus emarginata,https://www.inaturalist.org/observations/22678263
+ , , , ,792775,Dan,D.,O'Loughlin,18,IV,19,21:43,,,,,,,,USA,OR,Washington,,,45.4997,-122.9895,29,40,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22678278
+ , , , ,1566342,,,,18,IV,19,22:30,,,,,,,,USA,OR,Multnomah,,,45.6941,-122.7847,9,7,net,,Ribes sanguineum,https://www.inaturalist.org/observations/22679512
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,22:49,,,,,,,,USA,OR,Lincoln,,,44.6118,-124.0500,5,5,net,,Lithodora,https://www.inaturalist.org/observations/22680222
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,23:10,,,,,,,,USA,OR,Lincoln,,,44.6184,-124.0535,5,6,net,,Ericaceae,https://www.inaturalist.org/observations/22680873
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,23:30,,,,,,,,USA,OR,Lincoln,,,44.6147,-124.0627,5,5,net,,,https://www.inaturalist.org/observations/22681687
+ , , , ,175529,Jerry,J.,Paul,18,IV,19,21:15,,,,,,,,USA,OR,Benton,,,44.5859,-123.2506,5,69,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22681717
+ , , , ,1546088,,,,18,IV,19,23:29,,,,,,,,USA,OR,Yamhill,,,45.3296,-122.9686,100,99,net,,Brassica rapa,https://www.inaturalist.org/observations/22681758
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,23:35,,,,,,,,USA,OR,Lincoln,,,44.6147,-124.0628,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22681840
+ , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,23:39,,,,,,,,USA,OR,Yamhill,,,45.3313,-122.9676,32,99,net,,Brassica rapa,https://www.inaturalist.org/observations/22681954
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,23:40,,,,,,,,USA,OR,Lincoln,,,44.6146,-124.0629,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22681982
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,23:41,,,,,,,,USA,OR,Lincoln,,,44.6146,-124.0629,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682080
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,23:46,,,,,,,,USA,OR,Lincoln,,,44.6146,-124.0630,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682244
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,23:51,,,,,,,,USA,OR,Lincoln,,,44.6145,-124.0631,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682501
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,23:54,,,,,,,,USA,OR,Lincoln,,,44.6147,-124.0631,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682613
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,23:59,,,,,,,,USA,OR,Lincoln,,,44.6147,-124.0631,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682788
+ , , , ,752114,Stephanie,S.,Hazen,18,IV,19,00:02,,,,,,,,USA,OR,Lincoln,,,44.6147,-124.0631,5,5,net,,Vaccinium ovatum,https://www.inaturalist.org/observations/22682937
+ , , , ,733757,,,,18,IV,19,21:28,,,,,,,,USA,OR,Benton,,,44.5857,-123.2507,8,69,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22685002
+ , , , ,792468,Michael,M.,O'Loughlin,18,IV,19,00:34,,,,,,,,USA,OR,Yamhill,,,45.2046,-123.1324,12,49,net,,Vitaceae,https://www.inaturalist.org/observations/22686122
+ , , , ,327525,Briana,B.,Lindh,18,IV,19,21:17,,,,,,,,USA,OR,Polk,,,45.0222,-123.1452,165,80,net,,Amelanchier alnifolia,https://www.inaturalist.org/observations/22687493
+ , , , ,327525,Briana,B.,Lindh,18,IV,19,21:28,,,,,,,,USA,OR,Polk,,,45.0240,-123.1436,5,80,net,,Arbutus menziesii,https://www.inaturalist.org/observations/22687604
+ , , , ,327525,Briana,B.,Lindh,18,IV,19,21:35,,,,,,,,USA,OR,Polk,,,45.0236,-123.1474,5005,80,net,,Ranunculus,https://www.inaturalist.org/observations/22688110
+ , , , ,327525,Briana,B.,Lindh,18,IV,19,21:44,,,,,,,,USA,OR,Polk,,,45.0259,-123.1506,30,123,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22688327
+ , , , ,327525,Briana,B.,Lindh,18,IV,19,22:37,,,,,,,,USA,OR,Polk,,,45.0220,-123.1498,165,80,net,,Prunus,https://www.inaturalist.org/observations/22688474
+ , , , ,1467407,,,,18,IV,19,21:06,,,,,,,,USA,OR,Benton,,,44.5857,-123.2507,12,69,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22704483
+ , , , ,770229,Joe,J.,Engler,18,IV,19,19:24,,,,,,,,USA,OR,Washington,,,45.4998,-122.9866,7,40,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22705558
+ , , , ,770229,Joe,J.,Engler,18,IV,19,19:51,,,,,,,,USA,OR,Washington,,,45.5015,-122.9832,9,40,net,,Brassica rapa,https://www.inaturalist.org/observations/22705581
+ , , , ,770229,Joe,J.,Engler,18,IV,19,20:08,,,,,,,,USA,OR,Washington,,,45.5019,-122.9827,3,40,net,,Salix,https://www.inaturalist.org/observations/22705604
+ , , , ,770229,Joe,J.,Engler,18,IV,19,21:43,,,,,,,,USA,OR,Washington,,,45.4998,-122.9892,8,40,net,,Ribes sanguineum,https://www.inaturalist.org/observations/22705625
+ , , , ,620505,Judi,J.,Maxwell,18,IV,19,,,,,,,,,USA,OR,Josephine,,,42.4278,-123.5443,32,393,net,,Erythronium,https://www.inaturalist.org/observations/22707355
+ , , , ,620505,Judi,J.,Maxwell,18,IV,19,,,,,,,,,USA,OR,Josephine,,,42.3564,-123.4068,64,310,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22707458
+ , , , ,620505,Judi,J.,Maxwell,18,IV,19,00:50,,,,,,,,USA,OR,Josephine,,,42.4272,-123.5453,48,406,net,,Ceanothus cuneatus,https://www.inaturalist.org/observations/22707580
+ , , , ,620505,Judi,J.,Maxwell,18,IV,19,,,,,,,,,USA,OR,Jackson,,,42.3035,-123.1889,6,550,net,,Arctostaphylos,https://www.inaturalist.org/observations/22707894
+ , , , ,620505,Judi,J.,Maxwell,18,IV,19,,,,,,,,,USA,OR,Jackson,,,42.3035,-123.1889,48,550,net,,Boraginaceae,https://www.inaturalist.org/observations/22708009
+ , , , ,1566342,,,,18,IV,19,23:15,,,,,,,,USA,OR,Multnomah,,,45.6927,-122.7880,10,8,net,,Ribes divaricatum,https://www.inaturalist.org/observations/22709776
+ , , , ,1539907,Martha,M.,Richards,18,IV,19,18:57,,,,,,,,USA,OR,Multnomah,,,45.4732,-122.6128,22,79,net,,Viburnum carlesii,https://www.inaturalist.org/observations/22715711
+ , , , ,1539907,Martha,M.,Richards,18,IV,19,18:55,,,,,,,,USA,OR,Multnomah,,,45.4732,-122.6127,11,79,net,,Ribes grossularia,https://www.inaturalist.org/observations/22715873
+ , , , ,1539907,Martha,M.,Richards,18,IV,19,21:00,,,,,,,,USA,OR,Multnomah,,,45.4732,-122.6127,11,79,net,,Eruca vesicaria,https://www.inaturalist.org/observations/22716045
+ , , , ,620505,Judi,J.,Maxwell,19,IV,19,18:48,,,,,,,,USA,OR,Josephine,,,42.0962,-123.6841,16,425,net,,Lomatium,https://www.inaturalist.org/observations/22718655
+ , , , ,1447015,,,,19,IV,19,19:06,,,,,,,,USA,OR,Josephine,,,42.0957,-123.6842,5,425,net,,Lomatium,https://www.inaturalist.org/observations/22719542
+ , , , ,860617,Linda,L.,Austin,19,IV,19,22:01,,,,,,,,USA,OR,Josephine,,,42.0658,-123.6359,5,471,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22727655
+ , , , ,620505,Judi,J.,Maxwell,19,IV,19,18:49,,,,,,,,USA,OR,Josephine,,,42.0962,-123.6841,16,425,net,,Arctostaphylos viscida,https://www.inaturalist.org/observations/22727909
+ , , , ,620505,Judi,J.,Maxwell,19,IV,19,22:09,,,,,,,,USA,OR,Josephine,,,42.0665,-123.6372,24,471,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22727923
+ , , , ,620505,Judi,J.,Maxwell,19,IV,19,23:01,,,,,,,,USA,OR,Josephine,,,42.0632,-123.6347,24,474,net,,Fragaria,https://www.inaturalist.org/observations/22730181
+ , , , ,620505,Judi,J.,Maxwell,19,IV,19,23:03,,,,,,,,USA,OR,Josephine,,,42.0626,-123.6352,24,478,net,,Ceanothus cuneatus,https://www.inaturalist.org/observations/22730305
+ , , , ,1447015,,,,19,IV,19,23:01,,,,,,,,USA,OR,Josephine,,,42.0628,-123.6350,30,478,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22730425
+ , , , ,841568,Lori,L.,Humphreys,17,IV,19,17:29,,,,,,,,USA,OR,Lane,,,44.0329,-123.0947,8,131,net,,Osmanthus × burkwoodii,https://www.inaturalist.org/observations/22740780
+ , , , ,841568,Lori,L.,Humphreys,18,IV,19,21:49,,,,,,,,USA,OR,Lane,,,43.8344,-122.7675,,415,net,,,https://www.inaturalist.org/observations/22740941
+ , , , ,841568,Lori,L.,Humphreys,18,IV,19,22:05,,,,,,,,USA,OR,Lane,,,43.8329,-122.7665,,415,net,,,https://www.inaturalist.org/observations/22741029
+ , , , ,841568,Lori,L.,Humphreys,18,IV,19,22:50,,,,,,,,USA,OR,Lane,,,43.7920,-122.7591,,777,net,,Salix,https://www.inaturalist.org/observations/22741138
+ , , , ,1482843,Jesse,J.,Dillow,20,IV,19,20:37,,,,,,,,USA,OR,Yamhill,,,45.1681,-123.1859,6,44,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22776191
+ , , , ,1482843,Jesse,J.,Dillow,20,IV,19,20:39,,,,,,,,USA,OR,Yamhill,,,45.1680,-123.1860,4,44,net,,Brassica rapa,https://www.inaturalist.org/observations/22776289
+ , , , ,1467407,,,,18,IV,19,21:51,,,,,,,,USA,OR,Benton,,,44.5860,-123.2510,4,69,net,,Viburnum,https://www.inaturalist.org/observations/22785476
+ , , , ,1425646,Francis,F.,Opila,20,IV,19,20:56,,,,,,,,USA,OR,Multnomah,,,45.6439,-122.8133,,3,net,,Salix,https://www.inaturalist.org/observations/22786548
+ , , , ,1425646,Francis,F.,Opila,20,IV,19,21:19,,,,,,,,USA,OR,Multnomah,,,45.6448,-122.8136,,3,net,,Prunus,https://www.inaturalist.org/observations/22786589
+ , , , ,1425646,Francis,F.,Opila,20,IV,19,22:05,,,,,,,,USA,OR,Multnomah,,,45.6420,-122.8170,,9,net,,Brassicaceae,https://www.inaturalist.org/observations/22786635
+ , , , ,1425646,Francis,F.,Opila,20,IV,19,22:18,,,,,,,,USA,OR,Multnomah,,,45.6421,-122.8169,,9,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22786653
+ , , , ,792468,Michael,M.,O'Loughlin,20,IV,19,20:41,,,,,,,,USA,OR,Yamhill,,,45.1683,-123.1875,16,44,net,,Brassica rapa,https://www.inaturalist.org/observations/22794397
+ , , , ,1504693,,,,20,IV,19,21:03,,,,,,,,USA,OR,Multnomah,,,45.6445,-122.8133,1399,3,net,,,https://www.inaturalist.org/observations/22797447
+ , , , ,1504693,,,,20,IV,19,21:14,,,,,,,,USA,OR,Multnomah,,,45.6445,-122.8133,5,3,net,,Ribes sanguineum,https://www.inaturalist.org/observations/22797471
+ , , , ,1504693,,,,20,IV,19,21:58,,,,,,,,USA,OR,Multnomah,,,45.6423,-122.8169,3,9,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22797488
+ , , , ,1504693,,,,21,IV,19,20:27,,,,,,,,USA,OR,Multnomah,,,45.4915,-122.6148,11,71,net,,,https://www.inaturalist.org/observations/22838187
+ , , , ,429964,,,,21,IV,19,22:28,,,,,,,,USA,OR,Linn,,,44.7148,-122.7129,4,147,net,,Berberis aquifolium,https://www.inaturalist.org/observations/22846658
+ , , , ,429964,,,,21,IV,19,22:45,,,,,,,,USA,OR,Linn,,,44.7144,-122.7132,6,147,net,,Amelanchier,https://www.inaturalist.org/observations/22848362
+ , , , ,752114,Stephanie,S.,Hazen,21,IV,19,23:03,,,,,,,,USA,OR,Marion,,,44.8845,-122.8878,5,137,net,,Muntingia calabura,https://www.inaturalist.org/observations/22848949
+ , , , ,752114,Stephanie,S.,Hazen,21,IV,19,23:09,,,,,,,,USA,OR,Marion,,,44.8846,-122.8878,5,137,net,,Ranunculaceae,https://www.inaturalist.org/observations/22849239
+ , , , ,752114,Stephanie,S.,Hazen,21,IV,19,23:32,,,,,,,,USA,OR,Marion,,,44.8846,-122.8878,50,137,net,,Prunus,https://www.inaturalist.org/observations/22850753
+ , , , ,1504693,,,,21,IV,19,00:00,,,,,,,,USA,OR,Multnomah,,,45.4754,-122.5859,10,75,net,,,https://www.inaturalist.org/observations/22852408
+ , , , ,816767,Jeanie,J.,Taylor,22,IV,19,18:28,,,,,,,,USA,OR,Yamhill,,,45.1341,-123.3740,5,81,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22895925
+ , , , ,816767,Jeanie,J.,Taylor,22,IV,19,18:41,,,,,,,,USA,OR,Yamhill,,,45.1344,-123.3741,10,81,net,,Bellis perennis,https://www.inaturalist.org/observations/22896642
+ , , , ,754260,Ellen,E.,Watrous,22,IV,19,21:08,,,,,,,,USA,OR,Benton,,,44.5987,-123.3160,15,185,net,,Lomatium dissectum,https://www.inaturalist.org/observations/22906120
+ , , , ,620505,Judi,J.,Maxwell,22,IV,19,06:57,,,,,,,,USA,OR,Josephine,,,42.2335,-123.6607,,435,net,,Camassia quamash,https://www.inaturalist.org/observations/22931187
+ , , , ,620505,Judi,J.,Maxwell,22,IV,19,23:47,,,,,,,,USA,OR,Josephine,,,42.2335,-123.6607,64,435,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22931291
+ , , , ,620505,Judi,J.,Maxwell,22,IV,19,23:41,,,,,,,,USA,OR,Josephine,,,42.2335,-123.6607,6,435,net,,Arctostaphylos viscida,https://www.inaturalist.org/observations/22931397
+ , , , ,792775,Dan,D.,O'Loughlin,23,IV,19,19:37,,,,,,,,USA,OR,Yamhill,,,45.1705,-123.1855,10,44,net,,Bellis perennis,https://www.inaturalist.org/observations/22957933
+ , , , ,792775,Dan,D.,O'Loughlin,23,IV,19,19:38,,,,,,,,USA,OR,Yamhill,,,45.1705,-123.1855,10,44,net,,Taraxacum officinale,https://www.inaturalist.org/observations/22957941
+ , , , ,620505,Judi,J.,Maxwell,23,IV,19,22:12,,,,,,,,USA,OR,Josephine,,,42.2407,-123.6904,16,421,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/22966161
+ , , , ,620505,Judi,J.,Maxwell,23,IV,19,05:10,,,,,,,,USA,OR,Josephine,,,42.2407,-123.6903,,421,net,,Camassia quamash,https://www.inaturalist.org/observations/22983984
+ , , , ,1427302,,,,24,III,19,22:45,,,,,,,,USA,OR,Coos,,,43.0666,-124.1399,5,25,net,,,https://www.inaturalist.org/observations/22997380
+ , , , ,1119443,Linda,L.,Zahl,24,IV,19,18:38,,,,,,,,USA,OR,Columbia,,,45.8664,-122.8223,5,52,net,,Camassia,https://www.inaturalist.org/observations/23008769
+ , , , ,620505,Judi,J.,Maxwell,23,IV,19,23:26,,,,,,,,USA,OR,Josephine,,,42.2360,-123.6989,32,472,net,,Lomatium,https://www.inaturalist.org/observations/23009849
+ , , , ,620505,Judi,J.,Maxwell,24,IV,19,18:55,,,,,,,,USA,OR,Jackson,,,42.3138,-122.9756,32,548,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/23009896
+ , , , ,1119443,Linda,L.,Zahl,24,IV,19,19:10,,,,,,,,USA,OR,Columbia,,,45.8688,-122.8270,5,74,net,,Plectritis congesta,https://www.inaturalist.org/observations/23011581
+ , , , ,1119443,Linda,L.,Zahl,24,IV,19,19:22,,,,,,,,USA,OR,Columbia,,,45.8680,-122.8307,5,74,net,,Taraxacum,https://www.inaturalist.org/observations/23014174
+ , , , ,754260,Ellen,E.,Watrous,24,IV,19,20:01,,,,,,,,USA,OR,Benton,,,44.6572,-123.2354,9,135,net,,Camassia leichtlinii,https://www.inaturalist.org/observations/23014471
+ , , , ,829567,,,,24,IV,19,20:15,,,,,,,,USA,OR,Jefferson,,,44.6372,-121.1420,9,678,net,,,https://www.inaturalist.org/observations/23015028
+ , , , ,1561159,,,,24,IV,19,20:35,,,,,,,,USA,OR,Multnomah,,,45.5314,-122.6089,17,68,net,,Acer circinatum,https://www.inaturalist.org/observations/23017532
+ , , , ,754260,Ellen,E.,Watrous,24,IV,19,21:16,,,,,,,,USA,OR,Benton,,,44.5913,-123.3107,7,123,net,,Marah oregana,https://www.inaturalist.org/observations/23018321
+ , , , ,754260,Ellen,E.,Watrous,24,IV,19,22:03,,,,,,,,USA,OR,Benton,,,44.5891,-123.3112,7,123,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/23020874
+ , , , ,927865,Natalie,N.,Lozano,24,IV,19,00:57,,,,,,,,USA,OR,Multnomah,,,45.4984,-122.6018,22,69,net,,Malus,https://www.inaturalist.org/observations/23033643
+ , , , ,327525,Briana,B.,Lindh,24,IV,19,00:52,,,,,,,,USA,OR,Marion,,,44.9543,-123.0092,65,53,net,,Camassia quamash,https://www.inaturalist.org/observations/23035898
+ , , , ,620505,Judi,J.,Maxwell,24,IV,19,05:25,,,,,,,,USA,OR,Jackson,,,42.3137,-122.9756,,548,net,,Calochortus tolmiei,https://www.inaturalist.org/observations/23037876
+ , , , ,620505,Judi,J.,Maxwell,24,IV,19,05:38,,,,,,,,USA,OR,Jackson,,,42.3137,-122.9756,,548,net,,Quercus garryana,https://www.inaturalist.org/observations/23038195
+ , , , ,752114,Stephanie,S.,Hazen,25,IV,19,17:43,,,,,,,,USA,OR,Marion,,,44.9523,-123.0135,5,53,net,,Ceanothus,https://www.inaturalist.org/observations/23061529
+ , , , ,752114,Stephanie,S.,Hazen,25,IV,19,17:56,,,,,,,,USA,OR,Marion,,,44.9523,-123.0135,5,53,net,,Ceanothus thyrsiflorus thyrsiflorus,https://www.inaturalist.org/observations/23062066
+ , , , ,752114,Stephanie,S.,Hazen,25,IV,19,17:57,,,,,,,,USA,OR,Marion,,,44.9523,-123.0134,5,53,net,,Ceanothus thyrsiflorus thyrsiflorus,https://www.inaturalist.org/observations/23062100
+ , , , ,752114,Stephanie,S.,Hazen,25,IV,19,19:18,,,,,,,,USA,OR,Marion,,,44.8840,-122.8879,10,137,net,,Taraxacum officinale,https://www.inaturalist.org/observations/23066325
+ , , , ,752114,Stephanie,S.,Hazen,25,IV,19,19:21,,,,,,,,USA,OR,Marion,,,44.8840,-122.8880,5,137,net,,Taraxacum officinale,https://www.inaturalist.org/observations/23066479
+ , , , ,752114,Stephanie,S.,Hazen,25,IV,19,19:24,,,,,,,,USA,OR,Marion,,,44.8840,-122.8881,10,137,net,,Taraxacum,https://www.inaturalist.org/observations/23066670
+ , , , ,752114,Stephanie,S.,Hazen,25,IV,19,19:26,,,,,,,,USA,OR,Marion,,,44.8840,-122.8879,5,137,net,,Taraxacum officinale,https://www.inaturalist.org/observations/23066738
+ , , , ,752114,Stephanie,S.,Hazen,25,IV,19,19:28,,,,,,,,USA,OR,Marion,,,44.8841,-122.8880,5,137,net,,Taraxacum officinale,https://www.inaturalist.org/observations/23066840
+ , , , ,752114,Stephanie,S.,Hazen,25,IV,19,19:30,,,,,,,,USA,OR,Marion,,,44.8841,-122.8880,5,137,net,,Taraxacum officinale,https://www.inaturalist.org/observations/23066936
+ , , , ,754260,Ellen,E.,Watrous,25,IV,19,19:59,,,,,,,,USA,OR,Benton,,,44.5988,-123.3153,9,185,net,,Plectritis congesta,https://www.inaturalist.org/observations/23068845
+ , , , ,754260,Ellen,E.,Watrous,25,IV,19,20:37,,,,,,,,USA,OR,Benton,,,44.5988,-123.3156,7,185,net,,Cornus nuttallii,https://www.inaturalist.org/observations/23070769
+ , , , ,754260,Ellen,E.,Watrous,25,IV,19,23:12,,,,,,,,USA,OR,Benton,,,44.5729,-123.3109,8,85,net,,Camassia quamash,https://www.inaturalist.org/observations/23079714
+ , , , ,327525,Briana,B.,Lindh,25,IV,19,20:25,,,,,,,,USA,OR,Marion,,,44.9377,-123.0339,30,48,net,,Hedera helix,https://www.inaturalist.org/observations/23080727
+ , , , ,327525,Briana,B.,Lindh,25,IV,19,20:31,,,,,,,,USA,OR,Marion,,,44.9372,-123.0351,120,47,net,,Prunus laurocerasus,https://www.inaturalist.org/observations/23080798
+ , , , ,327525,Briana,B.,Lindh,25,IV,19,21:06,,,,,,,,USA,OR,Marion,,,44.9365,-123.0292,10,48,net,,Ceanothus,https://www.inaturalist.org/observations/23081258
+ , , , ,792775,Dan,D.,O'Loughlin,25,IV,19,01:18,,,,,,,,USA,OR,Washington,,,45.3809,-122.7609,10,38,net,,Laurales,https://www.inaturalist.org/observations/23086587
+ , , , ,327525,Briana,B.,Lindh,25,IV,19,21:32,,,,,,,,USA,OR,Marion,,,44.9348,-123.0286,10,47,net,,Limnanthes douglasii,https://www.inaturalist.org/observations/23089123
+ , , , ,327525,Briana,B.,Lindh,25,IV,19,21:49,,,,,,,,USA,OR,Marion,,,44.9353,-123.0294,10,48,net,,Camassia quamash,https://www.inaturalist.org/observations/23089258
+ , , , ,327525,Briana,B.,Lindh,25,IV,19,23:42,,,,,,,,USA,OR,Marion,,,44.9350,-123.0289,23,48,net,,Acer circinatum,https://www.inaturalist.org/observations/23089469
+ , , , ,620505,Judi,J.,Maxwell,25,IV,19,22:55,,,,,,,,USA,OR,Josephine,,,42.2045,-123.3020,22226,462,net,,Salix,https://www.inaturalist.org/observations/23102174
+ , , , ,620505,Judi,J.,Maxwell,25,IV,19,00:27,,,,,,,,USA,OR,Josephine,,,42.1361,-123.3525,16,1151,net,,Arctostaphylos patula,https://www.inaturalist.org/observations/23102255
+ , , , ,620505,Judi,J.,Maxwell,25,IV,19,01:25,,,,,,,,USA,OR,Josephine,,,42.1381,-123.3446,,1288,net,,,https://www.inaturalist.org/observations/23102882
+ , , , ,754260,Ellen,E.,Watrous,26,IV,19,21:42,,,,,,,,USA,OR,Benton,,,44.5991,-123.3150,9,191,net,,Limnanthes douglasii,https://www.inaturalist.org/observations/23230203
+ , , , ,754260,Ellen,E.,Watrous,26,IV,19,22:35,,,,,,,,USA,OR,Benton,,,44.5991,-123.3154,3,185,net,,Camassia leichtlinii,https://www.inaturalist.org/observations/23240718
+ , , , ,327525,Briana,B.,Lindh,26,IV,19,23:29,,,,,,,,USA,OR,Marion,,,44.9354,-123.0309,65,48,net,,Malus,https://www.inaturalist.org/observations/23251239
+ , , , ,327525,Briana,B.,Lindh,26,IV,19,21:45,,,,,,,,USA,OR,Marion,,,44.9308,-123.0324,10,47,net,,Claytonia sibirica,https://www.inaturalist.org/observations/23251459
+ , , , ,327525,Briana,B.,Lindh,26,IV,19,22:18,,,,,,,,USA,OR,Marion,,,44.9306,-123.0334,81,47,net,,Prosartes hookeri,https://www.inaturalist.org/observations/23251845
+ , , , ,620505,Judi,J.,Maxwell,26,IV,19,06:14,,,,,,,,USA,OR,Josephine,,,42.5294,-123.5881,,405,net,,Madia elegans,https://www.inaturalist.org/observations/23319046
+ , , , ,620505,Judi,J.,Maxwell,26,IV,19,06:37,,,,,,,,USA,OR,Josephine,,,42.5294,-123.5881,,405,net,,Lupinus latifolius,https://www.inaturalist.org/observations/23320163
+ , , , ,620505,Judi,J.,Maxwell,26,IV,19,22:26,,,,,,,,USA,OR,Josephine,,,42.4414,-123.6838,,617,net,,,https://www.inaturalist.org/observations/23320746
+ , , , ,620505,Judi,J.,Maxwell,26,IV,19,23:13,,,,,,,,USA,OR,Josephine,,,42.4431,-123.6825,24,617,net,,Lomatium,https://www.inaturalist.org/observations/23320869
+ , , , ,620505,Judi,J.,Maxwell,26,IV,19,02:31,,,,,,,,USA,OR,Josephine,,,42.5082,-123.6229,64,392,net,,Mimulus,https://www.inaturalist.org/observations/23321014
+ , , , ,620505,Judi,J.,Maxwell,25,IV,19,21:27,,,,,,,,USA,OR,Josephine,,,42.1361,-123.3526,16,1151,net,,Arctostaphylos patula,https://www.inaturalist.org/observations/23370280
+ , , , ,620505,Judi,J.,Maxwell,25,IV,19,22:28,,,,,,,,USA,OR,Josephine,,,42.1381,-123.3447,16,1288,net,,,https://www.inaturalist.org/observations/23370339
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,21:33,,,,,,,,USA,OR,Marion,,,44.8943,-122.8859,5,133,net,,,https://www.inaturalist.org/observations/23479676
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,21:34,,,,,,,,USA,OR,Marion,,,44.8942,-122.8859,5,133,net,,Plectritis,https://www.inaturalist.org/observations/23479936
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,21:51,,,,,,,,USA,OR,Marion,,,44.8954,-122.8857,5,126,net,,Camassia,https://www.inaturalist.org/observations/23484023
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,21:55,,,,,,,,USA,OR,Marion,,,44.8955,-122.8857,5,126,net,,Camassia,https://www.inaturalist.org/observations/23484940
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,21:59,,,,,,,,USA,OR,Marion,,,44.8954,-122.8856,5,126,net,,Camassia quamash,https://www.inaturalist.org/observations/23485710
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,22:02,,,,,,,,USA,OR,Marion,,,44.8954,-122.8854,5,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/23486736
+ , , , ,429964,,,,27,IV,19,22:04,,,,,,,,USA,OR,Linn,,,44.5595,-123.2294,16,68,net,,Ribes,https://www.inaturalist.org/observations/23487275
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,22:06,,,,,,,,USA,OR,Marion,,,44.8952,-122.8854,5,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/23487521
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,22:16,,,,,,,,USA,OR,Marion,,,44.8951,-122.8854,5,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/23489826
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,22:19,,,,,,,,USA,OR,Marion,,,44.8954,-122.8856,5,126,net,,Camassia,https://www.inaturalist.org/observations/23490559
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,22:27,,,,,,,,USA,OR,Marion,,,44.8970,-122.8864,5,126,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/23492548
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,22:43,,,,,,,,USA,OR,Marion,,,44.8968,-122.8942,5,126,net,,Plectritis congesta congesta,https://www.inaturalist.org/observations/23496391
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,22:53,,,,,,,,USA,OR,Marion,,,44.8974,-122.8936,5,126,net,,Camassia quamash,https://www.inaturalist.org/observations/23498155
+ , , , ,752114,Stephanie,S.,Hazen,27,IV,19,22:58,,,,,,,,USA,OR,Marion,,,44.8975,-122.8935,5,126,net,,Camassia,https://www.inaturalist.org/observations/23499667
+ , , , ,175529,Jerry,J.,Paul,26,IV,19,00:24,,,,,,,,USA,OR,Benton,,,44.6029,-123.2648,5,135,net,,Berberis darwinii,https://www.inaturalist.org/observations/23530414
+ , , , ,175529,Jerry,J.,Paul,26,IV,19,23:18,26,IV,19,-26IV,16:22,,,USA,OR,Benton,,,44.6030,-123.2645,5,135,net,,Ceanothus cuneatus,https://www.inaturalist.org/observations/23531004
+ , , , ,327525,Briana,B.,Lindh,27,IV,19,21:15,,,,,,,,USA,OR,Marion,,,44.9273,-123.0697,10,44,net,,Marah oregana,https://www.inaturalist.org/observations/23531350
+ , , , ,327525,Briana,B.,Lindh,27,IV,19,21:45,,,,,,,,USA,OR,Marion,,,44.9287,-123.0676,10,44,net,,Malus,https://www.inaturalist.org/observations/23531663
+ , , , ,327525,Briana,B.,Lindh,27,IV,19,22:08,,,,,,,,USA,OR,Marion,,,44.9275,-123.0716,1533,44,net,,,https://www.inaturalist.org/observations/23532044
+ , , , ,1539907,Martha,M.,Richards,31,III,19,22:10,,,,,,,,USA,OR,Multnomah,,,45.4141,-122.6349,7,58,net,,,https://www.inaturalist.org/observations/23660743
+ , , , ,1539907,Martha,M.,Richards,31,III,19,21:50,,,,,,,,USA,OR,Multnomah,,,45.4731,-122.6133,7,79,net,,Rosmarinus officinalis,https://www.inaturalist.org/observations/23669398
+ , , , ,1539907,Martha,M.,Richards,31,III,19,21:45,,,,,,,,USA,OR,Multnomah,,,45.4732,-122.6133,5,79,net,,Lamium purpureum,https://www.inaturalist.org/observations/23672041
+ , , , ,1539907,Martha,M.,Richards,31,III,19,22:00,,,,,,,,USA,OR,Multnomah,,,45.4733,-122.6130,5,79,net,,,https://www.inaturalist.org/observations/23673560
+ , , , ,1539907,Martha,M.,Richards,27,IV,19,22:45,,,,,,,,USA,OR,Multnomah,,,45.4735,-122.6123,10,79,net,,Ribes grossularia,https://www.inaturalist.org/observations/23675465
+ , , , ,1445574,,,,19,IV,19,21:18,,,,,,,,USA,OR,Josephine,,,42.0638,-123.6346,9,474,net,,,https://www.inaturalist.org/observations/23703547
+ , , , ,1539907,Martha,M.,Richards,28,IV,19,19:27,,,,,,,,USA,OR,Multnomah,,,45.4732,-122.6124,21,79,net,,,https://www.inaturalist.org/observations/23712262
+ , , , ,816767,Jeanie,J.,Taylor,28,IV,19,19:54,,,,,,,,USA,OR,Yamhill,,,45.1339,-123.3728,10,81,net,,Rosmarinus officinalis,https://www.inaturalist.org/observations/23719105
+ , , , ,1582689,,,,28,IV,19,20:02,,,,,,,,USA,OR,Multnomah,,,45.6415,-122.8180,5,9,net,,,https://www.inaturalist.org/observations/23727087
+ , , , ,325615,Amy,A.,Grotta,28,IV,19,19:53,,,,,,,,USA,OR,Multnomah,,,45.5568,-122.6464,20,72,net,,Pyrus pyrifolia,https://www.inaturalist.org/observations/23741271
+ , , , ,325615,Amy,A.,Grotta,28,IV,19,20:38,,,,,,,,USA,OR,Multnomah,,,45.5567,-122.6462,10,72,net,,,https://www.inaturalist.org/observations/23741389
+ , , , ,325615,Amy,A.,Grotta,28,IV,19,20:58,,,,,,,,USA,OR,Multnomah,,,45.5569,-122.6466,10,72,net,,Camassia,https://www.inaturalist.org/observations/23741521
+ , , , ,754260,Ellen,E.,Watrous,28,IV,19,22:06,,,,,,,,USA,OR,Benton,,,44.6005,-123.2425,5,66,net,,Prunus virginiana,https://www.inaturalist.org/observations/23755125
+ , , , ,754260,Ellen,E.,Watrous,28,IV,19,23:53,,,,,,,,USA,OR,Benton,,,44.3637,-123.3748,6,121,net,,Camassia quamash,https://www.inaturalist.org/observations/23785725
+ , , , ,1425646,Francis,F.,Opila,28,IV,19,20:56,,,,,,,,USA,OR,Multnomah,,,45.5574,-122.6908,,61,net,,Vaccinium,https://www.inaturalist.org/observations/23791910
+ , , , ,1425646,Francis,F.,Opila,28,IV,19,21:08,,,,,,,,USA,OR,Multnomah,,,45.5574,-122.6908,,61,net,,Poaceae,https://www.inaturalist.org/observations/23792249
+ , , , ,1425646,Francis,F.,Opila,28,IV,19,22:47,,,,,,,,USA,OR,Multnomah,,,45.5574,-122.6909,,61,net,,Acer circinatum,https://www.inaturalist.org/observations/23792612
+ , , , ,1462047,,,,28,IV,19,18:00,,,,,,,,USA,OR,Washington,,,45.5173,-122.8501,65,67,net,,Syringa vulgaris,https://www.inaturalist.org/observations/23803562
+ , , , ,175529,Jerry,J.,Paul,28,IV,19,22:44,,,,,,,,USA,OR,Benton,,,44.6317,-123.1966,5,70,net,,,https://www.inaturalist.org/observations/23819128
+ , , , ,327525,Briana,B.,Lindh,28,IV,19,19:52,,,,,,,,USA,OR,Marion,,,44.9299,-122.9525,5,63,net,,Bellis perennis,https://www.inaturalist.org/observations/23819551
+ , , , ,327525,Briana,B.,Lindh,28,IV,19,20:09,,,,,,,,USA,OR,Marion,,,44.9311,-122.9529,5,63,net,,Claytonia sibirica,https://www.inaturalist.org/observations/23819895
+ , , , ,175529,Jerry,J.,Paul,28,IV,19,22:58,,,,,,,,USA,OR,Benton,,,44.6318,-123.1966,5,70,net,,Nemophila menziesii,https://www.inaturalist.org/observations/23822047
+ , , , ,175529,Jerry,J.,Paul,28,IV,19,23:55,,,,,,,,USA,OR,Benton,,,44.6252,-123.2179,5,68,net,,Holodiscus discolor,https://www.inaturalist.org/observations/23823242
+ , , , ,1447015,,,,28,IV,19,19:12,,,,,,,,USA,OR,Jackson,,,42.0653,-123.1689,10,702,net,,Berberis aquifolium,https://www.inaturalist.org/observations/23836646
+ , , , ,1447015,,,,28,IV,19,21:23,,,,,,,,USA,OR,Jackson,,,42.0715,-123.1793,10,731,net,,Lomatium,https://www.inaturalist.org/observations/23836690
+ , , , ,1447015,,,,28,IV,19,21:26,,,,,,,,USA,OR,Jackson,,,42.0718,-123.1800,30,731,net,,Berberis aquifolium,https://www.inaturalist.org/observations/23836763
+ , , , ,620505,Judi,J.,Maxwell,28,IV,19,22:14,,,,,,,,USA,OR,Jackson,,,42.0653,-123.1693,6,702,net,,,https://www.inaturalist.org/observations/23865529
+ , , , ,620505,Judi,J.,Maxwell,28,IV,19,22:12,,,,,,,,USA,OR,Jackson,,,42.0656,-123.1691,128,702,net,,Berberis aquifolium,https://www.inaturalist.org/observations/23865731
+ , , , ,620505,Judi,J.,Maxwell,28,IV,19,00:23,,,,,,,,USA,OR,Jackson,,,42.0718,-123.1797,16,731,net,,Lomatium,https://www.inaturalist.org/observations/23866320
+ , , , ,620505,Judi,J.,Maxwell,28,IV,19,00:38,,,,,,,,USA,OR,Jackson,,,42.0715,-123.1795,16,731,net,,,https://www.inaturalist.org/observations/23866811
+ , , , ,841568,Lori,L.,Humphreys,25,IV,19,22:47,,,,,,,,USA,OR,Lane,,,44.0020,-123.1331,,301,net,,Nemophila menziesii,https://www.inaturalist.org/observations/23968162
+ , , , ,841568,Lori,L.,Humphreys,25,IV,19,00:02,,,,,,,,USA,OR,Lane,,,44.0029,-123.1329,,301,net,,Salix,https://www.inaturalist.org/observations/23974440
+ , , , ,1119443,Linda,L.,Zahl,29,IV,19,18:38,,,,,,,,USA,OR,Columbia,,,45.8663,-122.8225,5,52,net,,Camassia quamash,https://www.inaturalist.org/observations/23987873
+ , , , ,1119443,Linda,L.,Zahl,29,IV,19,18:44,30,IV,19,-30IV,16:46,,,USA,OR,Columbia,,,45.8662,-122.8217,5,52,net,,Plectritis congesta brachystemon,https://www.inaturalist.org/observations/23989469
+ , , , ,620505,Judi,J.,Maxwell,29,IV,19,20:26,,,,,,,,USA,OR,Jackson,,,42.4215,-122.9056,16,377,net,,Lasthenia californica,https://www.inaturalist.org/observations/24014917
+ , , , ,620505,Judi,J.,Maxwell,29,IV,19,20:52,,,,,,,,USA,OR,Jackson,,,42.4215,-122.9053,16,377,net,,Ceanothus cuneatus,https://www.inaturalist.org/observations/24021680
+ , , , ,620505,Judi,J.,Maxwell,29,IV,19,23:11,,,,,,,,USA,OR,Jackson,,,42.4805,-122.6731,8,527,net,,Castilleja,https://www.inaturalist.org/observations/24059646
+ , , , ,620505,Judi,J.,Maxwell,29,IV,19,23:16,,,,,,,,USA,OR,Jackson,,,42.4806,-122.6733,32,527,net,,Ranunculus occidentalis,https://www.inaturalist.org/observations/24061339
+ , , , ,841568,Lori,L.,Humphreys,26,IV,19,21:32,,,,,,,,USA,OR,Lane,,,43.9899,-123.0353,20,158,net,,Camassia,https://www.inaturalist.org/observations/24083683
+ , , , ,620505,Judi,J.,Maxwell,29,IV,19,23:11,,,,,,,,USA,OR,Jackson,,,42.4805,-122.6731,6,527,net,,Calochortus tolmiei,https://www.inaturalist.org/observations/24085550
+ , , , ,754260,Ellen,E.,Watrous,29,IV,19,00:47,,,,,,,,USA,OR,Benton,,,44.5989,-123.3157,5,185,net,,,https://www.inaturalist.org/observations/24086661
+ , , , ,841568,Lori,L.,Humphreys,26,IV,19,21:12,,,,,,,,USA,OR,Lane,,,43.9887,-123.0355,,158,net,,Malus,https://www.inaturalist.org/observations/24118355
+ , , , ,841568,Lori,L.,Humphreys,26,IV,19,22:16,,,,,,,,USA,OR,Lane,,,43.9897,-123.0335,,181,net,,,https://www.inaturalist.org/observations/24122442
+ , , , ,841568,Lori,L.,Humphreys,26,IV,19,22:34,,,,,,,,USA,OR,Lane,,,43.9904,-123.0331,,181,net,,Trifolium subterraneum,https://www.inaturalist.org/observations/24122505
+ , , , ,841568,Lori,L.,Humphreys,26,IV,19,22:54,,,,,,,,USA,OR,Lane,,,43.9900,-123.0325,,181,net,,Prunus emarginata,https://www.inaturalist.org/observations/24125282
+ , , , ,841568,Lori,L.,Humphreys,28,IV,19,21:40,,,,,,,,USA,OR,Lane,,,44.0219,-123.1579,,283,net,,Plectritis congesta,https://www.inaturalist.org/observations/24136087
+ , , , ,841568,Lori,L.,Humphreys,28,IV,19,21:54,,,,,,,,USA,OR,Lane,,,44.0212,-123.1584,,283,net,,Lithophragma tenellum,https://www.inaturalist.org/observations/24136927
+ , , , ,841568,Lori,L.,Humphreys,28,IV,19,22:32,,,,,,,,USA,OR,Lane,,,44.0218,-123.1594,,283,net,,Fragaria vesca,https://www.inaturalist.org/observations/24137757
+ , , , ,841568,Lori,L.,Humphreys,28,IV,19,23:04,,,,,,,,USA,OR,Lane,,,44.0273,-123.1592,,191,net,,Arbutus menziesii,https://www.inaturalist.org/observations/24141477
+ , , , ,927865,Natalie,N.,Lozano,28,IV,19,21:07,,,,,,,,USA,OR,Multnomah,,,45.6421,-122.8168,24,9,net,,Brassicaceae,https://www.inaturalist.org/observations/24181550
+ , , , ,927865,Natalie,N.,Lozano,28,IV,19,21:40,,,,,,,,USA,OR,Multnomah,,,45.6435,-122.8188,24,9,net,,Brassicaceae,https://www.inaturalist.org/observations/24181729
+ , , , ,927865,Natalie,N.,Lozano,28,IV,19,21:51,,,,,,,,USA,OR,Multnomah,,,45.6414,-122.8179,16,9,net,,Rubus,https://www.inaturalist.org/observations/24182226
+ , , , ,1560167,,,,30,IV,19,16:27,,,,,,,,USA,OR,Washington,,,45.5663,-122.8604,8,78,net,,Cornus florida,https://www.inaturalist.org/observations/24194531
+ , , , ,1560167,,,,30,IV,19,16:30,,,,,,,,USA,OR,Washington,,,45.5663,-122.8613,4,78,net,,Cistus,https://www.inaturalist.org/observations/24194756
+ , , , ,1560167,,,,30,IV,19,16:37,,,,,,,,USA,OR,Washington,,,45.5655,-122.8636,3,78,net,,Cytisus,https://www.inaturalist.org/observations/24195382
+ , , , ,841568,Lori,L.,Humphreys,30,IV,19,17:15,,,,,,,,USA,OR,Lane,,,43.6811,-123.0766,,270,net,,Dicentra formosa,https://www.inaturalist.org/observations/24199167
+ , , , ,841568,Lori,L.,Humphreys,30,IV,19,17:21,,,,,,,,USA,,,,,,,,,net,,,https://www.inaturalist.org/observations/24199704
+ , , , ,841568,Lori,L.,Humphreys,30,IV,19,17:33,,,,,,,,USA,,,,,,,,,net,,Claytonia sibirica,https://www.inaturalist.org/observations/24202364
+ , , , ,792775,Dan,D.,O'Loughlin,30,IV,19,19:04,,,,,,,,USA,OR,Yamhill,,,45.1706,-123.1856,68,44,net,,Bellis perennis,https://www.inaturalist.org/observations/24208428
+ , , , ,792775,Dan,D.,O'Loughlin,30,IV,19,19:05,,,,,,,,USA,OR,Yamhill,,,45.1706,-123.1856,34,44,net,,,https://www.inaturalist.org/observations/24208449
+ , , , ,752114,Stephanie,S.,Hazen,30,IV,19,23:02,,,,,,,,USA,OR,Marion,,,44.8844,-122.8876,5,137,net,,Rosmarinus officinalis,https://www.inaturalist.org/observations/24230094
+ , , , ,1423344,Jessica,J.,Hird,21,IV,19,00:28,,,,,,,,USA,OR,Columbia,,,45.8813,-122.8928,263,99,net,,,https://www.inaturalist.org/observations/24232250
+ , , , ,1423344,Jessica,J.,Hird,21,IV,19,01:09,,,,,,,,USA,OR,Columbia,,,45.8819,-122.8922,,99,net,,Taraxacum,https://www.inaturalist.org/observations/24232480
+ , , , ,1423344,Jessica,J.,Hird,30,IV,19,19:49,,,,,,,,USA,OR,Columbia,,,45.8302,-122.9632,17,271,net,,Rhododendron,https://www.inaturalist.org/observations/24234364
+ , , , ,1423344,Jessica,J.,Hird,30,IV,19,20:33,,,,,,,,USA,OR,Columbia,,,45.8302,-122.9617,33,271,net,,Taraxacum,https://www.inaturalist.org/observations/24234621
+ , , , ,1423344,Jessica,J.,Hird,30,IV,19,20:47,,,,,,,,USA,OR,Columbia,,,45.8297,-122.9615,,271,net,,,https://www.inaturalist.org/observations/24234814
+ , , , ,327525,Briana,B.,Lindh,30,IV,19,20:33,,,,,,,,USA,OR,Polk,,,45.0223,-123.1458,25,80,net,,Bellis perennis,https://www.inaturalist.org/observations/24239961
+ , , , ,327525,Briana,B.,Lindh,30,IV,19,01:19,,,,,,,,USA,OR,Polk,,,45.0225,-123.1458,22,80,net,,Crataegus,https://www.inaturalist.org/observations/24240100
+ , , , ,327525,Briana,B.,Lindh,30,IV,19,23:15,,,,,,,,USA,OR,Polk,,,45.0224,-123.1476,10,80,net,,Arbutus menziesii,https://www.inaturalist.org/observations/24240347
+ , , , ,327525,Briana,B.,Lindh,30,IV,19,23:23,,,,,,,,USA,OR,Polk,,,45.0216,-123.1500,5,80,net,,Geranium lucidum,https://www.inaturalist.org/observations/24240384
+ , , , ,620505,Judi,J.,Maxwell,30,IV,19,,,,,,,,,USA,OR,Josephine,,,42.0068,-123.5499,24,1388,net,,,https://www.inaturalist.org/observations/24254523
+ , , , ,620505,Judi,J.,Maxwell,30,IV,19,,,,,,,,,USA,OR,Josephine,,,42.0068,-123.5499,32,1388,net,,Arctostaphylos patula,https://www.inaturalist.org/observations/24254662
+ , , , ,1586075,,,,28,IV,19,21:09,,,,,,,,USA,OR,Multnomah,,,45.6421,-122.8168,6,9,net,,Brassicaceae,https://www.inaturalist.org/observations/24256257
+ , , , ,1586075,,,,28,IV,19,21:41,,,,,,,,USA,OR,Multnomah,,,45.6434,-122.8188,7,9,net,,Brassicaceae,https://www.inaturalist.org/observations/24256298
+ , , , ,1586075,,,,28,IV,19,22:00,,,,,,,,USA,OR,Multnomah,,,45.6417,-122.8198,8,9,net,,Berberis aquifolium,https://www.inaturalist.org/observations/24256304
+ , , , ,175529,Jerry,J.,Paul,30,IV,19,19:28,,,,,,,,USA,OR,Lane,,,43.6873,-122.3735,10,487,net,,Berberis aquifolium,https://www.inaturalist.org/observations/24256805
+ , , , ,175529,Jerry,J.,Paul,30,IV,19,21:16,,,,,,,,USA,OR,Lane,,,43.6898,-122.3740,,487,net,,Taraxacum officinale,https://www.inaturalist.org/observations/24256887
+ , , , ,1119443,Linda,L.,Zahl,30,IV,19,18:48,30,IV,19,-30IV,14:19,,,USA,OR,Columbia,,,45.8303,-122.9588,359,271,pan trap,,Bellis perennis,https://www.inaturalist.org/observations/24260176
+ , , , ,1119443,Linda,L.,Zahl,30,IV,19,19:16,,,,,,,,USA,OR,Columbia,,,45.8299,-122.9616,10,271,net,,Taraxacum,https://www.inaturalist.org/observations/24260278
+ , , , ,1119443,Linda,L.,Zahl,30,IV,19,20:47,,,,,,,,USA,OR,Columbia,,,45.8298,-122.9619,5,271,net,,,https://www.inaturalist.org/observations/24260357
+ , , , ,1119443,Linda,L.,Zahl,30,IV,19,21:18,30,IV,19,-30IV,14:18,,,USA,OR,Columbia,,,45.8296,-122.9613,5,271,pan trap,,,https://www.inaturalist.org/observations/24260496
+ , , , ,1119443,Linda,L.,Zahl,30,IV,19,21:33,30,IV,19,-30IV,14:34,,,USA,OR,Columbia,,,45.8297,-122.9613,39689,271,pan trap,,Fragaria vesca,https://www.inaturalist.org/observations/24260524
+ , , , ,1119443,Linda,L.,Zahl,30,IV,19,00:09,,,,,,,,USA,OR,Columbia,,,45.8663,-122.8223,10,52,net,,Toxicoscordion venenosum,https://www.inaturalist.org/observations/24260593
+ , , , ,1119443,Linda,L.,Zahl,30,IV,19,00:18,,,,,,,,USA,OR,Columbia,,,45.8663,-122.8224,5,52,net,,Camassia quamash,https://www.inaturalist.org/observations/24260648
+ , , , ,1119443,Linda,L.,Zahl,30,IV,19,00:52,,,,,,,,USA,OR,Columbia,,,45.8687,-122.8270,5,74,net,,Plectritis,https://www.inaturalist.org/observations/24260672
+ , , , ,829567,,,,1,V,19,19:32,,,,,,,,USA,OR,Crook,,,44.2873,-120.8440,7,873,net,,Salix,https://www.inaturalist.org/observations/24309697
+ , , , ,620505,Judi,J.,Maxwell,1,V,19,19:39,,,,,,,,USA,OR,Jackson,,,42.2199,-123.0381,22151,616,net,,Calochortus tolmiei,https://www.inaturalist.org/observations/24310260
+ , , , ,754260,Ellen,E.,Watrous,1,V,19,20:52,,,,,,,,USA,OR,Benton,,,44.6587,-123.2348,7,127,net,,Insecta,https://www.inaturalist.org/observations/24316534
+ , , , ,754260,Ellen,E.,Watrous,1,V,19,21:37,,,,,,,,USA,OR,Benton,,,44.6572,-123.2354,,135,net,,Claytonia sibirica,https://www.inaturalist.org/observations/24319452
+ , , , ,754260,Ellen,E.,Watrous,1,V,19,22:07,,,,,,,,USA,OR,Benton,,,44.6567,-123.2337,8,127,net,,Camassia leichtlinii,https://www.inaturalist.org/observations/24321686
+ , , , ,1482843,Jesse,J.,Dillow,1,V,19,22:40,,,,,,,,USA,OR,Yamhill,,,45.2739,-123.0110,4,57,net,,Allium schoenoprasum,https://www.inaturalist.org/observations/24323930
+ , , , ,1482843,Jesse,J.,Dillow,1,V,19,23:05,,,,,,,,USA,OR,Yamhill,,,45.2739,-123.0111,9,57,net,,Fragaria,https://www.inaturalist.org/observations/24325815
+ , , , ,752114,Stephanie,S.,Hazen,1,V,19,23:10,,,,,,,,USA,OR,Marion,,,44.8843,-122.8877,5,137,net,,Rosmarinus,https://www.inaturalist.org/observations/24326253
+ , , , ,752114,Stephanie,S.,Hazen,1,V,19,23:11,,,,,,,,USA,OR,Marion,,,44.8843,-122.8878,5,137,net,,Rosmarinus,https://www.inaturalist.org/observations/24326327
+ , , , ,754260,Ellen,E.,Watrous,1,V,19,23:33,,,,,,,,USA,OR,Benton,,,44.6391,-123.2896,12,307,net,,Claytonia sibirica,https://www.inaturalist.org/observations/24328618
+ , , , ,620505,Judi,J.,Maxwell,1,V,19,19:40,,,,,,,,USA,OR,Jackson,,,42.1493,-123.0477,24,535,net,,Lomatium,https://www.inaturalist.org/observations/24336108
+ , , , ,327525,Briana,B.,Lindh,30,IV,19,23:25,,,,,,,,USA,OR,Polk,,,45.0218,-123.1500,30,80,net,,Ranunculus uncinatus,https://www.inaturalist.org/observations/24337412
+ , , , ,327525,Briana,B.,Lindh,1,V,19,22:42,,,,,,,,USA,OR,Polk,,,44.9618,-123.2575,5005,79,net,,Crataegus monogyna,https://www.inaturalist.org/observations/24338449
+ , , , ,327525,Briana,B.,Lindh,1,V,19,23:21,,,,,,,,USA,OR,Polk,,,44.9617,-123.2596,5,79,net,,Valerianella locusta,https://www.inaturalist.org/observations/24338489
+ , , , ,327525,Briana,B.,Lindh,1,V,19,23:40,,,,,,,,USA,OR,Polk,,,44.9641,-123.2604,962,79,net,,Lomatium nudicaule,https://www.inaturalist.org/observations/24338599
+ , , , ,327525,Briana,B.,Lindh,1,V,19,23:49,,,,,,,,USA,OR,Polk,,,44.8752,-123.2239,3870,56,net,,Camassia quamash,https://www.inaturalist.org/observations/24338656
+ , , , ,620505,Judi,J.,Maxwell,1,V,19,05:35,,,,,,,,USA,OR,Jackson,,,42.1492,-123.0477,,535,net,,Dichelostemma,https://www.inaturalist.org/observations/24351062
+ , , , ,620505,Judi,J.,Maxwell,1,V,19,22:40,,,,,,,,USA,OR,Jackson,,,42.1494,-123.0476,65,535,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/24351364
+ , , , ,620505,Judi,J.,Maxwell,1,V,19,05:50,,,,,,,,USA,OR,Jackson,,,42.1492,-123.0477,,535,net,,Senecio,https://www.inaturalist.org/observations/24351953
+ , , , ,1447015,,,,1,V,19,19:21,,,,,,,,USA,OR,Jackson,,,42.1496,-123.0485,22,535,net,,Lomatium,https://www.inaturalist.org/observations/24368306
+ , , , ,1447015,,,,1,V,19,19:23,,,,,,,,USA,OR,Jackson,,,42.1496,-123.0485,5,535,net,,Calochortus,https://www.inaturalist.org/observations/24368314
+ , , , ,829567,,,,2,V,19,19:15,,,,,,,,USA,OR,Crook,,,44.2310,-120.9944,9,1011,net,,Magnoliopsida,https://www.inaturalist.org/observations/24390581
+ , , , ,754260,Ellen,E.,Watrous,2,V,19,19:39,,,,,,,,USA,OR,Wasco,,,45.6784,-121.3064,6,229,net,,Lomatium nudicaule,https://www.inaturalist.org/observations/24392246
+ , , , ,1462047,,,,2,V,19,22:05,,,,,,,,USA,OR,Washington,,,45.4483,-122.8695,5,189,net,,Geranium lucidum,https://www.inaturalist.org/observations/24401546
+ , , , ,1462047,,,,2,V,19,22:26,,,,,,,,USA,OR,Washington,,,45.4481,-122.8694,5,189,net,,,https://www.inaturalist.org/observations/24401861
+ , , , ,1462047,,,,2,V,19,22:40,,,,,,,,USA,OR,Washington,,,45.4480,-122.8698,5005,189,net,,Iris tenax,https://www.inaturalist.org/observations/24402306
+ , , , ,1450900,,,,9,II,19,12:49,,,,,,,,USA,OR,Benton,,,44.5943,-123.2347,65,61,net,,Bombus caliginosus,https://www.inaturalist.org/observations/24403485
+ , , , ,752114,Stephanie,S.,Hazen,2,V,19,23:13,,,,,,,,USA,OR,Marion,,,44.8949,-122.8865,5,133,net,,Plectritis congesta,https://www.inaturalist.org/observations/24404055
+ , , , ,752114,Stephanie,S.,Hazen,2,V,19,23:18,,,,,,,,USA,OR,Marion,,,44.8948,-122.8862,5,133,net,,Plectritis congesta,https://www.inaturalist.org/observations/24404351
+ , , , ,1462047,,,,2,V,19,23:21,,,,,,,,USA,OR,Washington,,,45.4485,-122.8687,30,189,net,,Marah oregana,https://www.inaturalist.org/observations/24404602
+ , , , ,752114,Stephanie,S.,Hazen,2,V,19,23:25,,,,,,,,USA,OR,Marion,,,44.8951,-122.8856,10,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/24404919
+ , , , ,752114,Stephanie,S.,Hazen,2,V,19,23:28,,,,,,,,USA,OR,Marion,,,44.8952,-122.8854,5,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/24405055
+ , , , ,752114,Stephanie,S.,Hazen,2,V,19,23:31,,,,,,,,USA,OR,Marion,,,44.8952,-122.8853,5,126,net,,Lomatium utriculatum,https://www.inaturalist.org/observations/24405192
+ , , , ,752114,Stephanie,S.,Hazen,2,V,19,23:36,,,,,,,,USA,OR,Marion,,,44.8953,-122.8857,5,126,net,,Camassia leichtlinii,https://www.inaturalist.org/observations/24405555
+ , , , ,752114,Stephanie,S.,Hazen,2,V,19,23:38,,,,,,,,USA,OR,Marion,,,44.8954,-122.8857,5,126,net,,Camassia leichtlinii,https://www.inaturalist.org/observations/24405735
+ , , , ,752114,Stephanie,S.,Hazen,2,V,19,23:46,,,,,,,,USA,OR,Marion,,,44.8953,-122.8857,5,126,net,,Camassia quamash,https://www.inaturalist.org/observations/24406167
+ , , , ,752114,Stephanie,S.,Hazen,2,V,19,00:03,,,,,,,,USA,OR,Marion,,,44.8951,-122.8875,5,126,net,,Iris tenax,https://www.inaturalist.org/observations/24407072
+ , , , ,1462047,,,,2,V,19,00:05,,,,,,,,USA,OR,Washington,,,45.4512,-122.8698,10,189,net,,Vicia sativa,https://www.inaturalist.org/observations/24407223
+ , , , ,327525,Briana,B.,Lindh,2,V,19,20:17,,,,,,,,USA,OR,Marion,,,44.9355,-123.0307,65,48,net,,Prunus laurocerasus,https://www.inaturalist.org/observations/24413532
+ , , , ,327525,Briana,B.,Lindh,2,V,19,20:34,,,,,,,,USA,OR,Marion,,,44.9355,-123.0294,50,48,net,,Camassia quamash,https://www.inaturalist.org/observations/24413951
+ , , , ,327525,Briana,B.,Lindh,2,V,19,20:45,,,,,,,,USA,OR,Marion,,,44.9341,-123.0291,65,47,net,,Limnanthes douglasii,https://www.inaturalist.org/observations/24414619
+ , , , ,327525,Briana,B.,Lindh,2,V,19,20:51,,,,,,,,USA,OR,Marion,,,44.9344,-123.0286,5,47,net,,Aronia,https://www.inaturalist.org/observations/24414688
+ , , , ,327525,Briana,B.,Lindh,2,V,19,20:58,,,,,,,,USA,OR,Marion,,,44.9348,-123.0302,10,47,net,,Eschscholzia californica,https://www.inaturalist.org/observations/24416524
+ , , , ,327525,Briana,B.,Lindh,2,V,19,21:11,,,,,,,,USA,OR,Marion,,,44.9362,-123.0293,189,48,net,,Crataegus,https://www.inaturalist.org/observations/24416648
+ , , , ,327525,Briana,B.,Lindh,2,V,19,21:16,,,,,,,,USA,OR,Marion,,,44.9365,-123.0290,1451,48,net,,Ceanothus,https://www.inaturalist.org/observations/24416851
+ , , , ,327525,Briana,B.,Lindh,2,V,19,22:00,,,,,,,,USA,OR,Marion,,,44.9308,-123.0324,65,47,net,,Claytonia sibirica,https://www.inaturalist.org/observations/24417142
+ , , , ,327525,Briana,B.,Lindh,2,V,19,22:09,,,,,,,,USA,OR,Marion,,,44.9291,-123.0319,66,47,net,,Camassia quamash,https://www.inaturalist.org/observations/24417270
+ , , , ,770229,Joe,J.,Engler,2,V,19,21:42,,,,,,,,USA,OR,Clackamas,,,45.3826,-121.8737,17,603,net,,Salix,https://www.inaturalist.org/observations/24420325
+ , , , ,770229,Joe,J.,Engler,2,V,19,22:00,,,,,,,,USA,OR,Clackamas,,,45.3825,-121.8747,8,603,net,,Vaccinium,https://www.inaturalist.org/observations/24420350
+ , , , ,754260,Ellen,E.,Watrous,2,V,19,19:53,,,,,,,,USA,OR,Wasco,,,45.6785,-121.3065,5,229,net,,Lomatium triternatum,https://www.inaturalist.org/observations/24425154
+ , , , ,754260,Ellen,E.,Watrous,2,V,19,19:57,,,,,,,,USA,OR,Wasco,,,45.6784,-121.3065,6,229,net,,,https://www.inaturalist.org/observations/24425177
+ , , , ,754260,Ellen,E.,Watrous,2,V,19,20:08,,,,,,,,USA,OR,Wasco,,,45.6783,-121.3062,6,229,net,,Balsamorhiza careyana,https://www.inaturalist.org/observations/24425183
+ , , , ,754260,Ellen,E.,Watrous,2,V,19,21:05,,,,,,,,USA,OR,Wasco,,,45.6761,-121.2986,8,138,net,,Ceanothus integerrimus,https://www.inaturalist.org/observations/24425193
+ , , , ,754260,Ellen,E.,Watrous,2,V,19,21:07,,,,,,,,USA,OR,Wasco,,,45.6761,-121.2980,7,138,net,,Lomatium triternatum,https://www.inaturalist.org/observations/24425204
+ , , , ,754260,Ellen,E.,Watrous,2,V,19,21:21,,,,,,,,USA,OR,Wasco,,,45.6759,-121.2979,9,138,net,,Lomatium dissectum,https://www.inaturalist.org/observations/24425209
+ , , , ,754260,Ellen,E.,Watrous,2,V,19,21:41,,,,,,,,USA,OR,Wasco,,,45.6758,-121.2951,8,138,net,,Lomatium triternatum,https://www.inaturalist.org/observations/24425243
+ , , , ,1447015,,,,3,V,19,18:44,,,,,,,,USA,OR,Josephine,,,42.3447,-123.6197,5,745,net,,,https://www.inaturalist.org/observations/24457787
+ , , , ,1447015,,,,3,V,19,19:55,,,,,,,,USA,OR,Josephine,,,42.3569,-123.6588,5,1280,net,,,https://www.inaturalist.org/observations/24462254
+ , , , ,754260,Ellen,E.,Watrous,3,V,19,20:17,,,,,,,,USA,OR,Benton,,,44.6319,-123.1969,5,70,net,,Nemophila maculata,https://www.inaturalist.org/observations/24463819
+ , , , ,754260,Ellen,E.,Watrous,3,V,19,20:30,,,,,,,,USA,OR,Benton,,,44.6318,-123.1970,7,70,net,,Layia platyglossa,https://www.inaturalist.org/observations/24464544
