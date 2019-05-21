@@ -1,4 +1,5 @@
-Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Sample ID,Specimen ID,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL, , , , ,927865,natalielozano,Natalie,N.,Lozano,,,10,V,2019,13:37,,,,,,USA,OR,Multnomah,Portland,,45.4983,-122.6018,22,69,net,Papaveraceae,Eschscholzia californica,https://www.inaturalist.org/observations/24898600
+Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Sample ID,Specimen ID,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL,
+ , , , ,927865,natalielozano,Natalie,N.,Lozano,,,10,V,2019,13:37,,,,,,USA,OR,Multnomah,Portland,,45.4983,-122.6018,22,69,net,Papaveraceae,Eschscholzia californica,https://www.inaturalist.org/observations/24898600
  , , , ,890797,tiliamae,,,,,,10,V,2019,14:03,,,,,,USA,OR,Josephine,Cave Junction,,42.0957,-123.6840,10,425,net,Papaveraceae,Eschscholzia californica,https://www.inaturalist.org/observations/24898973
  , , , ,1492386,michelesims,Michele,M.,Sims,,,10,V,2019,13:53,,,,,,USA,OR,Jefferson,,,44.4727,-121.6387,5,888,net,Grossulariaceae,Ribes viscosissimum,https://www.inaturalist.org/observations/24904351
  , , , ,1492386,michelesims,Michele,M.,Sims,,,10,V,2019,14:17,,,,,,USA,OR,Jefferson,,,44.4824,-121.6395,10,885,net,Berberidaceae,Berberis aquifolium,https://www.inaturalist.org/observations/24904371
@@ -9,12 +10,12 @@ Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iN
  , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.8939,-122.8846,5,134,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/24905735
  , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,16:39,,,,,,USA,OR,Marion,Salem,,44.8939,-122.8845,5,134,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/24906014
  , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,16:44,,,,,,USA,OR,Marion,Salem,,44.8939,-122.8845,5,134,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/24906224
- , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,-7:00,,,,,,USA,OR,Marion,Salem,,44.8954,-122.8855,5,126,net,Apiaceae,Lomatium,https://www.inaturalist.org/observations/24907042
- , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,-7:02,,,,,,USA,OR,Marion,Salem,,44.8954,-122.8854,5,126,net,,,https://www.inaturalist.org/observations/24907075
- , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,-7:03,,,,,,USA,OR,Marion,Salem,,44.8954,-122.8855,5,126,net,Apiaceae,Lomatium,https://www.inaturalist.org/observations/24907141
- , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,-7:05,,,,,,USA,OR,Marion,Salem,,44.8953,-122.8855,5,126,net,,,https://www.inaturalist.org/observations/24907240
- , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,-7:22,,,,,,USA,OR,Marion,Salem,,44.8954,-122.8863,5,126,net,Malvaceae,Sidalcea malviflora,https://www.inaturalist.org/observations/24908027
- , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,-7:38,,,,,,USA,OR,Marion,Salem,,44.8968,-122.8881,5,126,net,Fabaceae,Lupinus,https://www.inaturalist.org/observations/24908588
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,17:00,,,,,,USA,OR,Marion,Salem,,44.8954,-122.8855,5,126,net,Apiaceae,Lomatium,https://www.inaturalist.org/observations/24907042
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,17:02,,,,,,USA,OR,Marion,Salem,,44.8954,-122.8854,5,126,net,,,https://www.inaturalist.org/observations/24907075
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,17:03,,,,,,USA,OR,Marion,Salem,,44.8954,-122.8855,5,126,net,Apiaceae,Lomatium,https://www.inaturalist.org/observations/24907141
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,17:05,,,,,,USA,OR,Marion,Salem,,44.8953,-122.8855,5,126,net,,,https://www.inaturalist.org/observations/24907240
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,17:22,,,,,,USA,OR,Marion,Salem,,44.8954,-122.8863,5,126,net,Malvaceae,Sidalcea malviflora,https://www.inaturalist.org/observations/24908027
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,17:38,,,,,,USA,OR,Marion,Salem,,44.8968,-122.8881,5,126,net,Fabaceae,Lupinus,https://www.inaturalist.org/observations/24908588
  , , , ,890797,tiliamae,,,,,,10,V,2019,14:32,,,,,,USA,OR,Josephine,Cave Junction,,42.0958,-123.6851,5,426,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/24911415
  , , , ,890797,tiliamae,,,,,,10,V,2019,12:06,,,,,,USA,OR,Josephine,Cave Junction,,42.0067,-123.5500,5,1388,net,Grossulariaceae,Ribes sanguineum,https://www.inaturalist.org/observations/24915413
  , , , ,754260,ellenwatrous,Ellen,E.,Watrous,,,10,V,2019,10:33,,,,,,USA,OR,Josephine,Cave Junction,,42.0067,-123.5499,4,1388,net,,,https://www.inaturalist.org/observations/24922466
@@ -39,7 +40,7 @@ Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iN
  , , , ,1586075,pseudoamazon,,,,,,10,V,2019,12:29,,,,,,USA,OR,Josephine,,,42.0082,-123.5504,8,1388,net,Ericaceae,Arctostaphylos,https://www.inaturalist.org/observations/24964397
  , , , ,1586075,pseudoamazon,,,,,,10,V,2019,13:13,,,,,,USA,OR,Josephine,,,42.0066,-123.5483,9,1388,net,Ericaceae,Arctostaphylos,https://www.inaturalist.org/observations/24964415
  , , , ,1482843,jdillow,Jesse,J.,Dillow,,,11,V,2019,14:53,,,,,,USA,OR,Yamhill,Newberg,,45.3041,-122.9635,7,56,net,Rosaceae,Physocarpus opulifolius,https://www.inaturalist.org/observations/24969364
- , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,-7:40,,,,,,USA,OR,Marion,Salem,,44.8949,-122.8885,101,133,net,,,https://www.inaturalist.org/observations/24969756
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,,,10,V,2019,17:40,,,,,,USA,OR,Marion,Salem,,44.8949,-122.8885,101,133,net,,,https://www.inaturalist.org/observations/24969756
  , , , ,1462047,marksg,,,,,,10,V,2019,10:46,,,,,,USA,OR,Josephine,,,42.0068,-123.5494,10,1388,net,Ericaceae,Arctostaphylos,https://www.inaturalist.org/observations/24995629
  , , , ,1462047,marksg,,,,,,10,V,2019,12:01,,,,,,USA,OR,Josephine,,,42.0084,-123.5508,10,1388,net,,,https://www.inaturalist.org/observations/24995648
  , , , ,1462047,marksg,,,,,,10,V,2019,13:25,,,,,,USA,OR,Josephine,,,42.0060,-123.5490,,1388,net,Ericaceae,Arctostaphylos,https://www.inaturalist.org/observations/24995681
@@ -107,7 +108,7 @@ Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iN
  , , , ,843723,pandg,,,,,,11,V,2019,14:30,,,,,,USA,OR,Wheeler,,,44.9760,-119.7210,,1399,net,Apiaceae,Lomatium,https://www.inaturalist.org/observations/25238481
  , , , ,843723,pandg,,,,,,11,V,2019,16:00,,,,,,USA,OR,Wheeler,,,45.0030,-119.8660,,1329,net,Grossulariaceae,Ribes cereum,https://www.inaturalist.org/observations/25238684
  , , , ,843723,pandg,,,,,,11,V,2019,16:20,,,,,,USA,OR,Wheeler,,,45.0010,-119.8710,,1329,net,Rosaceae,Prunus emarginata,https://www.inaturalist.org/observations/25238838
- , , , ,843723,pandg,,,,,,11,V,2019,-7:00,,,,,,USA,OR,Wheeler,,,45.0010,-119.8710,,1329,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25238911
+ , , , ,843723,pandg,,,,,,11,V,2019,17:00,,,,,,USA,OR,Wheeler,,,45.0010,-119.8710,,1329,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25238911
  , , , ,843723,pandg,,,,,,12,V,2019,11:25,,,,,,USA,OR,Wheeler,,,44.8080,-119.9680,,528,net,Fabaceae,Lupinus,https://www.inaturalist.org/observations/25239024
  , , , ,843723,pandg,,,,,,12,V,2019,14:50,,,,,,USA,OR,Wheeler,,,44.8950,-120.1040,,1063,net,Rosaceae,Prunus emarginata,https://www.inaturalist.org/observations/25239125
  , , , ,843723,pandg,,,,,,13,V,2019,11:30,,,,,,USA,OR,Crook,,,44.4390,-120.5830,,1134,net,Grossulariaceae,Ribes cereum,https://www.inaturalist.org/observations/25239236
@@ -116,14 +117,14 @@ Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iN
  , , , ,843723,pandg,,,,,,13,V,2019,14:15,,,,,,USA,OR,Crook,,,44.4700,-120.6250,,1411,net,Rosaceae,Prunus emarginata,https://www.inaturalist.org/observations/25239493
  , , , ,1561159,jocelyn_mcauley,,,,,,17,V,2019,12:28,,,,,,USA,OR,Multnomah,Portland,,45.5315,-122.6090,5,68,net,Papaveraceae,Eschscholzia californica,https://www.inaturalist.org/observations/25275916
  , , , ,1462047,marksg,,,,,,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
- , , , ,1462047,marksg,,,,,,17,V,2019,-7:13,,,,,,USA,OR,Washington,Beaverton,,45.5019,-122.8374,10,52,net,Fabaceae,Cytisus scoparius,https://www.inaturalist.org/observations/25292638
+ , , , ,1462047,marksg,,,,,,17,V,2019,17:13,,,,,,USA,OR,Washington,Beaverton,,45.5019,-122.8374,10,52,net,Fabaceae,Cytisus scoparius,https://www.inaturalist.org/observations/25292638
  , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,16,V,2019,15:32,,,,,,USA,OR,Josephine,,,42.3583,-123.4161,24,292,net,,,https://www.inaturalist.org/observations/25301722
- , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,17,V,2019,-7:02,,,,,,USA,OR,Josephine,,,42.3567,-123.4110,,310,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25301809
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,17,V,2019,17:02,,,,,,USA,OR,Josephine,,,42.3567,-123.4110,,310,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25301809
  , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,17,V,2019,15:59,,,,,,USA,OR,Josephine,,,42.3525,-123.3804,4116,300,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25301892
  , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
- , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,17,V,2019,-7:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
- , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,17,V,2019,-7:37,,,,,,USA,OR,Josephine,,,42.3581,-123.4150,,292,net,Liliaceae,Calochortus uniflorus,https://www.inaturalist.org/observations/25302008
- , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,17,V,2019,-6:13,,,,,,USA,OR,Josephine,,,42.3592,-123.4134,48,310,net,Asteraceae,Achillea millefolium,https://www.inaturalist.org/observations/25302036
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,17,V,2019,17:37,,,,,,USA,OR,Josephine,,,42.3581,-123.4150,,292,net,Liliaceae,Calochortus uniflorus,https://www.inaturalist.org/observations/25302008
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,,,17,V,2019,18:13,,,,,,USA,OR,Josephine,,,42.3592,-123.4134,48,310,net,Asteraceae,Achillea millefolium,https://www.inaturalist.org/observations/25302036
  , , , ,1445987,vettaesteel,,,,,,13,V,2019,12:28,,,,,,USA,OR,Josephine,,,42.3585,-123.4141,17,310,net,,,https://www.inaturalist.org/observations/25341753
  , , , ,327525,brianalindh,Briana,B.,Lindh,,,12,V,2019,11:54,,,,,,USA,OR,Marion,Lyons,,44.8156,-122.6097,30,442,net,Rosaceae,Rubus spectabilis,https://www.inaturalist.org/observations/25350794
  , , , ,327525,brianalindh,Briana,B.,Lindh,,,12,V,2019,12:08,,,,,,USA,OR,Marion,Lyons,,44.7947,-122.5673,10,228,net,Rosaceae,Fragaria vesca,https://www.inaturalist.org/observations/25350921
