@@ -38,17 +38,24 @@ def collector_name(in_file, user_name):
     return "","",""
 
 def date_1(in_date):
+    print("date: ",in_date)
+    month_numeral = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XIII']
+
     # Check input
     if in_date == '':
         return '','',''
-    # Init vars
-    in_date = in_date.split('/')
-    month_numeral = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XIII']
-    # Parse values from full date string
-    day = in_date[1]
-    # Reference numeral array
-    month = month_numeral[int(in_date[0]) - 1]
-    year = in_date[2]
+    date = in_date.split('/')
+    #print("date split by /:",date)
+    if len(date) > 1:
+        day = date[1]
+        month = month_numeral[int(date[0]) - 1]
+        year = date[2]
+    else:
+        #print("date split by /:",date)
+        date = in_date.split('-')
+        day = date[2]
+        month = month_numeral[int(date[1]) - 1]
+        year = date[0]
     return day, month, year
 
 def time_1(in_time):
@@ -173,7 +180,7 @@ def read_elevation_csv(elevation_file, lat, long):
     with open(elevation_file) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
-            if str(row[0]) == lat_rounded and str(row[1]) == long_rounded:
+            if len(row) > 1 and str(row[0]) == lat_rounded and str(row[1]) == long_rounded:
                 return row[2]
     return ''
 
