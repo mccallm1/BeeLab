@@ -67,7 +67,10 @@ def time_1(in_time):
     # Split time word by : to separate hours, mins, secs
     return_time = in_time[1].split(':')
     # Convert from UTC to PST by -7
-    return_time[0] = str(int(return_time[0]) - 7)
+    if (int(return_time[0]) - 7) < 6:
+        return_time[0] = str(int(return_time[0]) + 24 - 7)
+    else:
+        return_time[0] = str(int(return_time[0]) - 7)
     # Reattach the hours and minutes, leaving out seconds
     return_time = return_time[0] + ":" + return_time[1]
     return return_time

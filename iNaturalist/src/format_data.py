@@ -208,7 +208,7 @@ def print_out_header(line_to_print, csv_file):
             if index < len(line_to_print):
                 file.write(',')
         # Append newline as the last step to start the next row
-        #file.write("\n")
+        file.write("\n")
 
 def print_out_row(line_to_print, csv_file):
     #print(line_to_print)
@@ -406,6 +406,8 @@ def gen_output(out_header, out_file, in_header, in_data):
                     for i in range(1, int(specimenid)+1):
                         out_row[search_header(out_header,"Specimen ID")] = i
                         print_out_row(out_row,out_file)
+                else:
+                    print_out_row(out_row,out_file)
             except ValueError:
                 pass  # it was a string, not an int.
                 print_out_row(out_row,out_file)
@@ -449,7 +451,7 @@ def main():
     print()
 
     # Sort columns before writing output
-    output_header = "Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Sample ID,Specimen ID,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL".split(",")
+    output_header = "Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Sample ID,Specimen ID,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL".split(",")
     # Revisit
     #output_header2 = read_xlsx_header("data/4_16_19/Output_from_Script.xlsx","Sheet1")
     #print(output_header2)
