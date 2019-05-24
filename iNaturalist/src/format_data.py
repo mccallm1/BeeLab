@@ -296,7 +296,7 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(l_name)
 
         # Sample ID
-        sampleid = check_for_cols(in_header, in_row, "field:sample id")
+        sampleid = check_for_cols(in_header, in_row, "field:sample id.")
         out_row.append(sampleid)
 
         # Specimen ID
