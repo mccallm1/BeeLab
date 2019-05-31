@@ -1,0 +1,670 @@
+id,observed_on,time_observed_at,user_id,user_login,url,scientific_name,taxon_family_name,field:number of bees collected,field:sample id.
+22663985,2019-04-18,2019-04-18 17:42:01 UTC,792468,molfamily,https://www.inaturalist.org/observations/22663985,Taraxacum officinale,Asteraceae,54,276
+22668320,2019-04-18,2019-04-18 18:15:29 UTC,792468,molfamily,https://www.inaturalist.org/observations/22668320,Taraxacum officinale,Asteraceae,20,277
+22670414,2019-04-18,2019-04-18 19:06:07 UTC,792468,molfamily,https://www.inaturalist.org/observations/22670414,Ribes aureum,Grossulariaceae,6,278
+22671123,2019-04-18,2019-04-18 19:21:07 UTC,792468,molfamily,https://www.inaturalist.org/observations/22671123,Mahonia,Berberidaceae,2,279
+22672474,2019-04-18,2019-04-18 19:50:50 UTC,792468,molfamily,https://www.inaturalist.org/observations/22672474,Brassica rapa,Brassicaceae,6,280
+22673289,2019-04-18,2019-04-18 20:06:30 UTC,792468,molfamily,https://www.inaturalist.org/observations/22673289,Salix,Salicaceae,9,281
+22675271,2019-04-18,2019-04-18 18:46:49 UTC,1462047,marksg,https://www.inaturalist.org/observations/22675271,Salicaceae,Salicaceae,5,16
+22675699,2019-04-18,2019-04-18 21:07:04 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/22675699,Berberis aquifolium,Berberidaceae,12,202
+22675862,2019-04-18,2019-04-18 21:13:11 UTC,792468,molfamily,https://www.inaturalist.org/observations/22675862,Prunus,Rosaceae,1,282
+22676025,2019-04-18,2019-04-18 21:16:42 UTC,808137,robmor,https://www.inaturalist.org/observations/22676025,Berberis aquifolium,Berberidaceae,4,2
+22676998,2019-04-18,2019-04-18 18:22:29 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22676998,Lonicera involucrata,Caprifoliaceae,2,56
+22677016,2019-04-18,2019-04-18 20:44:10 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22677016,Gaultheria shallon,Ericaceae,1,57
+22677063,2019-04-18,2019-04-18 21:40:18 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22677063,Gaultheria shallon,Ericaceae,1,58
+22677126,2019-04-18,2019-04-18 21:37:21 UTC,808137,robmor,https://www.inaturalist.org/observations/22677126,Viburnum tinus,Viburnaceae,1,3
+22677186,2019-04-18,2019-04-18 21:42:38 UTC,792468,molfamily,https://www.inaturalist.org/observations/22677186,Berberis aquifolium,Berberidaceae,3,283
+22677584,2019-04-18,2019-04-18 21:50:49 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/22677584,Eschscholzia californica,Papaveraceae,1,203
+22677674,2019-04-18,2019-04-18 21:54:30 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22677674,Rubus ursinus,Rosaceae,2,59
+22678189,2019-04-18,2019-04-18 19:49:13 UTC,792775,dto,https://www.inaturalist.org/observations/22678189,Brassica rapa,Brassicaceae,4,77
+22678223,2019-04-18,2019-04-18 20:08:28 UTC,792775,dto,https://www.inaturalist.org/observations/22678223,Salix,Salicaceae,10,77
+22678245,2019-04-18,2019-04-18 20:59:50 UTC,792775,dto,https://www.inaturalist.org/observations/22678245,Conium maculatum,Apiaceae,1,78
+22678263,2019-04-18,2019-04-18 21:11:20 UTC,792775,dto,https://www.inaturalist.org/observations/22678263,Prunus emarginata,Rosaceae,6,80
+22678278,2019-04-18,2019-04-18 21:43:15 UTC,792775,dto,https://www.inaturalist.org/observations/22678278,Taraxacum officinale,Asteraceae,3,81
+22679512,2019-04-18,2019-04-18 22:30:04 UTC,1566342,laura947,https://www.inaturalist.org/observations/22679512,Ribes sanguineum,Grossulariaceae,5,2019iv18.1
+22680222,2019-04-18,2019-04-18 22:49:16 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22680222,Lithodora,Boraginaceae,4,60
+22680873,2019-04-18,2019-04-18 23:10:52 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22680873,Ericaceae,Ericaceae,1,61
+22681687,2019-04-18,2019-04-18 23:30:04 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22681687,,,3,62
+22681717,2019-04-18,2019-04-18 21:15:29 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/22681717,Berberis aquifolium,Berberidaceae,16,74
+22681758,2019-04-18,2019-04-18 23:29:09 UTC,1546088,scotttienken,https://www.inaturalist.org/observations/22681758,Brassica rapa,Brassicaceae,1,1
+22681840,2019-04-18,2019-04-18 23:35:05 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22681840,Vaccinium ovatum,Ericaceae,2,63
+22681954,2019-04-18,2019-04-18 23:39:41 UTC,792468,molfamily,https://www.inaturalist.org/observations/22681954,Brassica rapa,Brassicaceae,4,285
+22681982,2019-04-18,2019-04-18 23:40:09 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22681982,Vaccinium ovatum,Ericaceae,1,62
+22682080,2019-04-18,2019-04-18 23:41:24 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22682080,Vaccinium ovatum,Ericaceae,1,64
+22682244,2019-04-18,2019-04-18 23:46:04 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22682244,Vaccinium ovatum,Ericaceae,1,65
+22682501,2019-04-18,2019-04-18 23:51:59 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22682501,Vaccinium ovatum,Ericaceae,1,66
+22682613,2019-04-18,2019-04-18 23:54:15 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22682613,Vaccinium ovatum,Ericaceae,1,60
+22682788,2019-04-18,2019-04-18 23:59:11 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22682788,Vaccinium ovatum,Ericaceae,1,68
+22682937,2019-04-18,2019-04-19 00:02:11 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22682937,Vaccinium ovatum,Ericaceae,1,69
+22685002,2019-04-18,2019-04-18 21:28:09 UTC,733757,pattiwittrup,https://www.inaturalist.org/observations/22685002,Berberis aquifolium,Berberidaceae,3,1
+22686122,2019-04-18,2019-04-19 00:34:30 UTC,792468,molfamily,https://www.inaturalist.org/observations/22686122,Vitaceae,Vitaceae,1,285
+22687493,2019-04-18,2019-04-18 21:17:56 UTC,327525,brianalindh,https://www.inaturalist.org/observations/22687493,Amelanchier alnifolia,Rosaceae,1,33
+22687604,2019-04-18,2019-04-18 21:28:03 UTC,327525,brianalindh,https://www.inaturalist.org/observations/22687604,Arbutus menziesii,Ericaceae,6,34
+22688110,2019-04-18,2019-04-18 21:35:38 UTC,327525,brianalindh,https://www.inaturalist.org/observations/22688110,Ranunculus,Ranunculaceae,3,35
+22688327,2019-04-18,2019-04-18 21:44:45 UTC,327525,brianalindh,https://www.inaturalist.org/observations/22688327,Taraxacum officinale,Asteraceae,1,36
+22688474,2019-04-18,2019-04-18 22:37:50 UTC,327525,brianalindh,https://www.inaturalist.org/observations/22688474,Prunus,Rosaceae,2,37
+22704483,2019-04-18,2019-04-18 21:06:28 UTC,1467407,richwittrup,https://www.inaturalist.org/observations/22704483,Berberis aquifolium,Berberidaceae,7,2
+22705558,2019-04-18,2019-04-18 19:24:56 UTC,770229,englerj,https://www.inaturalist.org/observations/22705558,Berberis aquifolium,Berberidaceae,1,4
+22705581,2019-04-18,2019-04-18 19:51:17 UTC,770229,englerj,https://www.inaturalist.org/observations/22705581,Brassica rapa,Brassicaceae,4,3
+22705604,2019-04-18,2019-04-18 20:08:51 UTC,770229,englerj,https://www.inaturalist.org/observations/22705604,Salix,Salicaceae,7,2
+22705625,2019-04-18,2019-04-18 21:43:52 UTC,770229,englerj,https://www.inaturalist.org/observations/22705625,Ribes sanguineum,Grossulariaceae,4,1
+22707355,2019-04-18,,620505,judithmaxwell,https://www.inaturalist.org/observations/22707355,Erythronium,Liliaceae,2,22
+22707458,2019-04-18,,620505,judithmaxwell,https://www.inaturalist.org/observations/22707458,Ranunculus occidentalis,Ranunculaceae,8,23
+22707580,2019-04-18,2019-04-19 00:50:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22707580,Ceanothus cuneatus,Rhamnaceae,6,24
+22707894,2019-04-18,,620505,judithmaxwell,https://www.inaturalist.org/observations/22707894,Arctostaphylos,Ericaceae,2,25
+22708009,2019-04-18,,620505,judithmaxwell,https://www.inaturalist.org/observations/22708009,Boraginaceae,Boraginaceae,3,26
+22709776,2019-04-18,2019-04-18 23:15:13 UTC,1566342,laura947,https://www.inaturalist.org/observations/22709776,Ribes divaricatum,Grossulariaceae,3,2019iv18.2
+22715711,2019-04-18,2019-04-18 18:57:00 UTC,1539907,pdxmartha,https://www.inaturalist.org/observations/22715711,Viburnum carlesii,Viburnaceae,4,2
+22715873,2019-04-18,2019-04-18 18:55:00 UTC,1539907,pdxmartha,https://www.inaturalist.org/observations/22715873,Ribes grossularia,Grossulariaceae,5,1
+22716045,2019-04-18,2019-04-18 21:00:00 UTC,1539907,pdxmartha,https://www.inaturalist.org/observations/22716045,Eruca vesicaria,Brassicaceae,1,3
+22718655,2019-04-19,2019-04-19 18:48:26 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22718655,Lomatium,Apiaceae,1,27
+22719542,2019-04-19,2019-04-19 19:06:31 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/22719542,Lomatium,Apiaceae,4,""
+22724581,2019-04-19,2019-04-19 20:56:09 UTC,1445574,janknapik,https://www.inaturalist.org/observations/22724581,Arctostaphylos,Ericaceae,1,2
+22727655,2019-04-19,2019-04-19 22:01:36 UTC,860617,laustin,https://www.inaturalist.org/observations/22727655,Ranunculus occidentalis,Ranunculaceae,1,1
+22727909,2019-04-19,2019-04-19 18:49:06 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22727909,Arctostaphylos viscida,Ericaceae,2,28
+22727923,2019-04-19,2019-04-19 22:09:22 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22727923,Ranunculus occidentalis,Ranunculaceae,3,29
+22730181,2019-04-19,2019-04-19 23:01:55 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22730181,Fragaria,Rosaceae,1,30
+22730305,2019-04-19,2019-04-19 23:03:58 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22730305,Ceanothus cuneatus,Rhamnaceae,1,31
+22730425,2019-04-19,2019-04-19 23:01:57 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/22730425,Ranunculus occidentalis,Ranunculaceae,3,7
+22740941,2019-04-18,2019-04-18 21:49:26 UTC,841568,lohump,https://www.inaturalist.org/observations/22740941,,,19,1
+22741029,2019-04-18,2019-04-18 22:05:57 UTC,841568,lohump,https://www.inaturalist.org/observations/22741029,,,4,2
+22741138,2019-04-18,2019-04-18 22:50:48 UTC,841568,lohump,https://www.inaturalist.org/observations/22741138,Salix,Salicaceae,9,3
+22776191,2019-04-20,2019-04-20 20:37:26 UTC,1482843,jdillow,https://www.inaturalist.org/observations/22776191,Taraxacum officinale,Asteraceae,4,2
+22776289,2019-04-20,2019-04-20 20:39:34 UTC,1482843,jdillow,https://www.inaturalist.org/observations/22776289,Brassica rapa,Brassicaceae,10,3
+22785476,2019-04-18,2019-04-18 21:51:27 UTC,1467407,richwittrup,https://www.inaturalist.org/observations/22785476,Viburnum,Viburnaceae,1,3
+22786548,2019-04-20,2019-04-20 20:56:50 UTC,1425646,francis_opila,https://www.inaturalist.org/observations/22786548,Salix,Salicaceae,1,1
+22786589,2019-04-20,2019-04-20 21:19:21 UTC,1425646,francis_opila,https://www.inaturalist.org/observations/22786589,Prunus,Rosaceae,2,2
+22786635,2019-04-20,2019-04-20 22:05:03 UTC,1425646,francis_opila,https://www.inaturalist.org/observations/22786635,Brassicaceae,Brassicaceae,1,3
+22786653,2019-04-20,2019-04-20 22:18:48 UTC,1425646,francis_opila,https://www.inaturalist.org/observations/22786653,Taraxacum officinale,Asteraceae,1,4
+22794397,2019-04-20,2019-04-20 20:41:46 UTC,792468,molfamily,https://www.inaturalist.org/observations/22794397,Brassica rapa,Brassicaceae,3,286
+22797447,2019-04-20,2019-04-20 21:03:54 UTC,1504693,desireeportercostello,https://www.inaturalist.org/observations/22797447,,,1,1
+22797471,2019-04-20,2019-04-20 21:14:22 UTC,1504693,desireeportercostello,https://www.inaturalist.org/observations/22797471,Ribes sanguineum,Grossulariaceae,1,2
+22797488,2019-04-20,2019-04-20 21:58:42 UTC,1504693,desireeportercostello,https://www.inaturalist.org/observations/22797488,Taraxacum officinale,Asteraceae,3,3
+22838187,2019-04-21,2019-04-21 20:27:54 UTC,1504693,desireeportercostello,https://www.inaturalist.org/observations/22838187,,,1,1
+22840977,2019-04-21,2019-04-21 21:08:10 UTC,839659,oregonpat,https://www.inaturalist.org/observations/22840977,Arctostaphylos patula,Ericaceae,4,01
+22846658,2019-04-21,2019-04-21 22:28:45 UTC,429964,amelathopoulos,https://www.inaturalist.org/observations/22846658,Berberis aquifolium,Berberidaceae,10,1
+22848362,2019-04-21,2019-04-21 22:45:41 UTC,429964,amelathopoulos,https://www.inaturalist.org/observations/22848362,Amelanchier,Rosaceae,2,2
+22848949,2019-04-21,2019-04-21 23:03:21 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22848949,Muntingia calabura,Muntingiaceae,1,70
+22849239,2019-04-21,2019-04-21 23:09:13 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22849239,Ranunculaceae,Ranunculaceae,1,71
+22850753,2019-04-21,2019-04-21 23:32:30 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/22850753,Prunus,Rosaceae,1,72
+22852408,2019-04-21,2019-04-22 00:00:49 UTC,1504693,desireeportercostello,https://www.inaturalist.org/observations/22852408,,,1,2
+22895925,2019-04-22,2019-04-22 18:28:29 UTC,816767,jeaniet,https://www.inaturalist.org/observations/22895925,Ranunculus occidentalis,Ranunculaceae,8,68
+22896642,2019-04-22,2019-04-22 18:41:57 UTC,816767,jeaniet,https://www.inaturalist.org/observations/22896642,Bellis perennis,Asteraceae,1,69
+22906120,2019-04-22,2019-04-22 21:08:43 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/22906120,Lomatium dissectum,Apiaceae,7,204
+22931187,2019-04-22,2019-04-23 06:57:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22931187,Camassia quamash,Asparagaceae,19,32
+22931291,2019-04-22,2019-04-22 23:47:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22931291,Ranunculus occidentalis,Ranunculaceae,2,33
+22931397,2019-04-22,2019-04-22 23:41:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22931397,Arctostaphylos viscida,Ericaceae,9,34
+22957933,2019-04-23,2019-04-23 19:37:29 UTC,792775,dto,https://www.inaturalist.org/observations/22957933,Bellis perennis,Asteraceae,25,82
+22957941,2019-04-23,2019-04-23 19:38:38 UTC,792775,dto,https://www.inaturalist.org/observations/22957941,Taraxacum officinale,Asteraceae,32,83
+22966161,2019-04-23,2019-04-23 22:12:14 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22966161,Ranunculus occidentalis,Ranunculaceae,9,35
+22983984,2019-04-23,2019-04-24 05:10:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/22983984,Camassia quamash,Asparagaceae,4,36
+23008769,2019-04-24,2019-04-24 18:38:06 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/23008769,Camassia,Asparagaceae,2,4
+23009849,2019-04-23,2019-04-23 23:26:01 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23009849,Lomatium,Apiaceae,1,37
+23009896,2019-04-24,2019-04-24 18:55:15 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23009896,Ranunculus occidentalis,Ranunculaceae,3,38
+23011581,2019-04-24,2019-04-24 19:10:30 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/23011581,Plectritis congesta,Caprifoliaceae,3,5
+23014174,2019-04-24,2019-04-24 19:22:16 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/23014174,Taraxacum,Asteraceae,2,6
+23014471,2019-04-24,2019-04-24 20:01:57 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/23014471,Camassia leichtlinii,Asparagaceae,3,205
+23015028,2019-04-24,2019-04-24 20:15:41 UTC,829567,tonistephan,https://www.inaturalist.org/observations/23015028,,,1,1
+23017532,2019-04-24,2019-04-24 20:35:15 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/23017532,Acer circinatum,Sapindaceae,6,01
+23018321,2019-04-24,2019-04-24 21:16:24 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/23018321,Marah oregana,Cucurbitaceae,11,206
+23020874,2019-04-24,2019-04-24 22:03:02 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/23020874,Ranunculus occidentalis,Ranunculaceae,14,207
+23033643,2019-04-24,2019-04-25 00:57:45 UTC,927865,natalielozano,https://www.inaturalist.org/observations/23033643,Malus,Rosaceae,3,1
+23035898,2019-04-24,2019-04-25 00:52:17 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23035898,Camassia quamash,Asparagaceae,1,38
+23037876,2019-04-24,2019-04-25 05:25:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23037876,Calochortus tolmiei,Liliaceae,1,39
+23038195,2019-04-24,2019-04-25 05:38:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23038195,Quercus garryana,Fagaceae,1,40
+23061529,2019-04-25,2019-04-25 17:43:58 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23061529,Ceanothus,Rhamnaceae,1,74
+23062066,2019-04-25,2019-04-25 17:56:06 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23062066,Ceanothus thyrsiflorus thyrsiflorus,Rhamnaceae,1,75
+23062100,2019-04-25,2019-04-25 17:57:14 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23062100,Ceanothus thyrsiflorus thyrsiflorus,Rhamnaceae,1,76
+23066325,2019-04-25,2019-04-25 19:18:50 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23066325,Taraxacum officinale,Asteraceae,1,77
+23066479,2019-04-25,2019-04-25 19:21:30 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23066479,Taraxacum officinale,Asteraceae,1,78
+23066670,2019-04-25,2019-04-25 19:24:48 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23066670,Taraxacum,Asteraceae,1,79
+23066738,2019-04-25,2019-04-25 19:26:18 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23066738,Taraxacum officinale,Asteraceae,1,80
+23066840,2019-04-25,2019-04-25 19:28:49 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23066840,Taraxacum officinale,Asteraceae,1,81
+23066936,2019-04-25,2019-04-25 19:30:34 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23066936,Taraxacum officinale,Asteraceae,1,82
+23068845,2019-04-25,2019-04-25 19:59:28 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/23068845,Plectritis congesta,Caprifoliaceae,2,208
+23070769,2019-04-25,2019-04-25 20:37:15 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/23070769,Cornus nuttallii,Cornaceae,1,209
+23079714,2019-04-25,2019-04-25 23:12:23 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/23079714,Camassia quamash,Asparagaceae,10,210
+23080727,2019-04-25,2019-04-25 20:25:07 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23080727,Hedera helix,Araliaceae,7,39
+23080798,2019-04-25,2019-04-25 20:31:57 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23080798,Prunus laurocerasus,Rosaceae,2,40
+23081258,2019-04-25,2019-04-25 21:06:35 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23081258,Ceanothus,Rhamnaceae,3,41
+23086587,2019-04-25,2019-04-26 01:18:31 UTC,792775,dto,https://www.inaturalist.org/observations/23086587,Laurales,,23,84
+23089123,2019-04-25,2019-04-25 21:32:45 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23089123,Limnanthes douglasii,Limnanthaceae,3,42
+23089258,2019-04-25,2019-04-25 21:49:24 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23089258,Camassia quamash,Asparagaceae,1,43
+23089469,2019-04-25,2019-04-25 23:42:43 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23089469,Acer circinatum,Sapindaceae,1,44
+23102174,2019-04-25,2019-04-25 22:55:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23102174,Salix,Salicaceae,4,41
+23102255,2019-04-25,2019-04-26 00:27:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23102255,Arctostaphylos patula,Ericaceae,19,42
+23102882,2019-04-25,2019-04-26 01:25:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23102882,Aculeata,,10,43
+23230203,2019-04-26,2019-04-26 21:42:08 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/23230203,Limnanthes douglasii,Limnanthaceae,10,211
+23240718,2019-04-26,2019-04-26 22:35:57 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/23240718,Camassia leichtlinii,Asparagaceae,2,212
+23251239,2019-04-26,2019-04-26 23:29:47 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23251239,Malus,Rosaceae,1,45
+23251459,2019-04-26,2019-04-26 21:45:09 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23251459,Claytonia sibirica,Montiaceae,4,46
+23251845,2019-04-26,2019-04-26 22:18:38 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23251845,Prosartes hookeri,Liliaceae,2,47
+23319046,2019-04-26,2019-04-27 06:14:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23319046,Madia elegans,Asteraceae,3,44
+23320163,2019-04-26,2019-04-27 06:37:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23320163,Lupinus latifolius,Fabaceae,1,45
+23320746,2019-04-26,2019-04-26 22:26:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23320746,,,3,46
+23320869,2019-04-26,2019-04-26 23:13:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23320869,Lomatium,Apiaceae,9,47
+23321014,2019-04-26,2019-04-27 02:31:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23321014,Mimulus,Phrymaceae,2,48
+23370226,2019-04-27,,620505,judithmaxwell,https://www.inaturalist.org/observations/23370226,,,9,49
+23370280,2019-04-25,2019-04-25 21:27:50 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23370280,Arctostaphylos patula,Ericaceae,3,44
+23370339,2019-04-27,,620505,judithmaxwell,https://www.inaturalist.org/observations/23370339,,,9,49
+23370380,2019-04-26,2019-04-26 18:30:39 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23370380,Lupinus,Fabaceae,1,50
+23370425,2019-04-26,2019-04-26 20:13:45 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23370425,Lomatium,Apiaceae,4,52
+23479676,2019-04-27,2019-04-27 21:33:11 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23479676,,,1,83
+23479936,2019-04-27,2019-04-27 21:34:40 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23479936,Plectritis,Caprifoliaceae,1,83
+23484023,2019-04-27,2019-04-27 21:51:03 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23484023,Camassia,Asparagaceae,1,84
+23484940,2019-04-27,2019-04-27 21:55:03 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23484940,Camassia,Asparagaceae,1,85
+23485710,2019-04-27,2019-04-27 21:59:11 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23485710,Camassia quamash,Asparagaceae,1,86
+23486736,2019-04-27,2019-04-27 22:02:49 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23486736,Lomatium utriculatum,Apiaceae,1,87
+23487275,2019-04-27,2019-04-27 22:04:34 UTC,429964,amelathopoulos,https://www.inaturalist.org/observations/23487275,Ribes aureum,Grossulariaceae,5,1
+23487521,2019-04-27,2019-04-27 22:06:14 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23487521,Lomatium utriculatum,Apiaceae,1,88
+23489826,2019-04-27,2019-04-27 22:16:06 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23489826,Lomatium utriculatum,Apiaceae,1,89
+23490559,2019-04-27,2019-04-27 22:19:02 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23490559,Camassia,Asparagaceae,1,90
+23492548,2019-04-27,2019-04-27 22:27:00 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23492548,Ranunculus occidentalis,Ranunculaceae,1,91
+23496391,2019-04-27,2019-04-27 22:43:24 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23496391,Plectritis congesta congesta,Caprifoliaceae,1,92
+23498155,2019-04-27,2019-04-27 22:53:05 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23498155,Camassia quamash,Asparagaceae,1,93
+23499667,2019-04-27,2019-04-27 22:58:57 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/23499667,Camassia,Asparagaceae,1,91
+23530414,2019-04-26,2019-04-27 00:24:07 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/23530414,Berberis darwinii,Berberidaceae,5,76
+23531004,2019-04-26,2019-04-26 23:18:16 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/23531004,Ceanothus cuneatus,Rhamnaceae,16,75
+23531350,2019-04-27,2019-04-27 21:15:20 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23531350,Marah oregana,Cucurbitaceae,8,48
+23531663,2019-04-27,2019-04-27 21:45:41 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23531663,Malus,Rosaceae,8,49
+23532044,2019-04-27,2019-04-27 22:08:20 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23532044,,,5,50
+23675465,2019-04-27,2019-04-27 22:45:00 UTC,1539907,pdxmartha,https://www.inaturalist.org/observations/23675465,Ribes grossularia,Grossulariaceae,1,1
+23703547,2019-04-19,2019-04-19 21:18:07 UTC,1445574,janknapik,https://www.inaturalist.org/observations/23703547,,,2,3
+23712262,2019-04-28,2019-04-28 19:27:59 UTC,1539907,pdxmartha,https://www.inaturalist.org/observations/23712262,Malus,Rosaceae,1,1
+23719105,2019-04-28,2019-04-28 19:54:36 UTC,816767,jeaniet,https://www.inaturalist.org/observations/23719105,Rosmarinus officinalis,Lamiaceae,6,70
+23727087,2019-04-28,2019-04-28 20:02:53 UTC,1582689,twoleglaura,https://www.inaturalist.org/observations/23727087,Bellis,Asteraceae,1,1
+23741271,2019-04-28,2019-04-28 19:53:08 UTC,325615,grottaa,https://www.inaturalist.org/observations/23741271,Pyrus pyrifolia,Rosaceae,4,1
+23741389,2019-04-28,2019-04-28 20:38:59 UTC,325615,grottaa,https://www.inaturalist.org/observations/23741389,Geranium,Geraniaceae,1,2
+23741521,2019-04-28,2019-04-28 20:58:38 UTC,325615,grottaa,https://www.inaturalist.org/observations/23741521,Camassia,Asparagaceae,1,3
+23755125,2019-04-28,2019-04-28 22:06:23 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/23755125,Prunus virginiana,Rosaceae,10,213
+23785725,2019-04-28,2019-04-28 23:53:12 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/23785725,Camassia quamash,Asparagaceae,14,214
+23791910,2019-04-28,2019-04-28 20:56:56 UTC,1425646,francis_opila,https://www.inaturalist.org/observations/23791910,Vaccinium,Ericaceae,1,1
+23792249,2019-04-28,2019-04-28 21:08:56 UTC,1425646,francis_opila,https://www.inaturalist.org/observations/23792249,Poaceae,Poaceae,1,2
+23792612,2019-04-28,2019-04-28 22:47:04 UTC,1425646,francis_opila,https://www.inaturalist.org/observations/23792612,Acer circinatum,Sapindaceae,1,3
+23803562,2019-04-28,2019-04-28 18:00:00 UTC,1462047,marksg,https://www.inaturalist.org/observations/23803562,Syringa vulgaris,Oleaceae,2,17
+23819128,2019-04-28,2019-04-28 22:44:06 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/23819128,Plagiobothrys,Boraginaceae,2,77
+23819551,2019-04-28,2019-04-28 19:52:00 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23819551,Bellis perennis,Asteraceae,2,51
+23819895,2019-04-28,2019-04-28 20:09:21 UTC,327525,brianalindh,https://www.inaturalist.org/observations/23819895,Claytonia sibirica,Montiaceae,4,52
+23822047,2019-04-28,2019-04-28 22:58:54 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/23822047,Nemophila menziesii,Boraginaceae,3,78
+23823242,2019-04-28,2019-04-28 23:55:23 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/23823242,Holodiscus discolor,Rosaceae,11,79
+23836646,2019-04-28,2019-04-28 19:12:57 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/23836646,Berberis aquifolium,Berberidaceae,4,8
+23836690,2019-04-28,2019-04-28 21:23:29 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/23836690,Lomatium,Apiaceae,4,""
+23836763,2019-04-28,2019-04-28 21:26:30 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/23836763,Berberis aquifolium,Berberidaceae,9,10
+23865529,2019-04-28,2019-04-28 22:14:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23865529,,,5,54
+23865731,2019-04-28,2019-04-28 22:12:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23865731,Berberis aquifolium,Berberidaceae,9,51
+23866320,2019-04-28,2019-04-29 00:23:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23866320,Lomatium,Apiaceae,5,54
+23866811,2019-04-28,2019-04-29 00:38:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/23866811,,,6,55
+23968162,2019-04-25,2019-04-25 22:47:07 UTC,841568,lohump,https://www.inaturalist.org/observations/23968162,Nemophila menziesii,Boraginaceae,30,1
+23974440,2019-04-25,2019-04-26 00:02:18 UTC,841568,lohump,https://www.inaturalist.org/observations/23974440,Salix,Salicaceae,5,2
+23987873,2019-04-29,2019-04-29 18:38:18 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/23987873,Camassia quamash,Asparagaceae,0,7
+23989469,2019-04-29,2019-04-29 18:44:01 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/23989469,Plectritis congesta brachystemon,Caprifoliaceae,16,8
+24014581,2019-04-28,2019-04-28 19:14:15 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24014581,,,9,49
+24014648,2019-04-28,2019-04-28 21:19:28 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24014648,Berberis aquifolium,Berberidaceae,9,51
+24014689,2019-04-28,2019-04-28 21:23:43 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24014689,Lomatium,Apiaceae,4,52
+24014917,2019-04-29,2019-04-29 20:26:23 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24014917,Lasthenia californica,Asteraceae,5,54
+24021680,2019-04-29,2019-04-29 20:52:58 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24021680,Ceanothus cuneatus,Rhamnaceae,6,55
+24059646,2019-04-29,2019-04-29 23:11:48 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24059646,Castilleja,Orobanchaceae,1,56
+24061339,2019-04-29,2019-04-29 23:16:06 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24061339,Ranunculus occidentalis,Ranunculaceae,1,57
+24083683,2019-04-26,2019-04-26 21:32:00 UTC,841568,lohump,https://www.inaturalist.org/observations/24083683,Camassia,Asparagaceae,15,2
+24085550,2019-04-29,2019-04-29 23:11:33 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24085550,Calochortus tolmiei,Liliaceae,10,58
+24086661,2019-04-29,2019-04-30 00:47:17 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24086661,,,1,215
+24118355,2019-04-26,2019-04-26 21:12:34 UTC,841568,lohump,https://www.inaturalist.org/observations/24118355,Malus,Rosaceae,13,1
+24122442,2019-04-26,2019-04-26 22:16:06 UTC,841568,lohump,https://www.inaturalist.org/observations/24122442,,,8,3
+24122505,2019-04-26,2019-04-26 22:34:37 UTC,841568,lohump,https://www.inaturalist.org/observations/24122505,Trifolium subterraneum,Fabaceae,13,4
+24125282,2019-04-26,2019-04-26 22:54:56 UTC,841568,lohump,https://www.inaturalist.org/observations/24125282,Prunus emarginata,Rosaceae,9,5
+24136087,2019-04-28,2019-04-28 21:40:08 UTC,841568,lohump,https://www.inaturalist.org/observations/24136087,Plectritis congesta,Caprifoliaceae,4,1
+24136927,2019-04-28,2019-04-28 21:54:30 UTC,841568,lohump,https://www.inaturalist.org/observations/24136927,Lithophragma tenellum,Saxifragaceae,8,2
+24137757,2019-04-28,2019-04-28 22:32:40 UTC,841568,lohump,https://www.inaturalist.org/observations/24137757,Fragaria vesca,Rosaceae,12,3
+24141477,2019-04-28,2019-04-28 23:04:24 UTC,841568,lohump,https://www.inaturalist.org/observations/24141477,Arbutus menziesii,Ericaceae,9,4
+24181550,2019-04-28,2019-04-28 21:07:45 UTC,927865,natalielozano,https://www.inaturalist.org/observations/24181550,Brassicaceae,Brassicaceae,3,1
+24181729,2019-04-28,2019-04-28 21:40:09 UTC,927865,natalielozano,https://www.inaturalist.org/observations/24181729,Brassicaceae,Brassicaceae,1,2
+24182226,2019-04-28,2019-04-28 21:51:45 UTC,927865,natalielozano,https://www.inaturalist.org/observations/24182226,Rubus,Rosaceae,1,3
+24194531,2019-04-30,2019-04-30 16:27:38 UTC,1560167,annelesenne,https://www.inaturalist.org/observations/24194531,Cornus florida,Cornaceae,1,0430192
+24194756,2019-04-30,2019-04-30 16:30:53 UTC,1560167,annelesenne,https://www.inaturalist.org/observations/24194756,Cistus,Cistaceae,1,0430193
+24195382,2019-04-30,2019-04-30 16:37:47 UTC,1560167,annelesenne,https://www.inaturalist.org/observations/24195382,Cytisus,Fabaceae,1,0430193
+24199167,2019-04-30,2019-04-30 17:15:06 UTC,841568,lohump,https://www.inaturalist.org/observations/24199167,Dicentra formosa,Papaveraceae,1,1
+24199704,2019-04-30,2019-04-30 17:21:09 UTC,841568,lohump,https://www.inaturalist.org/observations/24199704,,,7,2
+24202364,2019-04-30,2019-04-30 17:33:43 UTC,841568,lohump,https://www.inaturalist.org/observations/24202364,Claytonia sibirica,Montiaceae,9,3
+24208428,2019-04-30,2019-04-30 19:04:00 UTC,792775,dto,https://www.inaturalist.org/observations/24208428,Bellis perennis,Asteraceae,16,85
+24208449,2019-04-30,2019-04-30 19:05:05 UTC,792775,dto,https://www.inaturalist.org/observations/24208449,Malus,Rosaceae,1,86
+24230094,2019-04-30,2019-04-30 23:02:15 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24230094,Rosmarinus officinalis,Lamiaceae,2,95.96
+24232250,2019-04-21,2019-04-22 00:28:08 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24232250,,,2,2
+24232480,2019-04-21,2019-04-22 01:09:09 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24232480,Taraxacum,Asteraceae,1,3
+24234364,2019-04-30,2019-04-30 19:49:32 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24234364,Rhododendron,Ericaceae,11,4
+24234621,2019-04-30,2019-04-30 20:33:45 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24234621,Taraxacum,Asteraceae,1,5
+24234814,2019-04-30,2019-04-30 20:47:05 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24234814,,,23,6
+24239659,2019-04-30,2019-04-30 18:50:21 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24239659,Borago officinalis,Boraginaceae,2,53
+24239961,2019-04-30,2019-04-30 20:33:25 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24239961,Bellis perennis,Asteraceae,5,54
+24239996,2019-04-30,2019-04-30 19:20:32 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24239996,Malus pumila,Rosaceae,3,55
+24240100,2019-04-30,2019-05-01 01:19:18 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24240100,Crataegus,Rosaceae,1,56
+24240181,2019-04-30,2019-04-30 19:51:53 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24240181,Arbutus menziesii,Ericaceae,4,57
+24240221,2019-04-30,2019-04-30 20:30:02 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24240221,Ribes sanguineum,Grossulariaceae,2,58
+24240307,2019-04-30,2019-04-30 20:38:59 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24240307,Acer,Sapindaceae,8,59
+24240347,2019-04-30,2019-04-30 23:15:57 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24240347,Arbutus menziesii,Ericaceae,1,60
+24240384,2019-04-30,2019-04-30 23:23:36 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24240384,Geranium lucidum,Geraniaceae,1,61
+24254523,2019-04-30,,620505,judithmaxwell,https://www.inaturalist.org/observations/24254523,Salix,Salicaceae,2,59
+24254662,2019-04-30,,620505,judithmaxwell,https://www.inaturalist.org/observations/24254662,Arctostaphylos patula,Ericaceae,9,60
+24256257,2019-04-28,2019-04-28 21:09:33 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24256257,Brassicaceae,Brassicaceae,2,1
+24256298,2019-04-28,2019-04-28 21:41:39 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24256298,Brassicaceae,Brassicaceae,1,2
+24256304,2019-04-28,2019-04-28 22:00:32 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24256304,Berberis aquifolium,Berberidaceae,1,3
+24256805,2019-04-30,2019-04-30 19:28:53 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/24256805,Berberis aquifolium,Berberidaceae,4,80
+24256887,2019-04-30,2019-04-30 21:16:59 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/24256887,Taraxacum officinale,Asteraceae,2,81
+24260176,2019-04-30,2019-04-30 18:48:29 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24260176,Bellis perennis,Asteraceae,19,9
+24260278,2019-04-30,2019-04-30 19:16:38 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24260278,Taraxacum,Asteraceae,3,10
+24260357,2019-04-30,2019-04-30 20:47:04 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24260357,,,9,11
+24260496,2019-04-30,2019-04-30 21:18:12 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24260496,,,21,12
+24260524,2019-04-30,2019-04-30 21:33:53 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24260524,Fragaria vesca,Rosaceae,10,13
+24260593,2019-04-30,2019-05-01 00:09:41 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24260593,Toxicoscordion venenosum,Melanthiaceae,1,14
+24260648,2019-04-30,2019-05-01 00:18:05 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24260648,Camassia quamash,Asparagaceae,3,15
+24260672,2019-04-30,2019-05-01 00:52:50 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24260672,Plectritis,Caprifoliaceae,1,16
+24309697,2019-05-01,2019-05-01 19:32:50 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24309697,Salix,Salicaceae,8,3
+24310260,2019-05-01,2019-05-01 19:39:32 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24310260,Calochortus tolmiei,Liliaceae,4,61
+24316534,2019-05-01,2019-05-01 20:52:25 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24316534,Insecta,,14,216
+24319452,2019-05-01,2019-05-01 21:37:31 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24319452,Claytonia sibirica,Montiaceae,10,217
+24321686,2019-05-01,2019-05-01 22:07:12 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24321686,Camassia leichtlinii,Asparagaceae,7,218
+24323930,2019-05-01,2019-05-01 22:40:02 UTC,1482843,jdillow,https://www.inaturalist.org/observations/24323930,Allium schoenoprasum,Amaryllidaceae,6,4
+24325815,2019-05-01,2019-05-01 23:05:06 UTC,1482843,jdillow,https://www.inaturalist.org/observations/24325815,Fragaria chiloensis,Rosaceae,5,5
+24326253,2019-05-01,2019-05-01 23:10:43 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24326253,Rosmarinus,Lamiaceae,1,97
+24326327,2019-05-01,2019-05-01 23:11:27 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24326327,Rosmarinus,Lamiaceae,1,98
+24328618,2019-05-01,2019-05-01 23:33:13 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24328618,Claytonia sibirica,Montiaceae,7,219
+24336108,2019-05-01,2019-05-01 19:40:04 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24336108,Lomatium,Apiaceae,1,65
+24336118,2019-05-01,2019-05-01 22:31:42 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24336118,Ceanothus,Rhamnaceae,3,66
+24337412,2019-04-30,2019-04-30 23:25:07 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24337412,Ranunculus uncinatus,Ranunculaceae,2,62
+24338449,2019-05-01,2019-05-01 22:42:19 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24338449,Crataegus monogyna,Rosaceae,8,63
+24338489,2019-05-01,2019-05-01 23:21:09 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24338489,Valerianella locusta,Caprifoliaceae,1,64
+24338599,2019-05-01,2019-05-01 23:40:02 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24338599,Lomatium nudicaule,Apiaceae,1,65
+24338656,2019-05-01,2019-05-01 23:49:59 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24338656,Camassia quamash,Asparagaceae,2,66
+24351062,2019-05-01,2019-05-02 05:35:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24351062,Dichelostemma,Asparagaceae,1,63
+24351364,2019-05-01,2019-05-01 22:40:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24351364,Lomatium utriculatum,Apiaceae,1,64
+24351953,2019-05-01,2019-05-02 05:50:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24351953,Senecio,Asteraceae,2,67
+24368306,2019-05-01,2019-05-01 19:21:21 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24368306,Lomatium,Apiaceae,1,11
+24368314,2019-05-01,2019-05-01 19:23:25 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24368314,Calochortus,Liliaceae,2,12
+24390581,2019-05-02,2019-05-02 19:15:38 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24390581,Cercocarpus ledifolius,Rosaceae,5,5
+24392246,2019-05-02,2019-05-02 19:39:50 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24392246,Lomatium nudicaule,Apiaceae,3,220
+24397313,2019-05-02,2019-05-02 17:26:00 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24397313,Glechoma hederacea,Lamiaceae,1,01
+24401546,2019-05-02,2019-05-02 22:05:56 UTC,1462047,marksg,https://www.inaturalist.org/observations/24401546,Geranium lucidum,Geraniaceae,1,19
+24401861,2019-05-02,2019-05-02 22:26:36 UTC,1462047,marksg,https://www.inaturalist.org/observations/24401861,Collinsia,Plantaginaceae,1,20
+24402306,2019-05-02,2019-05-02 22:40:07 UTC,1462047,marksg,https://www.inaturalist.org/observations/24402306,Iris tenax,Iridaceae,3,18
+24403552,2019-04-30,2019-04-30 20:01:45 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24403552,Rubus armeniacus,Rosaceae,2,2
+24403572,2019-04-30,2019-04-30 21:36:00 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24403572,Rubus trivialis,Rosaceae,2,1
+24403599,2019-04-30,2019-04-30 22:02:06 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24403599,Lupinus,Fabaceae,1,3
+24403632,2019-04-30,2019-04-30 22:02:19 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24403632,Plantae,,1,4
+24404055,2019-05-02,2019-05-02 23:13:30 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24404055,Plectritis congesta,Caprifoliaceae,1,99
+24404351,2019-05-02,2019-05-02 23:18:19 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24404351,Plectritis congesta,Caprifoliaceae,1,100
+24404602,2019-05-02,2019-05-02 23:21:27 UTC,1462047,marksg,https://www.inaturalist.org/observations/24404602,Marah oregana,Cucurbitaceae,3,21
+24404919,2019-05-02,2019-05-02 23:25:49 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24404919,Lomatium utriculatum,Apiaceae,1,102
+24405055,2019-05-02,2019-05-02 23:28:27 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24405055,Lomatium utriculatum,Apiaceae,1,104
+24405192,2019-05-02,2019-05-02 23:31:40 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24405192,Lomatium utriculatum,Apiaceae,1,103
+24405555,2019-05-02,2019-05-02 23:36:24 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24405555,Camassia leichtlinii,Asparagaceae,1,105
+24405735,2019-05-02,2019-05-02 23:38:55 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24405735,Camassia leichtlinii,Asparagaceae,1,108
+24406167,2019-05-02,2019-05-02 23:46:25 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24406167,Camassia quamash,Asparagaceae,1,106
+24407072,2019-05-02,2019-05-03 00:03:05 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24407072,Iris tenax,Iridaceae,1,109
+24407223,2019-05-02,2019-05-03 00:05:10 UTC,1462047,marksg,https://www.inaturalist.org/observations/24407223,Vicia sativa,Fabaceae,1,22
+24413532,2019-05-02,2019-05-02 20:17:54 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24413532,Prunus laurocerasus,Rosaceae,1,67
+24413951,2019-05-02,2019-05-02 20:34:14 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24413951,Camassia quamash,Asparagaceae,1,68
+24414619,2019-05-02,2019-05-02 20:45:22 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24414619,Limnanthes douglasii,Limnanthaceae,3,69
+24414688,2019-05-02,2019-05-02 20:51:23 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24414688,Aronia,Rosaceae,1,70
+24416524,2019-05-02,2019-05-02 20:58:18 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24416524,Eschscholzia californica,Papaveraceae,1,71
+24416648,2019-05-02,2019-05-02 21:11:10 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24416648,Crataegus,Rosaceae,1,72
+24416851,2019-05-02,2019-05-02 21:16:16 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24416851,Ceanothus,Rhamnaceae,1,73
+24417142,2019-05-02,2019-05-02 22:00:09 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24417142,Claytonia sibirica,Montiaceae,2,74
+24417270,2019-05-02,2019-05-02 22:09:52 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24417270,Camassia,Asparagaceae,1,75
+24420325,2019-05-02,2019-05-02 21:42:59 UTC,770229,englerj,https://www.inaturalist.org/observations/24420325,Salix,Salicaceae,12,6
+24420350,2019-05-02,2019-05-02 22:00:31 UTC,770229,englerj,https://www.inaturalist.org/observations/24420350,Vaccinium,Ericaceae,6,8
+24425154,2019-05-02,2019-05-02 19:53:47 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24425154,Lomatium triternatum,Apiaceae,4,221
+24425177,2019-05-02,2019-05-02 19:57:33 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24425177,,,1,222
+24425183,2019-05-02,2019-05-02 20:08:29 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24425183,Balsamorhiza careyana,Asteraceae,3,223
+24425193,2019-05-02,2019-05-02 21:05:37 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24425193,Ceanothus integerrimus,Rhamnaceae,1,224
+24425204,2019-05-02,2019-05-02 21:07:53 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24425204,Lomatium triternatum,Apiaceae,1,225
+24425209,2019-05-02,2019-05-02 21:21:31 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24425209,Lomatium dissectum,Apiaceae,5,226
+24425243,2019-05-02,2019-05-02 21:41:22 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24425243,Lomatium triternatum,Apiaceae,6,227
+24457787,2019-05-03,2019-05-03 18:44:37 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24457787,Arctostaphylos viscida,Ericaceae,1,13
+24458646,2019-05-03,2019-05-03 18:58:06 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24458646,Lupinus,Fabaceae,2,68
+24462254,2019-05-03,2019-05-03 19:55:06 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24462254,Pinus jeffreyi,Pinaceae,1,14
+24463819,2019-05-03,2019-05-03 20:17:53 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24463819,Nemophila maculata,Boraginaceae,3,228
+24464544,2019-05-03,2019-05-03 20:30:36 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24464544,Layia platyglossa,Asteraceae,1,229
+24466506,2019-05-03,2019-05-03 21:00:48 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24466506,Eschscholzia californica,Papaveraceae,6,230
+24467687,2019-05-03,2019-05-03 21:19:46 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24467687,Nemophila menziesii,Boraginaceae,4,231
+24475100,2019-05-03,2019-05-03 22:46:52 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/24475100,Iris tenax,Iridaceae,3,84
+24477038,2019-05-03,2019-05-03 21:08:31 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24477038,Viola sempervirens,Violaceae,4,76
+24478149,2019-05-03,2019-05-03 20:35:58 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/24478149,Raphanus,Brassicaceae,4,82
+24478851,2019-05-03,2019-05-03 22:31:52 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24478851,Quercus vacciniifolia,Fagaceae,1,16
+24479028,2019-05-03,2019-05-03 23:11:21 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24479028,Arctostaphylos uva-ursi,Ericaceae,5,17
+24479889,2019-05-03,2019-05-03 23:02:42 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24479889,,,7,232
+24479926,2019-05-03,2019-05-03 21:38:43 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24479926,Micranthes integrifolia,Saxifragaceae,2,77
+24479946,2019-05-03,2019-05-03 21:52:36 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24479946,Vaccinium parvifolium,Ericaceae,1,78
+24483763,2019-05-03,2019-05-03 20:24:52 UTC,733757,pattiwittrup,https://www.inaturalist.org/observations/24483763,Nemophila,Boraginaceae,3,2
+24485714,2019-05-03,2019-05-03 21:00:05 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24485714,Purshia tridentata,Rosaceae,7,1
+24485753,2019-05-03,2019-05-03 22:05:19 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24485753,Prunus emarginata,Rosaceae,5,2
+24486866,2019-05-03,2019-05-03 22:18:07 UTC,175529,jerrypaul,https://www.inaturalist.org/observations/24486866,Phacelia tanacetifolia,Boraginaceae,2,83
+24487204,2019-05-03,2019-05-03 20:53:52 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24487204,,,1,69
+24487218,2019-05-03,2019-05-03 21:23:48 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24487218,,,1,70
+24487223,2019-05-03,2019-05-03 23:34:14 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24487223,Arctostaphylos patula,Ericaceae,12,72
+24495022,2019-05-03,2019-05-03 20:13:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24495022,Lomatium,Apiaceae,2,68
+24495700,2019-05-03,2019-05-04 06:10:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24495700,Montia,Montiaceae,2,71
+24495844,2019-05-03,2019-05-04 06:22:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24495844,,,1,73
+24529695,2019-05-04,2019-05-04 18:56:22 UTC,1467387,loishawk,https://www.inaturalist.org/observations/24529695,Pieris japonica,Ericaceae,1,1
+24533468,2019-05-04,2019-05-04 19:52:34 UTC,816767,jeaniet,https://www.inaturalist.org/observations/24533468,Calochortus tolmiei,Liliaceae,2,71
+24537655,2019-05-04,2019-05-04 20:46:55 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24537655,Plectritis congesta,Caprifoliaceae,1,112
+24538267,2019-05-04,2019-05-04 20:55:21 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24538267,Plectritis congesta,Caprifoliaceae,1,113
+24538474,2019-05-04,2019-05-04 20:58:10 UTC,752114,stephaniehazen,https://www.inaturalist.org/observations/24538474,Rosmarinus,Lamiaceae,1,113
+24542471,2019-05-04,2019-05-04 21:35:37 UTC,1482843,jdillow,https://www.inaturalist.org/observations/24542471,Origanum vulgare,Lamiaceae,9,6
+24542505,2019-05-04,2019-05-04 21:40:38 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24542505,Balsamorhiza sericea,Asteraceae,5,74
+24542663,2019-05-04,2019-05-04 21:40:16 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24542663,,,0,3
+24547490,2019-05-04,2019-05-04 21:00:00 UTC,816767,jeaniet,https://www.inaturalist.org/observations/24547490,Rosmarinus officinalis,Lamiaceae,12,72
+24549249,2019-05-04,2019-05-04 23:10:39 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24549249,Phacelia corymbosa,Boraginaceae,4,75
+24562818,2019-05-04,2019-05-04 21:37:50 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24562818,,,1,7
+24563075,2019-05-04,2019-05-04 21:44:30 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24563075,Aronia melanocarpa,Rosaceae,6,8
+24563251,2019-05-04,2019-05-04 22:07:22 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24563251,Rhododendron,Ericaceae,3,9
+24571977,2019-05-04,2019-05-05 02:11:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24571977,Lomatium,Apiaceae,9,76
+24606341,2019-05-05,2019-05-05 18:14:40 UTC,429964,amelathopoulos,https://www.inaturalist.org/observations/24606341,Vaccinium,Ericaceae,3,1
+24619218,2019-05-05,2019-05-05 20:57:54 UTC,1462047,marksg,https://www.inaturalist.org/observations/24619218,Erysimum capitatum,Brassicaceae,3,23
+24619638,2019-05-05,2019-05-05 21:04:23 UTC,1462047,marksg,https://www.inaturalist.org/observations/24619638,Aquifoliaceae,Aquifoliaceae,1,24
+24620283,2019-05-05,2019-05-05 18:23:59 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24620283,Valerianella locusta,Caprifoliaceae,1,80
+24620841,2019-05-05,2019-05-05 21:16:44 UTC,1482843,jdillow,https://www.inaturalist.org/observations/24620841,Rhododendron,Ericaceae,13,7
+24622883,2019-05-05,2019-05-05 18:38:31 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24622883,,,1,82
+24623058,2019-05-05,2019-05-05 18:32:45 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24623058,Sanicula bipinnatifida,Apiaceae,1,83
+24623080,2019-05-05,2019-05-05 21:51:57 UTC,1462047,marksg,https://www.inaturalist.org/observations/24623080,Allium,Amaryllidaceae,1,25
+24624985,2019-05-05,2019-05-05 19:09:48 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24624985,Fragaria virginiana,Rosaceae,,84
+24626737,2019-05-05,2019-05-05 20:38:09 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24626737,Hyacinthoides hispanica,Asparagaceae,5,10
+24627949,2019-05-05,2019-05-05 22:56:20 UTC,429964,amelathopoulos,https://www.inaturalist.org/observations/24627949,,,3,2
+24629012,2019-05-04,2019-05-04 23:38:53 UTC,927865,natalielozano,https://www.inaturalist.org/observations/24629012,Fragaria vesca,Rosaceae,5,1
+24629056,2019-05-05,2019-05-05 23:06:41 UTC,927865,natalielozano,https://www.inaturalist.org/observations/24629056,Smyrnium olusatrum,Apiaceae,2,1
+24632968,2019-05-05,2019-05-05 21:10:00 UTC,1539907,pdxmartha,https://www.inaturalist.org/observations/24632968,Syringa vulgaris,Oleaceae,11,1
+24635640,2019-05-05,2019-05-06 00:47:31 UTC,792468,molfamily,https://www.inaturalist.org/observations/24635640,Lupinus,Fabaceae,2,287
+24650141,2019-05-05,2019-05-05 22:08:20 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24650141,Salix,Salicaceae,5,3
+24650183,2019-05-05,2019-05-05 22:33:52 UTC,1492386,michelesims,https://www.inaturalist.org/observations/24650183,Arctostaphylos patula,Ericaceae,5,4
+24679964,2019-04-20,2019-04-20 21:06:15 UTC,800960,pamarion,https://www.inaturalist.org/observations/24679964,Prunus emarginata,Rosaceae,2,2
+24679998,2019-05-03,2019-05-03 23:09:36 UTC,800960,pamarion,https://www.inaturalist.org/observations/24679998,Prunus laurocerasus,Rosaceae,4,3
+24686151,2019-05-06,2019-05-06 17:19:51 UTC,792468,molfamily,https://www.inaturalist.org/observations/24686151,Taraxacum officinale,Asteraceae,15,288
+24686261,2019-05-06,2019-05-06 17:33:59 UTC,792468,molfamily,https://www.inaturalist.org/observations/24686261,Acer circinatum,Sapindaceae,6,289
+24686269,2019-05-06,2019-05-06 20:03:57 UTC,433308,annie333,https://www.inaturalist.org/observations/24686269,Camassia leichtlinii,Asparagaceae,3,2
+24686363,2019-05-06,2019-05-06 20:08:02 UTC,792468,molfamily,https://www.inaturalist.org/observations/24686363,Phacelia tanacetifolia,Boraginaceae,36,290
+24686436,2019-05-06,2019-05-06 20:09:29 UTC,433308,annie333,https://www.inaturalist.org/observations/24686436,Taraxacum,Asteraceae,1,3
+24686562,2019-05-06,2019-05-06 20:11:51 UTC,792468,molfamily,https://www.inaturalist.org/observations/24686562,Borago officinalis,Boraginaceae,2,291
+24690565,2019-05-06,2019-05-06 21:11:29 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24690565,Salix,Salicaceae,7,1
+24695347,2019-05-06,2019-05-06 22:28:22 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24695347,Calochortus tolmiei,Liliaceae,1,77
+24695579,2019-05-03,2019-05-03 18:15:34 UTC,841568,lohump,https://www.inaturalist.org/observations/24695579,Ranunculus orthorhynchus,Ranunculaceae,7,1
+24695787,2019-05-01,2019-05-01 22:35:10 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24695787,,,3,01
+24696006,2019-05-03,2019-05-03 19:06:34 UTC,841568,lohump,https://www.inaturalist.org/observations/24696006,Rubus ursinus,Rosaceae,19,2
+24696260,2019-05-03,2019-05-03 20:10:34 UTC,841568,lohump,https://www.inaturalist.org/observations/24696260,Ranunculus orthorhynchus,Ranunculaceae,13,3
+24696513,2019-05-03,2019-05-03 21:11:56 UTC,841568,lohump,https://www.inaturalist.org/observations/24696513,,,4,4
+24696830,2019-05-05,2019-05-05 22:05:19 UTC,841568,lohump,https://www.inaturalist.org/observations/24696830,Rubus ursinus,Rosaceae,12,1
+24697117,2019-05-05,2019-05-05 19:13:36 UTC,841568,lohump,https://www.inaturalist.org/observations/24697117,Elaeagnus umbellata,Elaeagnaceae,4,2
+24697291,2019-05-06,2019-05-06 23:02:14 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24697291,Rubus ursinus,Rosaceae,5,01
+24697465,2019-05-05,2019-05-05 20:15:56 UTC,841568,lohump,https://www.inaturalist.org/observations/24697465,Raphanus sativus,Brassicaceae,1,3
+24698720,2019-05-06,2019-05-06 20:41:36 UTC,770229,englerj,https://www.inaturalist.org/observations/24698720,Balsamorhiza careyana,Asteraceae,7,1
+24700052,2019-05-06,2019-05-06 21:37:05 UTC,800960,pamarion,https://www.inaturalist.org/observations/24700052,Fragaria vesca,Rosaceae,10,4
+24700215,2019-05-06,2019-05-06 23:54:15 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24700215,Acer circinatum,Sapindaceae,8,02
+24701088,2019-05-06,2019-05-06 19:49:05 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24701088,Madia elegans,Asteraceae,1,233
+24706983,2019-05-06,2019-05-06 20:54:14 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24706983,Spiraea,Rosaceae,8,11
+24709069,2019-05-06,2019-05-06 20:26:51 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24709069,Phacelia heterophylla,Boraginaceae,11,234
+24709221,2019-05-06,2019-05-06 23:53:11 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24709221,,,2,235
+24709227,2019-05-06,2019-05-07 00:04:27 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24709227,Sisyrinchium bellum,Iridaceae,2,236
+24709350,2019-05-06,2019-05-07 00:13:09 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24709350,Plectritis congesta,Caprifoliaceae,3,237
+24709496,2019-05-06,2019-05-07 00:46:36 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24709496,Lomatium triternatum,Apiaceae,1,238
+24729250,2019-05-06,2019-05-07 00:53:49 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24729250,Quercus garryana breweri,Fagaceae,1,239
+24740884,2019-05-07,2019-05-07 18:08:35 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24740884,Camassia,Asparagaceae,4,01
+24742494,2019-05-07,2019-05-07 18:33:21 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24742494,Camassia,Asparagaceae,7,02
+24744531,2019-05-07,2019-05-07 19:06:03 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24744531,Calochortus tolmiei,Liliaceae,9,240
+24744608,2019-05-07,2019-05-07 19:08:34 UTC,1462047,marksg,https://www.inaturalist.org/observations/24744608,Asterales,,1,26
+24745798,2019-05-07,2019-05-07 19:31:00 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24745798,Sinapis arvensis,Brassicaceae,2,03
+24745926,2019-05-07,2019-05-07 19:32:58 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24745926,Packera hesperia,Asteraceae,1,241
+24746672,2019-05-07,2019-05-07 19:41:30 UTC,1445574,janknapik,https://www.inaturalist.org/observations/24746672,Collinsia,Plantaginaceae,6,4
+24747104,2019-05-07,2019-05-07 19:58:45 UTC,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/24747104,Brassica rapa,Brassicaceae,10,04
+24747411,2019-05-07,2019-05-07 20:07:17 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24747411,Collinsia sparsiflora,Plantaginaceae,7,2
+24749794,2019-05-07,2019-05-07 20:45:11 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24749794,,,1,3
+24749942,2019-05-07,2019-05-07 20:42:06 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24749942,Festuca,Poaceae,1,18
+24750066,2019-05-07,2019-05-07 20:49:06 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24750066,Calochortus,Liliaceae,5,19
+24752712,2019-05-07,2019-05-07 21:34:47 UTC,800960,pamarion,https://www.inaturalist.org/observations/24752712,Rhododendron,Ericaceae,6,5
+24753190,2019-05-06,2019-05-06 18:30:09 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24753190,Camassia quamash,Asparagaceae,33,18
+24753288,2019-05-07,2019-05-07 21:46:27 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24753288,Erythranthe guttata,Phrymaceae,2,4
+24753335,2019-05-07,2019-05-07 20:28:09 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24753335,Collinsia linearis,Plantaginaceae,5,242
+24754173,2019-05-07,2019-05-07 21:58:41 UTC,800960,pamarion,https://www.inaturalist.org/observations/24754173,Arctostaphylos,Ericaceae,6,6
+24754885,2019-05-03,2019-05-03 21:01:24 UTC,858490,heike_williams,https://www.inaturalist.org/observations/24754885,Purshia tridentata,Rosaceae,5,26
+24754901,2019-05-06,2019-05-06 18:22:13 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24754901,Plectritis,Caprifoliaceae,3,17
+24754908,2019-05-03,2019-05-03 22:00:00 UTC,858490,heike_williams,https://www.inaturalist.org/observations/24754908,Lomatium,Apiaceae,2,27
+24754921,2019-05-07,2019-05-07 20:25:49 UTC,858490,heike_williams,https://www.inaturalist.org/observations/24754921,Salix,Salicaceae,,
+24754950,2019-05-07,2019-05-07 21:44:27 UTC,858490,heike_williams,https://www.inaturalist.org/observations/24754950,Salix,Salicaceae,6,28
+24754976,2019-05-06,2019-05-06 19:02:15 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24754976,Camassia quamash,Asparagaceae,13,19
+24755062,2019-05-06,2019-05-06 19:28:47 UTC,1119443,lindazahl,https://www.inaturalist.org/observations/24755062,Ranunculus occidentalis,Ranunculaceae,3,20
+24755063,2019-05-07,2019-05-07 22:21:54 UTC,792468,molfamily,https://www.inaturalist.org/observations/24755063,Geranium lucidum,Geraniaceae,4,292
+24756234,2019-05-07,2019-05-07 22:50:06 UTC,792468,molfamily,https://www.inaturalist.org/observations/24756234,Rubus ursinus,Rosaceae,4,293
+24757112,2019-05-07,2019-05-07 21:48:25 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24757112,Allium siculum,Amaryllidaceae,1,20
+24757286,2019-05-07,2019-05-07 23:09:58 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24757286,Lomatium,Apiaceae,1,21
+24757829,2019-05-07,2019-05-07 23:25:59 UTC,792468,molfamily,https://www.inaturalist.org/observations/24757829,Geranium lucidum,Geraniaceae,18,294
+24760023,2019-05-07,2019-05-07 18:59:37 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24760023,Lewisia oppositifolia,Montiaceae,1,90
+24760465,2019-05-07,2019-05-07 19:03:48 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24760465,,,4,91
+24760599,2019-05-07,2019-05-07 19:13:53 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24760599,Allium falcifolium,Amaryllidaceae,4,92
+24760941,2019-05-07,2019-05-07 22:07:21 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24760941,Calochortus tolmiei,Liliaceae,1,243
+24760949,2019-05-07,2019-05-07 19:19:15 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24760949,Calochortus tolmiei,Liliaceae,3,93
+24761174,2019-05-07,2019-05-07 23:08:40 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24761174,Toxicoscordion venenosum,Melanthiaceae,1,244
+24761302,2019-05-07,2019-05-08 00:19:10 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24761302,Ranunculus occidentalis,Ranunculaceae,1,94
+24761318,2019-05-07,2019-05-07 20:12:59 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24761318,Collinsia,Plantaginaceae,3,95
+24761354,2019-05-07,2019-05-07 23:19:46 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24761354,Phacelia corymbosa,Boraginaceae,1,245
+24762287,2019-05-07,2019-05-07 20:53:34 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24762287,Toxicoscordion venenosum,Melanthiaceae,2,97
+24762384,2019-05-07,2019-05-07 21:43:47 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24762384,Calochortus tolmiei,Liliaceae,6,98
+24762472,2019-05-07,2019-05-07 21:46:01 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24762472,Allium falcifolium,Amaryllidaceae,5,99
+24762879,2019-05-07,2019-05-07 21:56:41 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24762879,Triteleia hyacinthina,Asparagaceae,1,100
+24763084,2019-05-07,2019-05-07 22:58:53 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24763084,Gilia capitata,Polemoniaceae,1,102
+24763288,2019-05-07,2019-05-07 23:07:48 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24763288,Collinsia,Plantaginaceae,1,103
+24763477,2019-05-07,2019-05-07 23:05:21 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24763477,Lomatium,Apiaceae,1,104
+24765306,2019-05-07,2019-05-07 19:07:34 UTC,770229,englerj,https://www.inaturalist.org/observations/24765306,Salix,Salicaceae,10,1
+24767165,2019-05-07,2019-05-08 00:27:29 UTC,792468,molfamily,https://www.inaturalist.org/observations/24767165,Vicia sativa,Fabaceae,4,295
+24768932,2019-05-07,2019-05-08 00:42:23 UTC,325615,grottaa,https://www.inaturalist.org/observations/24768932,Vicia sativa,Fabaceae,1,1
+24770436,2019-05-07,2019-05-07 19:05:25 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24770436,Collinsia sparsiflora,Plantaginaceae,10,78
+24770686,2019-05-07,2019-05-07 22:28:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24770686,Calochortus tolmiei,Liliaceae,3,79
+24770842,2019-05-07,2019-05-08 04:52:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24770842,Erythranthe guttata,Phrymaceae,2,80
+24780940,2019-05-07,2019-05-07 21:47:28 UTC,792775,dto,https://www.inaturalist.org/observations/24780940,Cytisus scoparius,Fabaceae,10,87
+24780952,2019-05-07,2019-05-07 22:07:40 UTC,792775,dto,https://www.inaturalist.org/observations/24780952,Malus pumila,Rosaceae,6,88
+24780970,2019-05-07,2019-05-07 23:43:47 UTC,792775,dto,https://www.inaturalist.org/observations/24780970,Claytonia sibirica,Montiaceae,14,89
+24788682,2019-05-08,2019-05-08 16:02:46 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24788682,Toxicoscordion venenosum,Melanthiaceae,1,21
+24791105,2019-05-08,2019-05-08 16:54:12 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24791105,Calochortus,Liliaceae,7,22
+24791860,2019-05-08,2019-05-08 17:09:46 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24791860,Calochortus tolmiei,Liliaceae,3,246
+24792816,2019-05-08,2019-05-08 17:30:39 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24792816,Lewisia oppositifolia,Montiaceae,1,247
+24793327,2019-05-08,2019-05-08 17:41:16 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24793327,,,1,248
+24793344,2019-05-08,2019-05-08 17:42:08 UTC,792468,molfamily,https://www.inaturalist.org/observations/24793344,Iris tenax,Iridaceae,3,296
+24793689,2019-05-08,2019-05-08 17:47:43 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24793689,Calochortus tolmiei,Liliaceae,3,249
+24794191,2019-05-08,2019-05-08 17:58:49 UTC,816767,jeaniet,https://www.inaturalist.org/observations/24794191,Hypochaeris radicata,Asteraceae,1,73
+24794295,2019-05-08,2019-05-08 18:00:49 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24794295,,,0,00
+24796167,2019-05-08,2019-05-08 18:39:44 UTC,792468,molfamily,https://www.inaturalist.org/observations/24796167,Claytonia perfoliata,Montiaceae,21,297
+24800104,2019-05-08,2019-05-08 16:24:24 UTC,1462047,marksg,https://www.inaturalist.org/observations/24800104,Asteraceae,Asteraceae,5,35
+24800453,2019-05-07,2019-05-07 19:14:30 UTC,1462047,marksg,https://www.inaturalist.org/observations/24800453,Collinsia,Plantaginaceae,9,27
+24800735,2019-05-07,2019-05-07 19:50:02 UTC,1462047,marksg,https://www.inaturalist.org/observations/24800735,Allium,Amaryllidaceae,1,28
+24800923,2019-05-07,2019-05-07 20:10:50 UTC,1462047,marksg,https://www.inaturalist.org/observations/24800923,Calochortus,Liliaceae,3,29
+24803105,2019-05-08,2019-05-08 21:01:42 UTC,792468,molfamily,https://www.inaturalist.org/observations/24803105,Fragaria,Rosaceae,1,299
+24803346,2019-05-08,2019-05-08 21:06:21 UTC,792468,molfamily,https://www.inaturalist.org/observations/24803346,Rubus ursinus,Rosaceae,3,299
+24803923,2019-05-08,2019-05-08 20:32:02 UTC,1423344,jessica789,https://www.inaturalist.org/observations/24803923,Crataegus monogyna,Rosaceae,23,12
+24804334,2019-05-08,2019-05-08 15:39:53 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24804334,Agoseris,Asteraceae,4,105
+24805768,2019-05-08,2019-05-08 16:21:23 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24805768,Calochortus tolmiei,Liliaceae,7,106
+24806269,2019-05-07,2019-05-07 20:58:01 UTC,1462047,marksg,https://www.inaturalist.org/observations/24806269,Calochortus,Liliaceae,2,31
+24806501,2019-05-07,2019-05-07 21:54:03 UTC,1462047,marksg,https://www.inaturalist.org/observations/24806501,Phacelia,Boraginaceae,4,32
+24807038,2019-05-08,2019-05-08 17:02:46 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24807038,,,4,108
+24808751,2019-05-08,2019-05-08 18:46:11 UTC,792775,dto,https://www.inaturalist.org/observations/24808751,Claytonia,Montiaceae,18,91
+24808773,2019-05-08,2019-05-08 18:50:22 UTC,792775,dto,https://www.inaturalist.org/observations/24808773,Achlys triphylla,Berberidaceae,1,92
+24808785,2019-05-08,2019-05-08 21:08:00 UTC,792775,dto,https://www.inaturalist.org/observations/24808785,,,10,93
+24808806,2019-05-08,2019-05-08 21:30:55 UTC,792775,dto,https://www.inaturalist.org/observations/24808806,Camassia,Asparagaceae,12,94
+24809536,2019-05-08,2019-05-08 23:24:17 UTC,885553,threeyees,https://www.inaturalist.org/observations/24809536,Geranium lucidum,Geraniaceae,14,1
+24811891,2019-05-08,2019-05-08 17:49:29 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24811891,Calochortus tolmiei,Liliaceae,2,81
+24813565,2019-05-08,2019-05-09 00:45:28 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24813565,,,1,250
+24813692,2019-05-08,2019-05-09 00:51:52 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24813692,Camassia leichtlinii,Asparagaceae,1,251
+24816630,2019-05-08,2019-05-08 16:40:27 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24816630,Ranunculus,Ranunculaceae,4,109
+24816922,2019-05-08,2019-05-08 16:54:47 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24816922,Asteraceae,Asteraceae,1,110
+24823693,2019-05-07,2019-05-07 22:10:51 UTC,1462047,marksg,https://www.inaturalist.org/observations/24823693,Erythranthe guttata,Phrymaceae,2,34
+24823845,2019-05-08,2019-05-08 17:02:47 UTC,1462047,marksg,https://www.inaturalist.org/observations/24823845,Calochortus,Liliaceae,2,36
+24823911,2019-05-08,2019-05-08 17:40:04 UTC,1462047,marksg,https://www.inaturalist.org/observations/24823911,,,7,37
+24823968,2019-05-08,2019-05-09 00:47:54 UTC,1462047,marksg,https://www.inaturalist.org/observations/24823968,Calochortus,Liliaceae,1,38
+24824623,2019-04-26,2019-04-27 02:31:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24824623,Erythranthe guttata,Phrymaceae,2,82
+24824746,2019-05-08,2019-05-09 06:16:00 UTC,620505,judithmaxwell,https://www.inaturalist.org/observations/24824746,Synhalonia,Apidae,2,84
+24844548,2019-05-09,2019-05-09 17:17:36 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24844548,Rhododendron,Ericaceae,"",""
+24844599,2019-05-09,2019-05-09 17:18:53 UTC,792468,molfamily,https://www.inaturalist.org/observations/24844599,Lupinus,Fabaceae,13,300
+24844901,2019-05-09,2019-05-09 17:14:07 UTC,860617,laustin,https://www.inaturalist.org/observations/24844901,Iris,Iridaceae,0,""
+24844935,2019-05-09,2019-05-09 17:27:07 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24844935,Calochortus,Liliaceae,5,23
+24845231,2019-05-09,2019-05-09 17:34:34 UTC,792468,molfamily,https://www.inaturalist.org/observations/24845231,Crataegus,Rosaceae,12,301
+24845664,2019-05-09,2019-05-09 16:51:12 UTC,792775,dto,https://www.inaturalist.org/observations/24845664,Prunus,Rosaceae,4,95
+24845782,2019-05-09,2019-05-09 17:24:28 UTC,1462047,marksg,https://www.inaturalist.org/observations/24845782,Juncaceae,Juncaceae,1,39
+24845811,2019-05-09,2019-05-09 17:46:13 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24845811,Calochortus tolmiei,Liliaceae,1,252
+24846414,2019-05-09,2019-05-09 18:01:36 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24846414,Balsamorhiza sericea,Asteraceae,4,253
+24847184,2019-05-09,2019-05-09 18:19:19 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24847184,,,2,5
+24848377,2019-05-09,2019-05-09 16:57:08 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24848377,Ranunculus orthorhynchus,Ranunculaceae,3,1
+24848448,2019-05-09,2019-05-09 18:41:41 UTC,816767,jeaniet,https://www.inaturalist.org/observations/24848448,Rubus ursinus,Rosaceae,3,74
+24848558,2019-05-09,2019-05-09 18:44:41 UTC,831425,fffpat2,https://www.inaturalist.org/observations/24848558,Geranium,Geraniaceae,3,75
+24848566,2019-05-09,2019-05-09 16:57:36 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24848566,Camassia leichtlinii,Asparagaceae,1,2
+24848676,2019-05-09,2019-05-09 17:23:11 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24848676,Geranium lucidum,Geraniaceae,2,3
+24848771,2019-05-09,2019-05-09 17:31:49 UTC,1450900,karenrichards,https://www.inaturalist.org/observations/24848771,Vicia,Fabaceae,1,4
+24848947,2019-05-09,2019-05-09 18:54:22 UTC,885553,threeyees,https://www.inaturalist.org/observations/24848947,Vicia sativa,Fabaceae,1,2
+24849023,2019-05-09,2019-05-09 18:56:08 UTC,885553,threeyees,https://www.inaturalist.org/observations/24849023,Rubus ursinus,Rosaceae,1,1
+24849145,2019-05-09,2019-05-09 18:59:22 UTC,1546088,scotttienken,https://www.inaturalist.org/observations/24849145,Vicia,Fabaceae,1,2
+24849308,2019-05-09,2019-05-09 19:01:48 UTC,816767,jeaniet,https://www.inaturalist.org/observations/24849308,Iris tenax,Iridaceae,1,75
+24850242,2019-05-09,2019-05-09 19:18:10 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24850242,Erythranthe guttata,Phrymaceae,1,254
+24850263,2019-05-09,2019-05-09 19:20:11 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24850263,Gilia,Polemoniaceae,1,6
+24850667,2019-05-09,2019-05-09 19:27:31 UTC,885553,threeyees,https://www.inaturalist.org/observations/24850667,Camassia,Asparagaceae,1,3
+24850830,2019-05-09,2019-05-09 19:23:10 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24850830,Magnoliopsida,,1,1
+24851188,2019-05-09,2019-05-09 19:37:16 UTC,831425,fffpat2,https://www.inaturalist.org/observations/24851188,Geranium lucidum,Geraniaceae,1,76
+24851281,2019-05-09,2019-05-09 19:28:21 UTC,858490,heike_williams,https://www.inaturalist.org/observations/24851281,Lepidium draba,Brassicaceae,14,29
+24852265,2019-05-09,2019-05-09 19:19:06 UTC,770229,englerj,https://www.inaturalist.org/observations/24852265,Salix,Salicaceae,20,1
+24852648,2019-05-09,2019-05-09 20:00:29 UTC,1546088,scotttienken,https://www.inaturalist.org/observations/24852648,Cytisus scoparius,Fabaceae,1,3
+24853127,2019-05-09,2019-05-09 20:16:21 UTC,792468,molfamily,https://www.inaturalist.org/observations/24853127,Iris tenax,Iridaceae,6,302
+24853748,2019-05-09,2019-05-09 20:24:37 UTC,890797,tiliamae,https://www.inaturalist.org/observations/24853748,Lomatium,Apiaceae,4,7
+24855708,2019-05-09,2019-05-09 21:05:05 UTC,233445,adriennesmith87,https://www.inaturalist.org/observations/24855708,Salix,Salicaceae,10,01
+24856411,2019-05-09,2019-05-09 18:53:51 UTC,354308,maryjomosby,https://www.inaturalist.org/observations/24856411,Vicia,Fabaceae,1,4
+24857377,2019-05-09,2019-05-09 21:13:46 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24857377,Salix,Salicaceae,1,2
+24857425,2019-05-09,2019-05-09 21:43:04 UTC,829567,tonistephan,https://www.inaturalist.org/observations/24857425,Juniperus occidentalis,Cupressaceae,3,3
+24858228,2019-05-08,2019-05-08 17:07:12 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24858228,,,1,111
+24858811,2019-05-08,2019-05-08 19:18:25 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24858811,Collinsia linearis,Plantaginaceae,1,112
+24859165,2019-05-08,2019-05-08 23:22:18 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24859165,Erythranthe,Phrymaceae,5,113
+24859171,2019-05-09,2019-05-09 17:48:15 UTC,1462047,marksg,https://www.inaturalist.org/observations/24859171,Rhododendron indicum,Ericaceae,2,40
+24859380,2019-05-08,2019-05-08 23:35:08 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24859380,Camassia leichtlinii,Asparagaceae,5,114
+24860081,2019-05-09,2019-05-09 20:06:25 UTC,1085105,canalest,https://www.inaturalist.org/observations/24860081,Rubus ursinus,Rosaceae,2,4
+24860105,2019-05-09,2019-05-09 19:43:01 UTC,1085105,canalest,https://www.inaturalist.org/observations/24860105,Geranium lucidum,Geraniaceae,4,5
+24863466,2019-05-08,2019-05-08 19:27:57 UTC,841568,lohump,https://www.inaturalist.org/observations/24863466,Camassia leichtlinii,Asparagaceae,16,1
+24863478,2019-05-08,2019-05-08 19:48:48 UTC,841568,lohump,https://www.inaturalist.org/observations/24863478,Marah oregana,Cucurbitaceae,8,2
+24863811,2019-05-08,2019-05-08 20:49:39 UTC,841568,lohump,https://www.inaturalist.org/observations/24863811,Eschscholzia californica,Papaveraceae,3,3
+24863823,2019-05-08,2019-05-08 21:32:02 UTC,841568,lohump,https://www.inaturalist.org/observations/24863823,Lomatium utriculatum,Apiaceae,1,4
+24864560,2019-05-09,2019-05-10 00:40:05 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24864560,,,1,255
+24864734,2019-05-09,2019-05-09 19:30:00 UTC,1542491,nicolaspackard,https://www.inaturalist.org/observations/24864734,Rubus ursinus,Rosaceae,1,3
+24864905,2019-05-09,2019-05-10 00:49:56 UTC,754260,ellenwatrous,https://www.inaturalist.org/observations/24864905,Collinsia linearis,Plantaginaceae,1,256
+24870672,2019-05-09,2019-05-09 19:30:06 UTC,1447015,phylismcintosh,https://www.inaturalist.org/observations/24870672,Calochortus,Liliaceae,4,24
+24872535,2019-05-09,2019-05-09 18:15:18 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872535,,,40,1
+24872539,2019-05-09,2019-05-09 18:30:18 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872539,,,5,2
+24872560,2019-05-09,2019-05-09 18:53:25 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872560,Rubus ursinus,Rosaceae,1,3
+24872573,2019-05-09,2019-05-09 18:42:24 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872573,,,1,4
+24872578,2019-05-09,2019-05-09 19:24:57 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872578,,,25,5
+24872582,2019-05-09,2019-05-09 19:28:40 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872582,,,10,6
+24872590,2019-05-09,2019-05-09 19:50:09 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872590,,,40,7
+24872606,2019-05-09,2019-05-09 19:50:14 UTC,325615,grottaa,https://www.inaturalist.org/observations/24872606,,,5,8
+24874869,2019-05-09,2019-05-09 19:31:07 UTC,354308,maryjomosby,https://www.inaturalist.org/observations/24874869,Geranium lucidum,Geraniaceae,1,5
+24874871,2019-05-09,2019-05-09 19:48:11 UTC,354308,maryjomosby,https://www.inaturalist.org/observations/24874871,Geranium lucidum,Geraniaceae,1,5
+24882701,2019-05-08,,792468,molfamily,https://www.inaturalist.org/observations/24882701,,,35,303
+24888564,2019-05-09,2019-05-09 21:12:16 UTC,770229,englerj,https://www.inaturalist.org/observations/24888564,Salix,Salicaceae,1,4
+24899252,2019-05-09,2019-05-09 16:36:00 UTC,841568,lohump,https://www.inaturalist.org/observations/24899252,Camassia leichtlinii,Asparagaceae,8,1
+24900476,2019-05-09,2019-05-09 17:43:00 UTC,841568,lohump,https://www.inaturalist.org/observations/24900476,Geum macrophyllum,Rosaceae,10,2
+24900815,2019-05-09,2019-05-09 18:09:00 UTC,841568,lohump,https://www.inaturalist.org/observations/24900815,Rubus ursinus,Rosaceae,16,3
+24901140,2019-05-09,2019-05-09 18:42:00 UTC,841568,lohump,https://www.inaturalist.org/observations/24901140,Ranunculus orthorhynchus,Ranunculaceae,6,4
+24916103,2019-05-03,2019-05-03 20:43:39 UTC,839659,oregonpat,https://www.inaturalist.org/observations/24916103,Salix,Salicaceae,01,02
+24933564,2019-05-08,2019-05-09 01:04:01 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24933564,Phacelia,Boraginaceae,2,115
+24933571,2019-05-08,2019-05-09 01:26:01 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24933571,Toxicoscordion fremontii,Melanthiaceae,1,116
+24944870,2019-05-09,2019-05-09 19:33:37 UTC,792775,dto,https://www.inaturalist.org/observations/24944870,,,5,96
+24948870,2019-04-21,2019-04-21 18:00:00 UTC,384451,debibrimacombe,https://www.inaturalist.org/observations/24948870,,,1,2
+24949727,2019-05-03,2019-05-03 20:30:00 UTC,384451,debibrimacombe,https://www.inaturalist.org/observations/24949727,Geranium maculatum,Geraniaceae,2,3
+24955565,2019-05-09,2019-05-09 17:32:29 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24955565,Calochortus tolmiei,Liliaceae,6,117
+24955653,2019-05-09,2019-05-09 17:31:20 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24955653,Iris,Iridaceae,1,118
+24955770,2019-05-09,2019-05-09 17:30:10 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24955770,Asteraceae,Asteraceae,2,119
+24955858,2019-05-09,2019-05-09 17:38:49 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24955858,Allium falcifolium,Amaryllidaceae,2,120
+24956101,2019-05-09,2019-05-09 19:14:46 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956101,Sabulina douglasii,Caryophyllaceae,1,123
+24956159,2019-05-09,2019-05-09 19:25:20 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956159,,,2,124
+24956242,2019-05-09,2019-05-09 19:35:57 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956242,Phacelia,Boraginaceae,6,125
+24956291,2019-05-09,2019-05-09 23:11:51 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956291,Sisyrinchium,Iridaceae,2,126
+24956345,2019-05-09,2019-05-09 23:34:14 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956345,,,3,127
+24956426,2019-05-09,2019-05-09 23:34:14 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956426,Collinsia linearis,Plantaginaceae,2,128
+24956509,2019-05-09,2019-05-09 23:48:46 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956509,Lomatium triternatum,Apiaceae,1,129
+24956603,2019-05-09,2019-05-10 00:19:58 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956603,Plagiobothrys,Boraginaceae,15,130
+24956802,2019-05-09,2019-05-09 23:48:46 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956802,Phacelia,Boraginaceae,1,131
+24956901,2019-05-09,2019-05-10 01:04:07 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24956901,Erythranthe,Phrymaceae,1,132
+24957034,2019-05-09,2019-05-09 23:11:51 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24957034,Calochortus tolmiei,Liliaceae,1,133
+24957106,2019-05-09,2019-05-10 00:38:38 UTC,327525,brianalindh,https://www.inaturalist.org/observations/24957106,,,1,134
+24963972,2019-05-07,2019-05-07 19:19:27 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24963972,Collinsia linearis,Plantaginaceae,4,1
+24963999,2019-05-07,2019-05-07 20:11:21 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24963999,Ranunculaceae,Ranunculaceae,1,3
+24964030,2019-05-07,2019-05-07 21:42:23 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964030,Erythranthe guttata,Phrymaceae,1,4
+24964051,2019-05-07,2019-05-07 21:51:47 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964051,Ranunculaceae,Ranunculaceae,1,5
+24964090,2019-05-07,2019-05-07 22:09:24 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964090,Boraginaceae,Boraginaceae,2,6
+24964123,2019-05-07,2019-05-07 22:16:33 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964123,Sabulina douglasii,Caryophyllaceae,1,7
+24964143,2019-05-08,2019-05-08 16:27:29 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964143,Camassia,Asparagaceae,6,1
+24964162,2019-05-08,2019-05-08 17:00:13 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964162,Erythranthe guttata,Phrymaceae,1,2
+24964183,2019-05-09,2019-05-09 17:11:03 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964183,Asteroideae,Asteraceae,4,1
+24964243,2019-05-09,2019-05-09 17:41:56 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964243,Balsamorhiza hookeri,Asteraceae,2,3
+24964294,2019-05-09,2019-05-09 18:10:21 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964294,Ranunculaceae,Ranunculaceae,1,4
+24964320,2019-05-09,2019-05-09 19:19:01 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964320,Boraginaceae,Boraginaceae,7,5
+24964337,2019-05-09,2019-05-09 19:26:14 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964337,Sabulina douglasii,Caryophyllaceae,1,6
+24964367,2019-05-09,2019-05-09 19:31:28 UTC,1586075,pseudoamazon,https://www.inaturalist.org/observations/24964367,Erysimum,Brassicaceae,1,7
+24973999,2019-05-03,2019-05-03 20:30:00 UTC,384451,debibrimacombe,https://www.inaturalist.org/observations/24973999,Crataegus,Rosaceae,3,4
+24974099,2019-05-03,2019-05-03 20:30:00 UTC,384451,debibrimacombe,https://www.inaturalist.org/observations/24974099,,,3,5
+24974282,2019-05-06,2019-05-06 20:00:00 UTC,384451,debibrimacombe,https://www.inaturalist.org/observations/24974282,Plectritis,Caprifoliaceae,7,6
+24974600,2019-05-06,2019-05-06 21:00:00 UTC,384451,debibrimacombe,https://www.inaturalist.org/observations/24974600,,,1,7
+24974777,2019-05-09,2019-05-09 21:00:00 UTC,384451,debibrimacombe,https://www.inaturalist.org/observations/24974777,Photinia,Rosaceae,2,8
+24974830,2019-05-09,2019-05-10 00:00:00 UTC,384451,debibrimacombe,https://www.inaturalist.org/observations/24974830,,,1,9
+24995322,2019-05-09,2019-05-09 19:35:52 UTC,1462047,marksg,https://www.inaturalist.org/observations/24995322,Plagiobothrys,Boraginaceae,6,41
+24995374,2019-05-09,2019-05-10 00:22:46 UTC,1462047,marksg,https://www.inaturalist.org/observations/24995374,,,4,42
+24995399,2019-05-09,2019-05-10 00:37:22 UTC,1462047,marksg,https://www.inaturalist.org/observations/24995399,Phacelia,Boraginaceae,2,43
+24995433,2019-05-09,2019-05-10 00:51:53 UTC,1462047,marksg,https://www.inaturalist.org/observations/24995433,Erythranthe guttata,Phrymaceae,2,44
+24995582,2019-05-09,2019-05-10 01:50:06 UTC,1462047,marksg,https://www.inaturalist.org/observations/24995582,Plagiobothrys,Boraginaceae,4,46
+24996820,2019-05-09,2019-05-09 22:16:43 UTC,1434266,laurebordelon,https://www.inaturalist.org/observations/24996820,Phacelia,Boraginaceae,7,9.5.2019.2.7
+25063288,2019-05-07,,792775,dto,https://www.inaturalist.org/observations/25063288,,,1,99
+25108721,2019-04-19,2019-04-19 17:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25108721,Salix,Salicaceae,15,G1
+25177011,2019-04-18,2019-04-18 22:50:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25177011,Berberis aquifolium,Berberidaceae,6,R1
+25177197,2019-04-21,,843723,pandg,https://www.inaturalist.org/observations/25177197,Ribes cereum,Grossulariaceae,13,R1
+25177513,2019-04-21,2019-04-21 23:20:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25177513,Salix,Salicaceae,5,R2
+25177851,2019-04-28,2019-04-28 22:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25177851,Ribes cereum,Grossulariaceae,9,R1
+25178055,2019-04-28,2019-04-28 22:45:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25178055,Ribes cereum,Grossulariaceae,5,R2
+25178282,2019-04-29,2019-04-29 20:15:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25178282,Arctostaphylos patula,Ericaceae,11,R1
+25179160,2019-05-03,2019-05-03 17:30:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25179160,Arctostaphylos patula,Ericaceae,5,R1
+25179387,2019-05-03,2019-05-03 21:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25179387,Ribes cereum,Grossulariaceae,8,R2
+25179943,2019-05-04,2019-05-04 18:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25179943,Ribes cereum,Grossulariaceae,13,R1
+25180226,2019-05-04,2019-05-04 18:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25180226,Ribes cereum,Grossulariaceae,15,R2
+25180440,2019-05-04,2019-05-04 20:30:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25180440,Ribes cereum,Grossulariaceae,8,R3
+25180936,2019-05-04,2019-05-04 21:20:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25180936,Hesperochiron,Boraginaceae,5,R4
+25181323,2019-05-04,2019-05-04 22:50:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25181323,Salix,Salicaceae,26,R5
+25181689,2019-05-04,2019-05-05 00:30:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25181689,Ribes cereum,Grossulariaceae,5,R6
+25181896,2019-05-05,2019-05-05 18:50:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25181896,Ribes cereum,Grossulariaceae,13,R1
+25217775,2019-05-05,2019-05-05 20:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25217775,Lomatium,Apiaceae,15,R2
+25218072,2019-05-05,2019-05-05 23:40:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25218072,Asteraceae,Asteraceae,6,R3
+25218602,2019-05-05,2019-05-06 00:15:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25218602,Salix,Salicaceae,8,R4
+25219018,2019-05-06,2019-05-06 17:45:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25219018,Ceanothus prostratus,Rhamnaceae,10,R1
+25219702,2019-05-06,2019-05-06 19:30:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25219702,Ranunculus alismifolius,Ranunculaceae,7,R2
+25219869,2019-05-06,2019-05-06 21:30:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25219869,Lomatium,Apiaceae,5,R3
+25220663,2019-05-05,2019-05-05 19:17:59 UTC,327525,brianalindh,https://www.inaturalist.org/observations/25220663,Aquilegia formosa,Ranunculaceae,2,85
+25220711,2019-05-05,2019-05-05 18:14:43 UTC,327525,brianalindh,https://www.inaturalist.org/observations/25220711,Crataegus,Rosaceae,1,83
+25225244,2019-05-09,2019-05-09 21:13:07 UTC,858490,heike_williams,https://www.inaturalist.org/observations/25225244,Salix,Salicaceae,6,30
+25232393,2019-04-21,2019-04-21 22:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25232393,Ribes cereum,Grossulariaceae,7,G1
+25232657,2019-04-21,2019-04-21 23:20:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25232657,Salix,Salicaceae,5,G2
+25232793,2019-04-28,2019-04-28 22:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25232793,,,6,G1
+25232865,2019-04-28,2019-04-28 22:45:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25232865,Ribes cereum,Grossulariaceae,8,G2
+25232998,2019-04-29,2019-04-29 20:15:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25232998,Arctostaphylos patula,Ericaceae,15,G1
+25233820,2019-05-03,2019-05-03 21:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25233820,Ribes cereum,Grossulariaceae,11,G1
+25233921,2019-05-03,2019-05-03 21:45:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25233921,Salix,Salicaceae,11,G2
+25234014,2019-05-03,2019-05-03 22:05:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25234014,Ribes aureum,Grossulariaceae,5,G3
+25235205,2019-05-04,2019-05-04 18:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25235205,Ribes cereum,Grossulariaceae,21,G1
+25235257,2019-05-04,2019-05-04 20:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25235257,Ribes cereum,Grossulariaceae,19,G2
+25235461,2019-05-04,2019-05-04 20:30:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25235461,Salix,Salicaceae,18,G3
+25235781,2019-05-04,2019-05-04 21:20:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25235781,Hesperochiron californicus,Boraginaceae,8,G4
+25235871,2019-05-04,2019-05-04 22:50:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25235871,Salix,Salicaceae,6,G5
+25235928,2019-05-04,2019-05-05 00:30:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25235928,Ribes cereum,Grossulariaceae,17,G6
+25236022,2019-05-05,2019-05-05 20:00:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25236022,Lomatium,Apiaceae,19,G1
+25236314,2019-05-05,2019-05-06 00:15:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25236314,Salix,Salicaceae,5,G2
+25236456,2019-05-06,2019-05-06 16:45:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25236456,Arctostaphylos patula,Ericaceae,7,G1
+25236761,2019-05-06,2019-05-06 17:45:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25236761,Ceanothus prostratus,Rhamnaceae,18,G2
+25236933,2019-05-06,2019-05-06 19:30:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25236933,Ranunculus alismifolius,Ranunculaceae,15,G3
+25237131,2019-05-06,2019-05-06 21:30:00 UTC,843723,pandg,https://www.inaturalist.org/observations/25237131,Lomatium,Apiaceae,8,G4
+25244045,2019-05-07,,1561159,jocelyn_mcauley,https://www.inaturalist.org/observations/25244045,Hydrophyllum tenuipes,Boraginaceae,8,05
+25796475,2019-04-22,2019-04-22 19:40:00 UTC,825277,sag,https://www.inaturalist.org/observations/25796475,Pyrus communis,Rosaceae,4,1
+25796554,2019-04-22,2019-04-22 19:40:00 UTC,825277,sag,https://www.inaturalist.org/observations/25796554,Taraxacum officinale,Asteraceae,1,2
+25796608,2019-04-22,2019-04-22 19:41:00 UTC,825277,sag,https://www.inaturalist.org/observations/25796608,Hyacinthoides,Asparagaceae,3,3
+25796843,2019-05-04,2019-05-04 20:12:00 UTC,825277,sag,https://www.inaturalist.org/observations/25796843,Cornus sericea,Cornaceae,14,1
+25796961,2019-05-04,2019-05-04 20:22:00 UTC,825277,sag,https://www.inaturalist.org/observations/25796961,Ribes sanguineum,Grossulariaceae,1,2
+25797013,2019-05-04,2019-05-04 20:52:00 UTC,825277,sag,https://www.inaturalist.org/observations/25797013,Crataegus monogyna,Rosaceae,4,3
+25797206,2019-05-07,2019-05-07 20:40:00 UTC,825277,sag,https://www.inaturalist.org/observations/25797206,,,1,1
+25797441,2019-05-07,2019-05-07 20:45:00 UTC,825277,sag,https://www.inaturalist.org/observations/25797441,Calochortus tolmiei,Liliaceae,2,2
+25797638,2019-05-07,2019-05-07 21:03:00 UTC,825277,sag,https://www.inaturalist.org/observations/25797638,Allium falcifolium,Amaryllidaceae,1,3
+25797900,2019-05-07,2019-05-07 21:55:00 UTC,825277,sag,https://www.inaturalist.org/observations/25797900,Collinsia heterophylla,Plantaginaceae,1,4
+25798060,2019-05-07,2019-05-07 22:18:00 UTC,825277,sag,https://www.inaturalist.org/observations/25798060,Plagiobothrys nothofulvus,Boraginaceae,2,5
+25798286,2019-05-07,2019-05-07 22:33:00 UTC,825277,sag,https://www.inaturalist.org/observations/25798286,Erythranthe guttata,Phrymaceae,2,6

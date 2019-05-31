@@ -1,0 +1,623 @@
+Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Sample ID,Specimen ID,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,85,1,19,V,2019,10:58,,,,,,USA,OR,Benton,Albany,,44.7138,-123.1626,5,56,net,Rosaceae,Rosa nutkana,https://www.inaturalist.org/observations/25413701
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,86,1,19,V,2019,13:41,,,,,,USA,OR,Polk,Independence,,44.7314,-123.1505,5,53,net,Apiaceae,Lomatium,https://www.inaturalist.org/observations/25413754
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,86,2,19,V,2019,13:41,,,,,,USA,OR,Polk,Independence,,44.7314,-123.1505,5,53,net,Apiaceae,Lomatium,https://www.inaturalist.org/observations/25413754
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,86,3,19,V,2019,13:41,,,,,,USA,OR,Polk,Independence,,44.7314,-123.1505,5,53,net,Apiaceae,Lomatium,https://www.inaturalist.org/observations/25413754
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,86,4,19,V,2019,13:41,,,,,,USA,OR,Polk,Independence,,44.7314,-123.1505,5,53,net,Apiaceae,Lomatium,https://www.inaturalist.org/observations/25413754
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,86,5,19,V,2019,13:41,,,,,,USA,OR,Polk,Independence,,44.7314,-123.1505,5,53,net,Apiaceae,Lomatium,https://www.inaturalist.org/observations/25413754
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,87,1,19,V,2019,14:08,,,,,,USA,OR,Polk,Independence,,44.7316,-123.151,5,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25418135
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,87,2,19,V,2019,14:08,,,,,,USA,OR,Polk,Independence,,44.7316,-123.151,5,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25418135
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,87,3,19,V,2019,14:08,,,,,,USA,OR,Polk,Independence,,44.7316,-123.151,5,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25418135
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,87,4,19,V,2019,14:08,,,,,,USA,OR,Polk,Independence,,44.7316,-123.151,5,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25418135
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,87,5,19,V,2019,14:08,,,,,,USA,OR,Polk,Independence,,44.7316,-123.151,5,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25418135
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,87,6,19,V,2019,14:08,,,,,,USA,OR,Polk,Independence,,44.7316,-123.151,5,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25418135
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,88,1,19,V,2019,14:49,,,,,,USA,OR,Polk,Independence,,44.7336,-123.1493,10,53,net,Caprifoliaceae,Symphoricarpos,https://www.inaturalist.org/observations/25422272
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,1,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,2,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,3,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,4,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,5,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,6,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,7,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,8,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,9,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,10,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,11,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,12,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,13,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,14,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,15,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,16,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,17,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,18,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,19,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,20,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,21,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,22,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,23,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,24,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,25,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,26,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,27,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,175529,jerrypaul,Jerry,J.,Paul,89,28,22,V,2019,16:59,,,,,,USA,OR,Benton,Corvallis,,44.6029,-123.2647,5,135,net,Anacardiaceae,Cotinus coggygria,https://www.inaturalist.org/observations/25593917
+ , , , ,327525,brianalindh,Briana,B.,Lindh,156,1,19,V,2019,10:10,,,,,,USA,OR,Marion,Salem,,44.919,-123.0602,30676,47,net,Fabaceae,Lupinus,https://www.inaturalist.org/observations/25413862
+ , , , ,327525,brianalindh,Briana,B.,Lindh,157,1,19,V,2019,10:13,,,,,,USA,OR,Marion,Salem,,44.931,-123.064,5,39,net,Asteraceae,Hypochaeris radicata,https://www.inaturalist.org/observations/25413954
+ , , , ,327525,brianalindh,Briana,B.,Lindh,157,2,19,V,2019,10:13,,,,,,USA,OR,Marion,Salem,,44.931,-123.064,5,39,net,Asteraceae,Hypochaeris radicata,https://www.inaturalist.org/observations/25413954
+ , , , ,327525,brianalindh,Briana,B.,Lindh,158,1,20,V,2019,14:56,,,,,,USA,OR,Marion,Salem,,44.9358,-123.0303,10,48,net,Rosaceae,Physocarpus,https://www.inaturalist.org/observations/25471543
+ , , , ,327525,brianalindh,Briana,B.,Lindh,158,2,20,V,2019,14:56,,,,,,USA,OR,Marion,Salem,,44.9358,-123.0303,10,48,net,Rosaceae,Physocarpus,https://www.inaturalist.org/observations/25471543
+ , , , ,327525,brianalindh,Briana,B.,Lindh,158,3,20,V,2019,14:56,,,,,,USA,OR,Marion,Salem,,44.9358,-123.0303,10,48,net,Rosaceae,Physocarpus,https://www.inaturalist.org/observations/25471543
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,1,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,2,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,3,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,4,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,5,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,6,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,7,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,8,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,9,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,10,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,159,11,21,V,2019,16:33,,,,,,USA,OR,Marion,Salem,,44.9351,-123.0148,10,55,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25531472
+ , , , ,327525,brianalindh,Briana,B.,Lindh,160,1,22,V,2019,14:20,,,,,,USA,OR,Polk,Salem,,45.0221,-123.1453,165,80,net,Papaveraceae,Eschscholzia californica,https://www.inaturalist.org/observations/25596413
+ , , , ,327525,brianalindh,Briana,B.,Lindh,160,2,22,V,2019,14:20,,,,,,USA,OR,Polk,Salem,,45.0221,-123.1453,165,80,net,Papaveraceae,Eschscholzia californica,https://www.inaturalist.org/observations/25596413
+ , , , ,327525,brianalindh,Briana,B.,Lindh,160,3,22,V,2019,14:20,,,,,,USA,OR,Polk,Salem,,45.0221,-123.1453,165,80,net,Papaveraceae,Eschscholzia californica,https://www.inaturalist.org/observations/25596413
+ , , , ,327525,brianalindh,Briana,B.,Lindh,160,4,22,V,2019,14:20,,,,,,USA,OR,Polk,Salem,,45.0221,-123.1453,165,80,net,Papaveraceae,Eschscholzia californica,https://www.inaturalist.org/observations/25596413
+ , , , ,327525,brianalindh,Briana,B.,Lindh,161,1,22,V,2019,14:29,,,,,,USA,OR,Polk,Salem,,45.0217,-123.1457,5,80,net,Boraginaceae,Borago officinalis,https://www.inaturalist.org/observations/25596428
+ , , , ,327525,brianalindh,Briana,B.,Lindh,161,2,22,V,2019,14:29,,,,,,USA,OR,Polk,Salem,,45.0217,-123.1457,5,80,net,Boraginaceae,Borago officinalis,https://www.inaturalist.org/observations/25596428
+ , , , ,327525,brianalindh,Briana,B.,Lindh,161,3,22,V,2019,14:29,,,,,,USA,OR,Polk,Salem,,45.0217,-123.1457,5,80,net,Boraginaceae,Borago officinalis,https://www.inaturalist.org/observations/25596428
+ , , , ,327525,brianalindh,Briana,B.,Lindh,162,1,22,V,2019,14:43,,,,,,USA,OR,Polk,Salem,,45.0212,-123.1442,10,80,net,Rosaceae,Rosa nutkana,https://www.inaturalist.org/observations/25596476
+ , , , ,327525,brianalindh,Briana,B.,Lindh,163,1,22,V,2019,14:55,,,,,,USA,OR,Polk,Salem,,45.0212,-123.1483,10,80,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25596491
+ , , , ,327525,brianalindh,Briana,B.,Lindh,163,2,22,V,2019,14:55,,,,,,USA,OR,Polk,Salem,,45.0212,-123.1483,10,80,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25596491
+ , , , ,327525,brianalindh,Briana,B.,Lindh,163,3,22,V,2019,14:55,,,,,,USA,OR,Polk,Salem,,45.0212,-123.1483,10,80,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25596491
+ , , , ,327525,brianalindh,Briana,B.,Lindh,163,4,22,V,2019,14:55,,,,,,USA,OR,Polk,Salem,,45.0212,-123.1483,10,80,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25596491
+ , , , ,327525,brianalindh,Briana,B.,Lindh,163,5,22,V,2019,14:55,,,,,,USA,OR,Polk,Salem,,45.0212,-123.1483,10,80,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25596491
+ , , , ,327525,brianalindh,Briana,B.,Lindh,163,6,22,V,2019,14:55,,,,,,USA,OR,Polk,Salem,,45.0212,-123.1483,10,80,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25596491
+ , , , ,327525,brianalindh,Briana,B.,Lindh,164,1,22,V,2019,14:58,,,,,,USA,OR,Polk,Salem,,45.0213,-123.1485,3851,80,net,Geraniaceae,Geranium lucidum,https://www.inaturalist.org/observations/25596517
+ , , , ,327525,brianalindh,Briana,B.,Lindh,166,1,22,V,2019,16:02,,,,,,USA,OR,Polk,Salem,,45.0221,-123.1459,10,80,net,,,https://www.inaturalist.org/observations/25596571
+ , , , ,327525,brianalindh,Briana,B.,Lindh,171,1,23,V,2019,13:42,,,,,,USA,OR,Marion,Salem,,44.9368,-123.0318,10,48,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25652683
+ , , , ,327525,brianalindh,Briana,B.,Lindh,171,2,23,V,2019,13:42,,,,,,USA,OR,Marion,Salem,,44.9368,-123.0318,10,48,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25652683
+ , , , ,327525,brianalindh,Briana,B.,Lindh,171,3,23,V,2019,13:42,,,,,,USA,OR,Marion,Salem,,44.9368,-123.0318,10,48,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25652683
+ , , , ,327525,brianalindh,Briana,B.,Lindh,171,4,23,V,2019,13:42,,,,,,USA,OR,Marion,Salem,,44.9368,-123.0318,10,48,net,Rhamnaceae,Ceanothus thyrsiflorus,https://www.inaturalist.org/observations/25652683
+ , , , ,327525,brianalindh,Briana,B.,Lindh,172,1,23,V,2019,15:03,,,,,,USA,OR,Marion,Salem,,44.9366,-123.029,65,48,net,Asteraceae,Eriophyllum,https://www.inaturalist.org/observations/25652730
+ , , , ,327525,brianalindh,Briana,B.,Lindh,172,2,23,V,2019,15:03,,,,,,USA,OR,Marion,Salem,,44.9366,-123.029,65,48,net,Asteraceae,Eriophyllum,https://www.inaturalist.org/observations/25652730
+ , , , ,327525,brianalindh,Briana,B.,Lindh,173,1,23,V,2019,15:09,,,,,,USA,OR,Marion,Salem,,44.9361,-123.0293,30,48,net,Rosaceae,Physocarpus capitatus,https://www.inaturalist.org/observations/25652763
+ , , , ,327525,brianalindh,Briana,B.,Lindh,173,2,23,V,2019,15:09,,,,,,USA,OR,Marion,Salem,,44.9361,-123.0293,30,48,net,Rosaceae,Physocarpus capitatus,https://www.inaturalist.org/observations/25652763
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,99,1,17,V,2019,17:02,,,,,,USA,OR,Josephine,,,42.3567,-123.411,,310,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25301809
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,99,2,17,V,2019,17:02,,,,,,USA,OR,Josephine,,,42.3567,-123.411,,310,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25301809
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,100,1,17,V,2019,15:59,,,,,,USA,OR,Josephine,,,42.3525,-123.3804,4116,300,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25301892
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,100,2,17,V,2019,15:59,,,,,,USA,OR,Josephine,,,42.3525,-123.3804,4116,300,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25301892
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,100,3,17,V,2019,15:59,,,,,,USA,OR,Josephine,,,42.3525,-123.3804,4116,300,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25301892
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,101,1,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,101,2,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,101,3,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,101,4,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,101,5,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,101,6,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,101,7,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,101,8,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,101,9,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,101,10,17,V,2019,16:00,,,,,,USA,OR,Josephine,,,42.3591,-123.4141,748,310,net,Asteraceae,Microseris nutans,https://www.inaturalist.org/observations/25301917
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,1,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,2,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,3,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,4,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,5,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,6,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,7,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,8,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,9,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,10,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,11,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,12,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,13,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,14,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,15,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,16,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,17,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,18,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,19,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,102,20,17,V,2019,17:50,,,,,,USA,OR,Josephine,,,42.3588,-123.4189,1369,292,net,Amaryllidaceae,Allium,https://www.inaturalist.org/observations/25301942
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,103,1,17,V,2019,17:37,,,,,,USA,OR,Josephine,,,42.3581,-123.415,,292,net,Liliaceae,Calochortus uniflorus,https://www.inaturalist.org/observations/25302008
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,104,1,17,V,2019,18:13,,,,,,USA,OR,Josephine,,,42.3592,-123.4134,48,310,net,Asteraceae,Achillea millefolium,https://www.inaturalist.org/observations/25302036
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,1,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,2,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,3,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,4,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,5,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,6,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,7,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,8,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,9,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,10,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,11,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,12,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,13,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,14,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,15,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,16,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,105,17,19,V,2019,16:42,,,,,,USA,OR,Josephine,,,42.3587,-123.4132,16,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25421970
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,106,1,19,V,2019,17:58,,,,,,USA,OR,Josephine,,,42.363,-123.3777,5672,353,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25422034
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,106,2,19,V,2019,17:58,,,,,,USA,OR,Josephine,,,42.363,-123.3777,5672,353,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25422034
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,106,3,19,V,2019,17:58,,,,,,USA,OR,Josephine,,,42.363,-123.3777,5672,353,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25422034
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,106,4,19,V,2019,17:58,,,,,,USA,OR,Josephine,,,42.363,-123.3777,5672,353,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25422034
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,106,5,19,V,2019,17:58,,,,,,USA,OR,Josephine,,,42.363,-123.3777,5672,353,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25422034
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,106,6,19,V,2019,17:58,,,,,,USA,OR,Josephine,,,42.363,-123.3777,5672,353,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25422034
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,106,7,19,V,2019,17:58,,,,,,USA,OR,Josephine,,,42.363,-123.3777,5672,353,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25422034
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,106,8,19,V,2019,17:58,,,,,,USA,OR,Josephine,,,42.363,-123.3777,5672,353,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25422034
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,107,1,19,V,2019,17:00,,,,,,USA,OR,Josephine,,,42.3618,-123.3621,2047,325,net,Asparagaceae,Triteleia hyacinthina,https://www.inaturalist.org/observations/25422456
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,108,1,20,V,2019,11:29,,,,,,USA,OR,Jackson,Central Point,,42.4213,-122.9073,16,377,net,Asparagaceae,Triteleia hyacinthina,https://www.inaturalist.org/observations/25456027
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,109,1,20,V,2019,11:47,,,,,,USA,OR,Jackson,Central Point,,42.421,-122.9073,16,377,net,Onagraceae,Clarkia purpurea,https://www.inaturalist.org/observations/25457150
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,109,2,20,V,2019,11:47,,,,,,USA,OR,Jackson,Central Point,,42.421,-122.9073,16,377,net,Onagraceae,Clarkia purpurea,https://www.inaturalist.org/observations/25457150
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,109,3,20,V,2019,11:47,,,,,,USA,OR,Jackson,Central Point,,42.421,-122.9073,16,377,net,Onagraceae,Clarkia purpurea,https://www.inaturalist.org/observations/25457150
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,110,1,20,V,2019,13:59,,,,,,USA,OR,Jackson,,,42.4862,-122.6667,24,533,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479367
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,110,2,20,V,2019,13:59,,,,,,USA,OR,Jackson,,,42.4862,-122.6667,24,533,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479367
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,110,3,20,V,2019,13:59,,,,,,USA,OR,Jackson,,,42.4862,-122.6667,24,533,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479367
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,110,4,20,V,2019,13:59,,,,,,USA,OR,Jackson,,,42.4862,-122.6667,24,533,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479367
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,110,5,20,V,2019,13:59,,,,,,USA,OR,Jackson,,,42.4862,-122.6667,24,533,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479367
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,110,6,20,V,2019,13:59,,,,,,USA,OR,Jackson,,,42.4862,-122.6667,24,533,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479367
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,110,7,20,V,2019,13:59,,,,,,USA,OR,Jackson,,,42.4862,-122.6667,24,533,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479367
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,111,1,20,V,2019,13:59,,,,,,USA,OR,Jackson,,,42.4861,-122.6672,24,533,net,Asteraceae,Wyethia angustifolia,https://www.inaturalist.org/observations/25479377
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,112,1,20,V,2019,14:00,,,,,,USA,OR,Jackson,,,42.4863,-122.6673,32,533,net,Rosaceae,Horkelia daucifolia,https://www.inaturalist.org/observations/25479395
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,113,1,20,V,2019,15:11,,,,,,USA,OR,Jackson,,,42.4832,-122.6722,16,527,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479414
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,113,2,20,V,2019,15:11,,,,,,USA,OR,Jackson,,,42.4832,-122.6722,16,527,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479414
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,113,3,20,V,2019,15:11,,,,,,USA,OR,Jackson,,,42.4832,-122.6722,16,527,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479414
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,113,4,20,V,2019,15:11,,,,,,USA,OR,Jackson,,,42.4832,-122.6722,16,527,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479414
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,113,5,20,V,2019,15:11,,,,,,USA,OR,Jackson,,,42.4832,-122.6722,16,527,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479414
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,113,6,20,V,2019,15:11,,,,,,USA,OR,Jackson,,,42.4832,-122.6722,16,527,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25479414
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,114,1,22,V,2019,13:45,,,,,,USA,OR,Josephine,Grants Pass,,42.4268,-123.5446,48,393,net,Liliaceae,Calochortus tolmiei,https://www.inaturalist.org/observations/25580520
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,114,2,22,V,2019,13:45,,,,,,USA,OR,Josephine,Grants Pass,,42.4268,-123.5446,48,393,net,Liliaceae,Calochortus tolmiei,https://www.inaturalist.org/observations/25580520
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,114,3,22,V,2019,13:45,,,,,,USA,OR,Josephine,Grants Pass,,42.4268,-123.5446,48,393,net,Liliaceae,Calochortus tolmiei,https://www.inaturalist.org/observations/25580520
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,115,1,22,V,2019,13:50,,,,,,USA,OR,Josephine,Grants Pass,,42.4269,-123.545,16,406,net,Asparagaceae,Camassia quamash,https://www.inaturalist.org/observations/25580808
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,115,2,22,V,2019,13:50,,,,,,USA,OR,Josephine,Grants Pass,,42.4269,-123.545,16,406,net,Asparagaceae,Camassia quamash,https://www.inaturalist.org/observations/25580808
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,116,1,22,V,2019,14:03,,,,,,USA,OR,Josephine,Grants Pass,,42.4264,-123.545,48,406,net,Asparagaceae,Camassia howellii,https://www.inaturalist.org/observations/25581429
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,117,1,22,V,2019,17:48,,,,,,USA,OR,Josephine,,,42.4841,-123.4334,5932,339,net,Asparagaceae,Triteleia hyacinthina,https://www.inaturalist.org/observations/25598350
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,117,2,22,V,2019,17:48,,,,,,USA,OR,Josephine,,,42.4841,-123.4334,5932,339,net,Asparagaceae,Triteleia hyacinthina,https://www.inaturalist.org/observations/25598350
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,118,1,22,V,2019,19:34,,,,,,USA,OR,Josephine,,,42.3588,-123.4129,73196,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25598540
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,118,2,22,V,2019,19:34,,,,,,USA,OR,Josephine,,,42.3588,-123.4129,73196,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25598540
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,118,3,22,V,2019,19:34,,,,,,USA,OR,Josephine,,,42.3588,-123.4129,73196,310,net,Caprifoliaceae,Plectritis congesta,https://www.inaturalist.org/observations/25598540
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,119,1,22,V,2019,,,,,,,USA,OR,Josephine,,,42.3588,-123.4129,1953,310,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25598800
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,120,1,23,V,2019,13:15,,,,,,USA,OR,Jackson,,,42.0719,-123.1934,96,763,net,Boraginaceae,Phacelia,https://www.inaturalist.org/observations/25660829
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,120,2,23,V,2019,13:15,,,,,,USA,OR,Jackson,,,42.0719,-123.1934,96,763,net,Boraginaceae,Phacelia,https://www.inaturalist.org/observations/25660829
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,120,3,23,V,2019,13:15,,,,,,USA,OR,Jackson,,,42.0719,-123.1934,96,763,net,Boraginaceae,Phacelia,https://www.inaturalist.org/observations/25660829
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,120,4,23,V,2019,13:15,,,,,,USA,OR,Jackson,,,42.0719,-123.1934,96,763,net,Boraginaceae,Phacelia,https://www.inaturalist.org/observations/25660829
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,120,5,23,V,2019,13:15,,,,,,USA,OR,Jackson,,,42.0719,-123.1934,96,763,net,Boraginaceae,Phacelia,https://www.inaturalist.org/observations/25660829
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,120,6,23,V,2019,13:15,,,,,,USA,OR,Jackson,,,42.0719,-123.1934,96,763,net,Boraginaceae,Phacelia,https://www.inaturalist.org/observations/25660829
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,120,7,23,V,2019,13:15,,,,,,USA,OR,Jackson,,,42.0719,-123.1934,96,763,net,Boraginaceae,Phacelia,https://www.inaturalist.org/observations/25660829
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,121,1,23,V,2019,15:01,,,,,,USA,OR,Jackson,,,42.0714,-123.1916,1183184,763,net,Fabaceae,Lathyrus,https://www.inaturalist.org/observations/25660836
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,121,2,23,V,2019,15:01,,,,,,USA,OR,Jackson,,,42.0714,-123.1916,1183184,763,net,Fabaceae,Lathyrus,https://www.inaturalist.org/observations/25660836
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,121,3,23,V,2019,15:01,,,,,,USA,OR,Jackson,,,42.0714,-123.1916,1183184,763,net,Fabaceae,Lathyrus,https://www.inaturalist.org/observations/25660836
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,121,4,23,V,2019,15:01,,,,,,USA,OR,Jackson,,,42.0714,-123.1916,1183184,763,net,Fabaceae,Lathyrus,https://www.inaturalist.org/observations/25660836
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,121,5,23,V,2019,15:01,,,,,,USA,OR,Jackson,,,42.0714,-123.1916,1183184,763,net,Fabaceae,Lathyrus,https://www.inaturalist.org/observations/25660836
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,121,6,23,V,2019,15:01,,,,,,USA,OR,Jackson,,,42.0714,-123.1916,1183184,763,net,Fabaceae,Lathyrus,https://www.inaturalist.org/observations/25660836
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,121,7,23,V,2019,15:01,,,,,,USA,OR,Jackson,,,42.0714,-123.1916,1183184,763,net,Fabaceae,Lathyrus,https://www.inaturalist.org/observations/25660836
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,121,8,23,V,2019,15:01,,,,,,USA,OR,Jackson,,,42.0714,-123.1916,1183184,763,net,Fabaceae,Lathyrus,https://www.inaturalist.org/observations/25660836
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,122,1,23,V,2019,18:45,,,,,,USA,OR,Jackson,,,42.0667,-123.1689,,702,net,Rosaceae,Prunus virginiana,https://www.inaturalist.org/observations/25661449
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,122,2,23,V,2019,18:45,,,,,,USA,OR,Jackson,,,42.0667,-123.1689,,702,net,Rosaceae,Prunus virginiana,https://www.inaturalist.org/observations/25661449
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,122,3,23,V,2019,18:45,,,,,,USA,OR,Jackson,,,42.0667,-123.1689,,702,net,Rosaceae,Prunus virginiana,https://www.inaturalist.org/observations/25661449
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,122,4,23,V,2019,18:45,,,,,,USA,OR,Jackson,,,42.0667,-123.1689,,702,net,Rosaceae,Prunus virginiana,https://www.inaturalist.org/observations/25661449
+ , , , ,620505,judithmaxwell,Judi,J.,Maxwell,122,5,23,V,2019,18:45,,,,,,USA,OR,Jackson,,,42.0667,-123.1689,,702,net,Rosaceae,Prunus virginiana,https://www.inaturalist.org/observations/25661449
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,146,1,17,V,2019,16:40,,,,,,USA,OR,Wheeler,,,44.8951,-120.0951,22,1063,net,,,https://www.inaturalist.org/observations/25465043
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,147,1,17,V,2019,16:36,,,,,,USA,OR,Wheeler,,,44.8953,-120.0952,22,1063,net,Asteraceae,Asteraceae,https://www.inaturalist.org/observations/25465060
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,148,1,17,V,2019,16:35,,,,,,USA,,,,,,,,,net,,,https://www.inaturalist.org/observations/25465090
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,141,1,18,V,2019,10:51,,,,,,USA,OR,Wheeler,,,44.6306,-120.2169,22,652,net,,,https://www.inaturalist.org/observations/25465011
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,142,1,18,V,2019,10:54,,,,,,USA,OR,Wheeler,,,44.6307,-120.2169,22,652,net,,,https://www.inaturalist.org/observations/25464997
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,144,1,18,V,2019,10:48,,,,,,USA,OR,Wheeler,,,44.6307,-120.2168,22,652,net,,,https://www.inaturalist.org/observations/25465027
+ , , , ,752114,stephaniehazen,Stephanie,S.,Hazen,149,1,18,V,2019,11:38,,,,,,USA,OR,Wheeler,Wheeler County,,44.6542,-120.2516,22,592,net,,,https://www.inaturalist.org/observations/25464989
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,267,1,18,V,2019,13:55,,,,,,USA,OR,Benton,Philomath,,44.4737,-123.5375,8,746,net,Rhamnaceae,Ceanothus cuneatus,https://www.inaturalist.org/observations/25341076
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,268,0,19,V,2019,11:04,,,,,,USA,OR,Benton,,,44.7138,-123.1626,6,56,net,Rosaceae,Rosa nutkana,https://www.inaturalist.org/observations/25394614
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,269,1,19,V,2019,11:58,,,,,,USA,OR,Benton,,,44.7168,-123.1606,7,56,net,Caprifoliaceae,Symphoricarpos albus,https://www.inaturalist.org/observations/25397506
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,269,2,19,V,2019,11:58,,,,,,USA,OR,Benton,,,44.7168,-123.1606,7,56,net,Caprifoliaceae,Symphoricarpos albus,https://www.inaturalist.org/observations/25397506
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,1,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,2,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,3,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,4,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,5,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,6,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,7,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,8,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,9,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,10,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,270,11,19,V,2019,13:15,,,,,,USA,OR,Polk,,,44.732,-123.1519,5,53,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25402104
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,271,1,19,V,2019,13:38,,,,,,USA,OR,Polk,,,44.7316,-123.1509,8,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25403649
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,271,2,19,V,2019,13:38,,,,,,USA,OR,Polk,,,44.7316,-123.1509,8,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25403649
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,271,3,19,V,2019,13:38,,,,,,USA,OR,Polk,,,44.7316,-123.1509,8,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25403649
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,271,4,19,V,2019,13:38,,,,,,USA,OR,Polk,,,44.7316,-123.1509,8,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25403649
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,271,5,19,V,2019,13:38,,,,,,USA,OR,Polk,,,44.7316,-123.1509,8,53,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25403649
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,272,1,19,V,2019,15:12,,,,,,USA,OR,Polk,,,44.7319,-123.1526,7,53,net,Rosaceae,Physocarpus capitatus,https://www.inaturalist.org/observations/25409313
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,273,1,20,V,2019,18:00,,,,,,USA,OR,Lake,,,43.1245,-121.0418,4,1324,net,,,https://www.inaturalist.org/observations/25487269
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,275,1,23,V,2019,17:15,,,,,,USA,OR,Lake,,,43.2199,-121.174,24,1396,net,Grossulariaceae,Ribes cereum,https://www.inaturalist.org/observations/25663262
+ , , , ,754260,ellenwatrous,Ellen,E.,Watrous,275,2,23,V,2019,17:15,,,,,,USA,OR,Lake,,,43.2199,-121.174,24,1396,net,Grossulariaceae,Ribes cereum,https://www.inaturalist.org/observations/25663262
+ , , , ,770229,englerj,Joe,J.,Engler,1,1,24,V,2019,7:10,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,Boraginaceae,Phacelia heterophylla,https://www.inaturalist.org/observations/25681513
+ , , , ,770229,englerj,Joe,J.,Engler,1,2,24,V,2019,7:10,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,Boraginaceae,Phacelia heterophylla,https://www.inaturalist.org/observations/25681513
+ , , , ,770229,englerj,Joe,J.,Engler,2,1,24,V,2019,7:03,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25681595
+ , , , ,770229,englerj,Joe,J.,Engler,2,2,24,V,2019,7:03,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25681595
+ , , , ,770229,englerj,Joe,J.,Engler,2,3,24,V,2019,7:03,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25681595
+ , , , ,770229,englerj,Joe,J.,Engler,2,4,24,V,2019,7:03,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,Malvaceae,Sidalcea campestris,https://www.inaturalist.org/observations/25681595
+ , , , ,770229,englerj,Joe,J.,Engler,3,1,24,V,2019,7:04,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,Rosaceae,Geum macrophyllum,https://www.inaturalist.org/observations/25681371
+ , , , ,770229,englerj,Joe,J.,Engler,5,1,24,V,2019,7:34,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,,,https://www.inaturalist.org/observations/25681856
+ , , , ,770229,englerj,Joe,J.,Engler,5,2,24,V,2019,7:34,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,,,https://www.inaturalist.org/observations/25681856
+ , , , ,770229,englerj,Joe,J.,Engler,5,3,24,V,2019,7:34,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,,,https://www.inaturalist.org/observations/25681856
+ , , , ,770229,englerj,Joe,J.,Engler,5,4,24,V,2019,7:34,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,,,https://www.inaturalist.org/observations/25681856
+ , , , ,770229,englerj,Joe,J.,Engler,5,5,24,V,2019,7:34,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,,,https://www.inaturalist.org/observations/25681856
+ , , , ,770229,englerj,Joe,J.,Engler,5,6,24,V,2019,7:34,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,,,https://www.inaturalist.org/observations/25681856
+ , , , ,770229,englerj,Joe,J.,Engler,5,7,24,V,2019,7:34,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,,,https://www.inaturalist.org/observations/25681856
+ , , , ,770229,englerj,Joe,J.,Engler,5,8,24,V,2019,7:34,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,,,https://www.inaturalist.org/observations/25681856
+ , , , ,770229,englerj,Joe,J.,Engler,5,9,24,V,2019,7:34,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,,,https://www.inaturalist.org/observations/25681856
+ , , , ,770229,englerj,Joe,J.,Engler,5,10,24,V,2019,7:34,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,,,https://www.inaturalist.org/observations/25681856
+ , , , ,770229,englerj,Joe,J.,Engler,6,1,24,V,2019,11:18,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,Asteraceae,Taraxacum officinale,https://www.inaturalist.org/observations/25689591
+ , , , ,770229,englerj,Joe,J.,Engler,6,2,24,V,2019,11:18,,,,,,USA,OR,Multnomah,,,45.5548,-122.3842,31,9,net,Asteraceae,Taraxacum officinale,https://www.inaturalist.org/observations/25689591
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,217,1,20,V,2019,15:25,,,,,,USA,OR,Gilliam,Arlington,,45.7059,-120.1858,48,127,net,Asteraceae,Crepis atribarba,https://www.inaturalist.org/observations/25469586
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,217,2,20,V,2019,15:25,,,,,,USA,OR,Gilliam,Arlington,,45.7059,-120.1858,48,127,net,Asteraceae,Crepis atribarba,https://www.inaturalist.org/observations/25469586
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,311,1,20,V,2019,12:03,,,,,,USA,OR,Wasco,Mosier,,45.6848,-121.3939,16,36,net,Polygonaceae,Eriogonum compositum,https://www.inaturalist.org/observations/25458193
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,312,1,20,V,2019,12:26,,,,,,USA,OR,Wasco,Mosier,,45.6893,-121.3406,16,193,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25459720
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,313,1,20,V,2019,12:45,,,,,,USA,OR,Wasco,The Dalles,,45.6841,-121.3125,16,229,net,Fabaceae,Vicia villosa,https://www.inaturalist.org/observations/25460893
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,314,1,20,V,2019,12:49,,,,,,USA,OR,Wasco,The Dalles,,45.6841,-121.3125,12,229,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25461162
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,314,2,20,V,2019,12:49,,,,,,USA,OR,Wasco,The Dalles,,45.6841,-121.3125,12,229,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25461162
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,314,3,20,V,2019,12:49,,,,,,USA,OR,Wasco,The Dalles,,45.6841,-121.3125,12,229,net,Asteraceae,Eriophyllum lanatum,https://www.inaturalist.org/observations/25461162
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,315,1,20,V,2019,13:03,,,,,,USA,OR,Wasco,The Dalles,,45.684,-121.3122,16,229,net,Gentianaceae,Frasera albicaulis,https://www.inaturalist.org/observations/25461975
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,315,2,20,V,2019,13:03,,,,,,USA,OR,Wasco,The Dalles,,45.684,-121.3122,16,229,net,Gentianaceae,Frasera albicaulis,https://www.inaturalist.org/observations/25461975
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,316,1,20,V,2019,15:17,,,,,,USA,OR,Gilliam,Arlington,,45.7059,-120.185,12,127,net,Fabaceae,Astragalus reventiformis,https://www.inaturalist.org/observations/25469130
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,316,2,20,V,2019,15:17,,,,,,USA,OR,Gilliam,Arlington,,45.7059,-120.185,12,127,net,Fabaceae,Astragalus reventiformis,https://www.inaturalist.org/observations/25469130
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,316,3,20,V,2019,15:17,,,,,,USA,OR,Gilliam,Arlington,,45.7059,-120.185,12,127,net,Fabaceae,Astragalus reventiformis,https://www.inaturalist.org/observations/25469130
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,322,1,21,V,2019,14:44,,,,,,USA,OR,Wheeler,,,44.5483,-119.7855,48,971,net,Fabaceae,Astragalus filipes,https://www.inaturalist.org/observations/25528795
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,323,1,21,V,2019,14:53,,,,,,USA,OR,Wheeler,,,44.5349,-119.7484,48,858,net,Asteraceae,Chaenactis nevii,https://www.inaturalist.org/observations/25528898
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,324,1,21,V,2019,16:46,,,,,,USA,OR,Grant,,,44.5466,-118.5308,8,1389,net,Salicaceae,Salix,https://www.inaturalist.org/observations/25536003
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,518,1,21,V,2019,11:12,,,,,,USA,OR,Wheeler,,,44.633,-120.3019,16,696,net,Polygonaceae,Eriogonum,https://www.inaturalist.org/observations/25520736
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,519,1,21,V,2019,11:28,,,,,,USA,OR,Wheeler,,,44.6326,-120.3023,32,696,net,Asteraceae,Blepharipappus scaber,https://www.inaturalist.org/observations/25520834
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,520,1,21,V,2019,12:13,,,,,,USA,OR,Wheeler,,,44.6345,-120.3007,12,696,net,Boraginaceae,Phacelia heterophylla,https://www.inaturalist.org/observations/25520989
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,521,1,21,V,2019,14:33,,,,,,USA,OR,Wheeler,,,44.5605,-119.8362,32,1069,net,Asparagaceae,Triteleia grandiflora,https://www.inaturalist.org/observations/25528701
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,242,1,22,V,2019,17:11,,,,,,USA,OR,Baker,,,44.6043,-117.1281,16,680,net,Asteraceae,Cirsium canovirens,https://www.inaturalist.org/observations/25594428
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,325,1,22,V,2019,11:11,,,,,,USA,OR,Baker,Huntington,,44.3555,-117.2533,12,665,net,Fabaceae,Lupinus sericeus,https://www.inaturalist.org/observations/25571424
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,326,1,22,V,2019,11:22,,,,,,USA,OR,Baker,Huntington,,44.3581,-117.2493,24,665,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25572079
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,327,1,22,V,2019,12:03,,,,,,USA,OR,Baker,Huntington,,44.359,-117.2489,24,665,net,,,https://www.inaturalist.org/observations/25574601
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,328,1,22,V,2019,12:31,,,,,,USA,OR,Baker,Huntington,,44.3653,-117.2291,12,642,net,Asteraceae,Erigeron pumilus,https://www.inaturalist.org/observations/25576183
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,329,1,22,V,2019,12:49,,,,,,USA,OR,Baker,Huntington,,44.366,-117.2295,96,642,net,Malvaceae,Sphaeralcea munroana,https://www.inaturalist.org/observations/25577717
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,329,2,22,V,2019,12:49,,,,,,USA,OR,Baker,Huntington,,44.366,-117.2295,96,642,net,Malvaceae,Sphaeralcea munroana,https://www.inaturalist.org/observations/25577717
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,329,3,22,V,2019,12:49,,,,,,USA,OR,Baker,Huntington,,44.366,-117.2295,96,642,net,Malvaceae,Sphaeralcea munroana,https://www.inaturalist.org/observations/25577717
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,329,4,22,V,2019,12:49,,,,,,USA,OR,Baker,Huntington,,44.366,-117.2295,96,642,net,Malvaceae,Sphaeralcea munroana,https://www.inaturalist.org/observations/25577717
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,330,1,22,V,2019,12:58,,,,,,USA,OR,Baker,,,44.3659,-117.2303,64,642,net,Asteraceae,Cirsium canovirens,https://www.inaturalist.org/observations/25594067
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,331,1,22,V,2019,13:34,,,,,,USA,OR,Baker,,,44.3859,-117.2429,8,638,net,Fabaceae,Lupinus sericeus,https://www.inaturalist.org/observations/25594096
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,332,1,22,V,2019,13:50,,,,,,USA,OR,Baker,,,44.3889,-117.2446,32,638,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25593924
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,334,1,22,V,2019,14:02,,,,,,USA,OR,Baker,,,44.3884,-117.2451,16,656,net,Boraginaceae,Phacelia heterophylla,https://www.inaturalist.org/observations/25594121
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,336,1,22,V,2019,14:57,,,,,,USA,OR,Baker,,,44.3985,-117.2437,16,638,net,Hydrangeaceae,Philadelphus lewisii,https://www.inaturalist.org/observations/25594189
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,340,1,22,V,2019,16:33,,,,,,USA,OR,Baker,,,44.5999,-117.1334,16,680,net,Asteraceae,Cirsium canovirens,https://www.inaturalist.org/observations/25594252
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,340,2,22,V,2019,16:33,,,,,,USA,OR,Baker,,,44.5999,-117.1334,16,680,net,Asteraceae,Cirsium canovirens,https://www.inaturalist.org/observations/25594252
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,341,1,22,V,2019,16:44,,,,,,USA,OR,Baker,,,44.6044,-117.128,24,680,net,Fabaceae,Astragalus cusickii,https://www.inaturalist.org/observations/25594309
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,341,,22,V,2019,17:44,,,,,,USA,OR,Baker,,,44.6671,-117.1164,12,938,net,Lamiaceae,Scutellaria angustifolia,https://www.inaturalist.org/observations/25595130
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,343,1,22,V,2019,17:15,,,,,,USA,OR,Baker,,,44.6618,-117.1134,48,889,net,Boraginaceae,Phacelia heterophylla,https://www.inaturalist.org/observations/25594557
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,344,1,22,V,2019,17:19,,,,,,USA,OR,Baker,,,44.6628,-117.1139,8,889,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25595021
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,344,2,22,V,2019,17:19,,,,,,USA,OR,Baker,,,44.6628,-117.1139,8,889,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25595021
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,345,1,22,V,2019,17:35,,,,,,USA,OR,Baker,,,44.6628,-117.114,16,889,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25595109
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,243,1,23,V,2019,9:31,,,,,,USA,OR,Union,,,45.1032,-117.6778,96,1220,net,Rosaceae,Fragaria vesca,https://www.inaturalist.org/observations/25631897
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,243,2,23,V,2019,9:31,,,,,,USA,OR,Union,,,45.1032,-117.6778,96,1220,net,Rosaceae,Fragaria vesca,https://www.inaturalist.org/observations/25631897
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,342,1,23,V,2019,9:20,,,,,,USA,OR,Union,,,45.1037,-117.6779,128,1220,net,Ericaceae,Arctostaphylos adenotricha,https://www.inaturalist.org/observations/25631523
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,344,1,23,V,2019,9:46,,,,,,USA,OR,Union,,,45.1034,-117.6782,16,1220,net,Asteraceae,Arnica cordifolia,https://www.inaturalist.org/observations/25631930
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,344,2,23,V,2019,9:46,,,,,,USA,OR,Union,,,45.1034,-117.6782,16,1220,net,Asteraceae,Arnica cordifolia,https://www.inaturalist.org/observations/25631930
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,345,1,23,V,2019,9:58,,,,,,USA,OR,Union,,,45.1019,-117.6831,24,1220,net,Grossulariaceae,Ribes viscosissimum,https://www.inaturalist.org/observations/25631951
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,346,1,23,V,2019,10:09,,,,,,USA,OR,Union,,,45.1027,-117.6921,12,1297,net,Ranunculaceae,Delphinium depauperatum,https://www.inaturalist.org/observations/25632039
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,347,1,23,V,2019,10:15,,,,,,USA,OR,Union,,,45.1026,-117.692,12,1297,net,Boraginaceae,Mertensia longiflora,https://www.inaturalist.org/observations/25632081
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,348,1,23,V,2019,10:19,,,,,,USA,OR,Union,,,45.1027,-117.6924,24,1297,net,Asteraceae,Taraxacum officinale,https://www.inaturalist.org/observations/25632114
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,349,1,23,V,2019,11:02,,,,,,USA,OR,Union,,,45.0945,-117.7181,12,1406,net,Asteraceae,Nothocalais alpestris,https://www.inaturalist.org/observations/25632157
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,350,1,23,V,2019,11:08,,,,,,USA,OR,Union,,,45.0945,-117.7179,32,1406,net,Melanthiaceae,Toxicoscordion paniculatum,https://www.inaturalist.org/observations/25632175
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,351,1,23,V,2019,11:21,,,,,,USA,OR,Union,,,45.0932,-117.7157,24,1406,net,Fabaceae,Lupinus bingenensis,https://www.inaturalist.org/observations/25632239
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,352,1,23,V,2019,11:31,,,,,,USA,OR,Union,,,45.0937,-117.7151,24,1406,net,Rosaceae,Fragaria vesca,https://www.inaturalist.org/observations/25632606
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,353,1,23,V,2019,12:00,,,,,,USA,OR,Union,Baker City,,45.0637,-117.7068,48,1482,net,Boraginaceae,Hydrophyllum capitatum,https://www.inaturalist.org/observations/25632670
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,354,1,23,V,2019,12:04,,,,,,USA,OR,Union,Baker City,,45.0637,-117.7068,8,1482,net,Grossulariaceae,Ribes cereum,https://www.inaturalist.org/observations/25632730
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,355,1,23,V,2019,12:13,,,,,,USA,OR,Union,Baker City,,45.0635,-117.7066,96,1482,net,Rosaceae,Drymocallis arguta,https://www.inaturalist.org/observations/25632975
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,356,1,23,V,2019,18:37,,,,,,USA,OR,Umatilla,Echo,,45.7213,-119.3014,12,218,net,Boraginaceae,Amsinckia lycopsoides,https://www.inaturalist.org/observations/25651887
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,357,1,23,V,2019,18:38,,,,,,USA,OR,Umatilla,Echo,,45.7213,-119.3014,16,218,net,Brassicaceae,Sisymbrium altissimum,https://www.inaturalist.org/observations/25651941
+ , , , ,792468,molfamily,Michael,M.,O'Loughlin,358,1,23,V,2019,18:44,,,,,,USA,OR,Umatilla,Echo,,45.721,-119.3015,16,218,net,Asteraceae,Crepis atribarba,https://www.inaturalist.org/observations/25652231
+ , , , ,792775,dto,Dan,D.,O'Loughlin,100,1,20,V,2019,12:46,,,,,,USA,OR,Wasco,,,45.6842,-121.3125,30,229,net,Asteraceae,Eriophyllum lanatum integrifolium,https://www.inaturalist.org/observations/25462462
+ , , , ,792775,dto,Dan,D.,O'Loughlin,101,1,20,V,2019,13:28,,,,,,USA,OR,Wasco,,,45.6828,-121.3059,56,229,net,Anacardiaceae,Toxicodendron diversilobum,https://www.inaturalist.org/observations/25463611
+ , , , ,792775,dto,Dan,D.,O'Loughlin,101,2,20,V,2019,13:28,,,,,,USA,OR,Wasco,,,45.6828,-121.3059,56,229,net,Anacardiaceae,Toxicodendron diversilobum,https://www.inaturalist.org/observations/25463611
+ , , , ,792775,dto,Dan,D.,O'Loughlin,102,1,20,V,2019,15:38,,,,,,USA,OR,Gilliam,,,45.7059,-120.1854,60,127,net,Asteraceae,Asteroideae,https://www.inaturalist.org/observations/25470191
+ , , , ,792775,dto,Dan,D.,O'Loughlin,102,2,20,V,2019,15:38,,,,,,USA,OR,Gilliam,,,45.7059,-120.1854,60,127,net,Asteraceae,Asteroideae,https://www.inaturalist.org/observations/25470191
+ , , , ,792775,dto,Dan,D.,O'Loughlin,103,1,21,V,2019,11:35,,,,,,USA,OR,Wheeler,,,44.6328,-120.3018,3,696,net,Asteraceae,Blepharipappus scaber,https://www.inaturalist.org/observations/25529163
+ , , , ,792775,dto,Dan,D.,O'Loughlin,103,2,21,V,2019,11:35,,,,,,USA,OR,Wheeler,,,44.6328,-120.3018,3,696,net,Asteraceae,Blepharipappus scaber,https://www.inaturalist.org/observations/25529163
+ , , , ,792775,dto,Dan,D.,O'Loughlin,103,3,21,V,2019,11:35,,,,,,USA,OR,Wheeler,,,44.6328,-120.3018,3,696,net,Asteraceae,Blepharipappus scaber,https://www.inaturalist.org/observations/25529163
+ , , , ,792775,dto,Dan,D.,O'Loughlin,104,1,21,V,2019,14:52,,,,,,USA,OR,Wheeler,,,44.5359,-119.7508,17,866,net,Plantaginaceae,Penstemon,https://www.inaturalist.org/observations/25529181
+ , , , ,792775,dto,Dan,D.,O'Loughlin,104,2,21,V,2019,14:52,,,,,,USA,OR,Wheeler,,,44.5359,-119.7508,17,866,net,Plantaginaceae,Penstemon,https://www.inaturalist.org/observations/25529181
+ , , , ,792775,dto,Dan,D.,O'Loughlin,104,1,22,V,2019,11:19,,,,,,USA,OR,Baker,,,44.3349,-117.2627,4212,795,net,Polygonaceae,Eriogonum compositum,https://www.inaturalist.org/observations/25580222
+ , , , ,792775,dto,Dan,D.,O'Loughlin,104,2,22,V,2019,11:19,,,,,,USA,OR,Baker,,,44.3349,-117.2627,4212,795,net,Polygonaceae,Eriogonum compositum,https://www.inaturalist.org/observations/25580222
+ , , , ,792775,dto,Dan,D.,O'Loughlin,104,3,22,V,2019,11:19,,,,,,USA,OR,Baker,,,44.3349,-117.2627,4212,795,net,Polygonaceae,Eriogonum compositum,https://www.inaturalist.org/observations/25580222
+ , , , ,792775,dto,Dan,D.,O'Loughlin,104,4,22,V,2019,11:19,,,,,,USA,OR,Baker,,,44.3349,-117.2627,4212,795,net,Polygonaceae,Eriogonum compositum,https://www.inaturalist.org/observations/25580222
+ , , , ,792775,dto,Dan,D.,O'Loughlin,104,5,22,V,2019,11:19,,,,,,USA,OR,Baker,,,44.3349,-117.2627,4212,795,net,Polygonaceae,Eriogonum compositum,https://www.inaturalist.org/observations/25580222
+ , , , ,792775,dto,Dan,D.,O'Loughlin,104,6,22,V,2019,11:19,,,,,,USA,OR,Baker,,,44.3349,-117.2627,4212,795,net,Polygonaceae,Eriogonum compositum,https://www.inaturalist.org/observations/25580222
+ , , , ,792775,dto,Dan,D.,O'Loughlin,104,7,22,V,2019,11:19,,,,,,USA,OR,Baker,,,44.3349,-117.2627,4212,795,net,Polygonaceae,Eriogonum compositum,https://www.inaturalist.org/observations/25580222
+ , , , ,792775,dto,Dan,D.,O'Loughlin,104,8,22,V,2019,11:19,,,,,,USA,OR,Baker,,,44.3349,-117.2627,4212,795,net,Polygonaceae,Eriogonum compositum,https://www.inaturalist.org/observations/25580222
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,1,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,2,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,3,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,4,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,5,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,6,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,7,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,8,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,9,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,10,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,11,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,105,12,22,V,2019,11:34,,,,,,USA,OR,Baker,,,44.3305,-117.2687,3599,788,net,Plantaginaceae,Penstemon deustus,https://www.inaturalist.org/observations/25580306
+ , , , ,792775,dto,Dan,D.,O'Loughlin,106,1,22,V,2019,11:56,,,,,,USA,OR,Baker,,,44.3592,-117.249,12,665,net,Fabaceae,Dalea ornata,https://www.inaturalist.org/observations/25580355
+ , , , ,792775,dto,Dan,D.,O'Loughlin,106,2,22,V,2019,11:56,,,,,,USA,OR,Baker,,,44.3592,-117.249,12,665,net,Fabaceae,Dalea ornata,https://www.inaturalist.org/observations/25580355
+ , , , ,792775,dto,Dan,D.,O'Loughlin,106,3,22,V,2019,11:56,,,,,,USA,OR,Baker,,,44.3592,-117.249,12,665,net,Fabaceae,Dalea ornata,https://www.inaturalist.org/observations/25580355
+ , , , ,792775,dto,Dan,D.,O'Loughlin,107,1,22,V,2019,12:33,,,,,,USA,OR,Malheur,,,44.2706,-117.2001,4000,648,net,Asteraceae,Crepis occidentalis,https://www.inaturalist.org/observations/25580573
+ , , , ,792775,dto,Dan,D.,O'Loughlin,108,1,22,V,2019,12:37,,,,,,USA,OR,Baker,,,44.3654,-117.2291,16,642,net,Asteraceae,Erigeron pumilus,https://www.inaturalist.org/observations/25580701
+ , , , ,792775,dto,Dan,D.,O'Loughlin,108,2,22,V,2019,12:37,,,,,,USA,OR,Baker,,,44.3654,-117.2291,16,642,net,Asteraceae,Erigeron pumilus,https://www.inaturalist.org/observations/25580701
+ , , , ,792775,dto,Dan,D.,O'Loughlin,108,3,22,V,2019,12:37,,,,,,USA,OR,Baker,,,44.3654,-117.2291,16,642,net,Asteraceae,Erigeron pumilus,https://www.inaturalist.org/observations/25580701
+ , , , ,792775,dto,Dan,D.,O'Loughlin,108,4,22,V,2019,12:37,,,,,,USA,OR,Baker,,,44.3654,-117.2291,16,642,net,Asteraceae,Erigeron pumilus,https://www.inaturalist.org/observations/25580701
+ , , , ,792775,dto,Dan,D.,O'Loughlin,108,5,22,V,2019,12:37,,,,,,USA,OR,Baker,,,44.3654,-117.2291,16,642,net,Asteraceae,Erigeron pumilus,https://www.inaturalist.org/observations/25580701
+ , , , ,792775,dto,Dan,D.,O'Loughlin,108,6,22,V,2019,12:37,,,,,,USA,OR,Baker,,,44.3654,-117.2291,16,642,net,Asteraceae,Erigeron pumilus,https://www.inaturalist.org/observations/25580701
+ , , , ,792775,dto,Dan,D.,O'Loughlin,108,7,22,V,2019,12:37,,,,,,USA,OR,Baker,,,44.3654,-117.2291,16,642,net,Asteraceae,Erigeron pumilus,https://www.inaturalist.org/observations/25580701
+ , , , ,792775,dto,Dan,D.,O'Loughlin,109,1,22,V,2019,14:22,,,,,,USA,OR,Malheur,,,44.2706,-117.2001,4000,648,net,Asteraceae,Cirsium canovirens,https://www.inaturalist.org/observations/25582670
+ , , , ,792775,dto,Dan,D.,O'Loughlin,110,1,22,V,2019,14:51,,,,,,USA,OR,Baker,,,44.3932,-117.2456,20,656,net,Rosaceae,Rosa canina,https://www.inaturalist.org/observations/25594816
+ , , , ,792775,dto,Dan,D.,O'Loughlin,111,1,22,V,2019,14:52,,,,,,USA,OR,Baker,,,44.3932,-117.2456,14,656,net,Asteraceae,Achillea millefolium,https://www.inaturalist.org/observations/25594865
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,1,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,2,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,3,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,4,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,5,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,6,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,7,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,8,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,9,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,10,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,112,11,22,V,2019,16:27,,,,,,USA,OR,Baker,,,44.5991,-117.1319,18,680,net,Plantaginaceae,Tonella floribunda,https://www.inaturalist.org/observations/25594889
+ , , , ,792775,dto,Dan,D.,O'Loughlin,113,1,22,V,2019,17:21,,,,,,USA,OR,Baker,,,44.6612,-117.1137,9,889,net,Boraginaceae,Phacelia heterophylla,https://www.inaturalist.org/observations/25594921
+ , , , ,792775,dto,Dan,D.,O'Loughlin,113,2,22,V,2019,17:21,,,,,,USA,OR,Baker,,,44.6612,-117.1137,9,889,net,Boraginaceae,Phacelia heterophylla,https://www.inaturalist.org/observations/25594921
+ , , , ,792775,dto,Dan,D.,O'Loughlin,114,1,22,V,2019,17:31,,,,,,USA,OR,Baker,,,44.6655,-117.1172,32,938,net,Phrymaceae,Erythranthe guttata,https://www.inaturalist.org/observations/25594940
+ , , , ,792775,dto,Dan,D.,O'Loughlin,115,1,23,V,2019,9:27,,,,,,USA,OR,Union,,,45.0145,-117.6366,116,1021,net,Ericaceae,Arctostaphylos adenotricha,https://www.inaturalist.org/observations/25656413
+ , , , ,792775,dto,Dan,D.,O'Loughlin,116,1,23,V,2019,10:08,,,,,,USA,OR,Union,,,45.1027,-117.6926,32,1297,net,Boraginaceae,Hydrophyllum capitatum,https://www.inaturalist.org/observations/25656423
+ , , , ,792775,dto,Dan,D.,O'Loughlin,117,1,23,V,2019,11:25,,,,,,USA,OR,Union,,,45.0935,-117.7152,17,1406,net,,,https://www.inaturalist.org/observations/25656444
+ , , , ,792775,dto,Dan,D.,O'Loughlin,118,1,23,V,2019,12:04,,,,,,USA,OR,Baker,,,44.7931,-117.8155,3000,1041,net,Violaceae,Viola purpurea,https://www.inaturalist.org/observations/25656470
+ , , , ,792775,dto,Dan,D.,O'Loughlin,119,1,23,V,2019,12:17,,,,,,USA,OR,Baker,,,44.7931,-117.8155,3000,1041,net,Grossulariaceae,Ribes cereum,https://www.inaturalist.org/observations/25656484
+ , , , ,792775,dto,Dan,D.,O'Loughlin,120,1,23,V,2019,18:52,,,,,,USA,OR,Umatilla,,,45.7216,-119.3012,8,218,net,Boraginaceae,Amsinckia lycopsoides,https://www.inaturalist.org/observations/25656495
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,1,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,2,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,3,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,4,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,5,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,6,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,7,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,8,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,9,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,10,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,11,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,12,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,13,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,14,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,15,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,16,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,17,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,18,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,19,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,20,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,21,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,22,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,23,20,V,2019,13:36,,,,,,USA,,,,,,,,,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25487452
+ , , , ,841568,lohump,Lori,L.,Humphreys,2,1,20,V,2019,14:30,,,,,,USA,,,,,,,,,net,Ranunculaceae,Ranunculus orthorhynchus,https://www.inaturalist.org/observations/25487526
+ , , , ,841568,lohump,Lori,L.,Humphreys,2,2,20,V,2019,14:30,,,,,,USA,,,,,,,,,net,Ranunculaceae,Ranunculus orthorhynchus,https://www.inaturalist.org/observations/25487526
+ , , , ,841568,lohump,Lori,L.,Humphreys,2,3,20,V,2019,14:30,,,,,,USA,,,,,,,,,net,Ranunculaceae,Ranunculus orthorhynchus,https://www.inaturalist.org/observations/25487526
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,1,20,V,2019,14:46,,,,,,USA,,,,,,,,,net,Linaceae,Linum bienne,https://www.inaturalist.org/observations/25487263
+ , , , ,841568,lohump,Lori,L.,Humphreys,4,1,20,V,2019,15:12,,,,,,USA,,,,,,,,,net,Asteraceae,Anthemis arvensis,https://www.inaturalist.org/observations/25487676
+ , , , ,841568,lohump,Lori,L.,Humphreys,4,2,20,V,2019,15:12,,,,,,USA,,,,,,,,,net,Asteraceae,Anthemis arvensis,https://www.inaturalist.org/observations/25487676
+ , , , ,841568,lohump,Lori,L.,Humphreys,4,3,20,V,2019,15:12,,,,,,USA,,,,,,,,,net,Asteraceae,Anthemis arvensis,https://www.inaturalist.org/observations/25487676
+ , , , ,841568,lohump,Lori,L.,Humphreys,4,4,20,V,2019,15:12,,,,,,USA,,,,,,,,,net,Asteraceae,Anthemis arvensis,https://www.inaturalist.org/observations/25487676
+ , , , ,841568,lohump,Lori,L.,Humphreys,4,5,20,V,2019,15:12,,,,,,USA,,,,,,,,,net,Asteraceae,Anthemis arvensis,https://www.inaturalist.org/observations/25487676
+ , , , ,841568,lohump,Lori,L.,Humphreys,4,6,20,V,2019,15:12,,,,,,USA,,,,,,,,,net,Asteraceae,Anthemis arvensis,https://www.inaturalist.org/observations/25487676
+ , , , ,841568,lohump,Lori,L.,Humphreys,4,7,20,V,2019,15:12,,,,,,USA,,,,,,,,,net,Asteraceae,Anthemis arvensis,https://www.inaturalist.org/observations/25487676
+ , , , ,841568,lohump,Lori,L.,Humphreys,4,8,20,V,2019,15:12,,,,,,USA,,,,,,,,,net,Asteraceae,Anthemis arvensis,https://www.inaturalist.org/observations/25487676
+ , , , ,841568,lohump,Lori,L.,Humphreys,4,9,20,V,2019,15:12,,,,,,USA,,,,,,,,,net,Asteraceae,Anthemis arvensis,https://www.inaturalist.org/observations/25487676
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,1,22,V,2019,15:26,,,,,,USA,OR,Lane,,,44.0933,-123.0245,,134,net,Fabaceae,Lupinus rivularis,https://www.inaturalist.org/observations/25603004
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,2,22,V,2019,15:26,,,,,,USA,OR,Lane,,,44.0933,-123.0245,,134,net,Fabaceae,Lupinus rivularis,https://www.inaturalist.org/observations/25603004
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,3,22,V,2019,15:26,,,,,,USA,OR,Lane,,,44.0933,-123.0245,,134,net,Fabaceae,Lupinus rivularis,https://www.inaturalist.org/observations/25603004
+ , , , ,841568,lohump,Lori,L.,Humphreys,2,1,22,V,2019,15:37,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1582,,283,net,,,https://www.inaturalist.org/observations/25603145
+ , , , ,841568,lohump,Lori,L.,Humphreys,2,2,22,V,2019,15:37,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1582,,283,net,,,https://www.inaturalist.org/observations/25603145
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,1,22,V,2019,15:43,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1583,,283,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25603415
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,2,22,V,2019,15:43,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1583,,283,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25603415
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,3,22,V,2019,15:43,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1583,,283,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25603415
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,4,22,V,2019,15:43,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1583,,283,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25603415
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,5,22,V,2019,15:43,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1583,,283,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25603415
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,6,22,V,2019,15:43,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1583,,283,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25603415
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,7,22,V,2019,15:43,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1583,,283,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25603415
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,8,22,V,2019,15:43,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1583,,283,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25603415
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,9,22,V,2019,15:43,,,,,,USA,OR,Lane,Eugene,,44.0219,-123.1583,,283,net,Apiaceae,Lomatium nudicaule,https://www.inaturalist.org/observations/25603415
+ , , , ,841568,lohump,Lori,L.,Humphreys,4,1,22,V,2019,16:22,,,,,,USA,OR,Lane,Eugene,,44.0215,-123.1605,,283,net,Fabaceae,Trifolium repens,https://www.inaturalist.org/observations/25603458
+ , , , ,841568,lohump,Lori,L.,Humphreys,5,1,22,V,2019,16:45,,,,,,USA,OR,Lane,,,44.018,-123.156,20,283,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25651724
+ , , , ,841568,lohump,Lori,L.,Humphreys,5,2,22,V,2019,16:45,,,,,,USA,OR,Lane,,,44.018,-123.156,20,283,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25651724
+ , , , ,841568,lohump,Lori,L.,Humphreys,5,3,22,V,2019,16:45,,,,,,USA,OR,Lane,,,44.018,-123.156,20,283,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25651724
+ , , , ,841568,lohump,Lori,L.,Humphreys,5,4,22,V,2019,16:45,,,,,,USA,OR,Lane,,,44.018,-123.156,20,283,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25651724
+ , , , ,841568,lohump,Lori,L.,Humphreys,5,5,22,V,2019,16:45,,,,,,USA,OR,Lane,,,44.018,-123.156,20,283,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25651724
+ , , , ,841568,lohump,Lori,L.,Humphreys,5,6,22,V,2019,16:45,,,,,,USA,OR,Lane,,,44.018,-123.156,20,283,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25651724
+ , , , ,841568,lohump,Lori,L.,Humphreys,5,7,22,V,2019,16:45,,,,,,USA,OR,Lane,,,44.018,-123.156,20,283,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25651724
+ , , , ,841568,lohump,Lori,L.,Humphreys,5,8,22,V,2019,16:45,,,,,,USA,OR,Lane,,,44.018,-123.156,20,283,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25651724
+ , , , ,841568,lohump,Lori,L.,Humphreys,5,9,22,V,2019,16:45,,,,,,USA,OR,Lane,,,44.018,-123.156,20,283,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25651724
+ , , , ,841568,lohump,Lori,L.,Humphreys,5,10,22,V,2019,16:45,,,,,,USA,OR,Lane,,,44.018,-123.156,20,283,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25651724
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,1,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,2,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,3,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,4,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,5,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,6,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,7,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,8,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,9,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,10,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,11,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,12,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,1,13,23,V,2019,14:54,,,,,,USA,OR,Lane,,,43.9983,-123.1399,,251,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25660817
+ , , , ,841568,lohump,Lori,L.,Humphreys,2,1,23,V,2019,14:58,,,,,,USA,OR,Lane,,,43.9984,-123.1399,,251,net,Malvaceae,Sidalcea malviflora,https://www.inaturalist.org/observations/25661009
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,1,23,V,2019,15:37,,,,,,USA,OR,Lane,,,43.9984,-123.1338,,301,net,,,https://www.inaturalist.org/observations/25661013
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,2,23,V,2019,15:37,,,,,,USA,OR,Lane,,,43.9984,-123.1338,,301,net,,,https://www.inaturalist.org/observations/25661013
+ , , , ,841568,lohump,Lori,L.,Humphreys,3,3,23,V,2019,15:37,,,,,,USA,OR,Lane,,,43.9984,-123.1338,,301,net,,,https://www.inaturalist.org/observations/25661013
+ , , , ,843723,pandg,,,,G1,1,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25685560
+ , , , ,843723,pandg,,,,G1,2,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25685560
+ , , , ,843723,pandg,,,,G1,3,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25685560
+ , , , ,843723,pandg,,,,G1,4,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25685560
+ , , , ,843723,pandg,,,,G1,5,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25685560
+ , , , ,843723,pandg,,,,G1,6,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25685560
+ , , , ,843723,pandg,,,,G1,7,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25685560
+ , , , ,843723,pandg,,,,G1,8,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25685560
+ , , , ,843723,pandg,,,,G1,9,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25685560
+ , , , ,843723,pandg,,,,R1,1,23,V,2019,15:15,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Rosaceae,Purshia tridentata,https://www.inaturalist.org/observations/25683688
+ , , , ,843723,pandg,,,,R1,,23,V,2019,15:15,,,,,,USA,OR,Jefferson,,,44.422,-121.587,,1155,net,Rosaceae,Purshia tridentata,https://www.inaturalist.org/observations/25683775
+ , , , ,843723,pandg,,,,R2,1,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.42,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25684258
+ , , , ,843723,pandg,,,,R2,2,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.42,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25684258
+ , , , ,843723,pandg,,,,R2,3,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.42,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25684258
+ , , , ,843723,pandg,,,,R2,4,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.42,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25684258
+ , , , ,843723,pandg,,,,R2,5,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.42,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25684258
+ , , , ,843723,pandg,,,,R2,6,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.42,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25684258
+ , , , ,843723,pandg,,,,R2,7,23,V,2019,15:45,,,,,,USA,OR,Jefferson,,,44.42,-121.587,,1155,net,Asteraceae,Balsamorhiza sagittata,https://www.inaturalist.org/observations/25684258
+ , , , ,858490,heike_williams,Heike,H.,Williams,31,1,24,V,2019,10:24,,,,,,USA,OR,Jefferson,,,44.6809,-121.1544,7,740,net,,,https://www.inaturalist.org/observations/25684214
+ , , , ,858490,heike_williams,Heike,H.,Williams,31,2,24,V,2019,10:24,,,,,,USA,OR,Jefferson,,,44.6809,-121.1544,7,740,net,,,https://www.inaturalist.org/observations/25684214
+ , , , ,858490,heike_williams,Heike,H.,Williams,31,3,24,V,2019,10:24,,,,,,USA,OR,Jefferson,,,44.6809,-121.1544,7,740,net,,,https://www.inaturalist.org/observations/25684214
+ , , , ,858490,heike_williams,Heike,H.,Williams,32,1,24,V,2019,10:49,,,,,,USA,OR,Jefferson,,,44.6809,-121.1545,7,740,net,,,https://www.inaturalist.org/observations/25684301
+ , , , ,858490,heike_williams,Heike,H.,Williams,32,2,24,V,2019,10:49,,,,,,USA,OR,Jefferson,,,44.6809,-121.1545,7,740,net,,,https://www.inaturalist.org/observations/25684301
+ , , , ,858490,heike_williams,Heike,H.,Williams,32,3,24,V,2019,10:49,,,,,,USA,OR,Jefferson,,,44.6809,-121.1545,7,740,net,,,https://www.inaturalist.org/observations/25684301
+ , , , ,858490,heike_williams,Heike,H.,Williams,32,4,24,V,2019,10:49,,,,,,USA,OR,Jefferson,,,44.6809,-121.1545,7,740,net,,,https://www.inaturalist.org/observations/25684301
+ , , , ,858490,heike_williams,Heike,H.,Williams,32,5,24,V,2019,10:49,,,,,,USA,OR,Jefferson,,,44.6809,-121.1545,7,740,net,,,https://www.inaturalist.org/observations/25684301
+ , , , ,890797,tiliamae,,,,12,1,19,V,2019,13:27,,,,,,USA,OR,Josephine,Grants Pass,,42.4113,-123.347,10,297,net,Ranunculaceae,Ranunculus,https://www.inaturalist.org/observations/25418846
+ , , , ,890797,tiliamae,,,,12,2,19,V,2019,13:27,,,,,,USA,OR,Josephine,Grants Pass,,42.4113,-123.347,10,297,net,Ranunculaceae,Ranunculus,https://www.inaturalist.org/observations/25418846
+ , , , ,890797,tiliamae,,,,12,3,19,V,2019,13:27,,,,,,USA,OR,Josephine,Grants Pass,,42.4113,-123.347,10,297,net,Ranunculaceae,Ranunculus,https://www.inaturalist.org/observations/25418846
+ , , , ,890797,tiliamae,,,,12,4,19,V,2019,13:27,,,,,,USA,OR,Josephine,Grants Pass,,42.4113,-123.347,10,297,net,Ranunculaceae,Ranunculus,https://www.inaturalist.org/observations/25418846
+ , , , ,890797,tiliamae,,,,12,5,19,V,2019,13:27,,,,,,USA,OR,Josephine,Grants Pass,,42.4113,-123.347,10,297,net,Ranunculaceae,Ranunculus,https://www.inaturalist.org/observations/25418846
+ , , , ,890797,tiliamae,,,,13,1,23,V,2019,13:24,,,,,,USA,OR,Josephine,Williams,,42.2114,-123.3093,5,478,net,Rosaceae,Spiraea nipponica,https://www.inaturalist.org/observations/25654377
+ , , , ,890797,tiliamae,,,,13,2,23,V,2019,13:24,,,,,,USA,OR,Josephine,Williams,,42.2114,-123.3093,5,478,net,Rosaceae,Spiraea nipponica,https://www.inaturalist.org/observations/25654377
+ , , , ,890797,tiliamae,,,,13,3,23,V,2019,13:24,,,,,,USA,OR,Josephine,Williams,,42.2114,-123.3093,5,478,net,Rosaceae,Spiraea nipponica,https://www.inaturalist.org/observations/25654377
+ , , , ,890797,tiliamae,,,,13,4,23,V,2019,13:24,,,,,,USA,OR,Josephine,Williams,,42.2114,-123.3093,5,478,net,Rosaceae,Spiraea nipponica,https://www.inaturalist.org/observations/25654377
+ , , , ,890797,tiliamae,,,,13,5,23,V,2019,13:24,,,,,,USA,OR,Josephine,Williams,,42.2114,-123.3093,5,478,net,Rosaceae,Spiraea nipponica,https://www.inaturalist.org/observations/25654377
+ , , , ,1434266,laurebordelon,,,,18.5.2019.1.2,1,18,V,2019,14:48,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.773,5,129,net,Berberidaceae,Vancouveria hexandra,https://www.inaturalist.org/observations/25344872
+ , , , ,1434266,laurebordelon,,,,18.5.2019.1.2,2,18,V,2019,14:48,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.773,5,129,net,Berberidaceae,Vancouveria hexandra,https://www.inaturalist.org/observations/25344872
+ , , , ,1434266,laurebordelon,,,,18.5.2019.2.9,1,18,V,2019,14:58,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.7731,10,129,net,Ericaceae,Rhododendron maximum,https://www.inaturalist.org/observations/25345283
+ , , , ,1434266,laurebordelon,,,,18.5.2019.2.9,2,18,V,2019,14:58,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.7731,10,129,net,Ericaceae,Rhododendron maximum,https://www.inaturalist.org/observations/25345283
+ , , , ,1434266,laurebordelon,,,,18.5.2019.2.9,3,18,V,2019,14:58,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.7731,10,129,net,Ericaceae,Rhododendron maximum,https://www.inaturalist.org/observations/25345283
+ , , , ,1434266,laurebordelon,,,,18.5.2019.2.9,4,18,V,2019,14:58,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.7731,10,129,net,Ericaceae,Rhododendron maximum,https://www.inaturalist.org/observations/25345283
+ , , , ,1434266,laurebordelon,,,,18.5.2019.2.9,5,18,V,2019,14:58,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.7731,10,129,net,Ericaceae,Rhododendron maximum,https://www.inaturalist.org/observations/25345283
+ , , , ,1434266,laurebordelon,,,,18.5.2019.2.9,6,18,V,2019,14:58,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.7731,10,129,net,Ericaceae,Rhododendron maximum,https://www.inaturalist.org/observations/25345283
+ , , , ,1434266,laurebordelon,,,,18.5.2019.2.9,7,18,V,2019,14:58,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.7731,10,129,net,Ericaceae,Rhododendron maximum,https://www.inaturalist.org/observations/25345283
+ , , , ,1434266,laurebordelon,,,,18.5.2019.2.9,8,18,V,2019,14:58,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.7731,10,129,net,Ericaceae,Rhododendron maximum,https://www.inaturalist.org/observations/25345283
+ , , , ,1434266,laurebordelon,,,,18.5.2019.2.9,9,18,V,2019,14:58,,,,,,USA,OR,Marion,Silverton,,45.0055,-122.7731,10,129,net,Ericaceae,Rhododendron maximum,https://www.inaturalist.org/observations/25345283
+ , , , ,1434266,laurebordelon,,,,5,1,22,V,2019,11:51,,,,,,USA,OR,Marion,Silverton,,44.9909,-122.8032,10,65,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25574014
+ , , , ,1434266,laurebordelon,,,,5,2,22,V,2019,11:51,,,,,,USA,OR,Marion,Silverton,,44.9909,-122.8032,10,65,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25574014
+ , , , ,1434266,laurebordelon,,,,5,3,22,V,2019,11:51,,,,,,USA,OR,Marion,Silverton,,44.9909,-122.8032,10,65,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25574014
+ , , , ,1434266,laurebordelon,,,,5,4,22,V,2019,11:51,,,,,,USA,OR,Marion,Silverton,,44.9909,-122.8032,10,65,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25574014
+ , , , ,1434266,laurebordelon,,,,5,5,22,V,2019,11:51,,,,,,USA,OR,Marion,Silverton,,44.9909,-122.8032,10,65,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25574014
+ , , , ,1434266,laurebordelon,,,,5,6,22,V,2019,11:51,,,,,,USA,OR,Marion,Silverton,,44.9909,-122.8032,10,65,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25574014
+ , , , ,1434266,laurebordelon,,,,5,7,22,V,2019,11:51,,,,,,USA,OR,Marion,Silverton,,44.9909,-122.8032,10,65,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25574014
+ , , , ,1434266,laurebordelon,,,,5,8,22,V,2019,11:51,,,,,,USA,OR,Marion,Silverton,,44.9909,-122.8032,10,65,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25574014
+ , , , ,1434266,laurebordelon,,,,5,9,22,V,2019,11:51,,,,,,USA,OR,Marion,Silverton,,44.9909,-122.8032,10,65,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25574014
+ , , , ,1434266,laurebordelon,,,,5,10,22,V,2019,11:51,,,,,,USA,OR,Marion,Silverton,,44.9909,-122.8032,10,65,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25574014
+ , , , ,1434266,laurebordelon,,,,6,1,22,V,2019,12:11,,,,,,USA,OR,Marion,Silverton,,44.991,-122.801,5,65,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25575028
+ , , , ,1434266,laurebordelon,,,,6,2,22,V,2019,12:11,,,,,,USA,OR,Marion,Silverton,,44.991,-122.801,5,65,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25575028
+ , , , ,1434266,laurebordelon,,,,6,3,22,V,2019,12:11,,,,,,USA,OR,Marion,Silverton,,44.991,-122.801,5,65,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25575028
+ , , , ,1434266,laurebordelon,,,,6,4,22,V,2019,12:11,,,,,,USA,OR,Marion,Silverton,,44.991,-122.801,5,65,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25575028
+ , , , ,1434266,laurebordelon,,,,6,5,22,V,2019,12:11,,,,,,USA,OR,Marion,Silverton,,44.991,-122.801,5,65,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25575028
+ , , , ,1434266,laurebordelon,,,,6,6,22,V,2019,12:11,,,,,,USA,OR,Marion,Silverton,,44.991,-122.801,5,65,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25575028
+ , , , ,1434266,laurebordelon,,,,6,7,22,V,2019,12:11,,,,,,USA,OR,Marion,Silverton,,44.991,-122.801,5,65,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25575028
+ , , , ,1434266,laurebordelon,,,,7,1,22,V,2019,12:37,,,,,,USA,OR,Marion,Silverton,,44.9918,-122.7977,200,65,net,Rosaceae,Rosa multiflora,https://www.inaturalist.org/observations/25576537
+ , , , ,1434266,laurebordelon,,,,7,2,22,V,2019,12:37,,,,,,USA,OR,Marion,Silverton,,44.9918,-122.7977,200,65,net,Rosaceae,Rosa multiflora,https://www.inaturalist.org/observations/25576537
+ , , , ,1434266,laurebordelon,,,,7,3,22,V,2019,12:37,,,,,,USA,OR,Marion,Silverton,,44.9918,-122.7977,200,65,net,Rosaceae,Rosa multiflora,https://www.inaturalist.org/observations/25576537
+ , , , ,1434266,laurebordelon,,,,7,4,22,V,2019,12:37,,,,,,USA,OR,Marion,Silverton,,44.9918,-122.7977,200,65,net,Rosaceae,Rosa multiflora,https://www.inaturalist.org/observations/25576537
+ , , , ,1434266,laurebordelon,,,,7,5,22,V,2019,12:37,,,,,,USA,OR,Marion,Silverton,,44.9918,-122.7977,200,65,net,Rosaceae,Rosa multiflora,https://www.inaturalist.org/observations/25576537
+ , , , ,1434266,laurebordelon,,,,8,1,22,V,2019,13:40,,,,,,USA,OR,Marion,Silverton,,45.0054,-122.773,10,129,net,Lamiaceae,Ajuga,https://www.inaturalist.org/observations/25580459
+ , , , ,1434266,laurebordelon,,,,8,2,22,V,2019,13:40,,,,,,USA,OR,Marion,Silverton,,45.0054,-122.773,10,129,net,Lamiaceae,Ajuga,https://www.inaturalist.org/observations/25580459
+ , , , ,1447015,phylismcintosh,,,,28,1,22,V,2019,14:00,,,,,,USA,OR,Josephine,Grants Pass,,42.4269,-123.5454,10,406,net,Liliaceae,Calochortus tolmiei,https://www.inaturalist.org/observations/25581441
+ , , , ,1447015,phylismcintosh,,,,28,,22,V,2019,13:10,,,,,,USA,OR,Josephine,,,42.4268,-123.5451,30,406,net,Asparagaceae,Camassia quamash,https://www.inaturalist.org/observations/25581329
+ , , , ,1447015,phylismcintosh,,,,30,1,22,V,2019,16:33,,,,,,USA,OR,Josephine,Grants Pass,,42.3588,-123.4134,30,310,net,Caprifoliaceae,Plectritis,https://www.inaturalist.org/observations/25616578
+ , , , ,1447015,phylismcintosh,,,,30,2,22,V,2019,16:33,,,,,,USA,OR,Josephine,Grants Pass,,42.3588,-123.4134,30,310,net,Caprifoliaceae,Plectritis,https://www.inaturalist.org/observations/25616578
+ , , , ,1447015,phylismcintosh,,,,30,3,22,V,2019,16:33,,,,,,USA,OR,Josephine,Grants Pass,,42.3588,-123.4134,30,310,net,Caprifoliaceae,Plectritis,https://www.inaturalist.org/observations/25616578
+ , , , ,1447015,phylismcintosh,,,,30,4,22,V,2019,16:33,,,,,,USA,OR,Josephine,Grants Pass,,42.3588,-123.4134,30,310,net,Caprifoliaceae,Plectritis,https://www.inaturalist.org/observations/25616578
+ , , , ,1450900,karenrichards,,,,2,1,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,2,2,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,2,3,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,2,4,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,2,5,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,2,6,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,2,7,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,2,8,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,2,9,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,2,10,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,2,11,23,V,2019,14:26,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Rosaceae,Rubus ursinus,https://www.inaturalist.org/observations/25642348
+ , , , ,1450900,karenrichards,,,,3,1,23,V,2019,15:27,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25643551
+ , , , ,1450900,karenrichards,,,,3,2,23,V,2019,15:27,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25643551
+ , , , ,1450900,karenrichards,,,,3,3,23,V,2019,15:27,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25643551
+ , , , ,1450900,karenrichards,,,,3,4,23,V,2019,15:27,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25643551
+ , , , ,1450900,karenrichards,,,,3,5,23,V,2019,15:27,,,,,,USA,OR,Lane,Eugene,,44.0142,-123.1414,3000,224,net,Asteraceae,Bellis perennis,https://www.inaturalist.org/observations/25643551
+ , , , ,1450900,karenrichards,,,,4,1,23,V,2019,15:51,,,,,,USA,OR,Lane,Eugene,,44,-123.1329,12,301,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25650289
+ , , , ,1450900,karenrichards,,,,4,2,23,V,2019,15:51,,,,,,USA,OR,Lane,Eugene,,44,-123.1329,12,301,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25650289
+ , , , ,1450900,karenrichards,,,,4,3,23,V,2019,15:51,,,,,,USA,OR,Lane,Eugene,,44,-123.1329,12,301,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25650289
+ , , , ,1450900,karenrichards,,,,4,4,23,V,2019,15:51,,,,,,USA,OR,Lane,Eugene,,44,-123.1329,12,301,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25650289
+ , , , ,1450900,karenrichards,,,,4,5,23,V,2019,15:51,,,,,,USA,OR,Lane,Eugene,,44,-123.1329,12,301,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25650289
+ , , , ,1450900,karenrichards,,,,4,6,23,V,2019,15:51,,,,,,USA,OR,Lane,Eugene,,44,-123.1329,12,301,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25650289
+ , , , ,1450900,karenrichards,,,,4,7,23,V,2019,15:51,,,,,,USA,OR,Lane,Eugene,,44,-123.1329,12,301,net,Apiaceae,Heracleum maximum,https://www.inaturalist.org/observations/25650289
+ , , , ,1462047,marksg,,,,52,1,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
+ , , , ,1462047,marksg,,,,52,2,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
+ , , , ,1462047,marksg,,,,52,3,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
+ , , , ,1462047,marksg,,,,52,4,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
+ , , , ,1462047,marksg,,,,52,5,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
+ , , , ,1462047,marksg,,,,52,6,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
+ , , , ,1462047,marksg,,,,52,7,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
+ , , , ,1462047,marksg,,,,52,8,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
+ , , , ,1462047,marksg,,,,52,9,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
+ , , , ,1462047,marksg,,,,52,10,17,V,2019,15:52,,,,,,USA,OR,Washington,Beaverton,,45.5029,-122.8407,2000,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25292576
+ , , , ,1462047,marksg,,,,53,1,17,V,2019,17:13,,,,,,USA,OR,Washington,Beaverton,,45.5019,-122.8374,10,52,net,Fabaceae,Cytisus scoparius,https://www.inaturalist.org/observations/25292638
+ , , , ,1462047,marksg,,,,54,1,22,V,2019,17:20,,,,,,USA,OR,Washington,Beaverton,,45.5033,-122.84,1414,52,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25603070
+ , , , ,1462047,marksg,,,,55,1,22,V,2019,17:37,,,,,,USA,OR,Washington,Beaverton,,45.4996,-122.8376,2000,52,net,Fabaceae,Lupinus polyphyllus,https://www.inaturalist.org/observations/25603076
+ , , , ,1462047,marksg,,,,56,1,22,V,2019,17:42,,,,,,USA,OR,Washington,Beaverton,,45.4992,-122.8373,2000,52,net,Fabaceae,Vicia sativa,https://www.inaturalist.org/observations/25603086
+ , , , ,1462047,marksg,,,,57,1,22,V,2019,17:50,,,,,,USA,OR,Washington,Beaverton,,45.5023,-122.8382,5,52,net,Apiaceae,Myrrhis odorata,https://www.inaturalist.org/observations/25603094
+ , , , ,1462047,marksg,,,,57,2,22,V,2019,17:50,,,,,,USA,OR,Washington,Beaverton,,45.5023,-122.8382,5,52,net,Apiaceae,Myrrhis odorata,https://www.inaturalist.org/observations/25603094
+ , , , ,1462047,marksg,,,,57,3,22,V,2019,17:50,,,,,,USA,OR,Washington,Beaverton,,45.5023,-122.8382,5,52,net,Apiaceae,Myrrhis odorata,https://www.inaturalist.org/observations/25603094
+ , , , ,1462047,marksg,,,,57,4,22,V,2019,17:50,,,,,,USA,OR,Washington,Beaverton,,45.5023,-122.8382,5,52,net,Apiaceae,Myrrhis odorata,https://www.inaturalist.org/observations/25603094
+ , , , ,1462047,marksg,,,,57,5,22,V,2019,17:50,,,,,,USA,OR,Washington,Beaverton,,45.5023,-122.8382,5,52,net,Apiaceae,Myrrhis odorata,https://www.inaturalist.org/observations/25603094
+ , , , ,1462047,marksg,,,,57,6,22,V,2019,17:50,,,,,,USA,OR,Washington,Beaverton,,45.5023,-122.8382,5,52,net,Apiaceae,Myrrhis odorata,https://www.inaturalist.org/observations/25603094
+ , , , ,1482843,jdillow,Jesse,J.,Dillow,10,1,18,V,2019,15:37,,,,,,USA,OR,Yamhill,,,45.2738,-123.0111,7,57,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25347425
+ , , , ,1482843,jdillow,Jesse,J.,Dillow,10,2,18,V,2019,15:37,,,,,,USA,OR,Yamhill,,,45.2738,-123.0111,7,57,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25347425
+ , , , ,1482843,jdillow,Jesse,J.,Dillow,10,3,18,V,2019,15:37,,,,,,USA,OR,Yamhill,,,45.2738,-123.0111,7,57,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25347425
+ , , , ,1482843,jdillow,Jesse,J.,Dillow,10,4,18,V,2019,15:37,,,,,,USA,OR,Yamhill,,,45.2738,-123.0111,7,57,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25347425
+ , , , ,1482843,jdillow,Jesse,J.,Dillow,10,5,18,V,2019,15:37,,,,,,USA,OR,Yamhill,,,45.2738,-123.0111,7,57,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25347425
+ , , , ,1482843,jdillow,Jesse,J.,Dillow,10,6,18,V,2019,15:37,,,,,,USA,OR,Yamhill,,,45.2738,-123.0111,7,57,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25347425
+ , , , ,1482843,jdillow,Jesse,J.,Dillow,10,7,18,V,2019,15:37,,,,,,USA,OR,Yamhill,,,45.2738,-123.0111,7,57,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25347425
+ , , , ,1482843,jdillow,Jesse,J.,Dillow,10,8,18,V,2019,15:37,,,,,,USA,OR,Yamhill,,,45.2738,-123.0111,7,57,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25347425
+ , , , ,1482843,jdillow,Jesse,J.,Dillow,10,9,18,V,2019,15:37,,,,,,USA,OR,Yamhill,,,45.2738,-123.0111,7,57,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25347425
+ , , , ,1482843,jdillow,Jesse,J.,Dillow,10,10,18,V,2019,15:37,,,,,,USA,OR,Yamhill,,,45.2738,-123.0111,7,57,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25347425
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,1,1,18,V,2019,10:45,,,,,,USA,OR,Multnomah,Portland,,45.4732,-122.6126,8,79,net,Boraginaceae,Pentaglottis sempervirens,https://www.inaturalist.org/observations/25328644
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,2,1,18,V,2019,17:51,,,,,,USA,OR,Multnomah,Portland,,45.4731,-122.613,4,79,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25354796
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,1,1,23,V,2019,16:30,,,,,,USA,,,,,,,3,,net,Plantaginaceae,Digitalis purpurea,https://www.inaturalist.org/observations/25648825
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,1,2,23,V,2019,16:30,,,,,,USA,,,,,,,3,,net,Plantaginaceae,Digitalis purpurea,https://www.inaturalist.org/observations/25648825
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,2,1,23,V,2019,16:30,,,,,,USA,,,,,,,9,,net,Ranunculaceae,Aquilegia vulgaris,https://www.inaturalist.org/observations/25648942
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,2,2,23,V,2019,16:30,,,,,,USA,,,,,,,9,,net,Ranunculaceae,Aquilegia vulgaris,https://www.inaturalist.org/observations/25648942
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,2,3,23,V,2019,16:30,,,,,,USA,,,,,,,9,,net,Ranunculaceae,Aquilegia vulgaris,https://www.inaturalist.org/observations/25648942
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,3,1,23,V,2019,16:55,,,,,,USA,,,,,,,5,,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25649102
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,3,2,23,V,2019,16:55,,,,,,USA,,,,,,,5,,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25649102
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,3,3,23,V,2019,16:55,,,,,,USA,,,,,,,5,,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25649102
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,3,4,23,V,2019,16:55,,,,,,USA,,,,,,,5,,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25649102
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,3,5,23,V,2019,16:55,,,,,,USA,,,,,,,5,,net,Lamiaceae,Salvia officinalis,https://www.inaturalist.org/observations/25649102
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,4,1,23,V,2019,17:10,,,,,,USA,,,,,,,9,,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25649306
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,4,2,23,V,2019,17:10,,,,,,USA,,,,,,,9,,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25649306
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,4,3,23,V,2019,17:10,,,,,,USA,,,,,,,9,,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25649306
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,4,4,23,V,2019,17:10,,,,,,USA,,,,,,,9,,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25649306
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,4,5,23,V,2019,17:10,,,,,,USA,,,,,,,9,,net,Cornaceae,Cornus sericea,https://www.inaturalist.org/observations/25649306
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,1,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,2,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,3,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,4,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,5,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,6,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,7,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,8,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,9,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,10,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,11,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,12,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,13,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,14,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,5,15,23,V,2019,17:24,,,,,,USA,,,,,,,9,,net,Hydrangeaceae,Philadelphus coronarius,https://www.inaturalist.org/observations/25651641
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,6,1,23,V,2019,18:25,,,,,,USA,,,,,,,6,,net,,,https://www.inaturalist.org/observations/25651558
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,6,2,23,V,2019,18:25,,,,,,USA,,,,,,,6,,net,,,https://www.inaturalist.org/observations/25651558
+ , , , ,1539907,pdxmartha,Martha,M.,Richards,7,1,23,V,2019,17:30,,,,,,USA,,,,,,,5,,net,Ericaceae,Vaccinium ovatum,https://www.inaturalist.org/observations/25651819
+ , , , ,1546088,scotttienken,,,,4,1,21,V,2019,16:37,,,,,,USA,OR,Multnomah,Portland,,45.5957,-122.7251,68,19,net,Rosaceae,Physocarpus capitatus,https://www.inaturalist.org/observations/25531067
+ , , , ,1546088,scotttienken,,,,4,2,21,V,2019,16:37,,,,,,USA,OR,Multnomah,Portland,,45.5957,-122.7251,68,19,net,Rosaceae,Physocarpus capitatus,https://www.inaturalist.org/observations/25531067
+ , , , ,1546088,scotttienken,,,,4,3,21,V,2019,16:37,,,,,,USA,OR,Multnomah,Portland,,45.5957,-122.7251,68,19,net,Rosaceae,Physocarpus capitatus,https://www.inaturalist.org/observations/25531067
+ , , , ,1546088,scotttienken,,,,4,4,21,V,2019,16:37,,,,,,USA,OR,Multnomah,Portland,,45.5957,-122.7251,68,19,net,Rosaceae,Physocarpus capitatus,https://www.inaturalist.org/observations/25531067
+ , , , ,1560167,annelesenne,,,,52220191,,22,V,2019,14:10,,,,,,USA,OR,Washington,Portland,,45.5652,-122.8611,5,78,net,Megachilidae,Anthidium manicatum,https://www.inaturalist.org/observations/25581981
+ , , , ,1560167,annelesenne,,,,52320191,1,23,V,2019,13:47,,,,,,USA,OR,Multnomah,Portland,,45.5635,-122.6722,5,62,net,,,https://www.inaturalist.org/observations/25637568
+ , , , ,1561159,jocelyn_mcauley,,,,1,1,17,V,2019,12:28,,,,,,USA,OR,Multnomah,Portland,,45.5315,-122.609,5,68,net,Papaveraceae,Eschscholzia californica,https://www.inaturalist.org/observations/25275916
+ , , , ,1561159,jocelyn_mcauley,,,,1,2,17,V,2019,12:28,,,,,,USA,OR,Multnomah,Portland,,45.5315,-122.609,5,68,net,Papaveraceae,Eschscholzia californica,https://www.inaturalist.org/observations/25275916
