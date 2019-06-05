@@ -247,7 +247,7 @@ def remove_blank_rows(out_file):
 
 def check_for_cols(in_header, in_row, query_string):
     search_res = search_header(in_header,query_string)
-    print(search_res)
+    #print(search_res)
     if search_res is None:
         return ''
     else:
@@ -264,7 +264,7 @@ def gen_output(out_header, out_file, in_header, in_data):
     i = 0
     for in_row in csv.reader(in_data, skipinitialspace=True):
         i += 1
-        print("\nrow:",in_row)
+        print("\nrow:\n",in_row)
 
         # Init the output row
         out_row = []
@@ -323,7 +323,7 @@ def gen_output(out_header, out_file, in_header, in_data):
         # Time 2
         date2 = check_for_cols(in_header, in_row, "field:trap removed")
         day2, month2, year2, merge2 = col_functions.date_2(date2)
-        time2 = col_functions.time_2(in_row[search_header(in_header,"field:trap removed")])
+        time2 = col_functions.time_2(date2)
         out_row.append(day2)
         out_row.append(month2)
         out_row.append(year2)
@@ -335,13 +335,13 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(country)
 
         # State
-        state = "OR"
-        if in_row[search_header(in_header,"place_state_name")] != "Oregon":
-            state = in_row[search_header(in_header,"place_state_name")]
+        state = check_for_cols(in_header, in_row, "place_state_name")
+        if state == "Oregon":
+            state = "OR"
         out_row.append(state)
 
         # County
-        county = in_row[search_header(in_header,"place_county_name")]
+        county = check_for_cols(in_header, in_row, "place_county_name")
         out_row.append(county)
 
         # Location
@@ -393,11 +393,11 @@ def gen_output(out_header, out_file, in_header, in_data):
         out_row.append(family)
         out_row.append(species)
         out_row.append(url)
-        print(out_row)
         # End of appending to output row
 
         # Append generated row to output file
         # If the row has multiple bees collected, expand by that many
+        print("res:")
         if specimenid is not None:
             try:
                 specimenid = int(specimenid)
@@ -406,13 +406,17 @@ def gen_output(out_header, out_file, in_header, in_data):
                     for i in range(1, int(specimenid)+1):
                         out_row[search_header(out_header,"Specimen ID")] = i
                         print_out_row(out_row,out_file)
+                        print(out_row)
                 else:
                     print_out_row(out_row,out_file)
+                    print(out_row)
             except ValueError:
                 pass  # it was a string, not an int.
                 print_out_row(out_row,out_file)
+                print(out_row)
         else:
             print_out_row(out_row,out_file)
+            print(out_row)
         print()
 
 def create_csv_windows(out_file, out_file_windows):

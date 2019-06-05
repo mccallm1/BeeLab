@@ -38,24 +38,23 @@ def collector_name(in_file, user_name):
     return "","",""
 
 def date_1(in_date):
-    print("date: ",in_date)
     month_numeral = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XIII']
-
     # Check input
     if in_date == '':
         return '','',''
+
     date = in_date.split('/')
-    #print("date split by /:",date)
+
     if len(date) > 1:
         day = date[1]
         month = month_numeral[int(date[0]) - 1]
         year = date[2]
     else:
-        #print("date split by /:",date)
         date = in_date.split('-')
         day = date[2]
         month = month_numeral[int(date[1]) - 1]
         year = date[0]
+
     return day, month, year
 
 def time_1(in_time):
@@ -76,7 +75,40 @@ def time_1(in_time):
     return return_time
 
 def date_2(in_date):
+    month_numeral = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XIII']
+
     # Check input
+    if in_date == '' or in_date is None:
+        return '','','',''
+
+    # If the string contains 'T' it is a differently formatted date time value
+    if 'T' in in_date:
+        print("Found different format:",in_date)
+
+    # If the string can be split in two, it is formatted: 'mm/dd/yy hh:mm'
+    # date[0] is the date, date[1] is the time
+    date = in_date.split(' ')
+    print("split date:",date)
+
+    if len(date) == 2:
+        # reset date var to just include date info
+        date = date[0].split('/')
+        day = date[1]
+        month = month_numeral[int(date[0]) - 1]
+        year = date[2]
+    else:
+        date = in_date.split('-')
+        day = date[2]
+        month = month_numeral[int(date[1]) - 1]
+        year = date[0]
+
+    merge = "-" + day + month
+
+    return day, month, year, merge
+
+def date_2_orig(in_date):
+    # Check input
+    print("in_date:",in_date)
     if in_date == '':
         return '','','',''
     # Init vars
@@ -115,6 +147,24 @@ def date_2(in_date):
     return day, month, year, merge
 
 def time_2(in_time):
+    # Check input
+    if in_time == '' or in_time is None:
+        return ''
+
+    # If the string can be split in two, it is formatted: 'mm/dd/yy hh:mm'
+    # in_time[0] is the date, in_time[1] is the time
+    in_time = in_time.split(' ')
+
+    if len(in_time) == 2:
+        in_time = in_time[1]
+        in_time = in_time[0] + ":" + in_time[1]
+    #else:
+    #    in_time = in_time[0].split(' ')
+    #    in_time = in_time[1]
+
+    return in_time
+
+def time_2_orig(in_time):
     # Check input
     if in_time == '':
         return ''
