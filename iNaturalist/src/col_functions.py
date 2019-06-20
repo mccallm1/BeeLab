@@ -76,6 +76,7 @@ def time_1(in_time):
 
 def date_2(in_date):
     month_numeral = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XIII']
+    months = ['January','February','March','April','May','June','July','August','September','October','November','December']
 
     # Check input
     if in_date == '' or in_date is None:
@@ -84,6 +85,21 @@ def date_2(in_date):
     # If the string contains 'T' it is a differently formatted date time value
     if 'T' in in_date:
         print("Found different format:",in_date)
+
+
+    # Check if date was parsed into different format
+    for index, curr_month in enumerate(months):
+        if curr_month in in_date:
+            #print("Found written format:",curr_month," | ",in_date)
+            date = in_date.split(' ')
+            print("split date:",date)
+
+            day = date[0]
+            month = month_numeral[index]
+            year = date[2]
+            merge = "-" + day + month
+
+            return day, month, year, merge
 
     # If the string can be split in two, it is formatted: 'mm/dd/yy hh:mm'
     # date[0] is the date, date[1] is the time
