@@ -119,9 +119,6 @@ def parse_cmd_line():
     out_folder = "results/" + in_file.split('/')[1] + "/"
 
     # Create output folder
-        #print("creating output folder & files...\t",out_folder)
-        #print("out path:\t",os.path.dirname(out_folder))
-        #print("path exists?:\t",str(os.path.exists(os.path.dirname(out_folder))))
     if not os.path.exists(os.path.dirname(out_folder)):
         try:
             os.makedirs(os.path.dirname(out_folder))
@@ -461,7 +458,7 @@ def main():
     #print(output_header2)
 
     # Create output data
-    gen_output(output_header, output_file, input_header, input_rows)
+#gen_output(output_header, output_file, input_header, input_rows)
     #create_csv_windows(output_file, output_file_windows)
     print()
 

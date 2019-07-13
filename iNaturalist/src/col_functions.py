@@ -234,11 +234,23 @@ def write_elevation_res(elevation_file, lat, long, elevation):
     lat_rounded = '%.2f'%(float(lat))
     long_rounded = '%.2f'%(float(long))
     line_to_print = str(lat_rounded),str(long_rounded),str(elevation)
-    #print("writing:",line_to_print)
 
-    with open(elevation_file, 'a') as f:
-        writer = csv.writer(f)
-        writer.writerow(line_to_print)
+    # New System:
+    # Check if file has been created: Elevations/input_file_elevation.csv
+    # Write file or Append file based on this
+    if not os.path.exists(elevation_file):
+        with open(elevation_file, 'w') as file:
+            file.write(line_to_print)
+    else:
+        with open(elevation_file, 'a') as file:
+            writer = csv.writer(file)
+            writer.writerow(line_to_print)
+
+    # Old System:
+    # Always append results to same master file
+    #with open(elevation_file, 'a') as f:
+    #    writer = csv.writer(f)
+    #    writer.writerow(line_to_print)
 
 def read_elevation_csv(elevation_file, lat, long):
     # Create more matches by simplifying coordinates
@@ -253,7 +265,7 @@ def read_elevation_csv(elevation_file, lat, long):
                 return row[2]
     return ''
 
-def elevation(lat, long):
+def elevation(input_file_name, lat, long):
     #check if the current lat and long have already been calculated
     csv_result = read_elevation_csv("data/elevations.csv", lat, long)
     #print(csv_result)
