@@ -17,8 +17,6 @@ from openpyxl import load_workbook
 from openpyxl import Workbook
 # Local imports
 import col_functions
-import file_functions
-from file_functions import test_import
 
 #Functions
 
