@@ -95,13 +95,16 @@ def parse_cmd_line():
         print("\'--input\' file must be saved inside the data directory. Exitting.")
         sys.exit()
 
-    # Check input file type
+    # Parse input file type
     in_type = in_file.split('/')[len(in_file.split('/')) - 1]
+    in_file_name = in_type
     in_type = in_type.split(".")[len(in_type.split('.')) - 1]
+
+    # Parse input file name
+    in_file_name = in_file_name.split('.')[0]
 
     # Output path:
         # results/folder_name/file_name
-
     # If the output file does exist it must be kept in the results dir
     if out_file != '' and out_file.split('/')[0] != "results":
         print("\'--output\' file must be saved inside the results directory. Exitting.")
@@ -128,7 +131,7 @@ def parse_cmd_line():
     f = open(out_file, "w")
 
     # Return vars
-    return in_file, in_type.lower(), out_file, out_file_windows
+    return in_file, in_file_name, in_type.lower(), out_file, out_file_windows
 
 def read_csv_header(file_string):
     file = open(file_string, "r") # Open CSV file
@@ -248,7 +251,7 @@ def check_for_cols(in_header, in_row, query_string):
     else:
         return in_row[search_res]
 
-def gen_output(out_header, out_file, in_header, in_data):
+def gen_output(out_header, out_file, in_file_name, in_header, in_data):
     # Create rows of formatted data and append to output csv
     print("Generating output data...")
 
@@ -372,7 +375,7 @@ def gen_output(out_header, out_file, in_header, in_data):
         if lat is None or long is None or lat == '' or long == '':
             out_row.append('')
         else:
-            elevation = col_functions.elevation(lat,long)
+            elevation = col_functions.elevation(in_file_name,lat,long)
             out_row.append(elevation)
 
         # Collection method
@@ -436,10 +439,11 @@ def main():
     input_file_type = ""
 
     # Parse command line arguments
-    input_file, input_file_type, output_file, output_file_windows = parse_cmd_line()
+    input_file, input_file_name, input_file_type, output_file, output_file_windows = parse_cmd_line()
 
     # Pipeline Description
     print("\tInput path:\t",input_file)
+    print("\tInput name:\t",input_file_name)
     print("\tInput type:\t",input_file_type)
     print("\tOutput path:\t",output_file)
     print("\tOutput path:\t",output_file_windows)
@@ -456,7 +460,7 @@ def main():
     #print(output_header2)
 
     # Create output data
-#gen_output(output_header, output_file, input_header, input_rows)
+    gen_output(output_header, output_file, input_file_name, input_header, input_rows)
     #create_csv_windows(output_file, output_file_windows)
     print()
 

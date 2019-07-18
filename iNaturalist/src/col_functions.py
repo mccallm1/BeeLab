@@ -265,15 +265,26 @@ def read_elevation_csv(elevation_file, lat, long):
                 return row[2]
     return ''
 
+def create_elevation_csv(elevation_file):
+    # If the elevation CSV hasn't been created, generate it.
+    if not os.path.exists(elevation_file):
+        f = open(elevation_file,"w+")
+        f.close()
+
 def elevation(input_file_name, lat, long):
+    # Establish Variables & Files
+    elevation_file_name = "elevations/" + input_file_name + "_elevations.csv"
+    create_elevation_csv(elevation_file_name)
+
     #check if the current lat and long have already been calculated
-    csv_result = read_elevation_csv("data/elevations.csv", lat, long)
+    csv_result = read_elevation_csv(elevation_file_name, lat, long)
+
     #print(csv_result)
     if csv_result != '':
         # A matching set of coordinates was found in results
         return int(float(csv_result))
     else:
-        #print("now call API...")
+        # Couldn't find a matching coordinate, use the API
         apikey = "AIzaSyBoc369wPHoc2R3fKHBSiIh4iwIY4qk7P4"
         url = "https://maps.googleapis.com/maps/api/elevation/json"
         request = requests.get(url+"?locations="+str(lat)+","+str(long)+"&key="+apikey)
