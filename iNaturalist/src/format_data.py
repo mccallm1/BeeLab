@@ -343,11 +343,14 @@ def gen_output(out_header, out_file, in_file_name, in_header, in_data):
         out_row.append(county)
 
         # Location
+        # Site Description
         # Abbreviated Location
         place_guess = check_for_cols(in_header, in_row, "place_guess")
         location = col_functions.location_guess(place_guess,"data/OR_cities.csv")
+        site_description = check_for_cols(in_header,in_row,"field:collection site description")
         abbreviated_location = ''
         out_row.append(location)
+        out_row.append(site_description)
         out_row.append(abbreviated_location)
 
         # Dec. Lat.
@@ -454,7 +457,8 @@ def main():
     print()
 
     # Sort columns before writing output
-    output_header = "Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Sample ID,Specimen ID,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Country,State,County,Location,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL".split(",")
+    output_header = "Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Sample ID,Specimen ID,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Country,State,County,Location,Collection Site Description,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL".split(",")
+
     # Revisit
     #output_header2 = read_xlsx_header("data/4_16_19/Output_from_Script.xlsx","Sheet1")
     #print(output_header2)
