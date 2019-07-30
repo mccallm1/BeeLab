@@ -62,7 +62,6 @@ def count_cols(workbook, worksheet):
     print("count cols:",col_count)
     return col_count
 
-
 def parse_cmd_line():
     # Parse the command line arguments:
     # Determine an input path, output path, and input file type
@@ -451,6 +450,9 @@ def main():
     print("\tOutput path:\t",output_file)
     print("\tOutput path:\t",output_file_windows)
     print()
+
+    sys.exit()
+
 
     # Choose which file reading function to call
     input_header, input_rows = read_data(input_file, input_file_type)

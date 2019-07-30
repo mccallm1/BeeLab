@@ -272,6 +272,15 @@ def create_elevation_csv(elevation_file):
         f.close()
 
 def elevation(input_file_name, lat, long):
+    # Goal with elevation calculation:
+        # Download GIS data on OR's elevation/topography
+        # Don't need elevation CSV, simply reference the GIS map with coordinates
+
+    # Current elevation calculation:
+        # 1: See if coordinates have already been calculated before
+            # > Parse matching elevation csv if present in output
+        # 2: Then call API to request elevation of coordinates
+
     # Establish Variables & Files
     elevation_file_name = "elevations/" + input_file_name + "_elevations.csv"
     create_elevation_csv(elevation_file_name)
