@@ -461,13 +461,8 @@ def main():
     # Sort columns before writing output
     output_header = "Date Label Printed,Date Label Sent,Observation No.,Voucher No.,iNaturalist ID,iNaturalist Alias,Collector - First Name,Collector - First Name Initial,Collector - Last Name,Sample ID,Specimen ID,Collection Day 1,Month 1,Year 1,Time 1,Collection Day 2,Month 2,Year 2,Collection Day 2 Merge,Time 2,Country,State,County,Location,Collection Site Description,Abbreviated Location,Dec. Lat.,Dec. Long.,Lat/Long Accuracy,Elevation,Collection method,Associated plant - family,Associated plant - species,Associated plant - Inaturalist URL".split(",")
 
-    # Revisit
-    #output_header2 = read_xlsx_header("data/4_16_19/Output_from_Script.xlsx","Sheet1")
-    #print(output_header2)
-
     # Create output data
     gen_output(output_header, output_file, input_file_name, input_header, input_rows)
-    #create_csv_windows(output_file, output_file_windows)
     print()
 
 if __name__ == '__main__':
